@@ -3540,7 +3540,7 @@
 移動係ケイティ,Travel Clerk Katie
 シスター・リィト,Sister Lito
 フミヅキ,Fumizuki
-マホッシー,Mahossy
+マホッシー,Mahatty
 リィンのさや,Lynn's Scabbard
 ラウルのゴーグル,Raul's Goggles
 エステラの父,Estella's Father
@@ -4927,7 +4927,7 @@ PCベビー,PC's Baby
 木箱改,crate
 ネロリー,Neroli
 ハンナース,Hannas
-シュジャク,Pea Bird
+シュジャク,Peashock
 レジェス,Rejes
 ローリン,Lauryn
 バトエン屋コロペン,Batoen Shop Coropen
@@ -5102,7 +5102,7 @@ PCベビー,PC's Baby
 ファブロ,Fabro
 シバーラ,Shivara
 フィロゾス,Philosos
-セレディーネ,Seredine
+セレディーネ,Celedine
 医師ヨーグ,Dr. Yog
 ライロック,Lylock
 ねこちゃん,Cat
@@ -5924,7 +5924,7 @@ PCベビー,PC's Baby
 コイン屋ゴンガロ,Coin Shop Gongaro
 交換屋セオラン,Exchange Shop Theoran
 キバリオ,Kivario
-賢者セレディーネ,Sage Seredine
+賢者セレディーネ,Sage Celedine
 オードラン,Odran
 ベルシー,Belushi
 記憶の緑結晶,Green Memory Crystal
@@ -6673,7 +6673,7 @@ PCベビー,PC's Baby
 絶対滅神ジャゴヌバ,Destruction God Jagonuba
 魔祖ガルド,Demon Ancestor Gad
 魔祖ザーク,Demon Ancestor Zak
-魔祖スコル,Demon Ancestor Sko
+魔祖スコル,Ancestor Scor
 魔祖メゼ,Demon Ancestor Mez
 記憶の魔結晶,Magic Memory Crystal
 昇降機の床,Elevator Floor
@@ -7582,7 +7582,7 @@ PCベビー,PC's Baby
 レムオルの粉,Fade Powder
 ハラリの名簿,Halali's Name List
 神薬湯,God Water
-セレディーネの手紙,Seredine's Letter
+セレディーネの手紙,Celedine's Letter
 ビントンの陳情書,Vinton's Petition
 リセセの陳情書,Risese's Petition
 見覚えのあるドレス,Familiar Dress
@@ -7955,7 +7955,7 @@ PCベビー,PC's Baby
 お魚と夏野菜の雑炊,Fish and Vegetable Dish
 ぷるぷるスラピー,Wobbling Slurpy
 破邪の黒曜石,Crushing Obsidian
-清めの大玉,Purifying Jewel
+清めの大玉,Purifying Orb
 オファニムのカギ,Ofanim's Key
 パルミオのメモ,Palmio's Note
 紅白ダケの冬虫夏草,Caterpillar Fungus
@@ -8272,7 +8272,7 @@ PCベビー,PC's Baby
 レッドバロン,Red Baron
 ブルーイーター,Goobonce
 グリンバングル,Snotbonce
-封印の左手,Sealed Left Hand
+封印の左手,Seal Left Hand
 スペースデビル,Space Devil
 デザートガルバ,Desert Sootbonce
 ゴルバ,Smogbonet
@@ -8880,13 +8880,13 @@ PCベビー,PC's Baby
 まおうのかげ,Umbra
 死者の巨影,Big Dead Shadow
 死者の影,Dead Shadow
-眠りの魔陣,Sleeping Demon
+眠りの魔陣,Sleeping Circle
 どろにんぎょう,Mud Mannequin
 パペットマン,Magic Marionette
 マッドレインボー,Rainbow Mannequin
 火精の魔陣,Fire Spirit
 風来の魔陣,Wind Spirit
-弱体の魔陣,Weak Demon
+弱体の魔陣,Weakness Circle
 緑風の宝石,Green Wind Gem
 黒鉄の宝石,Darksteel Gem
 紅炎の宝石,Red Flame Gem
@@ -10004,12 +10004,12 @@ SPアイテム,Skill Pt Items
 モリナラ大森林,Molinara Forest
 スイゼン湿原,Suizen Marsh
 王都カミハルムイ駅,Kamiharmui Stop
-カミハルムイ領北,Kamiharmui Area North
-カミハルムイ領南,Kamiharmui Area South
+カミハルムイ領北,Kamiharmui North
+カミハルムイ領南,Kamiharmui South
 落陽の草原,Sunset Meadow
 夢幻の森,Dream Forest
 テテリ渓谷,Teteri Valley
-エルトナの聖地,Sanctuary of Eltona
+エルトナの聖地,Eltona Sanctuary
 オルフェア地方西,Orphea Region West
 オルフェア地方東,Orphea Region East
 ポポリアきのこ山,Popolia Mushroom Mountain
@@ -10418,7 +10418,7 @@ SPアイテム,Skill Pt Items
 ピラミッド第九の霊廟,Pyramid Tomb 9
 ピラミッド霊廟,Pyramid Tomb
 ムストの町・地下,Town of Must underground
-神獣の森,Divine Forest
+神獣の森,Divine Woods
 楽園へ至る間,The Way to Utopia
 楽園,Utopia
 冥闇の聖塔,Dark Tower
@@ -17922,7 +17922,7 @@ GMロトの紋章型花火,GM Erdrick's Emblem Fireworks
 チュン・リー画伯の絵,Chun Lee Painting
 金のおたから花,Gold Treasure Flower
 銀のおたから花,Silver Treasure Flower
-おたからのタネ,Treasure Seeds
+おたからのタネ,Treasure Seed
 ゆうきさんの絵,Yuki Painting
 おたから花,Treasure Flower
 モンスターのおうち・光,Light Monster House
@@ -18440,7 +18440,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 第２回ムーニスの像,2nd Moonis Statue
 超おたから花ダイヤ,Diamond Treasure Flower
 超おたから花ルビー,Ruby Treasure Flower
-超おたからのタネ,Super Treasure Seeds
+超おたからのタネ,Super Treasure Seed
 超おたから花サファイア,Sapphire Treasure Flower
 スライム露天風呂,Slime Outdoor Bath
 スライム露天間仕切り,Slime Outdoor Partition
@@ -19961,7 +19961,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 グレイウルフカプセル,Gray Wolf Capsule
 アトラスカプセル,Atlas Capsule
 サビ猫カプセル,Rusty Cat Capsule
-シュジャクカプセル,Pea Bird Capsule
+シュジャクカプセル,Peashock Capsule
 ギガンテスカプセル,Gigantes Capsule
 サイクロプスカプセル,Cyclops Capsule
 闇夜の巨人カプセル,Dark Night Giant Capsule
@@ -22552,9 +22552,9 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 第３回カジノ祭・金,3rd Casino Fest Gold
 第３回カジノ祭・銀,3rd Casino Fest Silver
 第３回カジノ祭・銅,3rd Casino Fest Bronze
-第１回大富豪庭アート金,Tycoon Art Gold 1 (G)
-第１回大富豪庭アート銀,Tycoon Art Silver 1 (G)
-第１回大富豪庭アート銅,Tycoon Art Bronze 1 (G)
+第１回大富豪庭アート金,Tycoon Art 1 Gold (G)
+第１回大富豪庭アート銀,Tycoon Art 1 Silver (G)
+第１回大富豪庭アート銅,Tycoon Art 1 Bronze (G)
 マイタウン施設コーデ券,My Town Glamour Coupon
 しぐさ書・パルプンテ,Emote "Hocus Pocus"
 しぐさ書・ごきげん,Emote "Cheery"
@@ -22912,9 +22912,9 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 第２回大富豪アート・金,Tycoon Art 2 Gold
 第２回大富豪アート・銀,Tycoon Art 2 Silver
 第２回大富豪アート・銅,Tycoon Art 2 Bronze
-第２回大富豪庭アート金,Tycoon Art Gold 2 (G)
-第２回大富豪庭アート銀,Tycoon Art Silver 2 (G)
-第２回大富豪庭アート銅,Tycoon Art Bronze 2 (G)
+第２回大富豪庭アート金,Tycoon Art 2 Gold (G)
+第２回大富豪庭アート銀,Tycoon Art 2 Silver (G)
+第２回大富豪庭アート銅,Tycoon Art 2 Bronze (G)
 第２３回ＧＰトロフィ金,23rd GP Gold Trophy
 MDぬいぐるみ１欠番,MD Plushie 1 Missing #
 MDぬいぐるみ２欠番,MD Plushie 2 Missing #
@@ -23322,9 +23322,9 @@ MDぬいぐるみ２欠番,MD Plushie 2 Missing #
 第３回大富豪アート・金,Tycoon Art 3 Gold
 第３回大富豪アート・銀,Tycoon Art 3 Silver
 第３回大富豪アート・銅,Tycoon Art 3 Bronze
-第３回大富豪庭アート金,Tycoon Art Gold 3 (G)
-第３回大富豪庭アート銀,Tycoon Art Silver 3 (G)
-第３回大富豪庭アート銅,Tycoon Art Bronze 3 (G)
+第３回大富豪庭アート金,Tycoon Art 3 Gold (G)
+第３回大富豪庭アート銀,Tycoon Art 3 Silver (G)
+第３回大富豪庭アート銅,Tycoon Art 3 Bronze (G)
 竜王の玉座,Dragonlord Throne
 フォーリオンのアーチ,Fourion Arch
 フォーリオンの松明,Fourion Torch
@@ -26171,7 +26171,7 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 モバー＆イール,Mob & Ile
 天声,divine voice
 無声,silent voice
-無声の化身,Silent Avatar
+無声の化身,Mute Incarnate
 声霊の幼体,young voice spirit
 天奏士,divine musician
 サハラターバン,Sahara Turban
@@ -26192,7 +26192,7 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 花柄モダンふりそで,Modern Flower Kimono
 花柄モダンはかま,Modern Flower Hakama
 ギュッとオサルぐるみ,Monkey Arm Doll Plush
-アウルワンド,Owl Wand
+アウルワンド,Owl Staff
 アウルソード,Owl Sword
 アズラン宿屋カウンター,Azlan Inn Counter
 ムーンバニーシャツ,Moon Bunny Shirt
@@ -26505,3 +26505,470 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 ネタ「Ｘスライム」,X Slime Trick
 天灯赤,Lantern Red
 天灯１０周年,Lantern 10th Anniversary
+至尊の魔王,Honorable Ruler
+破天の魔王,Rascal Ruler
+覇道の魔王,Forceful Ruler
+コールドランナー,Polar Peckerel
+新年めでたクモ,Happy New Year Spider
+レッドバリア,Red Barrier
+絶念のアウルモッド,Desperate Owlmod
+蘇りしジュリアンテ,Risen Juliante
+歌神のスコア,Supreme Score
+蘇りしイッド,Risen Id
+蘇りしアラグネ,Risen Araniad
+蘇りしバサグランデ,Risen Bogan
+蘇りし冥王ネルゲル,Risen Netherlord Nergel
+ジア・メーダ,Dia Lunatick
+ジア・ウォール,Dia Wall
+ジア・デーモン,Dia Demon
+無声の化身,Mute Incarnate
+バズッチャイーナ,Bazuccina
+源世妃フォルダイナ,Foldina
+ジア・ロダ,Dia Loda
+ミノカサハギン,Minokasahagin
+ジア・ルダ,Dia Luda
+幽界の黒翼鬼,Hades Black Demon
+ジア・レオーネ,Dia Leone
+大きい爆弾,Big Bomb
+修練の竜アズーロ,Training Dragon Azuro
+新規ゾーン,New Zone
+風の竜イゾラ,Wind Dragon Izola
+パワーストーンマン,Power Stone Golem
+紅の魔結晶,Red Crystevil
+紫の魔結晶,Amethystevil
+ジア・クリスタル,Dia Crystal
+色分けアタック,Color-coded Attack
+ススキーノ,Susukino
+声霊の幼体,Young Spirit
+ブラックバリア,Black Barrier
+ホバクゥ,Hobak
+パンタア,Panta
+マタギ,Matagi
+狩人,HNT
+鍵付きロープ,Rope With Key
+ガートラント兵１,Gartlant Soldier 1
+ガートラント兵２,Gartlant Soldier 2
+ガートラント兵３,Gartlant Soldier 3
+ガートラント兵４,Gartlant Soldier 4
+ガートラント兵５,Gartlant Soldier 5
+テトラル,Tetral
+浄罪の宝石,Purifying Jewel
+神気の結晶,Spirit Crystal
+浄罪の精製薬,Purifying Medicine
+スターキメラから取った羽根,Cosmic Chimaera Feather
+ジア・ルミナのコア,Dia Lumina Core
+ピコ,Pico
+プティーノ,Putino
+プアープ,Puapu
+ポプリ,Popuri
+ポポンタ,Poponta
+ペチュニア,Petunia
+プクライダー１,Puku Rider 1
+プクライダー２,Puku Rider 2
+パパラッピ,Paparappi
+ピップ,Pip
+プリン,Purine
+アラプクレ,Alapukul
+ポコリーナ,Pokolina
+パムパム,Pampam
+プイプイ,Puipui
+ペチャポ,Pechapo
+ネコチャン,Nekochan
+ペティン,Petin
+預かり所ポンヌク,Storage Ponnuk
+取引商ペペルポ,Trader Peperpo
+ポルプポ,Polupupo
+黒革の椅子,Leather Chair
+アラモンド鉱石,Alamond Ore
+ミトラー専用ドルバイク,Mitra's Dol-Bike
+ドルバイク,Dol-Bike
+バズミルクティー,Buzz Milk Tea
+レース用の旗,Racing Flag
+ミトラーのサングラス,Mitra's Sunglasses
+シスター・ペポリス,Sister Pepolis
+ワルスタット,Walstat
+ガドンツ,Gadonz
+ゲーベラ,Gabella
+プヤング,Puyoung
+トランブル,Trumbull
+ゼドラ族長の妻,Zedra Leader's Wife
+勇者アジール,Hero Azir
+ジア・レド・ゲノス,Dia Ledo Genos
+タロ,Taro
+コリス,Coris
+モントー,Monto
+ストーレン,Stollen
+コワード,Kowado
+テイミー,Tammy
+バリケッタ,Barriqueta
+ルコール,Lukor
+ハドマ,Hadma
+家具屋プロン,Frn. Shop Puron
+新作家具屋ファーニ,New Frn. Shop Fanny
+預かり所フィア,Storage Fia
+移動係スケイプ,Travel Clerk Scape
+ススキラー,Silverkiller
+銀の弾丸,Silver Bullet
+宿屋パポスヤ,Innkeep Paposya
+ピナコラ,Pinacola
+海底の民,Sea Dweller
+ぬいぐるみ屋ウー,Plushie Shop Woo
+ハルッカ,Haruka
+ヒルッキ,Hiruki
+破邪舟のヘッドマーク,Holy Ship's Headmark
+よろず屋ピッペル,General Shop Pippel
+預かり所ゼーノン,Storage Zenon
+モバー,Mova
+イール,Iru
+イノータ,Inota
+シュクワ,Shukwa
+レッタ,Retta
+ジャノジー,Janoji
+アマスキー,Amaski
+ピニー,Pinny
+パーリン,Perlin
+パクパ,Pakpa
+プロッカ,Prokka
+案内係ペリュイヌ,Guide Peruine
+ラズバーンの怨霊,Razburn's Ghost
+ウェル,Well
+パタプラのうきわ,Patapula's Floatie
+魔眼の月,Evileye Moon
+時なき駅,Time Station
+天使の光輪,Angel's Halo
+死せる結晶の荒野,Dead Crystal Desert
+結晶の塔・屋上,Crystal Keep Rooftop
+結晶の塔,Crystal Keep
+魔窟アラモンド,Alamond Cavern
+結晶の塔・前庭,Crystal Keep Gardens
+結晶の間,Crystal Room
+つきかげの広場,Moonlight Plaza
+タロのすみか,Taro's Dwelling
+フォルモンティ村,Folmonti Village
+導きの修練場,Guide Training
+蘇りしレイダメテス,Restored Reidametes
+蘇りし大祭壇の間,Restored Great Altars
+ポプルの花畑,Populu's Garden
+ヴァリースタジアム,Valley Stadium
+無の境地,Nothingness
+帝王の根城,Imperial Castle
+ならず者の酒場,Rogue's Tavern
+バズスイーツカフェ,Buzz Sweets Cafe
+大怨霊の間,Grudge Room
+妖魔の間,Ghost Room
+魔軍師の広場,Sorcerer Square
+怪蟲の広場,Insect Square
+暴君の広場,Tyrant Square
+枯れ木,Dead Tree
+英雄の選択,Hero's Choice
+勇者の苦悩,Hero's Anguish
+盟友の誕生,Ally's Genesis
+盟友の絶望,Ally's Despair
+アリーナ,Arena
+ルナーの池,Lunar Pond
+ムーン,Moon
+塔のガーディアン,Tower Guardian
+風の竜たち,Wind Dragons
+蘇りし大怨霊マアモン,Risen Grudge Sludge
+蘇りし妖魔ジュリアンテ,Risen Mystical Juliante
+蘇りし魔軍師イッド,Risen Tactician Id
+蘇りし怪蟲アラグネ,Risen Araniad
+蘇りし暴君バサグランデ,Risen Tyrant Bogan
+練武の機神,Training Mech
+ポケット映写機,Pocket Projector
+浄罪の泉の水,Pure Spring Water
+勇者レオーネのカケラ,Hero Leone Fragment
+盟友レオーネのカケラ,Ally Leone Fragment
+英雄レオーネのカケラ,Heroic Leone Fragment
+銀のススキ,Silver Grass
+月見のしずく,Moon Viewing Drop
+ボロボロのノート,Tattered Notebook
+天使の羽根,Angel Feather
+黒いアタッシュケース,Black Attache Case
+極秘の鎖箱,Top Secret Box
+本物の鎖箱,Genuine Box
+プリンのおつかいメモ,Purine's Errand Memo
+プティーノのツルハシ,Putino's Pickaxe
+高級アラモンド鉱石,Refined Alamond Ore
+ドリームエッセンス,Dream Essence
+ドリーム★パンケーキ,Dream★Pancakes
+しましまな写真,Jailcat Photo
+ワイルドなたてがみ,Wild Mane
+破邪の紋章のレシピ,Sacred Crest Recipe
+天岩石,Heavenite
+天海のかぶと,Sky Ocean Helmet
+クールドロップ,Cool Drop
+抗魔瘴丹,Anti-Miasma
+５００年前の地図,500 Year Old Map
+風の竜珠,Wind Dragon Orb
+謎解き証明書,Mystery Solver Tag
+きのこ村のぼうし,Shroom Village Hat
+スノースターリボン,Snowstar Ribbon
+サハラターバン,Sahara Turban
+トゥーンのランプつき柱,Toon Lamp Column
+１０周年知の祝祭参加券,10th Wisdom Fest Ticket
+兄弟姉妹コーデ券,Sibling Glamour Ticket
+燃えるほのおの凱歌,Triumph of Flames
+アウルナイフ,Owl Knife
+しぐさ書・打成一片,Emote "Become One"
+導師の目隠し,Monk's Blindfold
+ピコのヘアアクセ,Pico's Hair Accessory
+カミハルムイ武器屋の家,Kamiharmui Weapon Shop
+フルムーンチェア,Full Moon Chair
+ホワイトツリー,White Tree
+アウルクロー,Owl Claw
+ムーンバニーヘッド,Moon Bunny Head
+アズラン宿屋の家,Azlan Inn
+スコアアタック銀赤,Score Attack Bronze
+スコアアタック銅赤,Score Attack Silver
+絶念の果実,Despair Fruit
+エゼソル峡谷の木Ｃ,Ezesol Canyon Tree C
+橙のラクリマ,Orange Lacrima
+アウルエッジ,Owl Edge
+きのこ村のブラウス,Shroom Village Blouse
+スノースター衣装上,Snowstar Dress Top
+アオちゃんカプセル,Bluey Capsule
+アウルウィップ,Owl Whip
+配布用特訓カード・小,Special Training Card S
+ハクオウトランプ,Hakou Deck
+アウルシールド,Owl Shield
+雪面のラグ,Snowy Rug
+ヘルヴェルトランプ,Helvel Deck
+アシュレイトランプ,Ashley Deck
+レオーネトランプ,Leone Deck
+昔日のかぶと,Ancient Helmet
+きのこ村のエプロン,Shroom Village Apron
+お花と羽の髪飾り,Featherflower Hairpiece
+きのこ村のくつ,Shroom Village Shoes
+ギュッとウサギ,Rabbit Arm Doll
+ダークドレアムトランプ,Nokturnus Deck
+ガタラ原野の木Ａ,Gatara Fields Tree A
+ティンクルカプセル,Tinkle Capsule
+ダークドレアムの背景,Nokturnus Background
+ガタラ原野の木Ｄ,Gatara Fields Tree D
+ジャンボナス,Jumbo Eggplant
+昔日のよろい上,Ancient Armor
+昔日のよろい下,Ancient Leggings
+冥王のウィッグ,Nergel's Wig
+スノースター衣装下,Snowstar Dress Bottom
+昔日のこて,Ancient Gloves
+ゴブル砂漠のヤシの木Ａ,Goble Desert Palm Tree A
+冥王のコート,Nergel's Coat
+トゥーンのテーブル,Toon Table
+冥王のリング,Nergel's Rings
+ムーンバニーパンツ,Moon Bunny Pants
+夢幻の森の木Ｂ,Dream Forest Tree B
+配布用特訓カード・中,Special Training Card M
+ラストチョーカー,Last Choker
+昔日の脚甲,Ancient Greaves
+サハラコート上,Sahara Coat Top
+ギュッとワンワンぐるみ,Dog Arm Doll Plush
+サハラコート下,Sahara Coat Bottom
+冥王のブーツ,Nergel's Boots
+トライスターカプセル,Tristar Capsule
+フェザーチェアプリズム,Phaser Chair Prism
+冥王のピアス,Nergel's Earrings
+スノーボールンの像,Snowballon Statue
+ラストチョーカーの破片,Last Choker Shard
+配布用特訓カード・大,Special Training Card L
+スノースターグラブ,Snowstar Gloves
+ギュッとウリボーぐるみ,Wild Boar Arm Doll Plush
+天の冒険者列伝,Heavenly Adventures
+しぐさ書・きこえなーい,Emote "Can't Hear You"
+魔力吸収布の製法,Magic Cloth Method
+配布用特訓カード・特大,Special Training Card XL
+モザイクタイルの壁,Mosaic Tile Wall
+１０周年クエスト印章,10th Anniv. Quest Stamp
+壁かけうさぎの御簾,Rabbit Curtain
+祝い鯛,Sea Bream
+ギュッとネズミぐるみ,Mouse Arm Doll Plush
+ムーンバニーブレス,Moon Bunny Bracelets
+スノースターブーツ,Snowstar Boots
+時渡り印章,Time Stamp
+ムーンバニーブーツ,Moon Bunny Boots
+時渡り２印章,Time 2 Stamp
+蒼天のソウラ２印章,Souten no Soura 2 Stamp
+サハラグローブ,Sahara Gloves
+サハラブーツ,Sahara Boots
+ウィンターゴーグル,Winter Goggles
+うさぎの和タンス,Rabbit Wardrobe
+ギュッとウシぐるみ,Cow Arm Doll Plush
+いらすとや印章,Irasutoya Stamp
+ワイドワイドブリム,Wide Wide Brim
+ウィンターギア,Winter Gear
+プチギャリソン,Small Garrison
+スノーニット帽,Knit Winter Hat
+リボントークハット,Ribbon Toque
+ウィンターグローブ,Winter Gloves
+ウィンターブーツ,Winter Boots
+闇色に染まるマント,Cloak of Darkness
+馬車プリズム,Wagon Prism
+星のきらめく夜会服,Starry Nightgown
+冒険の思い出レンズ,Adventure Memories Lens
+しっこくのグローブ,Macabre Gloves
+ムーンピアス,Moon Earrings
+機神のトロフィー,Mechanical Trophy
+ギュッとトラぐるみ,Tiger Arm Doll Plush
+対決！レンズ,Face-off! Lens
+第４回大富豪アート・金,Tycoon Art 4 Gold
+天の冒険者のズボン,Divine Traveler Pants
+水中レンズ,Underwater Lens
+第４回大富豪アート・銀,Tycoon Art 4 Silver
+ロイヤルレンズ,Royal Lens
+第４回大富豪アート・銅,Tycoon Art 4 Bronze
+第４回大富豪庭アート金,Tycoon Art 4 Gold (G)
+第４回大富豪庭アート銀,Tycoon Art 4 Silver (G)
+第４回大富豪庭アート銅,Tycoon Art 4 Bronze (G)
+天の冒険者のグラブ,Divine Traveler Grips
+時の鐘,Hour Bell
+ミニチュアガテリア号,Miniature Gateria
+冥王ネルゲルの像,Nergel Statue
+創造神マデサゴーラの像,Madesagora Statue
+エゼソル峡谷の木Ａ,Ezesol Canyon Tree A
+エゼソル峡谷の木Ｂ,Ezesol Canyon Tree B
+ガタラ原野の木Ｂ,Gatara Fields Tree B
+虚空の神ナドラガの像,Nadraga Statue
+時元神キュロノスの像,Kyronos Statue
+うさぎの行灯,Rabbit Lantern
+カミハルムイの柵,Kamiharmui Fence
+天の冒険者のブーツ,Divine Traveler Boots
+カミハルムイの垂れ幕,Kamiharmui Curtain
+カミハルムイの立て札,Kamiharmui Signpost
+ふしぎなボレロ下,Glombolero Bottom
+カミハルムイの石灯籠,Kamiharmui Stone Lantern
+アズラン大浴場の扉,Azlan Bathhouse Door
+ふしぎなグローブ,Mysterious Gloves
+しっこくのブーツ,Macabre Boots
+アズラン大浴場の湯舟,Azlan Bathhouse Tub
+ふしぎなブーツ,Mysterious Boots
+天の冒険者のころも,Divine Traveler Coat
+アズラン宿屋の扉,Azlan Inn Door
+壁かけアズランのランプ,Azlan Wall Lamp
+アズラン大浴場の棚,Azlan Bathhouse Shelf
+月うさぎのランプ,Moon Rabbit Lamp
+壁かけ大浴場のランプ,Bathhouse Wall Lamp
+アズラン大浴場の湯煙,Azlan Bathhouse Steam
+ほのおのよろい下,Flame Armor Bottom
+アズラン大浴場風呂小物,Azlan Bath Accessories
+ほのおのこて,Flame Gauntlets
+ほのおのグリーブ,Flame Greaves
+ふしぎなぼうし,Mad Cap
+ふしぎなボレロ上,Glombolero Top
+しっこくのターバン,Macabre Turban
+しっこくのマント,Macabre Mantle
+壁かけアズラン大浴場鏡,Azlan Bathhouse Mirror
+アズラン大浴場の水栓柱,Azlan Bathhouse Faucet
+アズラン大浴場の椅子,Azlan Bathhouse Chair
+壁かけアズラン宿屋の灯,Azlan Inn Wall Light
+ほのおのかぶと,Flame Helmet
+アズランの柄杓つき壺,Azlan Pot With Ladle
+壁かけアズラン宿屋看板,Azlan Inn Wall Sign
+ほのおのよろい上,Flame Armor Top
+アズラン大浴場の暖簾,Azlan Bathhouse Curtain
+壁かけカミハルムイの盾,Kamiharmui Shield Mount
+壁かけカミハルムイの剣,Kamiharmui Sword Mount
+トコトコ室内わらし人形,Trotting Indoor Doll
+わらし人形,Child Doll
+危ないテーブル,Dangerous Table
+魔物の障子の壁,Monster Shoji Wall
+お札つきの壁,Talisman Wall
+お札つきの柱,Talisman Pillar
+壁かけ忌まわしき絵,Abominable Painting
+寝られない布団,Sleepless Futon
+あやかし障子,Ghostly Shoji
+タタリ御前の像,Tatari Statue
+漂うお化け提灯,Ghost Paper Lantern
+古井戸,Old Well
+スパングルフェザー,Spangled Feather
+道祖神,Traveler's Guardian Deity
+スパングルドレス上,Spangled Dress Top
+二本竹,2 Bamboos
+スパングルドレス下,Spangled Dress Bottom
+スパングルグローブ,Spangled Gloves
+スパングルパンプス,Spangled Heels
+タタリ御前の像・庭,Tatari Statue (G)
+ガタラ原野の木Ｃ,Gatara Fields Tree C
+サーマリ高原の木Ａ,Samary Plateau Tree A
+サーマリ高原の木Ｂ,Samary Plateau Tree B
+夢幻の森の木Ａ,Dream Forest Tree A
+夢幻の森の木Ｃ,Dream Forest Tree C
+カミハルムイ領北の竹Ａ,Kamiharmui North Bamboo A
+"スイゼン湿原の木Ａ,Suizen Marsh Tree A
+カミハルムイ領北の竹Ｂ,Kamiharmui North Bamboo B
+王都カミハルムイの木Ａ,Kamiharmui City Tree A
+カミハルムイ領北の木Ａ,Kamiharmui North Tree A
+カミハルムイ領北の木Ｂ,Kamiharmui North Tree B
+カミハルムイ北タケノコ,Kamiharmui Bamboo Shoot
+落陽の草原の木Ａ,Sunset Meadow Tree A
+あしあとカプセル,Footprint Capsule
+落陽の草原の木Ｂ,Sunset Meadow Tree B
+アズラン地方の木Ａ,Azlan Region Tree A
+アズラン地方の木Ｂ,Azlan Region Tree B
+アズラン地方の木Ｃ,Azlan Region Tree C
+イナミノ街道の木Ａ,Inamino Highway Tree A
+イナミノ街道の竹Ａ,Inamino Highway Bamboo A
+イナミノ街道の木Ｂ,Inamino Highway Tree B
+イナミノ街道の木Ｃ,Inamino Highway Tree C
+イナミノ街道の木Ｄ,Inamino Highway Tree D
+エルトナの聖地の木Ａ,Eltona Sanctuary Tree A
+落陽の草原の木Ｃ,Sunset Meadow Tree C
+ポポリアきのこ山植物Ａ,Popolia Mountain Plant A
+ポポリアきのこ山キノコ,Popolia Mountain Mushroom
+ポポリアきのこ山植物Ｂ,Popolia Mountain Plant B
+ポーポラ地方の木Ａ,Popola Region Tree A
+ミュルエルの森切り株Ａ,Muruel Forest Stump A
+ミュルエルの森切り株Ｂ,Muruel Forest Stump B
+リンクル地方の木Ａ,Wrinkle Region Tree A
+メギストリス領の木Ｂ,Megistris Tree B
+メギストリス領の木Ｃ,Megistris Tree C
+メギストリス領の木Ｄ,Megistris Tree D
+コロシアムトロフィー悠,Coliseum Trophy-Calm
+コロシアムトロフィー蒼,Coliseum Trophy-Blue
+コロシアムトロフィー暁,Coliseum Trophy-Dawn
+コロシアムトロフィー煉,Coliseum Trophy-Brick
+コロシアムトロフィー迅,Coliseum Trophy-Quick
+壁かけ１０周年記念の絵,10th Annivers. Painting
+猫型カプセルトイマシン,Cat Capsule Toy Machine
+キノコのスタンド,Mushroom Stand
+第２８回ＧＰトロフィ金,28th GP Gold Trophy
+第２８回ＧＰトロフィ銀,28th GP Silver Trophy
+第２８回ＧＰトロフィ銅,28th GP Bronze Trophy
+第２８回ＧＰトロフィ鋼,28th GP Steel Trophy
+第２７回ＧＰトロフィ金,27th GP Gold Trophy
+第２７回ＧＰトロフィ銀,27th GP Silver Trophy
+第２７回ＧＰトロフィ銅,27th GP Bronze Trophy
+第２７回ＧＰトロフィ鋼,27th GP Steel Trophy
+水竜のうろこ,Water Dragon Scale
+時の鐘セッション３用,For Hour Bell Session 3
+ふわふわクラゲ,Fluffy Jellyfish
+ジャンボトマト,Jumbo Tomato
+ジャンボカボチャ,Jumbo Pumpkin
+ジャンボキャベツ,Jumbo Cabbage
+ジャンボオニオン,Jumbo Onion
+ジャンボとうもろこし,Jumbo Corn
+ジャンボキノコ,Jumbo Mushroom
+マルシェの屋根,Market Roof
+マルシェの野菜,Market Vegetable
+マルシェの果物,Market Fruit
+マルシェの荷車,Market Cart
+夢色ショーケース,Dreamy Showcase
+夢色カウンター,Dreamy Counter
+夢色陳列台,Dreamy Stand
+夢色ラック,Dreamy Rack
+夢色馬車ワゴン,Dreamy Carriage Wagon
+夢色屋根,Dreamy Roof
+夢色ポップコーンマシン,Dreamy Popcorn Machine
+夢色ラグ,Dreamy Rug
+ツリーは白銀に消ゆ２,Tree's Disappearance 2
+遙かなる復活へ,To a Faraway Revival
+時の車掌と滅びの運命,Time Conductor & Doomed Fate
+天駆ける冒険者たち,Soaring Adventures
+ドリーム★バズ大作戦,Dream★Operation Buzz
+満月の夜の物語,Full Moon Night Tale
+オオカミ討伐作戦！,Wolf Subjugation Tactics!
+消えたオオカミ,Missing Wolf
+新春ぴょんと跳躍福招き,New Year's Luck Invitation
+キケンな取り引き,Risky Business
+在りし日を示す地図,Map of the Past
+ふた色の旋律,Melody of 2 Colors
+ポケットの中の思い出,Memories in Your Pocket
