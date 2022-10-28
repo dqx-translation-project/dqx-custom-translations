@@ -2837,16 +2837,6 @@
 ポッパー,Poppa
 パネ,Pana
 パッチョ,Patcho
-村人男１,Villager M 1
-村人男２,Villager M 2
-村人おじさん１,Villager Uncle 1
-村人おじさん２,Villager Uncle 2
-村人老人男,Village Elder M
-村人女１,Villager F 1
-村人女２,Villager F 2
-村人おばさん１,Villager Aunt 1
-村人おばさん２,Villager Aunt 2
-村人老人女,Village Elder F
 魔女ハバネロ,Witch Habanero
 魔女シュガー,Witch Sugar
 カプサイ神,Capsai God
@@ -3113,7 +3103,7 @@
 サーペン,Sapan
 レプティリア,Reptilia
 リルグレイド,Lil' Grade
-カグヤ＝ムーン,Kaguya = Moon
+カグヤ＝ムーン,Kaguya Moon
 セレス,Ceres
 テティス,Thetis
 パレス,Pallas
@@ -3523,7 +3513,7 @@
 イナード,Inard
 パーライ,Parley
 ヨーネラ,Yonella
-村人,Villager
+村人,villager
 帽子係キュット,Hat Clerk Kyutto
 帽子係アマハ,Hat Clerk Amaha
 帽子係アンジュー,Hat Clerk Anju
@@ -10207,7 +10197,7 @@ SPアイテム,Skill Pt Items
 フェルアバの大洞穴,Great Felaba Cave
 メギラザ地下洞,Megilaza Underground
 枯れ井戸の地下洞,Underground Well Cave
-井戸の中,Inside Well
+井戸の中,inside the well
 王都カミハルムイ,Royal City Kamiharmui
 レーンの村,Lane Village
 港町レンドア,Port Town Lendor
