@@ -2,6 +2,21 @@ from collections import Counter
 import deepl
 import json
 import os
+import requests
+
+
+def notify_exception(message: str):
+    print(message)
+    if os.environ["DISCORD_WEBHOOK_URL"]:
+        data = {
+            "content": message,
+            "username": "dqx-custom-translations"
+        }
+        requests.post(
+            url=os.environ["DISCORD_WEBHOOK_URL"],
+            data=data
+        )
+    raise Exception(message)
 
 
 def check_glossary():
@@ -15,16 +30,16 @@ def check_glossary():
         en = line.split(",")[1]
 
         if "," in en:
-            raise Exception(f"{line} has an invalid character in English string. Glossary upload will fail.")
+            notify_exception(f"{line} has an invalid character in English string. Glossary upload will fail.")
 
         if '"' in ja:
-            raise Exception(f"{line} has invalid character in Japanese string. Glossary upload will fail.")
+            notify_exception(f"{line} has invalid character in Japanese string. Glossary upload will fail.")
 
         ja_list.append(ja)
 
     duplicates = [k for k, v in Counter(ja_list).items() if v > 1]
     if duplicates:
-        raise Exception(f"Duplicates found in glossary. Culprits: {duplicates}")
+        notify_exception(f"Duplicates found in glossary. Culprits: {duplicates}")
 
     print("✔️  Glossary is good!")
 
@@ -33,7 +48,10 @@ def check_jsons():
     for file in os.listdir("json/"):
         with open(f"json/{file}", "r", encoding="utf-8") as f:
             print(f"Opening file {file} for JSON validation.")
-            json.loads(f.read())
+            try:
+                json.loads(f.read())
+            except:
+                notify_exception(f"File {file} did not pass JSON validation.")
         print(f"✔️  {file} is good!")
 
 
@@ -52,14 +70,17 @@ def check_glossary_upload():
         if line[0]:
             glossary_dict.update({line[0]: line[1]})
 
-    glossary = translator.create_glossary(
-        name="DQX Glossary", source_lang="ja", target_lang="en", entries=glossary_dict)
+    try:
+        glossary = translator.create_glossary(
+            name="DQX Glossary", source_lang="ja", target_lang="en", entries=glossary_dict)
+    except:
+        notify_exception("Glossary did not update to DeepL successfully.")
 
     glossaries = translator.list_glossaries()
     for glossary in glossaries:
         translator.delete_glossary(glossary=glossary.glossary_id)
 
-    return print("✔️  Glossary uploaded successfully!")
+    return print("✔️  Glossary uploaded to DeepL successfully!")
 
 if __name__ == "__main__":
     check_glossary()

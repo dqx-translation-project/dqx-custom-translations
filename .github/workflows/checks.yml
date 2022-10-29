@@ -2,7 +2,7 @@
 on:
   push:
     branches:
-      - "dev"
+      - "main"
     paths:
       - "csv/glossary.csv"
       - "json/**"
@@ -21,6 +21,7 @@ jobs:
       - name: Run check script
         env:
           DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: |
           pip install -r .github/workflows/requirements.txt
           python .github/workflows/checks.py
