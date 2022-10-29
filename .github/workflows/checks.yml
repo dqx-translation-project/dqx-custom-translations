@@ -2,7 +2,7 @@
 on:
   push:
     branches:
-      - "dev"
+      - "main"
     paths:
       - "csv/glossary.csv"
       - "json/**"
