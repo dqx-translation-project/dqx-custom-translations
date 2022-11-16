@@ -14632,8 +14632,8 @@ SPアイテム,Skill Pt Items
 やりなおしの宝珠,Regretta Stone
 けんじゃのせいすい,Sage's Elixir
 しぐさ書・くやしがる,Emote "Pout"
-しぐさ書・バトル改,Emote "Battle v2"
-しぐさ書・ちょうはつ,Emote "Excited"
+しぐさ書・バトル改,Emote "Battle" v2
+しぐさ書・ちょうはつ,Emote "Provoke"
 しぐさ書・けいれい,Emote "Salute"
 しぐさ書・まわる,Emote "Spin"
 しぐさ書・決め右,Emote "Pose Right"
@@ -15556,7 +15556,7 @@ SPアイテム,Skill Pt Items
 プラコンおしゃれ水着桃,Pink Snazzy Swimsuit
 ご近所なかよしボックス,Neighborhood Friend Box
 再しぐさ書・ウインク,Emote "Wink" v2
-再しぐさ書・ちょうはつ,Emote "Excited" v2
+再しぐさ書・ちょうはつ,Emote "Provoke" v2
 再しぐさ書・怒る,Emote "Angry" v2
 ギュッとザンクの箱,Zankrone Arm Doll Box
 ギュッとセラフィの箱,Seraphi Arm Doll Box
@@ -26957,3 +26957,4 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 いまどんな？設定,Status Icon
 初心者,Beginner
 まわりにチャット,Nearby Chat
+産声は無くとも,A Voice of Silence
