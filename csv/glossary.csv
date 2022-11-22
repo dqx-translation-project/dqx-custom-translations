@@ -1053,7 +1053,7 @@
 ピルクノ,Pirukuno
 素材屋シトリ,Material Shop Shitori
 ノーラン,Noran
-ザルギス,Zarugisu
+ザルギス,Zargis
 ベスコー,Besuko
 グリーダ,Gurida
 ヘッポロ,Hepporo
@@ -2182,7 +2182,7 @@
 タジウス,Tajius
 魔導鬼ベゼブー,Sorcery Demon Bezebu
 ゴルゴンザ,Gorgonza
-巨戦鬼ゴルゴンザ,Giant War Demon Gorgonza
+巨戦鬼ゴルゴンザ,Gigantic Gorgonza
 アルゴングレート,Great Argon Lizard
 邪教祖サダク,Evil Guru Sadak
 船頭モツゴ,Boatman Motsugo
@@ -3294,7 +3294,7 @@
 ナッチョス,Nachos
 ラスターシャ,Rastasha
 シンディ,Cindy
-カイユの葉,Kaiyu Leaf
+カイユの葉,Recovery Leaf
 踊り子の証,Proof of DNC
 荒神の護符,Deity's Amulet
 ブラッドメイジ,Blood Mage
@@ -6760,9 +6760,9 @@ PCベビー,PC's Baby
 転移の聖火台,Transfer Torch
 ドラポヨモニター,Tubby Dracky Monitor
 ゲーダム,Gedam
-マドロック船長,Madlock Captain
+マドロック船長,Captain Madlock
 フレンジー,Frenzy
-ハルバルド船長,Halbard Captain
+ハルバルド船長,Captain Halbard
 怨讐のゲーダム,Gedam's Grudge
 ピード,Peid
 バァジ,Baj
@@ -7031,7 +7031,7 @@ PCベビー,PC's Baby
 赤い月光の花,Red Moonlit Flower
 白い月光の花,White Moonlit Flower
 青い月光の花,Blue Moonlit Flower
-予選参加証,Qualifying Cert
+予選参加証,Qualifier Badge
 リュナンの手紙,Lunan's Letter
 ギャスモンハート,Gasmon Heart
 ププレポの水,Pupulepo Water
@@ -9466,7 +9466,7 @@ PCベビー,PC's Baby
 ベリアルオリジン,Belial Origins
 スライダーマン,Slider Man
 メルカバ兵長,Captain Merkaba
-ダークネスマリン,Darkness Marine
+ダークネスマリン,Dark Seaslime
 絶望のダークネス,Darkness of Despair
 魔元帥の剣,Marshal's Sword
 ピノカノン,Pinocanon
@@ -9474,7 +9474,7 @@ PCベビー,PC's Baby
 トライロック２,Trirock 2
 トライロック６,Trirock 6
 金獅子,Gold Lion
-憎悪のダークネス,Dark Hatred
+憎悪のダークネス,Darkness of Hatred
 亡霊レブロ,Ghost Lebro
 閃光の雷,Lightning
 召雷陣,Bolt Call
@@ -10068,7 +10068,7 @@ SPアイテム,Skill Pt Items
 地底湖の洞くつ,Underground Lake Cave
 キラキラ大風車塔内部,Inside Glitter Windmill
 ミュルエルの森,Muruel Forest
-けがれの谷,Injury Valley
+けがれの谷,Defiled Valley
 賢者の隠れ家,Sage's Lair
 古代オルセコ闘技場,Old Orseco Arena
 海賊のアジト跡・地下,Pirate's Hideout Underground
@@ -10122,7 +10122,7 @@ SPアイテム,Skill Pt Items
 モリナラ地下洞,Molinara Underground
 緑の聖域,Green Sanctuary
 怪鳥の巣,Bird's Nest
-森外れのほら穴,Cave Outside Forest
+森外れのほら穴,Outer Forest Cave
 ナギリ洞,Nagiri Cave
 カムイラの穴,Kamuira Hole
 イムイ地下空洞,Imui Underground Cave
@@ -10162,7 +10162,7 @@ SPアイテム,Skill Pt Items
 忘れられし王の間,Forgotten King's Room
 最果ての地下遺跡,Deep Underground Ruins
 砂岩の洞くつ,Sandstone Cave
-砂だまりの間,Inside Sand Pools
+砂だまりの間,Sand Pool Room
 流砂の隠れ家,Quicksand Lair
 熱砂洞,Sand Cave
 カルサドラの風穴,Wind Hole of Calsadora
@@ -10191,7 +10191,7 @@ SPアイテム,Skill Pt Items
 森の井戸,Forest Well
 ダズの岩穴・大空洞,Daz Cavern Large Cavity
 狩人の休憩所,Hunter Rest Area
-けがれの谷底,Injury Valley
+けがれの谷底,Defiled Depths
 ポポラパの最深部,Popolapa Depths
 フェルアバの大洞穴,Great Felaba Cave
 メギラザ地下洞,Megilaza Underground
@@ -10276,7 +10276,7 @@ SPアイテム,Skill Pt Items
 クドゥスの泉,Kudus Spring
 忘れられた広間,Forgotten Hall
 グランドタイタス号,Grand Titus
-魔女の森,Witch Forest
+魔女の森,Witchwood
 三闘の神殿,Triad Temple
 三闘の間,Triad Hall
 荒城の隠し御殿,Hidden Palace Ruins
@@ -10610,7 +10610,7 @@ SPアイテム,Skill Pt Items
 灼熱の溶岩窟,Burning Lava Cave
 ガミルゴの盾島,Gamilgo's Shield Isle
 隠しオフィス,hidden office
-遊びハウス,Playhouse
+遊びハウス,Gadabode
 採石場・最深部,Quarry Depths
 バルディスタ城,Valdista Castle
 閃光の神殿,Flash Temple
@@ -11580,7 +11580,7 @@ SPアイテム,Skill Pt Items
 ドラクロン山地-中層,Draklon Mountains - Middle
 ローヌ樹林帯-黄葉商店 前,Rhone Forest Belt - Leaf Shop
 ローヌ樹林帯-希望の丘,Rhone Forest Belt - Hope Hill
-魔女の森-夜宴館 前,Witch Forest - Banquet
+魔女の森-夜宴館 前,Witchwood - Banquet
 リャナ荒涼地帯-灯台 前,Lyana Desolate Area - Lighthouse
 リャナ荒涼地帯-滝を臨む集落 前,Lyana Desolate Area - Waterfall Village
 リャナ荒涼地帯-くずれた灯台 前,Lyana Desolate Area - Collapsed Lighthouse
@@ -12208,7 +12208,7 @@ SPアイテム,Skill Pt Items
 レビュール街道南-井戸 前,Reviewle Highway South - Well
 セレドット山道-資料室 前,Celedot Mountain Pass - Archives
 デフェル荒野-墓 前,Defel Wilderness - Tomb
-魔女の森-墓場,Witch Forest Graves
+魔女の森-墓場,Witchwood Graves
 船の墓場,Ship Graveyard
 見張り台,lookout
 滅亡の砂漠,Desert of Doom
@@ -13425,7 +13425,7 @@ SPアイテム,Skill Pt Items
 無法者のベスト,Freebooter's Bolero
 天宮騎士のよろい上,Sky Knight Armor Top
 くろがねのよろい上,Darksteel Cuirass
-バトマスアーマー上,Battlemaster Armor Top
+バトマスアーマー上,Battlemaster Chest
 スパイクアーマー上,Spike Armor Top
 トレジャーコート上,Treasure Coat Top
 バトルドレス上,Battle Top
@@ -13928,7 +13928,7 @@ SPアイテム,Skill Pt Items
 無法者のズボン,Freebooter's Pants
 魔技師ズボン,Technomancer Pants
 くろがねのよろい下,Darksteel Faulds
-バトマスアーマー下,Battlemaster Armor Bottom
+バトマスアーマー下,Battlemaster Leggings
 スパイクアーマー下,Spike Armor Bottom
 トレジャーコート下,Treasure Coat Bottom
 バトルドレス下,Battle Pants
@@ -24499,7 +24499,7 @@ GPトロフィーピンク鉄,Pink GP Iron Trophy
 舞台はあなたのモノよ♪,The Stage is Yours ♪
 究極の表現領域,Realm of Expression
 もんもん　モーモン訪問,Tense Teeny Sanguini Visit
-出動！　ドラゴンキッズ,Let's Go! Dragon Kids
+出動！　ドラゴンキッズ,Let's Go! Small Fry
 まもの使いの前進,Monster Master Growth
 飛躍する　まもの使い,Progress Monster Master
 涙のスカウトアタック,Sympathetic Scout Strike
@@ -25086,7 +25086,7 @@ Re星降る夜の大乱闘,Re: Starry Night Scuffle
 エテーネル★ソウルフード,Ethenel★Soul Food
 けがされた扇,Injured Fan
 地縛霊は泣き虫？,Are Ghosts Crybabies?
-お願いベントラーコイン！,Request Bentler Coin!
+お願いベントラーコイン！,Please Bentler Coin!
 黄昏より君を連れて,Take You From Twilight
 天に昇る魂に君は誓う,You Swear by Heaven's Soul
 黄昏のデスマスター,Twilight Death Master
@@ -25144,7 +25144,7 @@ Re星降る夜の大乱闘,Re: Starry Night Scuffle
 集え！　カボチャのもとに,Gather Round the Pumpkin!
 カワイ子ちゃんにご注意を,Beware of Cutie
 復讐の魔剣士,DMN's Revenge
-黒き再会,Black Reunion
+黒き再会,Dark Reunion
 少女の叫び,A Girl's Cry
 惨劇の記憶,Tragic Memories
 刃の感触,Blade's Feel
