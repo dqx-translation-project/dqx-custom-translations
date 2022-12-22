@@ -153,7 +153,7 @@
     "　７５個まで入れられるようになる": "  75 Items"
   },
   "52": {
-    "ドルボードをチューニングする": "Dolboard Upgrade"
+    "ドルボードをチューニングする": "Dolboard Fuel Tank Upgrade"
   },
   "53": {
     "冒険ゼミが使えるようになる": "Adventure Seminar Available"
@@ -282,7 +282,7 @@
     "　８０種類 入れられるようになる": "  80 Different Kinds of Items"
   },
   "95": {
-    "　９０種類 入れられるようになる": "  90 Different Kinds of Items"
+    "　９０種類入れられるように": "  90 Different Kinds of Items"
   },
   "96": {
     "ユーライザの髪型が増える": "New Hairstyle for Yuliza"
@@ -604,5 +604,20 @@
   },
   "202": {
     "ウィンターの服セット": "Winter Clothes Set"
+  },
+  "203": {
+    "ドルボードをパワーアップする": "Dolboard Charge Boost Upgrade"
+  },
+  "204": {
+    "ドルボードチャージブーストが": "Dolboard Charge Boost"
+  },
+  "205": {
+    "ドルボードが６０分": "For 60 Minutes the Dolboard"
+  },
+  "206": {
+    "　速く走れるようになる": "  Can Go Faster"
+  },
+  "207": {
+    "どうぐかばんに　つかうものを": "Item Bag Can Hold Up to"
   }
 }
