@@ -1,662 +1,263 @@
 {
   "1": {
-    "Shoubu": "Shobu"
-  },
-  "2": {
-    "MisukuDogu": "MiscDog"
-  },
-  "3": {
-    "Kurisutanore": "Crystal"
-  },
-  "4": {
-    "Aban": "Avan"
-  },
-  "5": {
-    "Ekusarin": "Exalin"
-  },
-  "6": {
-    "Dorako": "Draco"
-  },
-  "7": {
-    "N'Uichi": "Nuichi"
-  },
-  "8": {
-    "Arou": "Arrow"
-  },
-  "9": {
-    "Kaaru": "Carl"
-  },
-  "10": {
-    "Miruku": "Milk"
-  },
-  "11": {
-    "RaianMo": "RyanMolina"
-  },
-  "12": {
-    "Kurisu": "Chris"
-  },
-  "13": {
-    "Suupafuamu": "Superfam"
-  },
-  "14": {
-    "Arukiga": "Arquiga"
-  },
-  "15": {
-    "Mairo": "Milo"
-  },
-  "16": {
-    "Seibaa": "Saber"
-  },
-  "17": {
-    "Zeesu": "Zaes"
-  },
-  "18": {
-    "Shoon": "Sean"
-  },
-  "19": {
-    "Erisutan": "Ellistan"
-  },
-  "20": {
-    "Juuru": "Jules"
-  },
-  "21": {
-    "Goorudozefu": "Gold Zeph"
-  },
-  "22": {
-    "Merodii": "Melody"
-  },
-  "23": {
-    "Sesu": "Seth"
-  },
-  "24": {
-    "Erii": "Ellie"
-  },
-  "25": {
-    "Debin": "Devin"
-  },
-  "26": {
-    "Gaburiso": "Gabriso"
-  },
-  "27": {
-    "Fureemu": "Flame"
-  },
-  "28": {
-    "Mekishiko": "Mexico"
-  },
-  "29": {
-    "Moondei": "Monday"
-  },
-  "30": {
-    "Makkusu": "Max"
-  },
-  "31": {
-    "Dessuru": "Destle"
-  },
-  "32": {
-    "Finrii": "Finnley"
-  },
-  "33": {
-    "Surippu": "Slip"
-  },
-  "34": {
-    "Yuuki": "Yuki"
-  },
-  "35": {
-    "Anrushia": "Anlucia"
-  },
-  "36": {
-    "Asubaru": "Asbal"
-  },
-  "37": {
-    "Yushuka": "Yushka"
-  },
-  "38": {
-    "Kuaado": "Quard"
-  },
-  "39": {
-    "Vuareria": "Valeria"
-  },
-  "40": {
-    "Hisutorika": "Historica"
-  },
-  "41": {
-    "Iruusha": "Irusha"
-  },
-  "42": {
-    "Padore": "Padre"
-  },
-  "43": {
-    "Yuuraiza": "Yuliza"
-  },
-  "44": {
-    "LadaGaato": "Lada Gart"
-  },
-  "45": {
-    "Hakuoo": "Hakuo"
-  },
-  "46": {
-    "Mereaade": "Mereade"
-  },
-  "47": {
-    "Shinamon": "Cinnamon"
-  },
-  "48": {
-    "Kazurion": "Kazrion"
-  },
-  "49": {
-    "Reekussu": "Lex"
-  },
-  "50": {
-    "Maike": "Mike"
-  },
-  "51": {
-    "Meron": "Melon"
-  },
-  "52": {
-    "Popii": "Poppy"
-  },
-  "53": {
-    "Chiizunattsu": "CheeseNuts"
-  },
-  "54": {
-    "Poppu": "Popp"
-  },
-  "55": {
-    "Saabaa01": "Server 01"
-  },
-  "56": {
-    "Saabaa02": "Server 02"
-  },
-  "57": {
-    "Saabaa03": "Server 03"
-  },
-  "58": {
-    "Saabaa04": "Server 04"
-  },
-  "59": {
-    "Saabaa05": "Server 05"
-  },
-  "60": {
-    "Saabaa06": "Server 06"
-  },
-  "61": {
-    "Saabaa07": "Server 07"
-  },
-  "62": {
-    "Saabaa08": "Server 08"
-  },
-  "63": {
-    "Saabaa09": "Server 09"
-  },
-  "64": {
-    "Saabaa1": "Server 01"
-  },
-  "65": {
-    "Saabaa2": "Server 02"
-  },
-  "66": {
-    "Saabaa3": "Server 03"
-  },
-  "67": {
-    "Saabaa4": "Server 04"
-  },
-  "68": {
-    "Saabaa5": "Server 05"
-  },
-  "69": {
-    "Saabaa6": "Server 06"
-  },
-  "70": {
-    "Saabaa7": "Server 07"
-  },
-  "71": {
-    "Saabaa8": "Server 08"
-  },
-  "72": {
-    "Saabaa9": "Server 09"
-  },
-  "73": {
-    "Saabaa10": "Server 10"
-  },
-  "74": {
-    "Saabaa11": "Server 11"
-  },
-  "75": {
-    "Saabaa12": "Server 12"
-  },
-  "77": {
-    "Saabaa13": "Server 13"
-  },
-  "78": {
-    "Saabaa14": "Server 14"
-  },
-  "79": {
-    "Saabaa15": "Server 15"
-  },
-  "80": {
-    "Saabaa16": "Server 16"
-  },
-  "81": {
-    "Saabaa17": "Server 17"
-  },
-  "82": {
-    "Saabaa18": "Server 18"
-  },
-  "83": {
-    "Saabaa19": "Server 19"
-  },
-  "84": {
-    "Saabaa20": "Server 20"
-  },
-  "85": {
-    "Saabaa21": "Server 21"
-  },
-  "86": {
-    "Saabaa22": "Server 22"
-  },
-  "87": {
-    "Saabaa23": "Server 23"
-  },
-  "88": {
-    "Saabaa24": "Server 24"
-  },
-  "89": {
-    "Saabaa25": "Server 25"
-  },
-  "90": {
-    "Saabaa26": "Server 26"
-  },
-  "91": {
-    "Saabaa27": "Server 27"
-  },
-  "92": {
-    "Saabaa28": "Server 28"
-  },
-  "93": {
-    "Saabaa29": "Server 29"
-  },
-  "94": {
-    "Saabaa30": "Server 30"
-  },
-  "95": {
-    "Saabaa31": "Server 31"
-  },
-  "96": {
-    "Saabaa32": "Server 32"
-  },
-  "97": {
-    "Saabaa33": "Server 33"
-  },
-  "98": {
-    "Saabaa34": "Server 34"
-  },
-  "99": {
-    "Saabaa35": "Server 35"
-  },
-  "100": {
-    "Saabaa36": "Server 36"
-  },
-  "101": {
-    "Saabaa37": "Server 37"
-  },
-  "102": {
-    "Saabaa38": "Server 38"
-  },
-  "103": {
-    "Saabaa39": "Server 39"
-  },
-  "104": {
-    "Saabaa40": "Server 40"
-  },
-  "105": {
-    "Pureieria": "Play Area"
-  },
-  "106": {
-    "Kajino": "Casino"
-  },
-  "107": {
-    "Zeppore": "Zeppole"
-  },
-  "108": {
-    "Tedi": "Teddy"
-  },
-  "109": {
-    "Eruju": "Erju"
-  },
-  "110": {
-    "Suupu": "Soup"
-  },
-  "111": {
-    "Seresu": "Celes"
-  },
-  "112": {
-    "Seresuto": "Celeste"
-  },
-  "113": {
-    "Jankurodo": "JeanClaude"
-  },
-  "114": {
-    "suwagu": "Swag"
-  },
-  "115": {
-    "Paashigeru": "Percigel"
-  },
-  "116": {
-    "Gurokkunuu": "Glocktar"
-  },
-  "117": {
-    "Seranii": "Serany"
-  },
-  "118": {
-    "Runa": "Luna"
-  },
-  "119": {
-    "Bea・Hanzu": "Bear.Hands"
-  },
-  "120": {
-    "Kaosu": "Chaos"
-  },
-  "121": {
     "ショウブ": "Shobu"
   },
-  "122": {
+  "2": {
     "ミスク・ドグ": "MiscDog"
   },
-  "123": {
+  "3": {
     "クリスタノレ": "Crystal"
   },
-  "124": {
+  "4": {
     "アバン": "Avan"
   },
-  "125": {
+  "5": {
     "エクサリン": "Exalin"
   },
-  "126": {
+  "6": {
     "ドラコ": "Draco"
   },
-  "127": {
+  "7": {
     "んういち": "Nuichi"
   },
-  "128": {
+  "8": {
     "アロゥ": "Arrow"
   },
-  "129": {
+  "9": {
     "カール": "Carl"
   },
-  "130": {
+  "10": {
     "みるく": "Milk"
   },
-  "131": {
+  "11": {
     "ライアン・モ": "RyanMolina"
   },
-  "132": {
+  "12": {
     "クリス": "Chris"
   },
-  "133": {
+  "13": {
     "くりす": "Chris"
   },
-  "134": {
+  "14": {
     "スーパファム": "Superfam"
   },
-  "135": {
+  "15": {
     "リトルファム": "Littlefam"
   },
-  "136": {
+  "16": {
     "アルキガ": "Arquiga"
   },
-  "137": {
+  "17": {
     "マイロ": "Milo"
   },
-  "138": {
+  "18": {
     "セイバー": "Saber"
   },
-  "139": {
+  "19": {
     "ゼース": "Zaes"
   },
-  "140": {
+  "20": {
     "ショーン": "Sean"
   },
-  "141": {
+  "21": {
     "エリスタン": "Ellistan"
   },
-  "142": {
+  "22": {
     "ジュール": "Jules"
   },
-  "143": {
+  "23": {
     "ゴールドゼフ": "Gold Zeph"
   },
-  "144": {
+  "24": {
     "メロディー": "Melody"
   },
-  "145": {
+  "25": {
     "セス": "Seth"
   },
-  "146": {
+  "26": {
     "エリー": "Ellie"
   },
-  "147": {
+  "27": {
     "デビン": "Devin"
   },
-  "148": {
+  "28": {
     "ガブリソ": "Gabriso"
   },
-  "149": {
+  "29": {
     "フレーム": "Flame"
   },
-  "150": {
+  "30": {
     "メキシコ": "Mexico"
   },
-  "151": {
+  "31": {
     "モーンデイ": "Monday"
   },
-  "152": {
+  "32": {
     "マックス": "Max"
   },
-  "153": {
+  "33": {
     "デッスル": "Destle"
   },
-  "154": {
+  "34": {
     "フィンリー": "Finnley"
   },
-  "155": {
+  "35": {
     "スリップ": "Slip"
   },
-  "156": {
+  "36": {
     "ゆぅき": "Yuki"
   },
-  "157": {
+  "37": {
     "アンルシア": "Anlucia"
   },
-  "158": {
+  "38": {
     "アスバル": "Asbal"
   },
-  "159": {
+  "39": {
     "ユシュカ": "Yushka"
   },
-  "160": {
+  "40": {
     "クオード": "Quard"
   },
-  "161": {
+  "41": {
     "ヴァレリア": "Valeria"
   },
-  "162": {
+  "42": {
     "ヒストリカ": "Historica"
   },
-  "163": {
+  "43": {
     "イルーシャ": "Irusha"
   },
-  "164": {
+  "44": {
     "パドレ": "Padre"
   },
-  "165": {
+  "45": {
     "ユーライザ": "Yuliza"
   },
-  "166": {
+  "46": {
     "ラダ・ガート": "Lada Gart"
   },
-  "167": {
+  "47": {
     "ハクオウ": "Hakuo"
   },
-  "168": {
+  "48": {
     "メレアーデ": "Mereade"
   },
-  "169": {
+  "49": {
     "ミラン": "Milan"
   },
-  "170": {
+  "50": {
     "フランジュ": "Frange"
   },
-  "171": {
+  "51": {
     "アイゼル": "Eisel"
   },
-  "172": {
+  "52": {
     "クラウン": "Crown"
   },
-  "173": {
+  "53": {
     "リソル": "Resol"
   },
-  "174": {
+  "54": {
     "ラピス": "Lapis"
   },
-  "175": {
+  "55": {
     "シナモン": "Cinnamon"
   },
-  "176": {
+  "56": {
     "カズリオン": "Kazrion"
   },
-  "177": {
+  "57": {
     "レックス": "Lex"
   },
-  "178": {
+  "58": {
     "マイク": "Mike"
   },
-  "179": {
+  "59": {
     "メロン": "Melon"
   },
-  "180": {
+  "60": {
     "ポピー": "Poppy"
   },
-  "181": {
+  "61": {
     "チィズナツ": "CheeseNuts"
   },
-  "182": {
+  "62": {
     "ポップ": "Popp"
   },
-  "183": {
+  "63": {
     "ゼッポレ": "Zeppole"
   },
-  "184": {
+  "64": {
     "テディ": "Teddy"
   },
-  "185": {
+  "65": {
     "エルジュ": "Erju"
   },
-  "186": {
+  "66": {
     "スープ": "Soup"
   },
-  "187": {
+  "67": {
     "セレス": "Celes"
   },
-  "188": {
+  "68": {
     "セレスト": "Celeste"
   },
-  "189": {
+  "69": {
     "ジャンクロド": "JeanClaude"
   },
-  "190": {
+  "70": {
     "スワグ": "Swag"
   },
-  "191": {
+  "71": {
     "パーシげル": "Percigel"
   },
-  "192": {
+  "72": {
     "グロックヌー": "Glocktar"
   },
-  "193": {
+  "73": {
     "セラニー": "Serany"
   },
-  "194": {
+  "74": {
     "ルナ": "Luna"
   },
-  "195": {
-    "ベァ・ハンズ": "Bear.Hands"
+  "75": {
+    "ベァ・ハンズ": "Bear Hands"
   },
-  "196": {
+  "76": {
     "ジェニー": "Jenny"
   },
-  "197": {
-    "Rauru": "Raul"
+  "77": {
+    "チャオス": "Chaos"
   },
-  "198": {
+  "78": {
     "ラウル": "Raul"
   },
-  "199": {
+  "79": {
     "フレソケ": "Frenq"
   },
-  "200": {
-    "Furesoke": "Frenq"
-  },
-  "201": {
+  "80": {
     "らハコロメ": "Sadox"
   },
-  "202": {
-    "Rahakorome": "Sadox"
-  },
-  "203": {
+  "81": {
     "グレーク": "Glake"
   },
-  "204": {
-    "Gureeku": "Glake"
-  },
-  "205": {
+  "82": {
     "ヒューイ": "Huey"
   },
-  "206": {
-    "Hyuui": "Huey"
-  },
-  "207": {
+  "83": {
     "グーベルト": "Goobert"
   },
-  "208": {
-    "Ritorufuamu": "Littlefam"
-  },
-  "209": {
-    "Miran": "Milan"
-  },
-  "210": {
+  "84": {
     "フラッセ": "Flasse"
   },
-  "211": {
-    "Furasse": "Flasse"
-  },
-  "212": {
-    "Furanju": "Flange"
-  },
-  "213": {
-    "Aizeru": "Eisel"
-  },
-  "214": {
-    "Kuraun": "Crown"
-  },
-  "215": {
-    "Resoru": "Resol"
-  },
-  "216": {
-    "Rapisu": "Lapis"
-  },
-  "217": {
-    "Kaabii": "Kirby"
-  },
-  "218": {
+  "85": {
     "カービィ": "Kirby"
   },
-  "219": {
-    "Kuraibu": "Clive"
+  "86": {
+    "クライブ": "Clive"
   },
-  "220": {
+  "87": {
     "マイラ": "Myra"
-  },
-  "221": {
-    "Maira": "Myra"
-  }
+  } 
 }
