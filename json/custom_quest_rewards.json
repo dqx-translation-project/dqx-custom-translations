@@ -30,7 +30,7 @@
     "フッフプが教える いいこと": "Good Thing Taught By Fuffupu"
   },
   "11": {
-    "しぐさ「オーガのあいさつ」": "Gesture \"Ogre Greeting\""
+    "しぐさ「オーガのあいさつ」": "Emote \"Ogre Greeting\""
   },
   "12": {
     "預かり所が利用可能になる": "Depository is Available"
@@ -84,10 +84,10 @@
     "デスマスターに転職可能になる": "Unlock Death Master Vocation"
   },
   "29": {
-    "しぐさ「プクリポのあいさつ」": "Gesture \"Pukulipo Greeting\""
+    "しぐさ「プクリポのあいさつ」": "Emote \"Pukulipo Greeting\""
   },
   "30": {
-    "しぐさ「ドワーフのあいさつ」": "Gesture \"Dwarf Greeting\""
+    "しぐさ「ドワーフのあいさつ」": "Emote \"Dwarf Greeting\""
   },
   "31": {
     "ご当地便せんが購入可能になる": "Can Purchase This Place's Paper"
@@ -183,7 +183,7 @@
     "天地雷鳴士に転職可能になる": "Unlock Druid Vocation"
   },
   "62": {
-    "しぐさ「エルフのあいさつ」": "Gesture \"Elf Greeting\""
+    "しぐさ「エルフのあいさつ」": "Emote \"Elf Greeting\""
   },
   "63": {
     "王都カミハルムイのご当地便せん": "Royal City Kamiharmui's Paper"
@@ -333,7 +333,7 @@
     "　変えられるようになる": " "
   },
   "112": {
-    "しぐさ「ウェディのあいさつ」": "Gesture \"Weddie Greeting\""
+    "しぐさ「ウェディのあいさつ」": "Emote \"Weddie Greeting\""
   },
   "113": {
     "ガートラント城のご当地便せん": "Gartlant Castle's Paper"
@@ -625,5 +625,11 @@
   },
   "209": {
     "ギュッとウサギ　・ふくびき券": "Rabbit Arm Doll, Lottery Ticket"
+  },
+  "210": {
+    "アロマの便せんが購入可能になる": "Can Purchase Aroma Paper"
+  },
+  "211": {
+    "しぐさ「おねだり」": "Emote \"Begging\""
   }
 }
