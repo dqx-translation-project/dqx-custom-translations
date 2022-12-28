@@ -264,10 +264,10 @@
     "そうびぶくろに装備品を１００個": "Equipment Bag Can Hold 100"
   },
   "89": {
-    "　１２５個まで入れられるようになる": "  125 Items"
+    "そうびぶくろに装備品を１２５個": "Equipment Bag Can Hold 125"
   },
   "90": {
-    "　１５０個まで入れられるようになる": "  150 Items"
+    "そうびぶくろに装備品を１５０個": "Equipment Bag Can Hold 150"
   },
   "91": {
     "　１７５個まで入れられるようになる": "  175 Items"
@@ -348,7 +348,7 @@
     "メルサンディ村のご当地便せん": "Melsandy Village's paper"
   },
   "117": {
-    "セレドの町のご当地便せん": "Town of Celed's Paper"
+    "セレドの町のご当地便せん　": "Town of Celed's Paper"
   },
   "118": {
     "アラハギーロ王国のご当地便せん": "Kingdom of Arahagiro's paper"
@@ -622,5 +622,8 @@
   },
   "208": {
     "　入れられるようになる": "  Items"
+  },
+  "209": {
+    "ギュッとウサギ　・ふくびき券": "Rabbit Arm Doll, Lottery Ticket"
   }
 }
