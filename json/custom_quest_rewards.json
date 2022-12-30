@@ -327,10 +327,10 @@
     "　挑戦できるようになる": "  is Available"
   },
   "110": {
-    "人間の体格を": "Can Alter Your Human Form"
+    "人間の体格を": "Your Human Physique"
   },
   "111": {
-    "　変えられるようになる": " "
+    "　変えられるようになる": "  Can Be Changed"
   },
   "112": {
     "しぐさ「ウェディのあいさつ」": "Emote \"Weddie Greeting\""
@@ -631,5 +631,17 @@
   },
   "211": {
     "しぐさ「おねだり」": "Emote \"Begging\""
+  },
+  "212": {
+    "しぐさ「サイクロンダンス」": "Emote \"Cyclone Dance\""
+  },
+  "213": {
+    "美容院で　身体の大きさが": "Your Body Size"
+  },
+  "214": {
+    "美容院で使える色が８色増える": "8 New Colors Available at Salon"
+  },
+  "215": {
+    "鉄の金庫が使えるようになる": "Iron Safe Is Available"
   }
 }
