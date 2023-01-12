@@ -172,7 +172,7 @@
 オーレン右腕,Oren's Right Arm
 エイドスのメモ,Eidos' Memo
 エイドスのつえ,Eidos' Cane
-魔瘴石のネックレス,Miasma Necklace
+魔瘴石のネックレス,Miasmite Necklace
 ルーラストーン,Zoomstone
 ラーの鏡,Mirror of Ra
 ケーキ神ぬいぐるみ,Cake God Plushie
@@ -184,8 +184,8 @@
 封印の宝珠,Sealing Jewel
 ジーガンフの剣,Jiganf's Sword
 文様を描いた紙,Patterned Paper
-筆,Pen
-硯,Ink
+筆,pen
+硯,ink
 番人の葉っぱ,Watchman's Leaf
 簾すだれ,Screen Shade
 テーブルセット,Tableset
@@ -296,7 +296,7 @@
 ドワーフ小国,Dwarf Land
 プクリポ出身,Pukulipo Homeland
 プクリポ小国,Pukulipo Land
-カット,Cart
+カット,cart
 旅の扉実験,Test Travel Door
 宿屋,Inn
 教会,Church
@@ -439,17 +439,17 @@
 チャンナ,Channa
 ルーツ,Roots
 ダルル,Darul
-魔瘴石小,Miasma Gem S
-魔瘴石大,Miasma Gem L
-魔瘴石大布,Miasma Gem Rag
+魔瘴石小,Miasmite S
+魔瘴石大,Miasmite L
+魔瘴石大布,Miasmite Rag
 太陽の石小,Small Sun Stone
 賢者ホーロー,Sage Hollow
 お札,Amulet
-魔瘴石小粒,Miasma Gem Dust
-魔瘴石多,Miasma Gem D
-太陽石多,Sun Stone D
-太陽石少,Sun Stone S
-太陽の石大,Sun Stone L
+魔瘴石小粒,Miasmite Dust
+魔瘴石多,Miasmites
+太陽石多,many Sun Stones
+太陽石少,Sun Stones
+太陽の石大,Large Sun Stone
 ウェディカヌー,Weddie Canoe
 シシリス,Shishirisu
 トゥロイ,Tulloi
@@ -553,7 +553,6 @@
 ラスト前,Next to Last
 ネルゲル討伐,defeat Nergel
 エルフ大国,Elf Nation
-０６ＭＳ開始,06MS Start
 ドワーフ大国,Dwarf Nation
 プクリポ大国,Pukulipo Nation
 オフライン１,Offline 1
@@ -572,7 +571,7 @@
 謎の光,mysterious light
 冥獣王ネルゲル,Beast Lord Nergel
 岩群,quarry
-お箸,Chapstick
+お箸,chopsticks
 おでん,Oden
 弁当外のみ,Outdoor Lunch
 弁当中身あり,Filled Lunchbox
@@ -586,7 +585,6 @@
 道具鍛冶ギルド,Toolsmith Guild
 木工ギルド,Woodwork Guild
 さいほうギルド,Sewing Guild
-釜錬金NPC,Pot Alchemy NPC
 武器屋,Weapon Shop
 防具屋,Armor Shop
 ツボ錬金,Pot Alchemy
@@ -619,8 +617,8 @@
 トロフィー,Trophy
 プンスコのつぼ,Punsuko's Vase
 サーカスボール,Circus Ball
-畳まれた魔法布,Folded Magic Cloth
-魔瘴石小布,Miasma Gm S Rag
+畳まれた魔法布,Folded Magicloth
+魔瘴石小布,Miasmite S Rag
 楽器,Instrument
 島主ゴーレック,Island Chief Golek
 クラノッホ,Kranoch
@@ -660,7 +658,7 @@
 氷鳥のはね,Icebird Feather
 大地の方舟先頭,Ark of the Earth Lead
 駅員の笛,Train Whstle
-瓦礫群,Debris
+瓦礫群,debris
 リンドウ,Rindou
 ドン・ムスチョ,Don Mascho
 ミレイ,Mirei
@@ -723,15 +721,19 @@
 ガグギャン,Gagugyan
 キャウフ,Kyaufu
 人間女,Woman
-エルフ女,Elf F
-オーガ女,Ogre F
-ウェディ女,Weddie F
-ドワーフ女,Dwarf (F)
+エルフ女,Elf woman
+オーガ女,Ogre woman
+ウェディ女,Weddie woman
+ドワーフ女,Dwarf woman
+プク女,Pukulipo woman
+プクリポ女,Pukulipo woman
 人間男,Man
-エルフ男,Elf M
-オーガ男,Ogre M
-ウェディ男,Weddie M
-ドワーフ男,Dwarf (M)
+エルフ男,Elf man
+オーガ男,Ogre man
+ウェディ男,Weddie man
+ドワーフ男,Dwarf man
+プク男,Pukulipo man
+プクリポ男,Pukulipo man
 暗黒大樹の番人,Dark Tree Guardian
 時の車掌ゼーベス,Conductor of Time, Zebes
 マトフ,Matoff
@@ -846,7 +848,7 @@
 駅員ジガンバ,Attendant Jiganba
 駅員ジャルジャ,Attendant Jalja
 取引商イジウス,Trader Ijius
-案内係ビョルン,Guide Bjorn
+案内係ビョルン,Guide Byorn
 神官グイブ,Priest Guive
 ポコア神父,Father Pokoa
 宿屋ピィピ,Innkeep Pippi
@@ -1091,7 +1093,7 @@
 ホルムズ,Holmes
 郵便局員グウェン,Postman Gwen
 美容師ガラ,Hairdresser Gla
-神官ガトゥ,Priest Gattu
+神官ガトゥ,Priest Gatu
 リガ,Riga
 駅員デドダ,Attendant Dedoa
 駅員ヴァド,Attendant Vado
@@ -1155,7 +1157,7 @@
 エルジュの剣,Erju's Sword
 錬金男の短剣,Alchemy Man Dagger
 木彫りの神像,Wood Carved Idol
-香炉と木くず,Censer & Woodchips
+香炉と木くず,Censer and Woodchips
 オーレン,Oren
 ゼクセン,Zexen
 清き水の洞窟扉,Clear Water Cave Door
@@ -1284,7 +1286,7 @@
 美容師アコヤ,Hairdresser Akoya
 武器屋ズイ,Weapon Shop Zui
 防具屋シラベ,Armor Shop Shirabe
-柱屋ユク,Pillar Yuku
+柱屋ユク,Pillar Shop Yuku
 料理屋ナハギ,Server Nahagi
 紹介人タマサ,Introducer Tamasa
 預かり所シラタマ,Storage Shiratama
@@ -1613,7 +1615,7 @@
 道具屋ヤップイ,Item Shop Yapui
 武器屋ペリトン,Weapon Shop Periton
 防具屋ポナック,Armor Shop Ponak
-ペーロ,Pero
+ペーロ,Peiro
 パルポ,Palupo
 パパルッパ,Papaluppa
 ププロイ,Pupuloi
@@ -1737,7 +1739,7 @@
 購買員ツーウィ,Buyer Tsui
 大使ラプパ,Ambassador Lapa
 購買員ペリレネ,Buyer Pelileo
-レノッホ,Lenoch
+レノッホ,Renoch
 大使アアテ,Ambassador Aate
 購買員ムチョロ,Buyer Mucholo
 便せん屋ツバナ,Paper Shop Tsubana
@@ -1855,7 +1857,7 @@
 紹介人ナーシュ,Introducer Nash
 預かり所アルラ,Storage Arla
 琥珀の宝珠,Amber Pearl
-カギ束,Keys
+カギ束,keys
 パピヨンブレス,Papillon Bracelets
 リゼロッタ,Lieselotte
 ジャック,Jack
@@ -2152,10 +2154,10 @@
 郵便局員ギティ,Postman Giti
 預かり所シャーヤー,Storage Shayer
 宿屋アサル,Innkeep Asaru
-元兵士A,ExSoldierA
-元兵士B,ExSoldierB
-元兵士C,ExSoldierC
-元兵士D,ExSoldierD
+元兵士A,Ex-Soldier A
+元兵士B,Ex-Soldier B
+元兵士C,Ex-Soldier C
+元兵士D,Ex-Soldier D
 スイーツトロル,Sweet Troll
 あなうめ兄,Older Brother
 あなうめ弟,Younger Brother
@@ -2585,7 +2587,7 @@
 配達員ヘチャブ,Deliverer Hechab
 配達員パッテーラ,Deliverer Patella
 配達員カスガイ,Deliverer Kasugai
-海賊船,Ship
+海賊船,pirate ship
 タイタス号の小舟,Titus Ship
 スイーナ,Suina
 リンガー,Marshal
@@ -2610,7 +2612,7 @@
 ゴウレ,Gourey
 みやげ屋ベニーア,Souvenir Shop Benia
 預かり所ケープ,Storage Keppu
-浮き輪,Floatie
+浮き輪,floatie
 テティ,Tetti
 シスター・サテラ,Sister Satella
 大使ルチル,Ambassador Ruci
@@ -2721,7 +2723,7 @@
 バスチア,Bastia
 ケイシー,Casey
 ダリウス,Darius
-ブルーノ,Brunoe
+ブルーノ,Bruno
 フィルマン,Philman
 ロドルフ,Rodolph
 ダルゴ,Dargo
@@ -3197,7 +3199,7 @@
 ヘイモ,Heimo
 トリンデ,Torind
 ウッラ,Ulla
-神官長ナダイア,Chief Priest Nadaia
+神官長ナダイア,Archpriest Nadaia
 ラディム,Radim
 ヴィッコ,Vicko
 チェルソ,Chelso
@@ -3205,7 +3207,7 @@
 リヘイ,Rehei
 ヒーゴ,Hego
 世界地図,World Map
-灯籠,Lantern
+灯籠,lantern
 世界樹の花開き,Blooming Yggdrasil
 世界樹の花閉じ,Flower Shut Yggdrasil
 飛行ドルボード,Flying Dolboard
@@ -3364,7 +3366,7 @@
 輝き右大臣,Right Minister
 輝き左大臣,Left Minister
 輝き帝王,Light Ruler
-神官長ナダイアの杖,Chief Priest Nadaia's Staff
+神官長ナダイアの杖,Archpriest Nadaia's Staff
 宿屋アイスン,Innkeep Aisun
 シスター・ラクト,Sister Lakuto
 王族の机,Royal Desk
@@ -3924,7 +3926,7 @@
 オホト,Ohoto
 ごうかなグリル・緑,Green Fancy Grill
 あいじょうオムレツ,Love Omelette
-フウキの証,Fuki Emblem
+フウキの証,SCC Emblem
 賢者の杖色替え,Sage's Staff Coloring
 賢者の杖クラッシュ,Sage's Staff Crash
 石化の札,Petrify Card
@@ -4013,7 +4015,7 @@
 ハセニマ,Hasenima
 船員ダガマ,Sailor Dagama
 船長マゼラ,Captain Megella
-黒衣の剣士,Swordman in Black
+黒衣の剣士,Swordsman in Black
 チルベ,Chilbe
 トリアノン,Trianon
 ソダン,Sodan
@@ -4090,8 +4092,8 @@
 竜王,Dragonlord
 クロウズの帽子,Claws' Hat
 エックスくん,Mr. X
-スノッリ,Snorri
-フウキの証(壊れ),Fuki Emblem (Broken)
+スノッリ,Sunori
+フウキの証(壊れ),SCC Emblem (Broken)
 交換屋スラリン,Exchange Shop Gootrude
 ヌング,Nung
 キュルル,Kyururu
@@ -4152,7 +4154,7 @@
 ズケティ部長,Leader Zuketi
 パララ部長,Leader Parala
 ニーグラフ,Neegraf
-ニコル,Nicole
+ニコル,Nicol
 ルージャン,Rujan
 チェリエ,Cherie
 イコノス,Ikonos
@@ -4231,7 +4233,7 @@
 海賊キッド,Pirate Kid
 魔女オリビア,Witch Olivia
 村人ジョルジュ,Villager Georges
-町娘エマ,TownGal Emma
+町娘エマ,Town Gal Emma
 クルクルポシェット,Whirling Pouch
 船員トロメ,Sailor Torome
 航海士ロンブ,Officer Lonbu
@@ -4307,7 +4309,7 @@ PCベビー,PC's Baby
 ダービー,Darby
 ブザム,Buzam
 モスコ,Mosco
-ブルーノー,Bruno
+ブルーノー,Brunoe
 手紙封蝋無し,Unsealed Letter
 レイル,Rairu
 ルネデリコ,Runederiko
@@ -4330,7 +4332,7 @@ PCベビー,PC's Baby
 ニコちゃん,Niko-chan
 森羅蛮獣,Forest Beast
 魔法生物の檻,Magic Creature Pen
-ブルーノーのタンス,Bruno's Wardrobe
+ブルーノーのタンス,Brunoe's Wardrobe
 ワトス大臣,Minister Watos
 アイゼルの叔父,Eisel's Uncle
 アイゼルの叔母,Eisel's Aunt
@@ -4735,7 +4737,7 @@ PCベビー,PC's Baby
 大会係員ベスン,Event Staff Besun
 大会係員ブルバー,Event Staff Bruba
 大会係員ハグ,Event Staff Hagu
-大会係員ツムム,Event Staff Tsummu
+大会係員ツムム,Event Staff Tsumumu
 大会係員ラッピ,Event Staff Rappi
 ナスビナーラ花なし2,Flowerless Woebergine 2
 ナスビナーラ花なし3,Flowerless Woebergine 3
@@ -5189,7 +5191,7 @@ PCベビー,PC's Baby
 カーネラ,Carnella
 パッキュレ神父,Father Pakkure
 バァツェ,Bahtze
-Ｐ８９０,P 890
+Ｐ８９０,P890
 ボンドル,Bondor
 ハマユリ,Hamayuri
 センカ,Senka
@@ -5330,7 +5332,7 @@ PCベビー,PC's Baby
 胡蝶の護符,Butterfly Charm
 おまんじゅう,Steamed Bread
 おまんじゅうの入った折詰,Steamed Bread Packed in a Box
-パノン,Panon
+パノン,Tom
 警備魔神兵０４１号,Aztech Guard No. 041
 警備魔神兵０４３号,Aztech Guard No. 043
 支援魔神機０２２号,Aztech Support Mech No. 022
@@ -5676,7 +5678,7 @@ PCベビー,PC's Baby
 アデリナ,Adelina
 壊れたアストルティアのコンパス,Broken Astoltia Compass
 徒弟ティグロ,Apprentice Tigro
-気球,Balloon
+気球,balloon
 盾島ヘの渡し舟,Ferry to Shield Isle
 ガミルゴの石像,Gamilgo Stone Statue
 ガミルゴの盾,Gamilgo's Shield
@@ -5923,7 +5925,7 @@ PCベビー,PC's Baby
 ガウール,Gaur
 ドーファン,Dofan
 カジノキ,Kajinoki
-ヤイルの毒瓶,Jair Poison Bottle
+ヤイルの毒瓶,Jair's Poison Vial
 ネコ神さま,Cat God
 農民ポカ,Farmer Poka
 ポカ,Poka
@@ -6062,18 +6064,18 @@ PCベビー,PC's Baby
 プチアーノン,Khalamari Kid
 スララン,Gooran
 星拳士シャドポン,Starfighter Shadowpon
-授業オーガ男性,Ogre Student Male
-授業エルフ男性,Elf Student Male
-授業ウェディ男性,Weddie Student Male
-授業ドワーフ男性,Dwarf Student Male
-授業プクリポ男性,Pukulipo Student Male
-授業人間小男性,Human Student Male
-授業オーガ女性,Ogre Student Female
-授業エルフ女性,Elf Student Female
-授業ウェディ女性,Weddie Student Female
-授業ドワーフ女性,Dwarf Student Female
-授業プクリポ女性,Pukulipo Student Female
-授業人間小女性,Human Student Female
+授業オーガ男性,Ogre male student
+授業エルフ男性,Elf male student
+授業ウェディ男性,Weddie male student
+授業ドワーフ男性,Dwarf male student
+授業プクリポ男性,Pukulipo male student
+授業人間小男性,Human male student
+授業オーガ女性,Ogre female student
+授業エルフ女性,Elf female student
+授業ウェディ女性,Weddie female student
+授業ドワーフ女性,Dwarf female student
+授業プクリポ女性,Pukulipo female student
+授業人間小女性,Human female student
 リッカ,Erinn
 コバッチュ,Kobatsch
 パピルマ,Papilma
@@ -6262,7 +6264,7 @@ PCベビー,PC's Baby
 ナラジア,Narasia
 大魔王の王冠,Demon King's Crown
 モウル,Moru
-バト,BTL
+バト,Bato
 クリームつむり,Cream Slime
 おにび,Will-O'
 まんぷく丸,Riceball Baby
@@ -6296,7 +6298,7 @@ PCベビー,PC's Baby
 護り手の秘石,Secret Guard Stone
 シャイニーメロン,Shiny Melon
 便せん屋ダリダ,Paper Shop Dalida
-魔獣調教士ガブラ,Demon Beast Trainer Gaba
+魔獣調教士ガブラ,Beast Trainer Gabra
 輝晶術士レビィ,Pyromancer Rebi
 ドンゴ,Dongo
 侵略国モブ1,Invasion Mob 1
@@ -6350,7 +6352,7 @@ PCベビー,PC's Baby
 ベーチ,Veitch
 フェルノ,Ferno
 ディージア,Digea
-衣装係ショーナ,Costume Clerk Shauna
+衣装係ショーナ,Clothier Shauna
 空のワインボトル,Empty Wine Bottle
 イルーシャのペン,Irusha's Pen
 元ネクロデア兵,Necrodea Ex-Soldier
@@ -6620,7 +6622,7 @@ PCベビー,PC's Baby
 ランジュール,Ranjour
 タチャス,Tachas
 金庫,Safe
-アルビデ死体・左手袋なし,Albide Dead Body - L Arm Missing
+アルビデ死体・左手袋なし,Albide Dead Body - Left Arm Missing
 天使長ミトラー,Archangel Mitra
 スパエル,Spael
 ゾーフィア,Zofia
@@ -6660,9 +6662,9 @@ PCベビー,PC's Baby
 移動係ププラン,Travel Clerk Pupulan
 大魔王ユシュカ,Demon King Yushka
 絶対滅神ジャゴヌバ,Destruction God Jagonuba
-魔祖ガルド,Demon Ancestor Gad
-魔祖ザーク,Demon Ancestor Zak
-魔祖スコル,Ancestor Scor
+魔祖ガルド,Demon Ancestor Gardo
+魔祖ザーク,Demon Ancestor Zark
+魔祖スコル,Demon Ancestor Scor
 魔祖メゼ,Demon Ancestor Mez
 記憶の魔結晶,Magic Memory Crystal
 昇降機の床,Elevator Floor
@@ -6868,7 +6870,7 @@ PCベビー,PC's Baby
 ヤマカミヌ王のたづな,Yamakaminu King's Reins
 転生の花,Rebirth Flower
 天使オルガノ,Angel Organo
-天使ソイル,Angel Soil
+天使ソイル,Angel Soyle
 移動係クロエ,Travel Clerk Kroe
 ドットマン,Dot Man
 悪神の火種,Fiend's Flame
@@ -6891,7 +6893,7 @@ PCベビー,PC's Baby
 強者賞トロフィー,Strongman Trophy
 貢献賞トロフィー,Contribution Trophy
 得点賞トロフィー,Scoring Trophy
-閃手賞トロフィー,Flash Hand Trophy
+閃手賞トロフィー,Player Trophy
 多勢賞トロフィー,Great Numbers Trophy
 乗り物係ガドッソ,Vehicle Clerk Gadosso
 乗り物係テーレ,Vehicle Clerk Terre
@@ -6902,7 +6904,7 @@ PCベビー,PC's Baby
 トゥリド,Turid
 タンガ,Tanga
 トーリオ,Tourio
-移動係デプラセ,Mobile Clerk Deprase
+移動係デプラセ,Travel Clerk Deprase
 クリスマスライブ,Christmas Live
 クリスマスラベル,Christmas Label
 なぞのツボ,Mystery Pot
@@ -6936,7 +6938,7 @@ PCベビー,PC's Baby
 コルレーン兵士C,Colrain Soldier C
 コルレーン兵士D,Colrain Soldier D
 コルレーン兵士E,Colrain Soldier E
-交換屋リラエ,Exch. Shop Lilae
+交換屋リラエ,Exchange Shop Lilae
 預かり所キュグニ,Storage Kugni
 神官アクイラエ,Priest Aquilae
 ミレリー,Millery
@@ -6973,12 +6975,12 @@ PCベビー,PC's Baby
 封邪のカギ,Evil Key
 グロリスのしずく,Droplet of Gloris
 暗黒大樹の葉,Dark Tree Leaf
-ガラスの小ビン,Small Glass Vial
+ガラスの小ビン,Small Glass Bottle
 キレイな貝がら,Beautiful Shell
 結晶牙,Crystal Fang
 子ネコ,Kitten
 魔法布,Magicloth
-魔瘴石の包み,Miasma Gem Package
+魔瘴石の包み,Wrapped Miasmite
 水の入ったツボ,Water-filled Pot
 干しどくけし草,Dried Antidote Herb
 フカフカのもみガラ,Fluffy Rice Husks
@@ -7024,7 +7026,7 @@ PCベビー,PC's Baby
 古代の戦刃,Ancient Blade
 イレイザ草,Eraser Grass
 聖木の枝,Holy Branch
-ゼキルの聖杭,Zakir's Holy Stake
+ゼキルの聖杭,Zekir's Holy Stake
 魔導の石,Magic Stone
 メイジダスター,Mage Duster
 トラマナ石,Safe Pass Stone
@@ -7046,7 +7048,7 @@ PCベビー,PC's Baby
 黄金ホタテ,Golden Scallop
 さんぞくのサーベル,Bandit Blade
 まほうの盾,Magic Shield
-銀の木工刀,Silver Woodwork Knife
+銀の木工刀,Silver Woodworking Knife
 フェンサーマント,Fencing Cloak
 まもりのローブ,Protective Robe
 はがねのオノ,Steel Axe
@@ -7311,7 +7313,7 @@ PCベビー,PC's Baby
 蒼炎の聖油,Blue Flame Oil
 古びた巻物,Old Scroll
 アクターのカギ,Actor's Key
-極意書の最終巻,Inner Arts Final Vol
+極意書の最終巻,Creed Final Volume
 災いの鉄杭,Stake of Woe
 グレイトフルロッド,Grateful Rod
 夢占い師の水晶玉,Dreamer's Crystal Ball
@@ -7354,10 +7356,10 @@ PCベビー,PC's Baby
 赤いサビ,Red Rust
 青いナミダ,Azure Tear
 緑のカラ,Green Color
-深遠なるぱふぱふ,Profound Puff-Puff
+深遠なるぱふぱふ,Profound Puff-puff
 夜の神殿☆探検手帳,Night Temple Explorer Book
 くじケース,Lottery Case
-星杯,StrCup
+星杯,Star Cup
 魔塔のカギ,Tower Key
 被験者パス,Subject Pass
 お宝の写真ケース,Treasure Photo Case
@@ -7378,7 +7380,7 @@ PCベビー,PC's Baby
 イーギュアの大牙,Eagle's Greatfang
 ホンワカ羽毛の束,Snuggly Feather Bundle
 アッシュホーンの束,Bundle of Ash Horns
-第１の試練参加パス,1st Trial Participant Pass
+第１の試練参加パス,First Trial Entry Pass
 プチデビル衣装券,Petit Devil Costume Ticket
 小悪魔衣装券,Lil'Devil Costume Ticket
 ソイヤー豆,Soyer Bean
@@ -7829,7 +7831,7 @@ PCベビー,PC's Baby
 緑の短冊弐,Green Strip 2
 紫の短冊弐,Purple Strip 2
 虹のしずく,Rainbow Drop
-ヴァレリアへの親書,Letter to Valeria
+ヴァレリアへの親書,Official Letter to Valeria
 トランプケース,Tycoon Card Case
 まごころ駅弁,Sincere Lunch
 ネットリ草,Sticky Herb
@@ -8134,7 +8136,7 @@ PCベビー,PC's Baby
 ジラフシスター,Giraffe Sister
 闇のキリンジ,Dark Giraffe
 いっかくウサギ・強,Evil Bunicorn
-プリズニャン・強,Apex Jailcat
+プリズニャン・強,Evil Jailcat
 岩とびあくま,Rockin' Rockhopper
 こうていタップ,Emperor Tapper
 くらやみハーピー,Succubat
@@ -8311,7 +8313,7 @@ PCベビー,PC's Baby
 オークキング,Orc King
 ゴールドオーク,Orc Chieftain
 オークィーン,Orc Queen
-オーク・強,Apex Orc
+オーク・強,Evil Orc
 おおくちばし,Beakon
 デッドペッカー,Weaken Beakon
 アカイライ,Belisha Beakon
@@ -8799,7 +8801,7 @@ PCベビー,PC's Baby
 冥獣王ネルゲル強,Apex Beast Lord Nergel
 不死の魔王ネロドス,Immortal Demon King Nerodos
 不死なる精魂,Immortal Spirit
-海賊トニー＆ベニー,Pirate Tony & Benny
+海賊トニー＆ベニー,Pirates Tony & Benny
 剣士ヒューザ,Swordsman Hyuza
 占術師マルグリット,Fortune Teller Margaret
 怒りのプスゴン,Angry Pusgon
@@ -8999,7 +9001,7 @@ PCベビー,PC's Baby
 ドメディ,Damninui
 ゴールデンディスコ,Golden Disco
 なげきムーン,Mourning Moon
-マーズフェイス,Mars Face
+マーズフェイス,Face of Mars
 ダークプラネット,Dark Planet
 黄泉の邪妖星,Evil Star of Hades
 ザ・ホール,The Hole
@@ -9147,7 +9149,7 @@ PCベビー,PC's Baby
 グラコス強,Apex Gracos
 グラコス５世,Gracos V
 暗黒の魔人,Ruin
-魔人の左手,Left Demon Hand
+魔人の左手,Ruin's Left Hand
 デュラン強,Apex Dhuran
 ワイルドフォビズム,Wild Fauvism
 エビルキュビズム,Evil Cubism
@@ -9230,7 +9232,7 @@ PCベビー,PC's Baby
 ヘルカッチャ・強,Evil Masqueraider
 起源魔スコルパイド,Origin Armor Scorpide
 起源将ジェルザーク,Origin General Gelzark
-起源獣ガルドドン,Origin Gardodon
+起源獣ガルドドン,Origin Beast Gardodon
 起源鎧デルメゼ,Origin Armor Delmeze
 シャイニング・強,Evil Spitnik
 忘我のシシカバブ,Forgetful Shish Kebab
@@ -9287,7 +9289,7 @@ PCベビー,PC's Baby
 高価なゴブレット,Expensive Goblet
 よろいのきしⅠ,Knight Errant Ⅰ
 よろいのきしⅢ,Knight Errant Ⅲ
-冥王の鎌設置技,Hades Scythe Skill
+冥王の鎌設置技,Hades Sickle Skill
 暗黒の魔造兵強,Apex Dark Golem
 妄執のグリンデア,Delusional Grindea
 ディラック先生,Master Dilak
@@ -9322,7 +9324,7 @@ PCベビー,PC's Baby
 サバイバルボックス,Survival Box
 プレゼントボックス,Present Box
 黄金の重塔,Gold Tower
-あやしい本,Sus Book
+あやしい本,Suspicious Book
 魔天鳳レアルフス,Sky Phoenix Realphus
 魔弾の大岩,Bullet Big Rock
 魔天翔キルファ,Soaring Kirfa
@@ -9366,7 +9368,7 @@ PCベビー,PC's Baby
 天候変化終了,Weather Change End
 アンドレアル,Rashaverak
 うきわ,Float
-魔人の左手強,Apex Left Demon Hand
+魔人の左手強,Apex Ruin's Left Hand
 源世鳥アルマナ,Origin Bird Almana
 海邪のしもべ,Seaslave
 レトロな扇風機,Retro Electric Fan
@@ -9406,12 +9408,12 @@ PCベビー,PC's Baby
 デスマドモアゼル,Golden Girl
 アイテム３,Item 3
 ムドー,Murdaw
-旅の博士,Travel Dr.
+旅の博士,Travel Doctor
 ジャンボドラキー,Jumbo Dracky
 ピンキーマッシュ,Pink Mushroom
 プラチナミミック,Platinum Mimic
 原始獣フォドラス,Primitive Beast Fodras
-百怨邪ジャモー,Many Grudges Jamo
+百怨邪ジャモー,Many Grudges Jammo
 ホワイトパンサー,Silver Sabrecat
 ギガントモンキー,Gigant Monkey
 疾風のサザンクロス,Gale of the Southern Cross
@@ -9480,7 +9482,7 @@ PCベビー,PC's Baby
 召雷陣,Bolt Call
 ドラゴンライダー,Dragon Rider
 土の祠の守護者,Earth Shrine Guardian
-魔瘴沼,Gassy Bog
+魔瘴沼,Dark Bog
 びっくりどっきり箱,Surprise Prank Box
 ウォータスライダーク,Waterslidark
 愚者の陣,Fools
@@ -9580,7 +9582,7 @@ PCベビー,PC's Baby
 けさぎりクローク,Spirit Swordsman
 スカルキー,Skull Key
 黒い炎の柱,Blackfire Spire
-大砲・結界前,B4 Cannon/Barrier
+大砲・結界前,Barrier Cannon
 大砲・中央広場,Cannon/Central Square
 大砲・南口,Cannon/South Exit
 パルプンテ,Hocus Pocus
@@ -9621,7 +9623,7 @@ PCベビー,PC's Baby
 黄の守護石,Yellow Stone
 シャドウⅡ,Shadow Ⅱ
 だいまじんＤ,Stone Guardian D
-さんぞくウルフ・強,Apex Ruff Ruffian
+さんぞくウルフ・強,Evil Ruff Ruffian
 どくろあらい・強,Evil Haardvark
 歯車ゾーン,Cog Zone
 リトライストーン,Retry Stone
@@ -9635,7 +9637,7 @@ PCベビー,PC's Baby
 旅芸人ピュージュＨ,Minstrel Pyuju H
 フギンムニン,Fuginmunin
 かいふくクリスタル,Recovery Crystal
-ぎんの女神像,Svr Goddess Statue
+ぎんの女神像,Silver Goddess Statue
 魔瘴魂ゼノドラゴン,Miasma Soul Xenodragon
 カンダタこぶんプー,Robbin' Lackey Pu
 神殿の守護獣,Temple Guard Beast
@@ -9702,7 +9704,7 @@ PCベビー,PC's Baby
 魔境の獄卒,Hell Guard
 鬼門の番兵,Gate Sentry
 妄念の幽鬼,Delusion Ghost
-SPアイテム,Skill Pt Items
+SPアイテム,Skill Point Items
 ワープ,Warp
 時増しの石像,Aged Statue
 ギガミート,Giga Meat
@@ -9715,7 +9717,7 @@ SPアイテム,Skill Pt Items
 幻影獣,Pheast
 プリズンロック,Prison Lock
 パトランプ,Patrol Lamp
-エンタシスマン・強,Apex Prancing Pillar
+エンタシスマン・強,Evil Prancing Pillar
 ベスちゃん,Beth-chan
 歌声の化身,Song Incarnate
 死神の陣,Reaper Gang
@@ -9737,7 +9739,7 @@ SPアイテム,Skill Pt Items
 アイテムジュエル,Item Jewel
 時空の怒り,Spacetime Anger
 ホークマン・強,Evil Hawk Man
-キサゴール,Exagol
+キサゴール,Hexagol
 グリーンログ,Green Log
 魔創兵長,Evil Captain
 トライロック５,Trirock 5
@@ -9765,7 +9767,7 @@ SPアイテム,Skill Pt Items
 時増しの合成獣,Aged Synthetic
 時増しの大入道,Aged Beast
 ブルーバリア,Blue Barrier
-凍れる時獄の秘法,Frozen Time's Secret
+凍れる時獄の秘法,Art of Frozen Time
 クリムゾンレプリカ,Crimson Replica
 万魔の機竜,Banma Mechagon
 翠魔方陣,Jade Magic Area
@@ -9915,8 +9917,8 @@ SPアイテム,Skill Pt Items
 ゼクレス鋼鉄兵,Zechres Steel Soldier
 ゼクレス精霊兵,Zechres Ghost Soldier
 魔瘴魂,Evil Soul
-じゃあくなかげ,Leopold
-こんとんのかげ,Madog Leopold
+じゃあくなかげ,Evil Shadow
+こんとんのかげ,Chaos Shadow
 ブルービックバン,Blue Big Bang
 じげんばくだん岩,Timebomb Rock
 守護ガニラス,Guardian Crabus
@@ -9926,7 +9928,7 @@ SPアイテム,Skill Pt Items
 爪牙の陣,Sap Circle
 魔想念スコルパイド,Demonic Thought Scorpide
 暴悪の魔瘴魂,Fierce Miasma Soul
-プチ魔人の左手,Frail Left Demon Hand
+プチ魔人の左手,Frail Ruin's Left Hand
 プチ暗黒の魔造兵,Frail Dark Golem
 暴君ラビット,Tyrant Rabbit
 ジャッジメントブラック,Judgement Black
@@ -10089,7 +10091,7 @@ SPアイテム,Skill Pt Items
 スイの塔,Sui Tower
 ミューズ海岸,Muse Coast
 キュララナ海岸,Kyurarana Coast
-神々の間,Hall of Gods
+神々の間,Revival Room
 清き水の洞くつ,Clear Water Cave
 太古の泉,Old Spring
 エテーネの村,Ethene Village
@@ -10212,7 +10214,7 @@ SPアイテム,Skill Pt Items
 百鬼の隠れ屋敷,Hidden Demon Mansion
 氷雪の牙城,Snow Stronghold
 夢幻の摩天楼,Dream Skyscraper
-星の大樹広場,Star Tree Plaza
+星の大樹広場,Starry Tree Plaza
 魔法の迷宮,Magic Maze
 ショコラフォンテヌ城,Chocolat Fontenay Castle
 ココラタの浜辺,Cocolata Beach
@@ -10254,7 +10256,7 @@ SPアイテム,Skill Pt Items
 悪鬼のねぐら,Devil's Roost
 ナシームの洞くつ,Naseem Cave
 ピラミッド,Pyramid
-太陽の石室,Sun Stone Room
+太陽の石室,Sun Chamber
 ジャイラ密林,Jyra Jungle
 デフェル荒野,Defel Wilderness
 日除けのほら穴,Awning Cave
@@ -10604,7 +10606,7 @@ SPアイテム,Skill Pt Items
 アルウェーン管理棟,Alwane admin building
 パルミオの研究所,Palmio's laboratory
 エピステーサ底なし穴,Epistesa Bottomless Pit
-魔瘴調査区画,Demon Miasma Section
+魔瘴調査区画,Miasma Survey Area
 記憶のパドレア邸,Memory of Padrea Mansion
 時空の狭間,Spacetime Gap
 灼熱の溶岩窟,Burning Lava Cave
@@ -10816,7 +10818,7 @@ SPアイテム,Skill Pt Items
 盾ルクスガルン大空洞,Shield Luxgarn Caverns
 練習スタジオ,Practice Studio
 三闘士の憤怒,Triad's Rage
-天罰の間,Wrath's Hall
+天罰の間,Wrath Hall
 悔恨の牢獄,Regret's Prison
 時の王者の悔恨,Champion's Regret
 歌姫の絶望,Diva's Despair
@@ -10837,7 +10839,7 @@ SPアイテム,Skill Pt Items
 支配者の巣,Nest of Rulers
 薄明の小路,Twilight's Path
 絶命の牢獄,Prison of Doom
-亡国の礼拝堂,Exiled Land Chapel
+亡国の礼拝堂,Exiled Chapel
 紺碧のピラー根本,Azure Pillar Root
 村の研究室,village laboratory
 ホーローの隠れ家,Hollow's Hideout
@@ -11115,7 +11117,7 @@ SPアイテム,Skill Pt Items
 のどかな農村地区,Idyllic Village
 雲上地区,Above Clouds
 草原地区,Meadow Area
-雪原地区,Snow Area
+雪原地区,Snowfields
 フラワーガーデン地区,Flower Garden District
 マッシュルーム地区,Mushroom District
 トゥーンタウン地区,Toontown District
@@ -11619,7 +11621,7 @@ SPアイテム,Skill Pt Items
 家庭科室,home economics room
 職員室,staff room
 保健室,infirmary
-購買部,School Shop
+購買部,school shop
 Ⅰ‐,Ⅰ‐
 Ⅱ‐,Ⅱ‐
 Ⅲ‐,Ⅲ‐
@@ -11914,7 +11916,7 @@ SPアイテム,Skill Pt Items
 大魔神格納庫,Great God Hanger
 特別監視室,special surveillance room
 高級宝飾店,Luxury Jewelry Store
-管理棟　下層,Admin Building Lower
+管理棟　下層,lower administration building
 冷眠室　下層,Cold Room - Lower
 ハピの花畑,Hapi's flower garden
 陥没穴,sinkhole
@@ -11938,7 +11940,7 @@ SPアイテム,Skill Pt Items
 深度１４,Depth 14
 深度１５,Depth 15
 深度１６,Depth 16
-管理棟　中央,Administration Building Center
+管理棟　中央,administration building center
 モンスター酒場・道具屋,Monster Tavern/Item Shop
 プレイゾーン西,West Play Zone
 プレイゾーン北,North Play Zone
@@ -12058,7 +12060,7 @@ SPアイテム,Skill Pt Items
 ユシュカの部屋,Yushka's room
 ラーの広場,Ra's Square
 大魔王の私室,Demon King's room
-クラムベリル広場,Clamberyl Square
+クラムベリル広場,Crumberyl Square
 ユシュカの部屋・下層,Yushka's Room Lower Level
 ユシュカの部屋・上層,Yushka's Room Upper Level
 貴賓室・下層,VIP Room - Lower
@@ -12069,7 +12071,7 @@ SPアイテム,Skill Pt Items
 光源の間２,Light Source 2
 封鎖されし部屋,Sealed Chamber
 大富豪協会員,Tycoon Club Member
-大魔王領,Lord's Area
+大魔王領,King's Area
 ヴァレリアの部屋,Valeria's room
 おしゃれストリート,Fashion Street
 帰還限界面,Return Link
@@ -12113,7 +12115,7 @@ SPアイテム,Skill Pt Items
 太陽の塔,Sun Tower
 月の塔,Moon Tower
 高所の岩場,High Rocks
-衣装係,Dressmaker
+衣装係,clothier
 格闘場２階,Arena 2F
 狭間の世界,Between Worlds
 聖堂,Shrine
@@ -12253,7 +12255,7 @@ SPアイテム,Skill Pt Items
 絶命への階段,Stairway to Death
 帝王の玉座,Imperial Throne
 ふしぎな姿見,Mystery Dresser
-悲嘆の戦場,Grief's Warzone
+悲嘆の戦場,Grief Warzone
 動力倉庫,powerhouse
 追想の王城,Memory's Castle
 王城の悪夢,Terror's Castle
@@ -12665,7 +12667,7 @@ SPアイテム,Skill Pt Items
 常闇のダガー,Everdark Dagger
 聖王のナイフ,Dryspell Knife
 ポイズンスケイル,Serpentscale Skean
-リィンの短剣,Lynn's Stiletto
+リィンの短剣,Lynn's Dagger
 邪骨のナイフ,Evil Bone Knife
 エンシェントククリ,Olde-Worlde Knife
 厄サル短刀,Banana Tanto
@@ -13075,7 +13077,7 @@ SPアイテム,Skill Pt Items
 風雲の大盾,Windy Greatshield
 聖王の大盾,Dryspell Greatshield
 ニューＶロンの盾,New Vron Shield
-銀雪結晶の盾,Slvr Snowflake Shield
+銀雪結晶の盾,Silver Snowflake Shield
 ハートシールド,Heart Shield
 黒雪結晶の盾,Black Snowflake Shield
 金雪結晶の盾,Gold Snowflake Shield
@@ -13152,7 +13154,7 @@ SPアイテム,Skill Pt Items
 赤い唐傘,Red Paper Umbrella
 青地にうろこ紋傘,Blue Scaled Umbrella
 こぼれ桜の番傘,Cherry Paper Umbrella
-紫地に蛇の目傘,Purple Snake Umbrella
+紫地に蛇の目傘,Purple Ring Umbrella
 白いレースの日傘,White Lace Umbrella
 黒いレースの日傘,Black Lace Umbrella
 エンジョイ浮き輪,Fun Floatie
@@ -13221,7 +13223,7 @@ SPアイテム,Skill Pt Items
 破呪のリング,Ring of Riddance
 まんげつリング,Full Moon Ring
 幻界導師のゆびわ,Phantom Priest Ring
-古びた結婚指輪,Old Wedding Rng
+古びた結婚指輪,Old Wedding Ring
 ダークグラス,Dark Glasses
 スチームモノクル,Steam Monocle
 魔人の勲章,Ruin's Medal
@@ -13536,7 +13538,6 @@ SPアイテム,Skill Pt Items
 プクリポの服,Pukulipo Clothes
 ゴシックビスチェ,Gothic Bustier
 ステージチュチュ上,Stage Tutu Top
-ＧＭのよろい上,GM's Armor Top
 ベスＴシャツ,She-Slime T-Shirt
 キメラＴシャツ,Chimaera T-Shirt
 ドラキーＴシャツ,Dracky T-Shirt
@@ -13766,7 +13767,6 @@ SPアイテム,Skill Pt Items
 手品師のヘアバンド,Conjurer's Hairband
 ステージバンド,Stage Headband
 モダンバニーヘッド,Modern Bunny Ears
-ＧＭのかぶと,GM's Helmet
 マスカレイドヘルム,Masquerade Helm
 レトロな水泳ぼうし,Retro Swim Cap
 エルフの烏帽子,Elf Hat
@@ -13986,7 +13986,7 @@ SPアイテム,Skill Pt Items
 賢哲のころも下,Wise Man Robe Bottom
 古代王族のボトムス,Ancient Royal Pants
 神託のローブ下,Oracle Robe Bottom
-巨商の前かけ,Rich Merch. Apron
+巨商の前かけ,Rich Merchant Apron
 道化師の服下,Buffoon's Pants
 トライバルボトム,Tribal Bottom
 ウルタのコート下,Ulta Coat Bottom
@@ -14008,7 +14008,7 @@ SPアイテム,Skill Pt Items
 プチデビルスーツ下,Petit Devil Pants
 小悪魔ドレス下,Lil' Devil Skirt
 夜桜スーツ下,Cherry Eve Pants
-桜花のはかま下,Ch. Blossom Dress Bottom
+桜花のはかま下,Cherry Blossom Dress Bottom
 パレードウェア下,Mardi Garb Bottom
 ヒヨコパーカー下,Chick Shorts
 コブタパーカー下,Piglet Shorts
@@ -14022,7 +14022,6 @@ SPアイテム,Skill Pt Items
 ステージパンツ,Stage Shorts
 モダンバニータイツ,Modern Bunny Tights
 あぶない水着下,Scandalous Swimsuit Bottom
-ＧＭのよろい下,GM's Armor Bottom
 エテーネのこしぬの,Ethenian Loincloth
 ウェディのズボン,Weddie Trousers
 忍びの装束下,Ninja Suit Bottom
@@ -14102,7 +14101,7 @@ SPアイテム,Skill Pt Items
 ローズフォーム下,Rose Form Bottom
 ハートの兵隊の服下,Heart Soldier Pants
 メロディアスーツ下,Melody Suit Bottom
-妖精の女王ドレス下,Fairy Queen Dress Btm
+妖精の女王ドレス下,Fairy Queen Dress Bottom
 ルビーの腕帯,Ruby's Armbands
 アラビアンアーム,Arabian Armguards
 シュメリアブレス,Sumeria Bracelets
@@ -14264,7 +14263,6 @@ SPアイテム,Skill Pt Items
 ステージリスト,Stage Bracers
 モダンバニーブレス,Modern Bunny Bracelet
 マスカレイドグラブ,Masquerade Gloves
-ＧＭのこて,GM's Gauntlets
 エテーネのうでわ,Ethenian Armbands
 オーガの村人うでわ,Ogre Villager Bracers
 オーガの町人うでわ,Ogre Merchant Bracers
@@ -14463,7 +14461,7 @@ SPアイテム,Skill Pt Items
 インテリサンダル,Scholar's Sandals
 歌詠みの脚帯,Poet's Boots
 賢者のくつ,Sage Shoes
-水の脚帯,FlowingBoots
+水の脚帯,Flowing Boots
 しんりのくつ,Faithful Shoes
 大賢者のくつ,Supreme Sage Shoes
 聖賢者のくつ,Holy Sage Shoes
@@ -14473,7 +14471,7 @@ SPアイテム,Skill Pt Items
 古代王族のくつ,Ancient Royal Shoes
 ウィッチシューズ,Witch's Shoes
 神託のサンダル,Oracle Sandals
-巨商のサンダル,Rich Merch. Sandals
+巨商のサンダル,Rich Merchant Sandals
 ピクシーシューズ,Pixie Shoes
 道化師のくつ,Buffoon's Shoes
 音楽隊のくつ,Band Shoes
@@ -14506,7 +14504,6 @@ SPアイテム,Skill Pt Items
 手品師のブーツ,Conjurer's Boots
 ステージシューズ,Stage Shoes
 モダンバニーのくつ,Modern Bunny Shoes
-ＧＭのグリーブ,GM's Greaves
 マスカレイドブーツ,Masquerade Boots
 整備士のくつ,Technician's Shoes
 エテーネのくつ,Ethenian Shoes
@@ -14624,9 +14621,8 @@ SPアイテム,Skill Pt Items
 ウルベア金貨,Urbea Gold Coin
 元気玉,Bonus Orb
 プチゴースネル召喚符,Frail Gosnell Summon
-手持ち花火・オレンジ,Orange Handheld Fwrks
+手持ち花火・オレンジ,Orange Handheld Fireworks
 ドラゴン花火・オレンジ,Orange Dragon Fireworks
-ＧＭふうせんプーちゃん,GM Pu-chan Balloon
 花ふぶき,Flower Power
 ラッキーチケット銀,Silver Lucky Ticket
 やりなおしの宝珠,Regretta Stone
@@ -14741,8 +14737,8 @@ SPアイテム,Skill Pt Items
 しぐさ書・手をつなぐ,Emote "Hold Hands"
 しぐさ書・アイドル,Emote "Idol"
 しぐさ書・もじもじ,Emote "Bashful"
-しぐさ書・決め右前,Emote "Pose R. Front"
-しぐさ書・決め左前,Emote "Pose L. Front"
+しぐさ書・決め右前,Emote "Pose Right Front"
+しぐさ書・決め左前,Emote "Pose Left Front"
 バラモスコイン,Baramos Coin
 ドラゴンガイアコイン,Gaia Dragon Coin
 Ｖロン強コイン,Apex Vron Coin
@@ -14762,8 +14758,6 @@ SPアイテム,Skill Pt Items
 ３連発スラ花火・緑黄赤,3 Slime Fireworks GYR
 ３連発スラ花火・黄緑青,3 Slime Fireworks YGB
 ３連発スラ花火・青赤黄,3 Slime Fireworks BRY
-ＧＭふうせんクーちゃん,GM Ku-chan Balloon
-ＧＭふうせんリポちゃん,GM Lipo-chan Balloon
 ３連発花火・赤青緑,3 Fireworks RBG
 ３連発花火・青緑赤,3 Fireworks BGR
 ３連発花火・緑赤青,3 Fireworks GRB
@@ -14891,7 +14885,7 @@ SPアイテム,Skill Pt Items
 うつしよの竜箱,Worldly Dragon Box
 うつしよの天箱,Worldly Sky Box
 ゆめみの竜箱,Dream Dragon Box
-ゆめみの天箱,Dream Heaven Box
+ゆめみの天箱,Dream Sky Box
 マジカルギフト・黒,Black Magical Gift
 さざなみギフト・桃,Pink Ripples Gift
 プチアトラスカード,Frail Atlas Card
@@ -15214,9 +15208,9 @@ SPアイテム,Skill Pt Items
 星夜のベル,Starry Night Bell
 星夜のリボン,Starry Night Ribbon
 星夜のくつ下,Starry Night Sock
-魔のプレゼント,Magic Present Box
-闇のプレゼント,Dark Present Box
-死のプレゼント,Present of Death
+魔のプレゼント,Magic Present
+闇のプレゼント,Dark Present
+死のプレゼント,Death Present
 ぽかぽかマフラー,Warm Scarf
 超合金キラーマシン,Killing Machine Toy
 妖精変身ステッキ,Fairy Makeover Wand
@@ -15254,7 +15248,7 @@ SPアイテム,Skill Pt Items
 ベホイミソフト,Midheal Soft Serve
 マジックムース,Magic Mousse
 リカバーパフェ,Recover Parfait
-聖天のベル,Holy Heavn Bell
+聖天のベル,Heavenly Bell
 聖天のリボン,Holy Heaven Ribbon
 聖天のくつ下,Holy Heaven Sock
 奇跡の星,Miracle Star
@@ -15262,7 +15256,7 @@ SPアイテム,Skill Pt Items
 バッジパック銀,Silver Badge Pack
 バッジパック金,Gold Badge Pack
 ドラクエ３０周年花火,DQ 30th Anniversary Fireworks
-ロトのしるしの花火,Erdrick's Emblem Fworks
+ロトのしるしの花火,Erdrick's Emblem Fireworks
 ベスのカレーパン,She-Slime Curry Bread
 フェルみるく,Fel Milk
 フェルみるくコーヒー味,Fel Coffee Milk
@@ -15384,10 +15378,10 @@ SPアイテム,Skill Pt Items
 グラコス強カード,Apex Gracos Card
 バラモス強カード,Apex Baramos Card
 伝説の三悪魔闘カード,Apex 3 Legends Demons Card
-キラーマジンガ強カード,Apex Uberkilling M. Card
+キラーマジンガ強カード,Apex Uberkilling Machine Card
 しぐさ書・カンパイ！,Emote "Cheers!"
 プチグラコスカード,Frail Gracos Card
-輝石の天箱,Augite Hvn Box
+輝石の天箱,Augite Sky Box
 プチ伝説の三悪魔カード,Frail 3 Legends Demons Card
 プチマジンガカード,Frail Uber Machine Card
 メダル３０枚チケット,30 Medals Ticket
@@ -15459,7 +15453,7 @@ SPアイテム,Skill Pt Items
 キラーマシンの書,Book of Killing Machine
 マジカルハットの書,Book of Hat Hamwitch
 デビルアーマーの書,Book of Harmour
-パペットマンの書,Book of Mag. Marionette
+パペットマンの書,Book of Magic Marionette
 エンタシスマンの書,Book of Prancing Pillar
 ミステリドールの書,Book of Pocus Poppet
 たんすミミックの書,Book of Wardrobe Mimic
@@ -15626,7 +15620,7 @@ SPアイテム,Skill Pt Items
 バーストキャンディ,Burst Candy
 ナイトチケット,Night Chair Ticket
 裏ナイトチケット,Night Wall Ticket
-しぐさ書・桜の魔法,Emote "C Blossom Magic"
+しぐさ書・桜の魔法,Emote "Cherry Blossom Magic"
 学園スキルブック１,Academy Skill Book 1
 スライムパック,Slime Tarot Pack
 デビルパック,Devil Tarot Pack
@@ -15661,8 +15655,6 @@ SPアイテム,Skill Pt Items
 ギュッとサジェの箱,Sajay Arm Doll Box
 しぐさ書・ミルク缶,Emote "Milk Can"
 ベラのギフト引換券,Bella's Gift Vouchers
-GMドラクエ３０周年花火,GM DQ 30 Anniversary Fireworks
-GMロトの紋章型花火,GM Erdrick's Emblem Fireworks
 １０連花火,10 Pack Fireworks
 竜王のうろこ,Dragonlord Scale
 ガルドリオン練習召喚符,Gardlion Training Summon
@@ -15866,7 +15858,7 @@ GMロトの紋章型花火,GM Erdrick's Emblem Fireworks
 ５周年記念花火,5th Anniversary Fireworks
 しぐさ書・かき氷,Emote "Shaved Ice"
 しぐさ書・イスに座る,Emote "Sit in a Chair"
-美容院優待券,Salon Courtesy Cpn
+美容院優待券,Salon Courtesy Coupon
 しぐさ書・いねむり,Emote "Nodding Off"
 聖なる守り,Holy Protection
 キュウサイポイント,Res-Cu Points
@@ -16012,7 +16004,7 @@ GMロトの紋章型花火,GM Erdrick's Emblem Fireworks
 闇の出刃包丁,Dark Carver
 ニシキゴイの短剣,Colorful Carp Dagger
 アジサイじんべい下,Hydrangea Pants
-夢の王国ドレス下,Drm Kingdom Dress Bottom
+夢の王国ドレス下,Dream Kingdom Dress Bottom
 おてんば姫のぼうし,Alena's Hat
 おてんば姫のふく,Alena's Dress
 おてんば姫グローブ,Alena's Gloves
@@ -16065,7 +16057,7 @@ GMロトの紋章型花火,GM Erdrick's Emblem Fireworks
 ギュッとオバケ,Ghost Arm Doll
 とらんす一味ポーチ,Trans Gang Pouch
 ぴちぴちカジキ,Striped Marlin
-ＤＱＸ５周年の御旗,DQⅩ 5th Anniversary Flag
+ＤＱＸ５周年の御旗,DQX 5th Anniversary Flag
 ハートの兵隊傘,Heart Soldier Umbrella
 ギュッとワンワン,Dog Arm Doll
 ギャルいウィング,Stella Wings
@@ -16237,7 +16229,7 @@ GMロトの紋章型花火,GM Erdrick's Emblem Fireworks
 ゴージャスティアラ,Gorgeous Tiara
 キュートなウサミミ,Cute Bunny Ears
 キュートなクマミミ,Cute Bear Ears
-キュートなイヌミミ,Cute Cat Ears
+キュートなイヌミミ,Cute Dog Ears
 魔学士のぼうし,Magic Study Hat
 リアクター,Reactor
 妖精の花冠,Fairy Wreath
@@ -16463,8 +16455,8 @@ GMロトの紋章型花火,GM Erdrick's Emblem Fireworks
 ジャックのカード,Jack Card
 黒のジョーカー,Black Joker
 赤のジョーカー,Red Joker
-フーたんのブローチ,Futan's Brooch
-キーたんのブローチ,Keytan's Brooch
+フーたんのブローチ,Futan Brooch
+キーたんのブローチ,Keytan Brooch
 ポンポンピアス,Pom Pom Earrings
 サジェのメガネ,Sajay Glasses
 ドラグーンソード,Dragoon Sword
@@ -16543,7 +16535,7 @@ GMロトの紋章型花火,GM Erdrick's Emblem Fireworks
 アジサイコサージュ,Hydrangea Corsage
 夢の王国ぼうし,Dream Kingdom Hat
 ふたつ結びエクステ,Two-Knot Extension
-ミニポニテエクステ,Sm Ponytail Extension
+ミニポニテエクステ,Mini Ponytail Extension
 ホイミントウェア下,Heal Mint Pants
 ホイミントドレス下,Heal Mint Skirt
 マジカル姫ゆかた下,Magical Yukata Bottom
@@ -16559,7 +16551,7 @@ GMロトの紋章型花火,GM Erdrick's Emblem Fireworks
 しぐさ書・おたから袋,Emote "Treasure Bag"
 しぐさ書・ガクブル,Emote "Tremble"
 しぐさ書・シャンソン,Emote "Chanson"
-しぐさ書・メイクアップ,Emote "Extrm. Makeover"
+しぐさ書・メイクアップ,Emote "Makeup"
 しぐさ書・スマイル,Emote "Best Smile"
 源氏車のはかま,Cartwheel Hakama
 ハートの兵隊の服上,Heart Soldier Coat
@@ -16784,8 +16776,8 @@ GMロトの紋章型花火,GM Erdrick's Emblem Fireworks
 セピアウェディ人形女大,L Sepia Weddie Doll (F)
 セピアエルフ人形男大,L Sepia Elf Doll (M)
 セピアエルフ人形女大,L Sepia Elf Doll (F)
-セピアプクリポ人形男大,L Sepia Puku. Doll (M)
-セピアプクリポ人形女大,L Sepia Puku. Doll (F)
+セピアプクリポ人形男大,L Sepia Pukulipo Doll (M)
+セピアプクリポ人形女大,L Sepia Pukulipo Doll (F)
 セピアドワーフ人形男大,L Sepia Dwarf Doll (M)
 セピアドワーフ人形女大,L Sepia Dwarf Doll (F)
 トランプ柄の植木鉢・赤,Red Card Plant Pot
@@ -16798,7 +16790,7 @@ GMロトの紋章型花火,GM Erdrick's Emblem Fireworks
 あやしいテーブル小,Suspicious Table S
 あやしいテーブル大,Suspicious Table L
 あやしいタンス,Suspicious Wardrobe
-あやしい本棚,Suspicious Bookshf
+あやしい本棚,Suspicious Bookshelf
 あやしい食器棚,Suspicious Cupboard
 あやしい流し台,Suspicious Sink
 あやしいオーブン,Suspicious Oven
@@ -16825,7 +16817,7 @@ GMロトの紋章型花火,GM Erdrick's Emblem Fireworks
 お菓子の間仕切り,Sweet Partition
 お菓子のチェスト,Sweet Chest
 お菓子のカウンター大,Sweet Counter L
-布の柱,Cloth Plr
+布の柱,Cloth Pillar
 毛皮の柱,Fur Pillar
 まほうの柱,Magic Pillar
 布の壁,Cloth Wall
@@ -16961,22 +16953,22 @@ GMロトの紋章型花火,GM Erdrick's Emblem Fireworks
 メタスラのカーペット,Metal Slime Carpet
 メタスラのパーティ机,Metal Slime Party Table
 お菓子のパーティ机,Sweet Party Table
-苺お菓子のイス,Strwberry Sweet Chair
+苺お菓子のイス,Strawberry Sweet Chair
 苺お菓子のベンチ,Strawberry Sweet Bench
-苺お菓子のテーブル小,Strwberry Sweet Table S
-苺お菓子のテーブル大,Strwberry Sweet Table L
-苺お菓子のタンス,Strwberry Sweet Wardrobe
-苺お菓子の本棚,Strwberry Sweet Bookshf
-苺お菓子の食器棚,Strwberry Sweet Cupboard
-苺お菓子のキッチン,Strwberry Sweet Kitchen
+苺お菓子のテーブル小,Strawberry Sweet Table S
+苺お菓子のテーブル大,Strawberry Sweet Table L
+苺お菓子のタンス,Strawberry Sweet Wardrobe
+苺お菓子の本棚,Strawberry Sweet Bookshelf
+苺お菓子の食器棚,Strawberry Sweet Cupboard
+苺お菓子のキッチン,Strawberry Sweet Kitchen
 苺お菓子のオーブン,Strawberry Sweet Oven
 苺お菓子のベッド,Strawberry Sweet Bed
-苺お菓子のバスタブ,Strwberry Sweet Bathtub
-苺お菓子の間仕切り,Strwberry Sweet Partition
+苺お菓子のバスタブ,Strawberry Sweet Bathtub
+苺お菓子の間仕切り,Strawberry Sweet Partition
 苺お菓子のチェスト,Strawberry Sweet Chest
-苺お菓子のカウンター小,Stwby Sweet Counter S
-苺お菓子のカウンター大,Stwby Sweet Counter L
-苺お菓子のパーティ机,Stwby Sweet Party Table
+苺お菓子のカウンター小,Strawberry Sweet Counter S
+苺お菓子のカウンター大,Strawberry Sweet Counter L
+苺お菓子のパーティ机,Strawberry Sweet Party Table
 ごうかなラグ小・緑,Green Fancy Rug S
 ごうかなラグ大・緑,Green Fancy Rug L
 ごうかパーティ机・緑,Green Fancy Party Table
@@ -17006,7 +16998,7 @@ GMロトの紋章型花火,GM Erdrick's Emblem Fireworks
 ごうかなラグ大・赤,Red Fancy Rug L
 ごうかなパーティ机・赤,Red Fancy Party Table
 ピンクモーモンラグ,Pink Sanguini Rug
-こうげきピンモーラグ,Attack Pnk Sanguini Rug
+こうげきピンモーラグ,Attack Pink Sanguini Rug
 ドラキーマラグ,Drackyma Rug
 １段ブロック・メタル赤,Red Metal Block
 ２段ブロック・メタル赤,Red 2-Step Metal Block
@@ -17130,7 +17122,7 @@ GMロトの紋章型花火,GM Erdrick's Emblem Fireworks
 ギガンテスの像,Gigantes Statue
 スライムタワーの像,Slime Stack Statue
 プリズニャンの像,Jailcat Statue
-お正月の門松,NewYear Pine Decor
+お正月の門松,New Year Pine Decor
 鏡餅,Mochi
 木枠しっくいの柱,Wood Frame Plaster Pillar
 色タイルの柱,Color Tile Pillar
@@ -17297,7 +17289,7 @@ GMロトの紋章型花火,GM Erdrick's Emblem Fireworks
 お姫様テーブル小・桃,Pink Princess Table S
 お姫様テーブル大・桃,Pink Princess Table L
 お姫様タンス・桃,Pink Princess Wardrobe
-お姫様本棚・桃,Pink Princess Bookshf
+お姫様本棚・桃,Pink Princess Bookshelf
 お姫様食器棚・桃,Pink Princess Cupboard
 お姫様キッチン・桃,Pink Princess Kitchen
 お姫様オーブン・桃,Pink Princess Oven
@@ -17312,7 +17304,7 @@ GMロトの紋章型花火,GM Erdrick's Emblem Fireworks
 水晶のテーブル小,Crystal Table S
 水晶のテーブル大,Crystal Table L
 水晶のタンス,Crystal Wardrobe
-水晶の本棚,Crystal Bookshf
+水晶の本棚,Crystal Bookshelf
 水晶の食器棚,Crystal Cupboard
 水晶のキッチン,Crystal Kitchen
 水晶のオーブン,Crystal Oven
@@ -17481,7 +17473,7 @@ GMロトの紋章型花火,GM Erdrick's Emblem Fireworks
 白いビーチパラソル,White Beach Umbrella
 デッキチェア,Deck Chair
 デッキテーブル,Deck Table
-石の灯籠,Stn. Lantern
+石の灯籠,Stone Lantern
 ししおどしセット,Scaredeer Set
 お茶屋のベンチ,Teahouse Bench
 お茶屋のパラソル,Teahouse Umbrella
@@ -17494,20 +17486,20 @@ GMロトの紋章型花火,GM Erdrick's Emblem Fireworks
 お姫様パーティ机・桃,Pink Prncss Party Table
 お姫様のイス・橙,Orange Princess Chair
 お姫様のベンチ・橙,Orange Princess Bench
-お姫様のテーブル小・橙,Orng Princess Table S
-お姫様のテーブル大・橙,Orng Princess Table L
-お姫様のタンス・橙,Orng Princess Wardrobe
-お姫様の本棚・橙,Orng Princess Bookshf
-お姫様の食器棚・橙,Orng Princess Cupboard
+お姫様のテーブル小・橙,Orange Princess Table S
+お姫様のテーブル大・橙,Orange Princess Table L
+お姫様のタンス・橙,Orange Princess Wardrobe
+お姫様の本棚・橙,Orange Princess Bookshelf
+お姫様の食器棚・橙,Orange Princess Cupboard
 お姫様のキッチン・橙,Orange Princess Kitchen
 お姫様のオーブン・橙,Orange Princess Oven
 お姫様のベッド・橙,Orange Princess Bed
 お姫様のバスタブ・橙,Orange Princess Bathtub
-お姫様の間仕切り・橙,Orng Princess Partition
+お姫様の間仕切り・橙,Orange Princess Partition
 お姫様のチェスト・橙,Orange Princess Chest
-お姫様のカウンタ大・橙,Orng Princess Counter L
-お姫様のカウンタ小・橙,Orng Princess Counter S
-お姫様のパーティ机・橙,Orng Princess Party Table
+お姫様のカウンタ大・橙,Orange Princess Counter L
+お姫様のカウンタ小・橙,Orange Princess Counter S
+お姫様のパーティ机・橙,Orange Princess Party Table
 おもちゃのお天気・雨,Toy Rainy Weather
 おもちゃのお天気・雪,Toy Snowy Weather
 第１回家写真コン・金,1st House Photo Gold
@@ -17547,10 +17539,10 @@ GMロトの紋章型花火,GM Erdrick's Emblem Fireworks
 家具屋の看板,Furniture Shop Sign
 モーモンバザーの看板,Sanguini Bazaar Sign
 ホワイトチョコのベッド,White Choco Bed
-ホワイトチョコのイス,Wht Chocolate Bar Chair
+ホワイトチョコのイス,White Chocolate Bar Chair
 ホワイトチョコのラグ,White Choco Rug
 白いチョコファウンテン,White Choco Fountain
-ホワイトチョコヌーバ像,Wht Choco Mudpie Statue
+ホワイトチョコヌーバ像,White Choco Mudpie Statue
 スライム柄コタツ,Slime Kotatsu
 スライムベス柄コタツ,She-Slime Kotatsu
 ブランコ付きの庭木,Tree with Swing (G)
@@ -17631,9 +17623,9 @@ GMロトの紋章型花火,GM Erdrick's Emblem Fireworks
 オルフェア駅の模型,Orphea Station Model
 ジュレット駅の模型,Julet Station Model
 アズラン駅の模型,Azlan Station Model
-ガタラ駅の模型・雪,Gatara Station Model(Snow)
+ガタラ駅の模型・雪,Gatara Station Model (Snow)
 グレン駅の模型・雪,Glen Station Model (Snow)
-オルフェア駅の模型・雪,Orphea Station Model(Snow)
+オルフェア駅の模型・雪,Orphea Station Model (Snow)
 ジュレット駅の模型・雪,Julet Station Model (Snow)
 アズラン駅の模型・雪,Azlan Station Model (Snow)
 あやしい大木の壁,Suspicious Wood Wall L
@@ -17684,19 +17676,19 @@ GMロトの紋章型花火,GM Erdrick's Emblem Fireworks
 シルバーデビルの像,Silvapithecus Statue
 ナスビナーラの像・庭,Woebergine Statue (G)
 モーモンの像・庭,Teeny Sanguini Statue (G)
-ピンクモーモンの像・庭,Pink Sanguini Statue(G)
-トンブレロの像・庭,Ham Shamwitch Statue(G)
+ピンクモーモンの像・庭,Pink Sanguini Statue (G)
+トンブレロの像・庭,Ham Shamwitch Statue (G)
 マリンスライムの像・庭,Seaslime Statue (G)
 タコメットの像・庭,Octopot Statue (G)
 おどる宝石の像・庭,Goodybag Statue (G)
 アルミラージの像・庭,Spiked Hare Statue (G)
 プリズニャンの像・庭,Jailcat Statue (G)
-アローインプの像・庭,Bodkin Bowyer Statue(G)
-おむつっこりの像・庭,Nappy Wrapper Statue(G)
+アローインプの像・庭,Bodkin Bowyer Statue (G)
+おむつっこりの像・庭,Nappy Wrapper Statue (G)
 おおきづちの像・庭,Hammerhood Statue (G)
-いたずらもぐらの像・庭,Mischievous Mole Statue(G)
+いたずらもぐらの像・庭,Mischievous Mole Statue (G)
 ばくだん岩の像・庭,Rockbomb Statue (G)
-シルバーデビルの像・庭,Silvapithecus Statue(G)
+シルバーデビルの像・庭,Silvapithecus Statue (G)
 スライムの像・庭,Slime Statue (G)
 ドラキーの像・庭,Dracky Statue (G)
 はぐれメタルの像・庭,Liquid Metal Slime Statue (G)
@@ -17710,11 +17702,11 @@ GMロトの紋章型花火,GM Erdrick's Emblem Fireworks
 キメラの像・庭,Chimaera Statue (G)
 スライムナイトの像・庭,Slime Knight Statue (G)
 あくまのきしの像・庭,Knight Aberrant Statue (G)
-うごくせきぞうの像・庭,Living Statue Statue(G)
+うごくせきぞうの像・庭,Living Statue Statue (G)
 キラーマシンの像・庭,Killing Machine Statue (G)
 キングスライムの像・庭,King Slime Statue (G)
 ゴーレムの像・庭,Golem Statue (G)
-ドラゴンゾンビの像・庭,Dragon Zombie Statue(G)
+ドラゴンゾンビの像・庭,Dragon Zombie Statue (G)
 ボストロールの像・庭,Boss Troll Statue (G)
 ギガンテスの像・庭,Gigantes Statue (G)
 スライムタワーの像・庭,Slime Stack Statue (G)
@@ -17899,7 +17891,7 @@ GMロトの紋章型花火,GM Erdrick's Emblem Fireworks
 メリーゴーランド・青,Blue Merry-Go-Round
 プスゴンのイス,Pusgon Chair
 プスゴンのテーブル,Pusgon Table
-ベホマズン像・庭,King Cureslime St. (G)
+ベホマズン像・庭,King Cureslime Statue (G)
 小型の丸い水そう,Round Aquarium S
 中型の丸い水そう,Round Aquarium M
 大型の丸い水そう,Round Aquarium L
@@ -17930,17 +17922,17 @@ GMロトの紋章型花火,GM Erdrick's Emblem Fireworks
 やみしばりの像・庭,Hellish Horror Statue (G)
 ニードルマンの像・庭,Needleman Statue (G)
 ベビーサタンの像・庭,Imp Statue (G)
-フォンデュの像・庭,Fromage Fray Statue(G)
+フォンデュの像・庭,Fromage Fray Statue (G)
 バトルレックスの像・庭,Hacksaurus Statue (G)
 クマのぬいぐるみ・茶,Brown Bear Plushie
 水色ねずみクッション,Blue Mouse Cushion
 桃色ねずみクッション,Pink Mouse Cushion
 イチゴのクッション,Strawberry Cushion
 ドーナツクッション・茶,Brown Donut Cushion
-なげきムーンの像・庭,Mourning Moon Statue(G)
-たんすミミックの像・庭,Ward. Mimic Statue (G)
+なげきムーンの像・庭,Mourning Moon Statue (G)
+たんすミミックの像・庭,Wardrobe Mimic Statue (G)
 さまようよろいの像・庭,Restless Armour Statue (G)
-キラーパンサーの像・庭,Gr. Sabrecat Statue (G)
+キラーパンサーの像・庭,Great Sabrecat Statue (G)
 色変わりスターライト,Star Light
 色変わりキューブライト,Cube Light
 色変わり三角ライト,Triangle Light
@@ -17977,7 +17969,7 @@ GMロトの紋章型花火,GM Erdrick's Emblem Fireworks
 わたぼうのお庭ランプ,Watabou Lamp (G)
 ワルぼうのお庭ランプ,Warubou Lamp (G)
 クラシック風の柱,Classic Pillar
-クラシック風の壁,Classic Walls
+クラシック風の壁,Classic Wall
 昇り竜の柱,Dragon Pillar
 昇り竜の壁,Dragon Wall
 ベルベットの柱,Velvet Pillar
@@ -17998,7 +17990,7 @@ GMロトの紋章型花火,GM Erdrick's Emblem Fireworks
 水玉花火モビール・庭,Dots Fireworks Mobile (G)
 ハート花火モビール・庭,Heart Fireworks Mobile (G)
 スラ花火モビール・庭,Slime Fireworks Mobile (G)
-モーモンゆず風呂,T. Sanguini Yuza Bath
+モーモンゆず風呂,Teeny Sanguini Yuza Bath
 石だたみ柄のラグ,Stone Pattern Rug
 キングスライムネオン,King Slime Neon Sign
 モーモンネオン,Teeny Sanguini Neon Sign
@@ -18099,11 +18091,11 @@ GMロトの紋章型花火,GM Erdrick's Emblem Fireworks
 ガーデン花火台・緑,Green Fireworks Stand (G)
 ガーデン花火台・赤,Red Fireworks Stand (G)
 ガーデン花火台・黄,Yellow Fireworks Stand (G)
-ガーデン花火台・青,Blue Fireworks Stand(G)
-ガーデンスラ花火台・緑,Green Slime Fireworks Stand(G)
-ガーデンスラ花火台・赤,Red Slime Fireworks Stand(G)
-ガーデンスラ花火台・黄,Yellow Slime Fireworks Stand(G)
-ガーデンスラ花火台・青,Blue Slime Fireworks Stand(G)
+ガーデン花火台・青,Blue Fireworks Stand (G)
+ガーデンスラ花火台・緑,Green Slime Fireworks Stand (G)
+ガーデンスラ花火台・赤,Red Slime Fireworks Stand (G)
+ガーデンスラ花火台・黄,Yellow Slime Fireworks Stand (G)
+ガーデンスラ花火台・青,Blue Slime Fireworks Stand (G)
 超トマトのタネ,Super Tomato Seeds
 ハイビスカスのアーチ,Hibiscus Arch
 ガーデンシャワー,Garden Shower
@@ -18162,7 +18154,7 @@ GMロトの紋章型花火,GM Erdrick's Emblem Fireworks
 星空のイス・紫,Purple Starry Chair
 星空の机・紫,Purple Starry Desk
 星空のタンス・紫,Purple Starry Wardrobe
-星空の本棚・紫,Purple Starry Bookshf
+星空の本棚・紫,Purple Starry Bookshelf
 星空のベッド・紫,Purple Starry Bed
 星空のソファ・紫,Purple Starry Sofa
 星空のドレッサー・紫,Purple Starry Vanity
@@ -18246,10 +18238,10 @@ GMロトの紋章型花火,GM Erdrick's Emblem Fireworks
 きせかえドールドワ男＋,Dwarf Dress-Up Doll+(M)
 きせかえドール・ドワ女,Dwarf Dress-Up Doll (F)
 きせかえドールドワ女＋,Dwarf Dress-Up Doll+(F)
-きせかえドール・プク男,Puku. Dress-Up Doll (M)
-きせかえドールプク男＋,Puku. Dress-Up Doll+(M)
-きせかえドール・プク女,Puku. Dress-Up Doll (F)
-きせかえドールプク女＋,Puku. Dress-Up Doll+(F)
+きせかえドール・プク男,Pukulipo Dress-Up Doll (M)
+きせかえドールプク男＋,Pukulipo Dress-Up Doll+(M)
+きせかえドール・プク女,Pukulipo Dress-Up Doll (F)
+きせかえドールプク女＋,Pukulipo Dress-Up Doll+(F)
 音符のイス・黒,Black Music Chair
 音符のベンチ・黒,Black Music Bench
 音符のテーブル・黒,Black Music Table
@@ -18385,7 +18377,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 白バラのイス,White Rose Chair
 白バラのテーブル,White Rose Table
 白バラのタンス,White Rose Wardrobe
-白バラの本棚,White Rose Bookshf
+白バラの本棚,White Rose Bookshelf
 白バラのベッド,White Rose Bed
 白バラのソファ,White Rose Sofa
 白バラのドレッサー,White Rose Vanity
@@ -18559,7 +18551,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 絶品！いやしのスープ,Soothing Soup Recipe
 かいしんバーガーの本,Critical Burger Recipe
 みかわしオムレツ調理法,Dodge Omelet Recipe
-きようさにくまんの秘密,Deftness Meat Bun Rcp
+きようさにくまんの秘密,Deftness Meat Bun Recipe
 手軽にクイックケーキ,Quick Cake Recipe
 ゴージャスクッキーの本,Gorgeous Cookies Recipe
 男ならメガもり丼,Clam Rice Bowl Recipe
@@ -18596,10 +18588,10 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 プラチナフライパンの本,Platinum Fry Pan Book
 超フライパン作成術,Super Fry Pan Book
 奇跡のフライパン物語,Miracle Fry Pan Book
-銀のフライパン小の本,Sm Silver Fry Pan Book
-プラチナフライパ小の本,Sm Plat. Fry Pan Book
-超フライパン小の本,Sm Super Fry Pan Book
-奇跡のフライパン小の本,Sm Miracle Fry Pan Book
+銀のフライパン小の本,Small Silver Fry Pan Book
+プラチナフライパ小の本,Small Platinum Fry Pan Book
+超フライパン小の本,Small Super Fry Pan Book
+奇跡のフライパン小の本,Small Miracle Fry Pan Book
 ぎんのルアーの本,Silver Lure Book
 プラチナルアーの本,Platinum Lure Book
 マデュライトルアーの本,Darkonium Lure Book
@@ -18656,7 +18648,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 緑のコケ,Emerald Moss
 氷のけっしょう,Ice Crystal
 ひかりの石,Brighten Rock
-青い宝石,Svy Sapphire
+青い宝石,Savvy Sapphire
 黄色の宝石,Sunny Citrine
 緑の宝石,Equable Emerald
 さとりそう,Thinkincense
@@ -18791,7 +18783,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 奇跡のさいほう針,Miracle Sew Needle
 七夕のさいほう針,Festival Sew Needle
 星のさいほう針,Star Sew Needle
-天命賢書,Judgment Bk
+天命賢書,Judgment Book
 妖精王とヒスイの魔法,The Magic of Jade
 銅の木工刀,Copper Woodworking Knife
 鉄の木工刀,Iron Woodworking Knife
@@ -18812,22 +18804,22 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 峡谷のヴァランガ,Valanga Canyon
 やさしい鉄槌のくだし方,Using a Gentle Hammer
 蒼炎伝,Frostfire
-銅の錬金ツボ,Copper Alch Pot
-鉄の錬金ツボ,Iron Alch Pot
-銀の錬金ツボ,Silver Alch Pot
-プラチナ錬金ツボ,Platinum Alch Pot
-超錬金ツボ,Super Alch Pot
-奇跡の錬金ツボ,Miracle Alch Pot
-七夕の錬金ツボ,Festival Alch Pot
-星の錬金ツボ,Star Alch Pot
+銅の錬金ツボ,Copper Alchemy Pot
+鉄の錬金ツボ,Iron Alchemy Pot
+銀の錬金ツボ,Silver Alchemy Pot
+プラチナ錬金ツボ,Platinum Alchemy Pot
+超錬金ツボ,Super Alchemy Pot
+奇跡の錬金ツボ,Miracle Alchemy Pot
+七夕の錬金ツボ,Festival Alchemy Pot
+星の錬金ツボ,Star Alchemy Pot
 ある船乗りの手記,Sailor's Memoir
-銅の錬金ランプ,Copper Alch Lamp
-鉄の錬金ランプ,Iron Alch Lamp
-銀の錬金ランプ,Silver Alch Lamp
-超錬金ランプ,Super Alch Lamp
-奇跡の錬金ランプ,Miracle Alch Lamp
-七夕の錬金ランプ,Festival Alch Lamp
-星の錬金ランプ,Star Alch Lamp
+銅の錬金ランプ,Copper Alchemy Lamp
+鉄の錬金ランプ,Iron Alchemy Lamp
+銀の錬金ランプ,Silver Alchemy Lamp
+超錬金ランプ,Super Alchemy Lamp
+奇跡の錬金ランプ,Miracle Alchemy Lamp
+七夕の錬金ランプ,Festival Alchemy Lamp
+星の錬金ランプ,Star Alchemy Lamp
 銀の鍛冶ハンマー小,Small Silver Smith Hammer
 プラチナ鍛冶ハン小,Small Platinum Smith Hammer
 超鍛冶ハンマー小,Small Super Smith Hammer
@@ -18840,14 +18832,14 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 プラチナ木工刀小,Small Platinum Woodworking Knife
 超木工刀小,Small Super Woodworking Knife
 奇跡の木工刀小,Small Miracle Woodworking Knife
-銀の錬金ツボ小,Small Silver Alch Pot
-プラチナ錬金ツボ小,Small Platinum Alch Pot
-超錬金ツボ小,Small Super Alch Pot
-奇跡の錬金ツボ小,Small Miracle Alch Pot
-銀の錬金ランプ小,Small Silver Alch Lamp
-プラチナのランプ小,Small Platinum Alch Lamp
-超錬金ランプ小,Small Super Alch Lamp
-奇跡の錬金ランプ小,Small Miracle Alch Lamp
+銀の錬金ツボ小,Small Silver Alchemy Pot
+プラチナ錬金ツボ小,Small Platinum Alchemy Pot
+超錬金ツボ小,Small Super Alchemy Pot
+奇跡の錬金ツボ小,Small Miracle Alchemy Pot
+銀の錬金ランプ小,Small Silver Alchemy Lamp
+プラチナのランプ小,Small Platinum Alchemy Lamp
+超錬金ランプ小,Small Super Alchemy Lamp
+奇跡の錬金ランプ小,Small Miracle Alchemy Lamp
 銀のフライパン小,Small Silver Fry Pan
 プラチナフライパ小,Small Platinum Fry Pan
 超フライパン小,Small Super Fry Pan
@@ -18888,16 +18880,16 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 魔術師の家具帖・道具編,Wizrad Furniture -Tools
 光の鍛冶ハンマー,Light Smith Hammer
 光のさいほう針,Light Sew Needle
-光の木工刀,Light Wdwk Knf
+光の木工刀,Light Woodworking Knife
 光のフライパン,Light Fry Pan
-光の錬金ツボ,Light Alch Pot
-光の錬金ランプ,Light Alch Lamp
+光の錬金ツボ,Light Alchemy Pot
+光の錬金ランプ,Light Alchemy Lamp
 光の鍛冶ハンマー小,Small Light Smith Hammer
 光のさいほう針小,Small Light Sew Needle
 光の木工刀小,Small Light Woodworking Knife
 光のフライパン小,Small Light Fry Pan
-光の錬金ツボ小,Small Light Alch Pot
-光の錬金ランプ小,Small Light Alch Lamp
+光の錬金ツボ小,Small Light Alchemy Pot
+光の錬金ランプ小,Small Light Alchemy Lamp
 ナドラダイト鉱石,Dracolyte
 巨竜樹の枝,Wyrmwood
 ゴーゴー戦姫,Go Warrior Princess
@@ -18919,14 +18911,14 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 光の鍛冶ハンマーの本,Light Smith Hammer Book
 光の木工刀の本,Light Woodworking Knife Book
 光のさいほう針の本,Light Sew Needle Book
-光の錬金ランプの本,Light Alch Lamp Book
-光の錬金ツボの本,Light Alch Pot Book
+光の錬金ランプの本,Light Alchemy Lamp Book
+光の錬金ツボの本,Light Alchemy Pot Book
 光のフライパンの本,Light Fry Pan Book
 光の鍛冶ハンマー小の本,Small Light Smith Hammer Book
 光の木工刀小の本,Small Light Woodworking Knife Book
 光のさいほう針小の本,Small Light Sew Needle Book
-光の錬金ランプ小の本,Small Light Alch Lamp Book
-光の錬金ツボ小の本,Small Light Alch Pot Book
+光の錬金ランプ小の本,Small Light Alchemy Lamp Book
+光の錬金ツボ小の本,Small Light Alchemy Pot Book
 光のフライパン小の本,Small Light Fry Pan Book
 大地の大竜玉の破片,Earthwyrm's Jewel Shard
 金のロザリオの破片,Gold Rosary Shard
@@ -18937,7 +18929,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 風変わりな研究書,Eccentric Research
 竜族人形の作り方,Making Dragon Dolls
 魔人の勲章の破片,Ruin's Medal Shard
-風雷のいんろうの破片,Wind Thunder Inro Shard
+風雷のいんろうの破片,Thunderstorm Inro Shard
 黄金のアンク？,Golden Ankh ?
 緑の錬金石,Green Gem
 黄の錬金石,Yellow Gem
@@ -18964,7 +18956,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 果ての泉の孔雀姫,The Peacock Princess
 はなてスライムショット,Shoot a Slime Shot
 シャーマニズム大全,Shamanism Encyclopedia
-氷闇の月飾りの破片,Dark Ice Moon Shard
+氷闇の月飾りの破片,Icy Dark Moon Shard
 将軍のゆびわの破片,General's Ring Shard
 大戦鬼大戦記,War Demon's Record
 世界一クイック伝,World's Quickest Legend
@@ -19131,7 +19123,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 イーグルダガー作成術,Eagle Dagger Creation
 暗殺武器の歴史,Assassin Weapons
 ソードブレイカーの本,Sword Breaker Book
-続・暗殺武器の歴史,Assassin Weapons Cont.
+続・暗殺武器の歴史,Assassin Weapons Continued
 こおりのやいばの書,Icicle Dirk Book
 グラディウスのレシピ,Gladius Recipe
 真・暗殺武器の歴史,True Assassin Weapons
@@ -19336,13 +19328,13 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 プラチナさいほう針の本,Platinum Sew Needle Book
 超さいほう針の本,Super Sew Needle Book
 奇跡のさいほう針の本,Miracle Sew Needle Book
-プラチナ錬金ランプの本,Platinum Alch Lamp Book
-超錬金ランプの本,Super Alch Lamp Book
-奇跡の錬金ランプの本,Miracle Alch Lamp Book
+プラチナ錬金ランプの本,Platinum Alchemy Lamp Book
+超錬金ランプの本,Super Alchemy Lamp Book
+奇跡の錬金ランプの本,Miracle Alchemy Lamp Book
 錬金魔王の言い伝え,Alchemy Devil King Lore
-プラチナ錬金ツボの本,Platinum Alch Pot Book
-超錬金ツボの本,Super Alch Pot Book
-奇跡の錬金ツボの本,Miracle Alch Pot Book
+プラチナ錬金ツボの本,Platinum Alchemy Pot Book
+超錬金ツボの本,Super Alchemy Pot Book
+奇跡の錬金ツボの本,Miracle Alchemy Pot Book
 錬金悪魔の言い伝え,Alchemy Devil Lore
 初級・攻撃アップ錬金術,Beginner Attack Up
 中級・攻撃アップ錬金術,Intermediate Attack Up
@@ -19366,7 +19358,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 中級・おしゃれ錬金の本,Intermediate Style
 上級・おしゃれ錬金の本,Advanced Style
 初級・魔力錬金の本,Beginner Magic Power
-中級・魔力錬金の本,Intermediate Mag. Power
+中級・魔力錬金の本,Intermediate Magic Power
 上級・魔力錬金の本,Advanced Magic Power
 初級・ＭＰ錬金の本,Beginner MP
 中級・ＭＰ錬金の本,Intermediate MP
@@ -19421,10 +19413,10 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 はがねの防具図鑑,Steel Armor Book
 銀の木工刀の本,Silver Woodworking Knife Book
 銀のさいほう針の本,Silver Sew Needle Book
-銀の錬金ランプの本,Silver Alch Lamp Book
-銀の錬金ツボの本,Silver Alch Pot Book
+銀の錬金ランプの本,Silver Alchemy Lamp Book
+銀の錬金ツボの本,Silver Alchemy Pot Book
 初級・心ガード錬金の本,Beginner Critical Guard
-中級・心ガード錬金の本,Intermediate Crit Guard
+中級・心ガード錬金の本,Intermediate Critical Guard
 上級・心ガード錬金の本,Advanced Critical Guard
 射手の服のレシピ,Archer Outfit Recipe
 新兵支給防具の手引き,New Recruit Armor Guide
@@ -19443,7 +19435,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 ツンドラハンマーの本,Tundra Hammer Book
 ボルカノハンマーの書,Volcano Hammer Book
 ランラン！ブーメラン！,Run Run! Boomerang!
-ウイングエッジの本,Razor-Wing Boomerang Bk
+ウイングエッジの本,Razor-Wing Boomerang Book
 かぜのブーメランの本,Gusterang Book
 ニンジャカッター製造法,Making a Ninja Cutter
 マジックチャクラムの本,Magic Circle Book
@@ -19502,7 +19494,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 ダンサーインザシャツ,Dance Outfit Recipe
 学者のころもの作り方,Academic Outfit Recipe
 ゴードンヘッドの叫び,Screams of a Mega Moai
-メタルウィング作成法,Metal Wing Boomerang Bk
+メタルウィング作成法,Metal Wing Boomerang Book
 ゴシック防具カタログ,Gothic Armor Catalogue
 師団長の七つの教訓,Commander's Lessons
 おもちゃセット大図鑑２,Toy Encyclopedia Set 2
@@ -19577,14 +19569,14 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 プラチナさいほ針小の本,Small Platinum Sew Needle Book
 超さいほう針小の本,Small Super Sew Needle Book
 奇跡のさいほう針小の本,Small Miracle Sew Needle Book
-銀の錬金ランプ小の本,Small Silver Alch Lamp Book
-プラチナのランプ小の本,Small Platinum Alch Lamp Book
-超錬金ランプ小の本,Small Super Alch Lamp Book
-奇跡の錬金ランプ小の本,Small Miracle Alch Lamp Book
-銀の錬金ツボ小の本,Small Silver Alch Pot Book
-プラチナ錬金ツボ小の本,Small Platinum Alch Pot Book
-超錬金ツボ小の本,Small Super Alch Pot Book
-奇跡の錬金ツボ小の本,Small Miracle Alch Pot Book
+銀の錬金ランプ小の本,Small Silver Alchemy Lamp Book
+プラチナのランプ小の本,Small Platinum Alchemy Lamp Book
+超錬金ランプ小の本,Small Super Alchemy Lamp Book
+奇跡の錬金ランプ小の本,Small Miracle Alchemy Lamp Book
+銀の錬金ツボ小の本,Small Silver Alchemy Pot Book
+プラチナ錬金ツボ小の本,Small Platinum Alchemy Pot Book
+超錬金ツボ小の本,Small Super Alchemy Pot Book
+奇跡の錬金ツボ小の本,Small Miracle Alchemy Pot Book
 星の職人道具絵巻,Star Craftsman Book
 祭具・星々の大剣絵巻,Stars Claymore Scroll
 祭具・星々のタクト絵巻,Stars Baton Scroll
@@ -19686,7 +19678,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 魂を刈り取る天使,Angel Who Reaps Souls
 戦死者を選ぶもの,Choose Death In Battle
 シビュラの神託,Sibyl's Oracle
-ふくろう観察日記,Owl Observation diary
+ふくろう観察日記,Owl Observation Diary
 ライトニング無頼,Lightning Unreliable
 美と富と豊穣と幸運,Beauty, Wealth And Luck
 弓神様のご威光,Bow God's Authority
@@ -19837,7 +19829,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 キング釜プリズム,King Pot Prism
 クイーン釜プリズム,Queen Pot Prism
 プリンセス釜プリズム,Princess Pot Prism
-ガチャコッコ釜プリズム,Clwork Cuckoo Pot Prism
+ガチャコッコ釜プリズム,Clockwork Cuckoo Pot Prism
 古代エテーネ釜プリズム,Ethene Pot Prism
 ブルーボタンカプセル,Blue Button Capsule
 サバ猫カプセル,Gray Cat Capsule
@@ -19921,11 +19913,11 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 ブチ太猫カプセル,Fat Spot Cat Capsule
 灰ブチ太猫カプセル,Fat Ash Spot Cat Capsule
 茶ブチ太猫カプセル,Fat Tea Spot Cat Capsule
-たれ茶トラ太猫カプセル,Lzy Fat Tea TgrCat Capsule
+たれ茶トラ太猫カプセル,Lazy Fat Tea Tiger Cat Capsule
 たれサバ太猫カプセル,Lazy Fat Gray Cat Capsule
 たれ黒太猫カプセル,Lazy Fat Black Cat Capsule
 たれキジ太猫カプセル,Lazy Fat Brown Cat Capsule
-たれキナリ太猫カプセル,Lzy Fat Kinari Cat Capsule
+たれキナリ太猫カプセル,Lazy Fat Kinari Cat Capsule
 たれ灰太猫カプセル,Lazy Fat Ash Cat Capsule
 シロブタカプセル,White Pig Capsule
 シロブタくんカプセル,White Piggy Capsule
@@ -20290,7 +20282,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 ポイズンカメリア,Poison Camelia
 フォレストカメリア,Forest Camelia
 ネイビーダリア,Navy Dahlia
-だいだいカメリアのタネ,Sour Orng Camelia Seeds
+だいだいカメリアのタネ,Sour Orange Camelia Seeds
 レタスカメリアのタネ,Lettuce Camelia Seeds
 ビリジアカメリアのタネ,Viridian Camelia Seeds
 ポイズンカメリアのタネ,Poison Camelia Seeds
@@ -20345,9 +20337,9 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 セラフィチェア,Seraphi Chair
 セーリアチェア,Celia Chair
 リィンチェア,Lynn Chair
-ピョンシェルジュミミィ,Pyon Shelge Mimi
-ピョンシェルジュリリィ,Pyon Shelge Lily
-ピョンシェルジュキング,Pyon Shelge King
+ピョンシェルジュミミィ,Pyoncierge Mimi
+ピョンシェルジュリリィ,Pyoncierge Lily
+ピョンシェルジュキング,Pyoncierge King
 タロットテーブル,Tarot Table
 お正月ザンクローネ,New Year Zankrone
 あったかセラフィ,Warm Seraphi
@@ -20425,7 +20417,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 壁かけキッズ棚・女の子,Girl's Wall Shelf
 ステンドグラスの柱,Stained Glass Pillar
 しっくいとレンガの壁,Plaster & Brick Wall
-金飾りの柱,Gold Orn Pillar
+金飾りの柱,Gold Ornament Pillar
 しっくいと和紙の壁,Plaster & Paper Wall
 ブリキパイプの柱,Tin Plate Pipe Pillar
 ブリキ板張りの壁,Tin Plate Wall
@@ -20465,7 +20457,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 闇の領界の発光植物・大,Dark Realm Glow Plant L
 闇の領界の発光植物・小,Dark Realm Glow Plant S
 闇の領界の有毒植物,Dark Realm Toxic Plant
-闇の領界の石像,Dk Realm Stone Statue
+闇の領界の石像,Dark Realm Stone Statue
 小鳥の止まり木の畑,Small Bird Perch Field
 レトロなテレビ,Retro TV
 あめふりグレイツェル,Rainy Weather Gretzel
@@ -20475,8 +20467,8 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 ３０周年写真コン・銀,30th Anniversary Photo Silver
 ３０周年写真コン・銅,30th Anniversary Photo Bronze
 壁かけ夜の神殿の絵,Night Temple Painting
-壁かけ妖精図書館の絵２,Fairy Library Painting2
-壁かけ妖精図書館の絵３,Fairy Library Painting3
+壁かけ妖精図書館の絵２,Fairy Library Painting 2
+壁かけ妖精図書館の絵３,Fairy Library Painting 3
 ゴウレの監視台,Gourey's Watchtower
 炎の領界の木,Fire Realm Tree
 炎の領界の植物・小,Fire Realm Plant S
@@ -20503,7 +20495,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 組木細工の柱,Braided Wood Pillar
 組木細工の壁,Braided Wood Wall
 星くずプレートの柱,Stardust Plate Pillar
-虹と星くずプレートの壁,Rnbw. and Stardust Wall
+虹と星くずプレートの壁,Rainbow and Stardust Wall
 エジャルナファンランプ,Ejarna Fan Lamp
 ナドラガ教団のたいまつ,Nadraga Cult Brazier
 壁かけステンドグラス丸,Stained Glass Circle Window
@@ -20590,7 +20582,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 水の領界の室内噴水,Water Realm Fountain
 水の領界の鉢植え,Water Realm Plant Pot
 水の領界の吊りランプ,Water Realm Lamp
-水の領界のクラゲランプ,Water Realm Jlyfsh Lamp
+水の領界のクラゲランプ,Water Realm Jellyfish Lamp
 水の領界の貝殻ベッド,Water Realm Shell Bed
 水の領界のガゼボ,Water Realm Gazebo
 氷の領界の光る結晶,Ice Realm Glow Crystal
@@ -20685,21 +20677,21 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 ラピスの像,Lapis Statue
 王家の迷宮の燐光,Royal Maze Phosphor
 王家の迷宮の滝,Royal Maze Waterfall
-ゆめみの銅箱タンス,Drm Copper Box Wardrobe
-ゆめみの銀箱タンス,Drm Silver Box Wardrobe
+ゆめみの銅箱タンス,Dream Copper Box Wardrobe
+ゆめみの銀箱タンス,Dream Silver Box Wardrobe
 ゆめみの金箱タンス,Dream Gold Box Wardrobe
-ゆめみの竜箱タンス,Drm Dragon Box Wardrobe
-ゆめみの天箱タンス,Drm Heaven Box Wardrobe
+ゆめみの竜箱タンス,Dream Dragon Box Wardrobe
+ゆめみの天箱タンス,Dream Sky Box Wardrobe
 ゆめみの闇箱タンス,Dream Dark Box Wardrobe
-ゆめみの冥箱タンス,Drm Gloom Box Wardrobe
+ゆめみの冥箱タンス,Dream Gloom Box Wardrobe
 メタルブラ柱1,Metal Medley Pillar 1
 メタルブラ壁1,Metal Medley Wall 1
 メタルブラ柱2,Metal Medley Pillar 2
 メタルブラ壁2,Metal Medley Wall 2
 メタルブラ柱3,Metal Medley Pillar 3
 メタルブラ壁3,Metal Medley Wall 3
-紫ステンドグラスの柱,Purple Staind Glass Pillar
-紫ステンドグラスの壁,Purple Staind Glass Wall
+紫ステンドグラスの柱,Purple Stained Glass Pillar
+紫ステンドグラスの壁,Purple Stained Glass Wall
 古レンガの柱,Old Brick Pillar
 古レンガの壁,Old Brick Wall
 ダーマ神殿の柱,Abbey Pillar
@@ -20738,7 +20730,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 中型の球体水そう,Spherical Aquarium M
 大型の球体水そう,Spherical Aquarium L
 王家の迷宮の燐光・庭,Royal Maze Phosphor (G)
-王家の迷宮の滝・庭,Royal Maze Waterfall(G)
+王家の迷宮の滝・庭,Royal Maze Waterfall (G)
 シルバーの花束,Silver Bouquet
 ピュアスノーの花束,Pure Snow Bouquet
 バニラの花束,Vanilla Bouquet
@@ -20886,8 +20878,8 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 嵐の領界の噴水,Storm Realm Fountain
 嵐の領界の雷発生装置,Storm Realm Generator
 嵐の領界の雷岩・庭,Storm Realm Rock (G)
-予備枠１,Spare Frame1
-予備枠２,Spare Frame2
+予備枠１,Spare Frame 1
+予備枠２,Spare Frame 2
 嵐の領界の柱,Storm Realm Pillar
 嵐の領界のついたて,Storm Realm Partition
 嵐の領界の壁かけランプ,Storm Realm Wall Lamp
@@ -20967,7 +20959,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 マイユキッチン,Maille Kitchen
 いたスト・トランプマス,Fortune Street Card Space
 いたスト・カジノマス,Fortune Street Casino Space
-いたスト・銀行＆城マス,Fortune Street Bank/Cstl Space
+いたスト・銀行＆城マス,Fortune Street Bank/Castle Space
 いたスト・お店マス,Fortune Street Shop Space
 いたスト・ラッキーマス,Fortune Street Lucky Space
 アルゴンキッズの像,Argon Kid Statue
@@ -20988,7 +20980,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 チキ坊の畑,Chickibo Field
 トコトコワラタロー・庭,Trotting Warataro (G)
 クオードキッチン,Quard Kitchen
-黒衣の剣士キッチン,Swordman In Black Kitchen
+黒衣の剣士キッチン,Swordsman In Black Kitchen
 ファラスキッチン,Faras Kitchen
 ヒューザキッチン,Hyuza Kitchen
 ラウルキッチン,Raul Kitchen
@@ -21314,7 +21306,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 しぐさ書・Ｎハート桃,Emote "Neon Heart Pink"
 しぐさ書・Ｎハート黄,Emote "Neon Heart Yellow"
 しぐさ書・もうそう,Emote "Swoon"
-しぐさ書・お祝い虹,Emote "Celebrate Rnbow"
+しぐさ書・お祝い虹,Emote "Celebrate Rainbow"
 しぐさ書・お重をどうぞ,Emote "Offer Food Box"
 しぐさ書・ひまわり,Emote "Sunflower"
 表情の書・ドヤがお,Expression "Smug"
@@ -21514,7 +21506,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 ピクニックアサヒ,Asahi Picnic
 ピクニックウルタ,Ulta Picnic
 ピクニックヒューザ,Hyuza Picnic
-ピクニックギルガラン,Gilgaran's Picnic
+ピクニックギルガラン,Gilgaran Picnic
 ピクニックダストン,Duston Picnic
 ピクニックラウル,Raul Picnic
 ピクニックファラス,Faras Picnic
@@ -21555,8 +21547,8 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 壁かけ穴ミイラ男,Mummy Boy Wall Hole
 壁かけ穴ドラゴンキッズ,Small Fry Wall Hole
 壁かけ穴ニードルうさこ,Needle Rabbit Wall Hole
-壁かけ穴くさった死体,Walk. Corpse Wall Hole
-壁かけ穴モーモン,T. Sanguini Wall Hole
+壁かけ穴くさった死体,Walking Corpse Wall Hole
+壁かけ穴モーモン,Teeny Sanguini Wall Hole
 壁かけ穴プリズニャン,Jailcat Wall Hole
 古代オルセコの祭壇,Old Orseco Altar
 古代オルセコのトーチ,Old Orseco Torch
@@ -21566,7 +21558,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 古代オルセコの毛皮敷物,Old Orseco Fur Rug
 古代オルセコ吊りランプ,Old Orseco Hanging Lamp
 壁かけ闘技城ペナント紅,Red Combat Castle Flag
-壁かけ闘技城ペナント紫,Prp. Combat Castle Flag
+壁かけ闘技城ペナント紫,Purple Combat Castle Flag
 クリスマスの暖炉,Christmas Fireplace
 お正月の屏風,New Year Screen
 壁かけお正月飾り,New Year Wall Decor
@@ -21580,7 +21572,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 ハンドベルエルフ像,Handbell Elf Statue
 ハンドベルウェディ像,Handbell Weddie Statue
 ハンドベルドワーフ像,Handbell Dwarf Statue
-ハンドベルプクリポ像,Handbell Puku. Statue
+ハンドベルプクリポ像,Handbell Pukulipo Statue
 ビルダーズブロック,Builders Block
 ダストンの畑,Duston Field
 まちかどチキ坊掲示板,Chickibo Town Board
@@ -21628,8 +21620,8 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 第４回釣りコン・銀,4th Fish Contest Silver
 第４回釣りコン・銅,4th Fish Contest Bronze
 第４回最小釣りコン・金,4th S Fish Contest Gold
-第４回最小釣りコン・銀,4th S Fish Cntst Silver
-第４回最小釣りコン・銅,4th S Fish Cntst Bronze
+第４回最小釣りコン・銀,4th S Fish Contest Silver
+第４回最小釣りコン・銅,4th S Fish Contest Bronze
 ７周年記念知の祝祭・金,7th Anniversary Wisfest Gold
 ５０００年の旅路・金,5000 Year Journey Gold
 ５０００年の旅路・銀,5000 Year Journey Silver
@@ -21707,7 +21699,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 水琴窟,Koto Cave
 カエルの置物,Frog Ornament
 幸運の山鳩・庭,Good Luck Dove (G)
-ヒグラシの哀歌・庭,Evening Cicada Elegy(G)
+ヒグラシの哀歌・庭,Evening Cicada Elegy (G)
 パーティ・金,Party Gold
 パーティ・銀,Party Silver
 パーティ・銅,Party Bronze
@@ -21826,7 +21818,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 アクロバットの像・庭,Acro Bat Statue (G)
 いねかりぞくの像・庭,Harvester Statue (G)
 クリームつむりの像・庭,Cream Slime Statue (G)
-スイカさまの像・庭,Mr.Watermelon Statue(G)
+スイカさまの像・庭,Mr. Watermelon Statue (G)
 ハラッヘリンの像・庭,Meat Imp Statue (G)
 まんぷく丸の像・庭,Riceball Baby Statue (G)
 ペンシルボーイの像・庭,Prancing Pencil Statue (G)
@@ -21904,9 +21896,9 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 疾き盗賊のグローブ,Erik's Gloves
 疾き盗賊のブーツ,Erik's Boots
 Ｖロンヘルム,Vron Helm
-黒衣の剣士のよろい,Swordman In Black Armor
-黒衣の剣士グローブ,Swordman In Black Gloves
-黒衣の剣士のブーツ,Swordman In Black Boots
+黒衣の剣士のよろい,Swordsman In Black Armor
+黒衣の剣士グローブ,Swordsman In Black Gloves
+黒衣の剣士のブーツ,Swordsman In Black Boots
 博愛騎士のピアス,Love Knight Earrings
 博愛騎士のよろい上,Love Knight Armor Top
 博愛騎士のよろい下,Love Knight Armor Bottom
@@ -21924,28 +21916,28 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 手持ちの提灯,Handheld Lantern
 ジュエルボウ,Jewel Bow
 ジュエルスティック,Jewel Wand
-蝶のゆかた,Buttrfly Yukata
+蝶のゆかた,Butterfly Yukata
 バナナキャップ,Banana Cap
 ナカシマスク,Nakashi Mask
-黒衣の剣士の剣,Swordman In Black Sword
+黒衣の剣士の剣,Swordsman In Black Sword
 天空の盾,Zenithia Shield
 天空のつるぎ,Zenithia Sword
 真珠のヘアビーズ,Pearl Hair Beads
 コットンフェザー,Cotton Feather
-蓮華の鈴飾り,Lotus Bell Ornamnt
+蓮華の鈴飾り,Lotus Flower Bells
 山男のもみあげ,Woodsman Sideburns
 レオパードビキニ,Leopard Bikini
 レオパード水着,Leopard Swimsuit
 サマーなカンカン帽,Summer Can-Can Hat
 セイレーンヘッド,Siren's Hair Ornament
 ゼブラパーカー水着,Zebra Hoodie Swimsuit
-虹色のパーカー水着,Rnbw. Hoodie Swimsuit
+虹色のパーカー水着,Rainbow Hoodie Swimsuit
 おおさそりの浮き輪,Scorpion Floatie
 セイレーンパレオ上,Siren's Pareo Top
 セイレーンパレオ下,Siren's Pareo Bottom
 セイレーングローブ,Siren's Gloves
 セイレーンサンダル,Siren's Sandals
-学園男子の夏服改,Schoolboy Summerwear2
+学園男子の夏服改,Schoolboy Summerwear 2
 学園女子の夏服上改,Schoolgirl Summer Top 2
 学園女子の夏服下改,Schoolgirl Summer Bottom 2
 ふわふわクリオネ,Fluffy Sea Slug
@@ -22051,9 +22043,9 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 レジェンズサイズ,Legends Scythe
 聖守護者のハンマー,Holy Guardian Hammer
 聖守護者の両手剣,Holy Guardian Greatsword
-聖守護者ブーメラン,Holy Guard Boomerang
+聖守護者ブーメラン,Holy Guardian Boomerang
 聖守護者の杖,Holy Guardian Staff
-聖守護者の鎌,Holy Guard. Scythe
+聖守護者の鎌,Holy Guardian Scythe
 聖守護者の盾,Holy Guardian Shield
 カンフー番傘,Kung Fu Umbrella
 ナイト交換券２０２０,Knight Ticket 2020
@@ -22109,7 +22101,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 モッズスニーカー,Mod Sneakers
 ドラゴンメダル,Green Dragon Medal
 水色チューリップ傘,Blue Tulip Umbrella
-ふわふわフラフの箱,Fluffy Grey Small Fry Box
+ふわふわフラフの箱,Fluffy Gray Small Fry Box
 達人な宝珠,Master's Pearl
 きむこう,Kim Ko
 ほりいゆうじ,Yuji Horii
@@ -22188,7 +22180,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 カンフーのおだんご,Kung Fu Hair Buns
 カンフードレス上,Kung Fu Dress Top
 カンフードレス下,Kung Fu Dress Bottom
-カンフーパンプス,Kung Fu Pumps
+カンフーパンプス,Kung Fu Heels
 グロリアスコートＷ,Glorious Coat and Wig
 グロリアスズボン,Glorious Pants
 グロリアスグローブ,Glorious Gloves
@@ -22231,11 +22223,11 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 番長のくつ,Bancho's Shoes
 竜王のぼうし,Dragonlord Hat
 竜王のローブ上,Dragonlord Robe Top
-竜王のローブ下,Dragonlord Robe Btm
+竜王のローブ下,Dragonlord Robe Bottom
 竜王のくつ,Dragonlord Shoes
 青年貴族のぼうし,Nobleman's Hat
 青年貴族のコート上,Nobleman's Coat Top
-青年貴族のコート下,Nobleman's Coat Btm
+青年貴族のコート下,Nobleman's Coat Bottom
 青年貴族のグローブ,Nobleman's Gloves
 青年貴族のくつ,Nobleman's Shoes
 ビーシュリンプ,Bee Shrimp
@@ -22257,7 +22249,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 杖のある平穏な暮らし,Calm Life With A Staff
 逢魔が時の魔物,Twilight Apparition
 天を破るオノ,Break The Heavens
-氷獄鬼の両腕,Ice Hell Devil Bk
+氷獄鬼の両腕,Ice Hell Devil Book
 呪眼の災い,Cursed Eye Woes
 妖蛇の毒牙,A Snake's Venom
 黒仙翼の羽ばたき,Black Fairy Wing Flapping
@@ -22559,8 +22551,8 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 静かな村の庭オルゴール,Quiet Vlg Music Box (G)
 大聖堂の庭オルゴール,Cathedral Music Box (G)
 酒場の庭オルゴール,Tavern Music Box (G)
-あくまの錬金ツボ,Devil's Alch Pot
-まおうの錬金ランプ,Devil King's Alch Lamp
+あくまの錬金ツボ,Devil's Alchemy Pot
+まおうの錬金ランプ,Devil King's Alchemy Lamp
 経験値の古文書・魔剣,Experience Scroll - DMN
 第９回ヴァレリアの像,9th Valeria Statue
 第９回パラディンの像,9th Paladin Statue
@@ -22649,7 +22641,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 スラフロートプリズム,Slime Float Prism
 ふわふわメンダコ,Fluffy Pancake Octopus
 魔剣士の剣,DMN Sword
-大魔王の鎌,Demon King Sickle
+大魔王の鎌,Demon King Scythe
 鳴神の雷光,Thunder's Echo
 ダインの遺産,Dain's Legacy
 亡霊の猛毒,Ghost Poison
@@ -22673,7 +22665,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 フロスティック,Frostick
 不死の幻影のオノ,Immortal Phantom Axe
 ラブアローの弓,Love Arrow Bow
-バジリウスの鎌,Basilius' Sickle
+バジリウスの鎌,Basilius' Scythe
 スイーツこんぼう,Sweets Cudgel
 幽鬼の大剣,Revenant Greatsword
 温泉神の水桶,HotSpring God Pail
@@ -22705,7 +22697,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 魔侯爵のグリーブ,Marquis Greaves
 妖炎魔女の髪飾り,Fire Witch Hairpin
 妖炎魔女のドレス上,Fire Witch Dress Top
-妖炎魔女のドレス下,Fire Witch Dress Btm
+妖炎魔女のドレス下,Fire Witch Dress Bottom
 妖炎魔女のグローブ,Fire Witch Gloves
 妖炎魔女のパンプス,Fire Witch Shoes
 ファフニルヘルム,Fafnir Helm
@@ -22824,18 +22816,18 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 ゾーマのくつ,Zoma's Shoes
 イカスピア,Squid Spear
 オクトバスター,Octobuster
-カジノ祭３ポーカー金,CasinoFest 3 Poker Gold
-カジノ祭３ポーカー銀,CasinoFest 3 Poker Silver
-カジノ祭３ポーカー銅,CasinoFest 3 Poker Bronze
-カジノ祭３スロット金,CasinoFest 3 Slots Gold
-カジノ祭３スロット銀,CasinoFest 3 Slots Silver
-カジノ祭３スロット銅,CasinoFest 3 Slots Bronze
-カジノ祭３ルーレット金,CasinoFest 3 Roul. Gold
-カジノ祭３ルーレット銀,CasinoFest 3 Roul. Silver
-カジノ祭３ルーレット銅,CasinoFest 3 Roul. Bronze
-カジノ祭３ビンゴ金,CasinoFest 3 Bingo Gold
-カジノ祭３ビンゴ銀,CasinoFest 3 Bingo Silver
-カジノ祭３ビンゴ銅,CasinoFest 3 Bingo Bronze
+カジノ祭３ポーカー金,Casino Fest 3 Poker Gold
+カジノ祭３ポーカー銀,Casino Fest 3 Poker Silver
+カジノ祭３ポーカー銅,Casino Fest 3 Poker Bronze
+カジノ祭３スロット金,Casino Fest 3 Slots Gold
+カジノ祭３スロット銀,Casino Fest 3 Slots Silver
+カジノ祭３スロット銅,Casino Fest 3 Slots Bronze
+カジノ祭３ルーレット金,Casino Fest 3 Roulette Gold
+カジノ祭３ルーレット銀,Casino Fest 3 Roulette Silver
+カジノ祭３ルーレット銅,Casino Fest 3 Roulette Bronze
+カジノ祭３ビンゴ金,Casino Fest 3 Bingo Gold
+カジノ祭３ビンゴ銀,Casino Fest 3 Bingo Silver
+カジノ祭３ビンゴ銅,Casino Fest 3 Bingo Bronze
 パンジーのかんむり,Pansy Crown
 パンジーのビスチェ,Pansy Bustier
 パンジーのスカート,Pansy Skirt
@@ -22871,7 +22863,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 金サメきぐるみ衣装券,Gold Shark Suit Ticket
 真・幻界諸侯コイン,True Dread Fiends Coin
 真・幻界諸侯カード,True Dread Fiends Card
-真・幻界諸侯練習札,True Drd Fiends Training Card
+真・幻界諸侯練習札,True Dread Fiends Training Card
 真・幻界諸侯メダル,True Dread Fiends Medal
 幻界王の首かざりの破片,Dreadful Necklace Shard
 モモリオンの王冠,Sanguini King's Crown
@@ -22964,7 +22956,7 @@ MDぬいぐるみ２欠番,MD Plushie 2 Missing #
 モンシロウィング,White Butterfly Wings
 幻想蝶のウィング,Fantasy Butterfly Wings
 フェアリーウィング,Fairy Wings
-モンシロウィングの箱,White Butterfly Wing Box
+モンシロウィングの箱,White Butterfly Wings Box
 幻想蝶のウィングの箱,Fantasy Butterfly Wings Box
 フェアリーウィングの箱,Fairy Wings Box
 崩撃将のクモ脚,Dabam Spider Legs
@@ -22997,16 +22989,16 @@ MDぬいぐるみ２欠番,MD Plushie 2 Missing #
 花火レンズ,Fireworks Lens
 まものレンズ,Monster Lens
 ドルゴール・走,Dol Radio - Run
-旬のマダイ,Seas. Red Snpr
-旬の黄金マダイ,Seas. Gold Rd Snapper
+旬のマダイ,Seasonal Red Snapper
+旬の黄金マダイ,Seasonal Gold Red Snapper
 アンドレアルカード,Rashaverak Card
 アンドレアル練習札,Rashaverak Training Card
 第６回釣りコン・金,6th Fish Contest Gold
 第６回釣りコン・銀,6th Fish Contest Silver
 第６回釣りコン・銅,6th Fish Contest Bronze
 第６回最小釣りコン・金,6th S Fish Contest Gold
-第６回最小釣りコン・銀,6th S Fish Cntst Silver
-第６回最小釣りコン・銅,6th S Fish Cntst Bronze
+第６回最小釣りコン・銀,6th S Fish Contest Silver
+第６回最小釣りコン・銅,6th S Fish Contest Bronze
 第２３回ＧＰトロフィ銀,23rd GP Silver Trophy
 第２３回ＧＰトロフィ銅,23rd GP Bronze Trophy
 第２３回ＧＰトロフィ鋼,23rd GP Steel Trophy
@@ -23049,7 +23041,7 @@ MDぬいぐるみ２欠番,MD Plushie 2 Missing #
 第８回ラグアスの像庭,8th Raguas Statue (G)
 第８回ファラスの像庭,8th Faras Statue (G)
 第８回ナジーンの像庭,8th Nazine Statue (G)
-マダイの像,Red Snpr Statue
+マダイの像,Red Snapper Statue
 ライトニングシール,Lightning Sticker
 魔王と副官の肖像画,Demon King & Aide Portrait
 マデサゴーラの背景,Madesagora Background
@@ -23081,7 +23073,7 @@ MDぬいぐるみ２欠番,MD Plushie 2 Missing #
 ニット萌えそで,Knitted Cuffs
 ふわふわサンダル,Fluffy Sandals
 さくらレンズ,Cherry Blossom Lens
-錬金魔王の呪文,Alch Devil King Spell
+錬金魔王の呪文,Alchemy Devil King Spell
 錬金悪魔の呪文,Alchemy Devil Spell
 虹のフェザーチップ,Rainbow Feather Chip
 大聖堂のオルゴール,Cathedral Music Box
@@ -23142,7 +23134,7 @@ MDぬいぐるみ２欠番,MD Plushie 2 Missing #
 願いの花びら,Wish Petal
 ナイト交換券２０２２,Knight Ticket 2022
 経験値の古文書・海賊,Experience Scroll - PIR
-ふわふわリーナ,Fluffy Lena Sanguini
+ふわふわリーナ,Fluffy Sanguilina
 天翼の盾,Wing Shield
 スノーシールド,Snow Shield
 ライトバリア,Light Barrier
@@ -23202,7 +23194,7 @@ MDぬいぐるみ２欠番,MD Plushie 2 Missing #
 第９回ナジーンの像庭,9th Nazine Statue (G)
 第９回ヒューザの像庭,9th Hyuza Statue (G)
 第９回ラグアスの像庭,9th Raguas Statue (G)
-第９回ラダ・ガート像庭,9th Lada Gart Statue(G)
+第９回ラダ・ガート像庭,9th Lada Gart Statue (G)
 第９回ハクオウの像庭,9th Hakuo Statue (G)
 第９回ラウルの像庭,9th Raul Statue (G)
 第９回ユシュカの像庭,9th Yushka Statue (G)
@@ -23241,7 +23233,7 @@ MDぬいぐるみ２欠番,MD Plushie 2 Missing #
 星夜のピアス,Starry Night Earrings
 星夜のハット,Starry Night Hat
 星夜のスーツ上,Starry Night Suit Top
-星夜のスーツ下,Starry Night Suit Btm
+星夜のスーツ下,Starry Night Suit Bottom
 星夜のてぶくろ,Starry Night Gloves
 星夜のローファー,Starry Night Loafers
 星夜の髪飾り,Starry Night Hairpin
@@ -23513,8 +23505,8 @@ GPトロフィーピンク鉄,Pink GP Iron Trophy
 木造御殿のアーチ,Wood Palace Arch
 木造御殿の塀,Wood Palace Fence
 木造御殿のタイル,Wood Palace Tile
-ブロッサムハウス花柄壁,Blos. House Floral Wall
-ブロッサムハウス花の壁,Blos. House Flower Wall
+ブロッサムハウス花柄壁,Blossom House Floral Wall
+ブロッサムハウス花の壁,Blossom House Flower Wall
 妖精の隠れ家の石壁,Fairy Lair Stone Wall
 妖精の隠れ家の植物壁,Fairy Lair Plant Wall
 妖精の隠れ家蔦の仕切り,Fairy Lair Ivy Partition
@@ -23552,7 +23544,7 @@ GPトロフィーピンク鉄,Pink GP Iron Trophy
 ラウルトランプ,Raul Cards
 ヒメアトランプ,Himea Cards
 魔勇者トランプ,Evil Hero Cards
-魔勇者の背景,Evil Hero Bkgrnd
+魔勇者の背景,Evil Hero Background
 飛行士のキャップ,Aviator's Cap
 飛行士のシャツ,Aviator's Shirt
 飛行士のパンツ,Aviator's Shorts
@@ -23570,7 +23562,7 @@ GPトロフィーピンク鉄,Pink GP Iron Trophy
 桜モダングローブ,Cherry Modern Gloves
 桜モダンブーツ,Cherry Modern Boots
 桜モダンハット,Cherry Modern Hat
-桜モダンスーツ下,Cherry Modern Suit Btm
+桜モダンスーツ下,Cherry Modern Suit Bottom
 森林警備隊のぼうし,Forest Ranger Hat
 森林警備隊の制服上,Forest Ranger Shirt
 森林警備隊の制服下,Forest Ranger Pants
@@ -24084,7 +24076,7 @@ GPトロフィーピンク鉄,Pink GP Iron Trophy
 神父エゴール,Father Egor
 神父アレクセイ,Father Alexei
 神父ダニエル,Father Daniel
-神父バルトル,Father Bartle
+神父バルトル,Father Baltor
 シスター・ウル,Sister Uru
 シスター・サラ,Sister Sara
 シスター・リノ,Sister Reno
@@ -24296,7 +24288,7 @@ GPトロフィーピンク鉄,Pink GP Iron Trophy
 王たる者の資質,Qualities of a King
 勇士たちの祈り,Hero's Prayer
 神代の春の歌,Old Spring Song
-三闘士の導き,3 Fighter Guidance
+三闘士の導き,Triad's Guidance
 王者の継承,Champ Successor
 聖竜の神話,Holy Dragon Myth
 闇に眠りし王,King Slept in Dark
@@ -24551,7 +24543,7 @@ GPトロフィーピンク鉄,Pink GP Iron Trophy
 元気のミナモト,Healthy Source
 最期のグルメ,The Last Gourmet
 ナスビナーラは心配性,Woebergine is Worried
-やくそうの危険な香り,Med. Herb's Harmful Scent
+やくそうの危険な香り,Medical Herb's Harmful Scent
 少女の悪夢,Girls Nightmare
 渚のピチピチギャル,Trendy Beach Fashion
 夢見る少女,Dreaming Girl
@@ -25147,7 +25139,7 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 神様のお告げ,Word of God
 奇門遁甲の式・弐,2nd Divination Ceremony
 天より降りそそぐ黄金の雨,Golden Heavenly Rain
-肆の五声は哭の声,Fourth of 5 Voices Cry
+肆の五声は哭の声,Fourth of 5 Voices Weep
 聖夜に燃ゆる聖火,Fire Burns on Holy Night
 新春虎の子のお年玉,New Year Gift of the Tiger
 かっこよクモかわいクモ,Cool Spiders, Cute Spiders
@@ -25424,7 +25416,7 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 ＭＰリンク,MP Link
 エモノ呼び,Call Monster
 なつきやすくなる,Easier Attachment
-転生出現率アップ,Rarified Encounter Up
+転生出現率アップ,Rarefied Encounter Up
 スキルクラッシュ,Skill Crash
 ウォークライ,Wild Cry
 ビーストモード,Wild Side
@@ -25432,7 +25424,7 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 トラップジャマー,Trap Jammer
 どうぐ倍化術,Item Doubling Tech
 どうぐ範囲化術,Item Range Tech
-メタル出現率アップ,Metal Appearance Rate Up
+メタル出現率アップ,Metal Encounter Rate Up
 どうぐ発動速度短縮,Faster Item Usage
 プラズマリムーバー,Plasma Remover
 もうどくブルース,Poisonous Blues
@@ -25474,13 +25466,13 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 きまぐれ,Whimsical
 あそぶ,Lucky Dip
 くちぶえ,Whistle
-なめまわし,Tongue Lash
+なめまわし,Tongue Lashing
 ぱふぱふ,Puff-puff
 ほんきであそぶ,Serious Lucky Dip
 ひゃくれつなめ,Tongue Bashing
 死霊召喚,Summon Dead
 死霊の導き,Spirit Guidance
-デスパワー解放,Preserve Death Power
+デスパワー解放,Death Power Release
 呪詛,Curse
 深淵の契り,Dark Covenant
 反魂の秘術,Soulless Arcana
@@ -25550,7 +25542,7 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 マホターン,Bound
 ラリホーマ,Kasnooze
 メダパニーマ,Kafuddle
-ディバインスペル,Divine Intervention
+ディバインスペル,Anathematise
 マジックバリア,Magic Barrier
 ギラ,Sizz
 ベギラマ,Sizzle
@@ -25565,7 +25557,7 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 ヴェレノーマ,Katoxle
 闇のヴェール,Dark Veil
 邪炎波,Evil Wave
-いてつくはどう,Disruption Wave
+いてつくはどう,Disruptive Wave
 暗黒連撃,Dark Barrage
 占技・天輪殺,Divine Harmony
 闇の加護,Dark Gift
@@ -25587,7 +25579,7 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 錨ぶんまわし,Anchors Away
 散弾ショット,Buckshot
 砲撃ブースト,Ballistic Boost
-スタン弾ショット,Stun Shell
+スタン弾ショット,Stunning Shell
 ウルトラ大砲置き,Call Ultra Cannon
 メイルストロム,Maelstrom
 コーラルレイン,Coral Grief
@@ -26017,7 +26009,7 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 目覚めし五つの種族,Awakening of the Five Tribes
 眠れる勇者と導きの盟友,Sleeping Hero and Guiding Ally
 いにしえの竜の伝承,Lore of the Ancient Dragon
-5000年の旅路 遥かなる故郷へ, 5000 Year Journey to a Faraway Hometown
+5000年の旅路 遥かなる故郷へ,5000 Year Journey to a Faraway Hometown
 いばらの巫女と滅びの神,Thorny Maiden and the God of Destruction
 天星の英雄たち,Heroes of the Heavens
 エビルプリーストコイン,Aamon Coin
@@ -26170,8 +26162,8 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 おどろきとまどう,Shock and Confusion
 決めポーズ中央前列,Decisive Pose Front Row
 決めポーズ中央後列,Decisive Pose Back Row
-決めポーズ右,Decisive Pose R
-決めポーズ左,Decisive Pose L
+決めポーズ右,Decisive Pose Right
+決めポーズ左,Decisive Pose Left
 エルフのあいさつ,Elf Greeting
 オーガのあいさつ,Ogre Greeting
 武器をかかげる,Raise Weapon
@@ -26190,8 +26182,8 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 手をつなぐ,Hold Hands
 アイドルポーズ,Idol Pose
 もじもじ,Bashful
-決めポーズ右前列,Decisive Pose R Front
-決めポーズ左前列,Decisive Pose L Front
+決めポーズ右前列,Decisive Pose Right Front
+決めポーズ左前列,Decisive Pose Left Front
 ウインク,Wink
 コイントス,Coin Toss
 カードを引く,Draw Card
@@ -26253,7 +26245,7 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 ハートマジック,Heart Magic
 フェザーマジック,Feather Magic
 スターマジック,Star Magic
-桜マジック,C Blossom Magic
+桜マジック,Cherry Blossom Magic
 炎の友情☆ダンス,Fire Friendship☆Dance
 ネタ「タル」,Barrel Trick
 ネタ「ツボ」,Pot Trick
@@ -26458,8 +26450,8 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 新規ゾーン,New Zone
 風の竜イゾラ,Wind Dragon Izola
 パワーストーンマン,Power Stone Golem
-紅の魔結晶,Red Crystevil
-紫の魔結晶,Amethystevil
+紅の魔結晶,Red Crystal
+紫の魔結晶,Purple Crystal
 ジア・クリスタル,Dia Crystal
 色分けアタック,Color-coded Attack
 ススキーノ,Susukino
@@ -26525,8 +26517,8 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 バリケッタ,Barriqueta
 ルコール,Lukor
 ハドマ,Hadma
-家具屋プロン,Frn. Shop Puron
-新作家具屋ファーニ,New Frn. Shop Fanny
+家具屋プロン,Furniture Shop Puron
+新作家具屋ファーニ,New Furniture Shop Fanny
 預かり所フィア,Storage Fia
 移動係スケイプ,Travel Clerk Scape
 ススキラー,Silverkiller
@@ -26630,7 +26622,7 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 フルムーンチェア,Full Moon Chair
 ホワイトツリー,White Tree
 アウルクロー,Aul Claw
-絶念の果実,Despair Fruit
+絶念の果実,Forlorn Fruit
 エゼソル峡谷の木Ｃ,Ezesol Canyon Tree C
 橙のラクリマ,Orange Lacrima
 きのこ村のブラウス,Shroom Village Blouse
@@ -26638,7 +26630,7 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 アオちゃんカプセル,Bluey Capsule
 アウルウィップ,Aul Whip
 配布用特訓カード・小,Special Training Card S
-ハクオウトランプ,Hakou Deck
+ハクオウトランプ,Hakuo Deck
 アウルシールド,Aul Shield
 雪面のラグ,Snowy Rug
 ヘルヴェルトランプ,Helvel Deck
@@ -26686,7 +26678,7 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 魔力吸収布の製法,Magic Cloth Method
 配布用特訓カード・特大,Special Training Card XL
 モザイクタイルの壁,Mosaic Tile Wall
-１０周年クエスト印章,10th Anniv. Quest Stamp
+１０周年クエスト印章,10th Anniversary Quest Stamp
 壁かけうさぎの御簾,Rabbit Curtain
 祝い鯛,Sea Bream
 ギュッとネズミぐるみ,Mouse Arm Doll Plush
@@ -27049,7 +27041,7 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 くらげブーツ,Jellyfish Boots
 ケイトの勝負服,Kate's Best Clothes
 チョッピ荒野の木Ａ,Choppi Wilderness Tree A
-お庭用ドラポヨモニター,Tubby Dracky Monitor(G)
+お庭用ドラポヨモニター,Tubby Dracky Monitor (G)
 黄シュジャクカプセル,Yellow Peashock Capsule
 青シュジャクカプセル,Blue Peashock Capsule
 白シュジャクカプセル,White Peashock Capsule
@@ -27123,7 +27115,7 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 竜将のかぶと,Dragon General Helmet
 竜将のよろい上,Dragon General Armor Top
 竜将のよろい下,Dragon General Armor Bottom
-竜将のこて,Drgn General Grips
+竜将のこて,Dragon General Grips
 夜狐のつけ耳,Nightfox Ears
 竜将のグリーブ,Dragon General Greaves
 竜将のバイザー,Dragon General Visor
@@ -27194,9 +27186,9 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 ムーンシューター,Moon Shooter
 お祭りやぐら館庭用板壁,Festival Wood Wall (G)
 お祭りやぐら館庭用砂壁,Festival Sand Wall (G)
-神緋の鎌,God Sickle
+神緋の鎌,God Scythe
 お庭用釣り堀,Fish Pond (G)
-ブロッサムハウス庭用柱,Blossom House Pillar(G)
+ブロッサムハウス庭用柱,Blossom House Pillar (G)
 翼神のオノ,Winged God Axe
 サターンロッド,Saturn Rod
 エレガントポイズン,Elegant Poison
@@ -27390,7 +27382,7 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 子供向けの木工教本,Children's Woodwork Manual
 格式高い申請用紙,Formal Application Form
 怪盗対策用ワナ,Anti-Thief Trap
-石碑の仮面,Mask Statue
+石碑の仮面,Monument Mask
 子供たちの絵,Children's Drawing
 船用木材,Ship Lumber
 無垢なる勇者の剣,Innocent Hero's Sword
@@ -27676,7 +27668,7 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 願い星瞬いて２０２２,Wishing Stars 2022
 ２人のクライアント,Two Clients
 世紀の新発見,New Discovery
-余計なものを削りとれ,Cut Out the Access
+余計なものを削りとれ,Cut Off the Excess
 シスターたちのうわさ話,Rumor About the Sisters
 感謝を求める者たち,Those Who Seek Gratitude
 ヒマエルのひまつぶし,Himael's Waste of Time
@@ -27922,7 +27914,7 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 ジルジャ,Jiruja
 グウェン,Gwen
 ガラ,Gla
-ガトゥ,Gattu
+ガトゥ,Gatu
 デドダ,Dedoa
 ヴァド,Vado
 グイド,Guido
@@ -28954,7 +28946,7 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 ベスン,Besun
 ブルバー,Bruba
 ハグ,Hagu
-ツムム,Tsummu
+ツムム,Tsumumu
 ラッピ,Rappi
 ウナス,Unasu
 トーレ,Torre
@@ -29445,3 +29437,637 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 ステテコパンツ,Boxer Shorts
 リセロット,Licelotte
 ティーフ,Tief
+センナ,Senna
+トナナ,Tonana
+ミズッチ,Mizucchi
+ホイミン,Healie
+ロレンス,Laurel
+スコット,Hardie
+オーリン,Oojam
+ホフマン,Hoffman
+ルーシア,Orifiela
+ドラン,Sparkie
+チャゴス,Prince Charmles
+テストノノ,Testonono
+サララ,Salara
+ヨッチ,Yoch
+ガボリス,Gaboris
+マミロン,Mamiron
+ヒラリス,Hilaris
+ヤズーダ,Yazuda
+ノロン,Nolon
+イグマ,Igma
+ビヨンサ,Beyonsa
+ポスタン,Postan
+パジラス,Pajiras
+ミュッカ,Myukka
+ダッホイ,Dahoi
+ノズーボ,Nozbo
+カサリン,Catherine
+ガングリー,Gangri
+ナイリア,Nairia
+ガガオス,Gagaos
+ジンダス,Jindas
+ビリッグ,Biligg
+ゴモラ,Gomorrah
+スプヤ,Spuya
+ギモフ,Gimov
+シューク,Shuku
+ガリス,Garris
+チィクア,Chikua
+プペル,Puperu
+アルナス,Arnas
+ナリア,Naria
+メルルフ,Melurf
+ポルースカ,Poruska
+ヨグナ,Yoguna
+ネウェ,Neiwei
+ワッタ,Watta
+トントネ,Tontone
+レタラ,Retara
+ナミホ,Namiho
+リコリー,Ricoly
+ヤウラ,Yaura
+ナシュレク,Nashlek
+モコロ,Mokoro
+シグネロ,Shigunero
+ニレ,Elm
+ニシホタ,Nishihota
+セトゥル,Setul
+ヒツァタ,Hizzata
+ヒぺーナ,Hippena
+ホーロ,Horo
+プンスコのテーブル＆ティーセット,Punsuko's Table & Tea Set
+プンスコのティーカップ,Punsuko's Tea Cup
+カムシカ・たづな無し,Azlantelope without Reins
+カムシカ・たづなあり,Azlantelope with Reins
+ガスタ,Gasta
+ゲルン,Gerun
+グルーネ,Grune
+ギャスパー,Gasper
+ディグ,Dig
+ニドン,Nidon
+ドライト,Dright
+ギッドン,Giddon
+ニイペ,Niipe
+ゴンゾ,Gonzo
+ムルギー,Murgy
+ポポタン,Popotan
+ベビー,baby
+マネキン,mannequin
+ローゼの剣,Rosey's Sword
+シスター・フプ,Sister Fupu
+ヘプット,Heputto
+フリーツ,Fritz
+エリーゼ,Elize
+シェリー,Sherry
+マーシィ,Marcy
+イクーサ,Ikusa
+マーラー,Marla
+ググル,Gugur
+ツァラオ,Tsaro
+ノレエレ,Noreele
+ロロ,Lolo
+アウダ,Auda
+チチカ,Chichika
+ササラ,Sasara
+テテオ,Teteo
+ヤママ,Yamama
+チェラ,Chera
+カカナ,Kakana
+タカチャ,Takacha
+トトポ,Totopo
+ズチチ,Zuchichi
+タタラ,Tatara
+バレンケ,Barenke
+屋形船,houseboat
+バナパ,Banapa
+ペケ,Peke
+カッチュ,Katchu
+マヨイ,Mayoi
+ラライヤ,Laraya
+ディビフ,Dibif
+シシーラ,Shishira
+ネネ,Nene
+アガッツィ,Agazzi
+トゥルキス,Turkis
+ウォッサム,Wassam
+スアーレ,Suare
+ヒッピャぺ,Hippyapei
+ヘペラーナ,Heperana
+チュチピカ,Chuchipika
+ガガド,Gagado
+ヘヘヘパ,He-He-He-Pa
+パピヨン,Papillon
+シロップ,Shiropp
+フリップ,Furipp
+アペ,Apei
+キャプシン,Capsin
+ポルト,Porto
+カンポン,Kanpon
+パステル,Pastel
+オペラ,Opera
+ミルフィ,Mirfi
+パッチ,Patch
+プリオ,Purio
+ポワソン,Poisson
+アプレ,Apure
+アプリコ,Aprico
+パテ,Pate
+プリュノー,Pruneaux
+プーペ,Poupe
+マジパン,Marzipan
+ポワール,Poire
+ペーシュ,Peche
+エイポン,Apon
+ナーロー,Naro
+ヘージャ,Heja
+ホメメ,Homeme
+ドホース,Dohos
+アノカ,Anoka
+フェード,Fedo
+レイリィー,Laylee
+セッチャー,Setcher
+アース,Asu
+アリューロ,Alluro
+サビーヌ,Sabine
+ドゥーモ,Dumo
+ナビーノ,Nabino
+ヴェーロ,Vero
+渡し守,ferryman
+ショー,Sho
+フルーラ,Flura
+ユーイ,Yui
+アデーレ,Adele
+シグーノ,Shiguno
+グレッサ,Gressa
+ロヨバン,Royoban
+サッケス,Sakkes
+バキーン,Bakeen
+ゴノザマー,Gonozamar
+グズガス,Guzugas
+イサリ,Isari
+街教会聖職者,church clergyman
+ギン,Gin
+ジーン,Jean
+ラプ,Rapp
+立て札,sign
+ワオ,Wao
+ハイクラム,Haikram
+フブキ博士,Dr. Fubuki
+イレス,Iless
+イプ,Ipu
+ガガ,Gaga
+ジャドン,Jadon
+フェア,Fea
+ヴィール,Veer
+ガートゥ,Gartu
+ヴド,Vudo
+リグ,Rig
+ガニャ,Ganya
+トリ,Tori
+グレリオ,Gurerio
+レア,Lea
+ポップ,Poppu
+プラット,Pratt
+ルオパリ,Ruopari
+アルパ,Alpa
+スイプト,Suiputo
+ポッチ,Potch
+セピア,Sepia
+パフ,Paff
+トゥループ,Tolupu
+ぺネロぺ,Penelope
+ピルトン,Pilton
+プープル,Pupuru
+ぺルソン,Peruson
+ピペル,Pipel
+パレルモ,Palermo
+ピュリィ,Puri
+メギピオ,Megipio
+ポンク,Ponk
+ペラトン,Peraton
+プルペア,Prupea
+パプナ,Papna
+ピツァ,Pizza
+スピカ,Spika
+エミヤ,Emiya
+シグレ,Shigure
+アキラ,Akira
+ヒソカ,Hisoka
+ズショ,Zusho
+シカン,Shikan
+マリハ,Mariha
+カワラ,Kawara
+イケウ,Ikeu
+ラデン,Raden
+ミチョム,Michom
+カシヲ,Kashio
+キムンカム,Kimunkam
+カリヤ,Kariya
+カムヤプ,Kamyapu
+マツシム,Matsushim
+イズ,Izu
+ウキヨ,Ukiyo
+ナンタ,Nanta
+クルイ,Krui
+オシエム,Oshiem
+イウカ,Iuka
+サクラ,Sakura
+トゥスカ,Tuska
+アズナイ,Aznai
+アニク,Anik
+リナ,Lina
+ファライ,Farai
+タパ,Tapa
+イヒラ,Ihira
+アナナ,Anana
+ムタンド,Mutando
+ロシャ,Rosha
+カワチィ,Kawachi
+イェン,Yen
+カカフ,Kakafu
+グリ,Guri
+ヌヌ,Nunu
+ホホナ,Hohona
+シリリ,Shiriri
+ガリャ,Garya
+ブイイ,Buii
+ラドワ,Radwa
+フファ,Fufa
+べべ,Bebe
+ズィラヴ,Zirav
+ムシュコ,Mushko
+ナナ,Nana
+ヅィラ,Zira
+ゼルル,Zerul
+ヴェネタ,Veneta
+ドゥドゥ,Dudu
+プシャン,Pushan
+リリル,Lilyl
+ドドル,Dodol
+ホホル,Hohol
+リリア,Lilia
+ブブラ,Bubra
+バァス,Baasu
+ステフ,Steph
+アッカ,Akka
+ヘレナ,Helena
+タオ,Tao
+ランジュ,Lange
+シフォン,Chiffon
+セルリー,Saralee
+マノロ,Manoro
+ジャミル,Jamil
+エミリオ,Emilio
+デュダス,Dudas
+ブラニコ,Branico
+フリゾン,Frizon
+ミュラド,Murad
+エーデル,Edel
+シエーロ,Siero
+パーリス,Paris
+クルース,Cruz
+ターシュ,Tarsh
+クリーフ,Clief
+フージュ,Fuju
+ルイース,Louise
+アン,Ann
+エール,Ale
+ルース,Ruth
+フォーヴ,Fove
+マキシー,Maxi
+トージ,Toji
+モンポー,Monpo
+ヌルー,Nuru
+ルーア,Lua
+キトリー,Kitoli
+リューシャ,Ryusha
+メロー,Mero
+リーヴェ,Rivei
+マガール,Magar
+サガール,Sagaar
+ローラン,Laurent
+ビューガ,Buga
+シーリャ,Silia
+ヤーィヴ,Yaiv
+シャーニャ,Shanya
+ヂュロリー,Durory
+ニューチョ,Nyucho
+キャーラ,Cara
+ザンドー,Zando
+カナール,Kanar
+ワドワー,Wadowa
+メローメ,Melome
+ジューラ,Jura
+ナーズ,Nazu
+リモン,Rimon
+グリッタ,Glitter
+ライル,Lyle
+マリサ,Marisa
+アニック,Annick
+シャントン,Shanton
+ダミーニ,Damini
+エマル,Emal
+パラツォ,Palazzo
+タグ,Tag
+ウルツア,Ultua
+ジアツク,Jiatsuku
+ヤヤク,Yayaku
+ユネネ,Yunene
+ボラチャ,Boracha
+チェツア,Chetua
+コキヒ,Kokihi
+カラタチ,Karatachi
+アラネ,Aranei
+ヨシヤ,Yoshiya
+オモダカ,Omodaka
+ツユミ,Tsuyumi
+ザガゾン,Zagazon
+ジヌガ,Jinuga
+バスラ,Basra
+グッタル,Guttal
+ベルギル,Bergill
+カンラ,Kanra
+シーンネ,Shinei
+預かり所ぺイジー,Storage Peiji
+オパール,Opal
+ポンム,Pomme
+シプレ,Shipure
+ピロッテ,Pilotte
+プーリィ,Puryi
+ポッピロ,Poppiro
+ケーネ,Kenei
+フェール,Feru
+プレーリー,Prairie
+レーテュ,Reityu
+シーヴェ,Shivei
+アトゥイ,Atui
+転送係ガルニー,Transfer Agent Garnie
+店員ティア,Clerk Tia
+転送係タイズ,Transfer Agent Taz
+よろず屋ガーディ,General Shop Gadi
+店員グォン,Clerk Guon
+よろず屋ポロペン,General Shop Poropen
+装飾具屋ピッタン,Decoration Shop Pittan
+転送係ムタタプ,Transfer Agent Muttap
+武器屋ルアンべ,Weapon Shop Luambe
+店員ウラカ,Clerk Uraka
+宿屋シルバーナ,Innkeep Silvana
+よろず屋スワーニ,General Shop Swani
+よろず屋ルキーノ,General Shop Lukino
+マスター・アーリュ,Master Aryu
+紹介屋メレーヌ,Refer Shop Melene
+素材屋サビーラ,Material Shop Sabira
+クユーイ,Kuyui
+店員フリーダ,Clerk Frida
+店員タウノ,Clerk Tauno
+転送係エグバート,Transfer Agent Egbert
+転送係フレデリ,Transfer Agent Fredri
+参加受付クライブ,Signup Desk Clive
+店員ルワーレ,Clerk Ruwarei
+オーマス,Omas
+クリーズ,Kurize
+アマリア,Amalia
+エルネリ,Erneri
+転送係ビエーロ,Transfer Agent Viero
+メオーズ,Meoze
+スーミュ,Sumyu
+バウンズ,Baunze
+よろず屋カトラズ,General Shop Katraz
+店員ザール,Clerk Zarr
+転送係ダウラ,Transfer Agent Dar
+よろず屋ゼクバ,General Shop Zekuba
+よろず屋ドロッジェ,General Shop Drogger
+イバ,Iba
+店員テリップ,Clerk Teripp
+転送係キャプン,Transfer Agent Kyapun
+よろず屋ペピール,General Shop Pepeelu
+マスター・クレップ,Master Krepp
+素材屋ミルフィプ,Material Shop Mirfpu
+紹介屋サパラン,Refer Shop Saparan
+パメッチ,Pametchi
+アプラト,Aprat
+ヨプリ,Yopuri
+リピコ,Lipico
+料理屋パロンタ,Server Paronta
+店員パフタ,Clerk Pufta
+転送係プンペン,Transfer Agent Punpen
+料理屋パムック,Server Pamuku
+トロぺ神父,Father Toropei
+よろず屋ピンドフ,General Shop Pindoff
+武器屋モヌス,Weapon Shop Monus
+家具屋ユク,Furniture Shop Yuku
+店員カンザ,Clerk Kanza
+転送係ツキヨ,Transfer Agent Tsu
+ザンバ,Zamba
+駅員マツノシ,Attendant Matsunoshi
+北の渡し守べニーズ,North Ferryman Benize
+トニオス,Tonios
+タラクハ,Tarakuha
+アンナ,Anna
+ブルダル,Buldar
+オルグ,Orgu
+ケルビス,Kervis
+ラビィ,Rabbi
+イダテ,Idatei
+ユージャ,Yuja
+テルペ,Terupe
+アリシス,Alisis
+メリッサ,Melissa
+ウルミダ,Urumida
+ミツカ,Mitska
+フレイア,Freia
+ポンタ,Ponta
+武器防具屋ソロリ,Weapon & Armor Shop Sorori
+店員ユゴオ,Clerk Yugoo
+アロロ,Aroro
+転送係コオモス,Transfer Agent Coomos
+店員マルル,Clerk Marul
+イイト,Eito
+転送係ラアドワ,Transfer Agent Radowa
+モンツィ,Monzi
+商人タヴィ,Merchant Tavi
+素材屋セリーヌ,Material Shop Celine
+取引商タヴィ,Trader Tavi
+素材屋ミラベル,Material Shop Mirabel
+ダーマ神官アデラ,Abbey Priest Adela
+ダーマ神官ネイシャ,Abbey Priest Neisha
+店員タブレ,Clerk Tabure
+よろず屋ヤップイ,General Shop Yapui
+よろず屋ペリトン,General Shop Periton
+よろず屋ポナック,General Shop Ponak
+よろず屋パサンタ,General Shop Pasanta
+レシピ屋アルキパ,Recipe Shop Archipa
+ユムム,Yumumu
+ズッサム,Zussam
+よろず屋リューロ,General Shop Ryuro
+武器屋ブロルト,Weapon Shop Brolt
+防具屋スット,Armor Shop Sutto
+魔獣ヒュブロス,Demon Beast Hubros
+よろず屋プロシオ,General Shop Proshi
+タルコット,Talcot
+商人パサル,Merchant Pasal
+商人ティサウ,Merchant Tissau
+商人キュル,Merchant Kyuru
+取引商アンズ,Trader Anzu
+素材屋ペピール,Material Shop Pepeelu
+取引商レリーン,Trader Leleen
+商人タサール,Merchant Tasar
+武器屋クータス,Weapon Shop Kootas
+防具屋ヴィーサ,Armor Shop Visa
+商人ルヤーナ,Merchant Luyana
+マニー,Manny
+プロッペくん,Mr. Proppe
+パンプキンキッズ,Pumpkin kids
+使徒チャミミ,Apostle Chamim
+使徒ホウガイ,Apostle Hougai
+使徒ベニヒナ,Apostle Beniha
+使徒セーケン,Apostle Seiken
+使徒キルパッポ,Apostle Kilpappo
+サーラン,Saran
+ゆうぼん,Horii
+すぎやん,Sugi
+アキーラ,Akira
+イカリン,Ikarin
+タコポン,Takopon
+ワカメン,Wakamen
+英雄プクラス,Hero Pukulas
+あくま,Demon
+パンプキン,Pumpkin
+ドラキュラ,Dracula
+茶うさぎ,Tea Rabbit
+桃うさぎ,Pink Rabbit
+青うさぎ,Blue Rabbit
+白うさぎ,White Rabbit
+ゆうれい,specter
+時空監察官,Spacetime Chief
+古代の英雄,Ancient Hero
+こぶた,piggy
+スタミィ,Stammy
+ネズミ,mouse
+ロザリー,Rosalie
+キンナ,Kinna
+リン,Lin
+神父エブラフ,Father Ebluff
+ケーキ神のぬいぐるみ,Cake God Plushie
+カチャ,Kacha
+モスコウ,Moscou
+カヤ,Kauya
+ガットゥ,Gattu
+オルパナ神官,Priest Orpana
+ペロ,Pero
+キム,Kim
+リリイ,Lilly
+アシュレー,Ashlei
+ニコール,Nicole
+グレース,Grace
+アールー,Arue
+小さなメダル,Mini Medal
+オバケ,ghost
+オオカミ,wolf
+ネコ,cat
+ギヨッテ,Giyotte
+エイナル,Einar
+マロック,Maroc
+フラノワ,Flannoy
+バートン,Barton
+マルコメス,Malcomess
+ココッチャ,Cococha
+ヤッチェ,Yatche
+ギルバ,Gilba
+ハッケ,Hakke
+プーレ,Pure
+トトン,Toton
+バンギ,Bangi
+ヤキル,Yakiru
+アーリ,Arri
+サジ,Saji
+ハクチャ,Hakucha
+オルカ,Orca
+ヘラ,Hera
+ハネギ,Hanegi
+ココ,Koko
+マギー,Maggie
+ヒナギク,Hinagiku
+パパーナ,Papana
+シェリ,Sheri
+セリナ,Serina
+ポポ,Popo
+ティモ,Timo
+シードル,Shidoru
+コダマ,Kodam
+ロニー,Ronny
+ゴッテス,Gottess
+ボルンガ,Borunga
+バッドン,Baddon
+ドドリス,Dodris
+ハンチャ,Hancha
+インゴ,Ingo
+ボッタ,Botta
+カリマ,Karima
+イッテツ,Ittetsu
+ヤン,Yan
+ジャガイ,Jagai
+ガット,Gatto
+ヤココ,Yakoko
+イチジク,Ichijiku
+アププ,Apupu
+ホオズキ,Hozuki
+キセラ,Kisera
+チペラ,Chipera
+ホワラ,Howara
+マチェ,Mache
+ホルプ,Holp
+エドー,Ed
+ナトリ,Natalie
+ガンボ,Gumbo
+ロウダ,Rouda
+マフー,Mafu
+ホーリス,Horiss
+ドラーク,Drake
+パルカ,Parka
+イーハ,Iha
+ハロン,Haron
+ムスチー,Muschi
+レオニ,Leonie
+エゴール,Egor
+アレクセイ,Alexei
+ダニエル,Daniel
+バルトル,Baltor
+ウル,Uru
+サラ,Sara
+ドラ,Dora
+ルマ,Luma
+チモ,Chimo
+ラン,Lan
+トボラ,Tobora
+チュダ,Chuda
+ハルザ,Haruza
+マズル,Mazur
+メドゥナ,Meduna
+メルカ,Merca
+コウロ,Kouro
+アボット,Abbot
+ビーン,Bean
+ベント,Bento
+ピケット,Piket
+ポート,Boto
+ペインズ,Penzu
+バルフ,Balf
+ボウマン,Bowma
+コチョ,Kocho
+カラマツ,Larch
+アカマツ,Akamatsu
+エゾマツ,Spruce
+ケヤキ,Elm
+アガタ,Agata
+ボチボ,Bochi
+マッカ,Macca
+デンナ,Denna
+チャーリー,Charlie
+バグタ,Baguta
+ケチャ,Kecha
+ソイル,Soyle
+ゼラリム,Zelarim
+シルバー,Silver
