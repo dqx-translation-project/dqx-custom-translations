@@ -252,7 +252,7 @@
     "レベルの上限が１２４になる": "Maximum Level Becomes 124"
   },
   "85": {
-    "美容院で使える色が１０色増える": "Unlock 10 More Hair Colors"
+    "美容院で使える色が１０色増える": "Unlock 10 More Salon Colors"
   },
   "86": {
     "魔剣士に転職可能になる": "Unlock Demon Swordsman Vocation"
@@ -291,7 +291,7 @@
     "スケッチを見られるようになる": "Can View Sketches"
   },
   "98": {
-    "美容院で使える色が増える": "Unlock New Salon Colors"
+    "美容院で使える色が増える": "Unlock a New Salon Color"
   },
   "99": {
     "魔法戦士に転職可能になる": "Unlock Armamentalist Vocation"
@@ -639,7 +639,7 @@
     "美容院で　身体の大きさが": "Your Body Size"
   },
   "214": {
-    "美容院で使える色が８色増える": "8 New Colors Available at Salon"
+    "美容院で使える色が８色増える": "Unlock 8 More Salon Colors"
   },
   "215": {
     "鉄の金庫が使えるようになる": "Iron Safe Is Available"
@@ -670,5 +670,8 @@
   },
   "224": {
     "　ふりなおし可能になる": "  While In Town"
+  },
+  "225": {
+    "美容院で使える色が１８色増える": "Unlock 18 More Salon Colors"
   }
 }
