@@ -8528,7 +8528,7 @@ PCベビー,PC's Baby
 ゴードンヘッド,Mega Moai
 クラウンヘッド,Moai Minstrel
 なげきの魔像,Lord Magmoai
-月守りの巨岩,Large Moon Guard Rock
+月守りの巨岩,Moon Guard Moai
 勇気のケモノ甲,Beast of Courage A
 勇気のケモノ乙,Beast of Courage B
 震王ジュノーガ,Quake King Junoga
@@ -9424,7 +9424,7 @@ PCベビー,PC's Baby
 サイレス・強,Evil Gryphon
 ダークトロル,Terror Troll
 デスクローゼット,Mimicloset
-復活薬,Revive Medicine
+復活薬,Stimulant
 邪王の操り人形,Evil King's Puppet
 時増しの門番,Aged Gatekeeper
 キングスライム・強,Evil King Slime
@@ -12676,7 +12676,7 @@ SPアイテム,Skill Point Items
 トールナイフ,Thor Knife
 レジェンズステッキ,Legends Wand
 ピンスティック,Pocus Pin
-ローリエの小枝,Sprig of Bay Leaf
+ローリエの小枝,Laurel Twig
 スライムステッキ,Slime Stick
 桜のスティック,Cherry Blossom Stick
 モーモンスティック,Teeny Sanguini Wand
@@ -12738,7 +12738,7 @@ SPアイテム,Skill Point Items
 聖王の杖,Dryspell Staff
 イーリスの杖,Rod of Paradise
 ウィキッドスタッフ,Wicked Staff
-にくきゅうの杖,Pawmaturge Cane
+にくきゅうの杖,Pawmaturge Staff
 ルシェンダの杖,Lushenda's Staff
 万物流転の杖,Uncertainty Staff
 たけやり,Bamboo Spear
@@ -12881,7 +12881,7 @@ SPアイテム,Skill Point Items
 アンノウンロッド,Unknown Rod
 もぐらのスコップ,Mad Mole Shovel
 ネレウスロッド,Nereus Rod
-ヘリオスロッド,Helios' Rod
+ヘリオスロッド,Helios Rod
 ディバインロッド,Divine Rod
 キャットクロー,Cat's Claws
 どうのツメ,Copper Claws
@@ -13022,7 +13022,7 @@ SPアイテム,Skill Point Items
 はがねのブーメラン,Soarin' Steel
 プラチナウィング,Platinum Plumes
 サザンクロス,Star Cross
-妖鳥のくちばし,Young Bird's Beak
+妖鳥のくちばし,Bad Bird's Beak
 ダークスター,Dark Star
 常闇のブーメラン,Everdark Boomerang
 トライチャクラム,Tri-Chakram
@@ -13073,7 +13073,7 @@ SPアイテム,Skill Point Items
 聖王の盾,Dryspell Shield
 ウルベアの大盾,Urbea Greatshield
 常闇の大盾,Everdark Greatshield
-ゼレスタイトの大盾,Zelestite Greatshield
+ゼレスタイトの大盾,Celestite Greatshield
 風雲の大盾,Windy Greatshield
 聖王の大盾,Dryspell Greatshield
 ニューＶロンの盾,New Vron Shield
@@ -14729,7 +14729,7 @@ SPアイテム,Skill Point Items
 Ｖロンコイン,Vron Coin
 フワフワわたアメ,Fluffy Cotton Candy
 フラワーギフト券,Flower Gift Voucher
-ＤＱⅣ主人公券,DQⅣ Hero Coupon
+ＤＱⅣ主人公券,DQⅣ Hero Ticket
 金のナスビナーラ衣装券,Gold Woebergine Ticket
 ＤＱⅧ主人公券,DQⅧ Hero Ticket
 プスゴンきぐるみ券,Pusgon Costume Ticket
@@ -14807,7 +14807,7 @@ SPアイテム,Skill Point Items
 バラモスカード,Baramos Card
 ゴールドマン衣装券,Gold Golem Costume Ticket
 ナスビナーラ衣装券,Woebergine Costume Ticket
-ドルワーム研究服券,Dolworm Outfit Coupon
+ドルワーム研究服券,Dolworm Outfit Ticket
 みちくさコイン,Dawdle Coin
 きせかえドール交換券,Doll Exchange Ticket
 ヒスイのカギ,Jade Key
@@ -16473,7 +16473,7 @@ SPアイテム,Skill Point Items
 レジェンズエッジ,Legends Edge
 ライトスティック,Light Stick
 バージニアステッキ,Virginia Stick
-きのこのスティック,Mushroom Wand
+きのこのスティック,Shroom Stick
 プスゴンステッキ,Pusgon Cane
 ガブリエルのやり,Gabriel's Spear
 神護の薙刀,God's Halberd
@@ -16512,7 +16512,7 @@ SPアイテム,Skill Point Items
 ネレウスハンマー,Nereus Hammer
 ディバインハンマー,Divine Hammer
 アンタッチャブル,Untouchable
-ピコピコハンマー,Pico-Pico Hammer
+ピコピコハンマー,Honking Hammer
 エンジェルウィング,Angel Wing
 ヒトデのブーメラン,Starfish Boomerang
 魔女のイヤリング,Witch's Earrings
@@ -17506,16 +17506,16 @@ SPアイテム,Skill Point Items
 第１回家写真コン・銀,1st House Photo Silver
 第１回家写真コン・銅,1st House Photo Bronze
 カカシつきの畑,Scarecrow Field
-レッドローズのタネ,Red Rose Seeds
-ピンクローズのタネ,Pink Rose Seeds
-ジャングルリップのタネ,Jungle Tulip Seeds
-イエローリップのタネ,Yellow Tulip Seeds
-ブルーリリィのタネ,Blue Lily Seeds
-バニラリリィのタネ,Vanilla Lily Seeds
-グレーリリィのタネ,Dark Gray Lily Seeds
-あずきガーベラのタネ,Red Bean Gerbera Seeds
-まっちゃガーベラのタネ,Matcha Gerbera Seeds
-プラムガーベラのタネ,Dark Plum Gerbera Seeds
+レッドローズのタネ,Red Rose Seed
+ピンクローズのタネ,Pink Rose Seed
+ジャングルリップのタネ,Jungle Tulip Seed
+イエローリップのタネ,Yellow Tulip Seed
+ブルーリリィのタネ,Blue Lily Seed
+バニラリリィのタネ,Vanilla Lily Seed
+グレーリリィのタネ,Dark Gray Lily Seed
+あずきガーベラのタネ,Red Bean Gerbera Seed
+まっちゃガーベラのタネ,Matcha Gerbera Seed
+プラムガーベラのタネ,Dark Plum Gerbera Seed
 レッドローズ,Red Rose
 アメジストローズ,Amethyst Rose
 ピンクローズ,Pink Rose
@@ -17592,10 +17592,10 @@ SPアイテム,Skill Point Items
 木工職人の看板,Woodworking Sign
 さいほう職人の看板,Sewing Sign
 タネ屋の看板,Seed Shop Sign
-天使のスズランのタネ,Angel Lily Seeds
-ブラウンマリーのタネ,Brown Marie Seeds
-オリーブマリーのタネ,Olive Marie Seeds
-ナイトマリーのタネ,Night Marie Seeds
+天使のスズランのタネ,Angel Lily Seed
+ブラウンマリーのタネ,Brown Marie Seed
+オリーブマリーのタネ,Olive Marie Seed
+ナイトマリーのタネ,Night Marie Seed
 オパールのイス,Opal Chair
 オパールのベンチ,Opal Bench
 オパールのテーブル小,Opal Table S
@@ -17711,9 +17711,9 @@ SPアイテム,Skill Point Items
 ギガンテスの像・庭,Gigantes Statue (G)
 スライムタワーの像・庭,Slime Stack Statue (G)
 ドラキーマの像・庭,Drackyma Statue (G)
-オレンジスズランのタネ,Orange Lily Seeds
-カフェスズランのタネ,Latte Lily Seeds
-ラベンダスズランのタネ,Lavender Lily Seeds
+オレンジスズランのタネ,Orange Lily Seed
+カフェスズランのタネ,Latte Lily Seed
+ラベンダスズランのタネ,Lavender Lily Seed
 カフェラテスズラン,Latte Lily
 サンゴールドスズラン,Sungold Lily
 パールスズラン,Pearl Lily
@@ -18018,11 +18018,11 @@ SPアイテム,Skill Point Items
 ドット毒沼柄ラグ,Poisonous Swamp Rug
 ドット旅の扉柄ラグ,Travel Door Rug
 ドットすべる床柄ラグ,Sliding Floor Rug
-まんまるポテトのタネ,Budding Spud Seeds
-ジャンボ玉ネギのタネ,Overgrown Onion Seeds
-しゃっきりレタスのタネ,Luscious Lettuce Seeds
-ふわふわ小麦のタネ,Wondrous Wheat Seeds
-ライスフラワーのタネ,Rice Blossom Seeds
+まんまるポテトのタネ,Budding Spud Seed
+ジャンボ玉ネギのタネ,Overgrown Onion Seed
+しゃっきりレタスのタネ,Luscious Lettuce Seed
+ふわふわ小麦のタネ,Wondrous Wheat Seed
+ライスフラワーのタネ,Rice Blossom Seed
 梅柄のフトン,Plum Blossom Futon
 梅柄のざぶとん,Plum Blossom Floormat
 梅柄の長ざぶとん,Plum Blossom Floormat L
@@ -18096,7 +18096,7 @@ SPアイテム,Skill Point Items
 ガーデンスラ花火台・赤,Red Slime Fireworks Stand (G)
 ガーデンスラ花火台・黄,Yellow Slime Fireworks Stand (G)
 ガーデンスラ花火台・青,Blue Slime Fireworks Stand (G)
-超トマトのタネ,Super Tomato Seeds
+超トマトのタネ,Super Tomato Seed
 ハイビスカスのアーチ,Hibiscus Arch
 ガーデンシャワー,Garden Shower
 トロピカルテーブル,Tropical Table
@@ -18127,7 +18127,7 @@ SPアイテム,Skill Point Items
 ドーナツクッション・白,White Donut Cushion
 スライムざぶとん,Slime Floormat
 南国スラムざぶとん,Tropical Slime Floormat
-びっくりトマトのタネ,Killer Tomato Seeds
+びっくりトマトのタネ,Killer Tomato Seed
 調理職人の看板,Cooking Sign
 料理屋の看板,Eatery Sign
 グランドピアノ,Grand Piano
@@ -18472,7 +18472,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 貯金ぶた・成功の秘訣,The Secret of Success
 転生の輝石,Reincarnite
 ぎんのこうせき,Silver Ore
-黄金の秘宝？,Gold Treasure?
+黄金の秘宝？,Gold Treasure ?
 赤キノコ栽培日記,Mushroom Diary
 セクシーインテリアの本,Sexy Interior Book
 飾りタイルの家具の本,Tile Furniture Book
@@ -18569,7 +18569,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 ズッシリゾットのレシピ,Sushi Risotto Recipe
 キラパン白プリズム,White Sabrecat Prism
 キラパン黒プリズム,Dark Sabrecat Prism
-小さな黄金の秘宝？,Small Gold Treasure?
+小さな黄金の秘宝？,Small Gold Treasure ?
 タルトと安らかな午後,Tart and Calm Afternoon
 ライトニングソードの書,Thunderstorm Sword Book
 エンパイアブレードの書,Legate's Blade Book
@@ -18582,7 +18582,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 オーディーンボウの書,Odin's Bow Book
 退魔の装束の作り方,Make an Exorcism Outfit
 王軍師のよろいの本,Royal Soldier Armor Book
-クリムゾンメイルの書,Crimson Mail Recipe
+クリムゾンメイルの書,Crimson Mail Book
 レイブンスーツのレシピ,Raven Suit Recipe
 ザ・フライパンメーカー,The Frying Pan Maker
 プラチナフライパンの本,Platinum Fry Pan Book
@@ -18759,7 +18759,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 音符の家具のセレナーデ,Music Decor Serenade
 音符のラグのララバイ,Music Rug Lullaby
 輝く虹を追いかけて,Chasing a Rainbow
-大きな黄金の秘宝？,Large Gold Treasure?
+大きな黄金の秘宝？,Large Gold Treasure ?
 聖賢者の予言書,Holy Sage's Prophecy
 黄竜伝,DragonDen
 ヴァイパーのささやき,Viper's Whisper
@@ -18850,8 +18850,8 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 光と闇の黙示録,Light & Dark Secrets
 詩集・追想の愛,Recollection of Love
 琴座の五線譜,Lyre's Score
-ベストゼレスタイト,Best Zelestite
-ミニ料理集・パスタ＆米,Mini Rice & Pasta Cbook
+ベストゼレスタイト,Best Celestite
+ミニ料理集・パスタ＆米,Mini Rice/Pasta Cookbook
 ミニ料理集・魚料理編,Mini Fish Dish Cookbook
 ミニ料理集・肉料理編,Mini Meat Dish Cookbook
 ミニ料理集・スイーツ編,Mini Sweets Cookbook
@@ -18876,8 +18876,8 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 騎神の誓い,Knight God Oath
 魔技大全,Magic Book
 舞い手の教本,Performer's Manual
-魔術師の家具帖・木工編,Wizrad Furniture - Wood
-魔術師の家具帖・道具編,Wizrad Furniture -Tools
+魔術師の家具帖・木工編,Wizard Furniture - Wood
+魔術師の家具帖・道具編,Wizard Furniture -Tools
 光の鍛冶ハンマー,Light Smith Hammer
 光のさいほう針,Light Sew Needle
 光の木工刀,Light Woodworking Knife
@@ -19777,7 +19777,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 魔法のペンプリズム,Magic Pen Prism
 黄金のペンプリズム,Golden Pen Prism
 キッズ木馬プリズム,Rocking Small Fry Prism
-ドラポヨ木馬プリズム,Tubby Draky Horse Prism
+ドラポヨ木馬プリズム,Tubby Dracky Horse Prism
 エッグプリズム,Egg Prism
 ホルスプリズム,Horus Prism
 シープ木馬プリズム,Rocking Sheep Prism
@@ -19904,9 +19904,9 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 茶トラ太猫カプセル,Fat Tea Tiger Cat Capsule
 白トラ太猫カプセル,Fat White Tiger Cat Capsule
 銀トラ太猫カプセル,Fat Silver Tiger Cat Capsule
-白太猫カプセル,White Fat Cat Capsule
+白太猫カプセル,Fat White Cat Capsule
 キナリ太猫カプセル,Fat Kinari Cat Capsule
-黒太猫カプセル,Black Fat Cat Capsule
+黒太猫カプセル,Fat Black Cat Capsule
 ハチワレ太猫カプセル,Fat Black & White Cat Capsule
 灰三毛太猫カプセル,Fat Ash Calico Cat Capsule
 三毛太猫カプセル,Fat Calico Cat Capsule
@@ -20282,10 +20282,10 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 ポイズンカメリア,Poison Camelia
 フォレストカメリア,Forest Camelia
 ネイビーダリア,Navy Dahlia
-だいだいカメリアのタネ,Sour Orange Camelia Seeds
-レタスカメリアのタネ,Lettuce Camelia Seeds
-ビリジアカメリアのタネ,Viridian Camelia Seeds
-ポイズンカメリアのタネ,Poison Camelia Seeds
+だいだいカメリアのタネ,Sour Orange Camelia Seed
+レタスカメリアのタネ,Lettuce Camelia Seed
+ビリジアカメリアのタネ,Viridian Camelia Seed
+ポイズンカメリアのタネ,Poison Camelia Seed
 カボチャランタンの木,Pumpkin Lantern Tree
 三角ランタンの木,Triangle Lantern Tree
 丸いランタンの木,Round Lantern Tree
@@ -21206,7 +21206,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 ディープブルー,Deep Blue
 ドラゴンウィング,Dragon Wing
 威光弓,Lumen Bow
-魔界の大盾,Dark World Greatshield
+魔界の大盾,Demon World Shield
 ブルバックラー,Bull Buckler
 魔除けの鎌,Talisman Scythe
 ダークサイズ,Dark Scythe
@@ -21264,7 +21264,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 ドラゴン練習札,Green Dragon Training Card
 ビクトリーボックスⅤ,Victory Box Ⅴ
 ねがいのかがみ,Mirror of Wishes
-クイーン交換券２０２０,Queen Exchange Ticket 2020
+クイーン交換券２０２０,Queen Ticket 2020
 きんぞくウルフ衣装券,Metal Wolf Costume Ticket
 しぐさ書・ネオンスピカ,Emote "Neon Spica"
 しぐさ書・ネオンビーム,Emote "Neon Beam"
@@ -21963,7 +21963,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 ギュッとスライム強,Evil Slime Arm Doll
 ゆめにゅうどうの枕,Dream Monk's Pillow
 キラーマジンガの剣,Uberkilling Sword
-ギュメイ将軍の太刀,Goresby-Purrvis Swrd
+ギュメイ将軍の太刀,Goresby-Purrvis Sword
 スライダークの大剣,Nemeslime Greatsword
 ゲルニック将軍の杖,Hootingham-Gore Staff
 マスタードロッド,Mustardo Rod
@@ -22572,7 +22572,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 第８回ナジーンの像,8th Nazine Statue
 招福餅,Rice Cake
 おめでたこ焼き,Octopus Dumpling
-開運りんごアメ,Good Luck Candy Apple
+開運りんごアメ,Fortune Candy Apple
 縁結びぜんざい,Miso Soup
 魔剣士の証,Proof of DMN
 魔剣士のよろい,Demon Swordsman Armor
@@ -22629,7 +22629,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 マジカルスーツ下,Magical Suit Bottom
 夢と魔法のステッキ,Dream and Magic Stick
 クリスマスレンズ,Christmas Lens
-クイーン交換券２０２１,Queen Exchange Ticket 2021
+クイーン交換券２０２１,Queen Ticket 2021
 魔勇者カプセル,Evil Hero Capsule
 正月ボーイカプセル,New Year Boy Capsule
 お花の福袋,Flower Grab Bag
@@ -23138,7 +23138,7 @@ MDぬいぐるみ２欠番,MD Plushie 2 Missing #
 天翼の盾,Wing Shield
 スノーシールド,Snow Shield
 ライトバリア,Light Barrier
-しぐさ書・Ｓウィング,Emote "S-Wing"
+しぐさ書・Ｓウィング,Emote "Signal Wing"
 しぐさ書・あらまあ,Emote "Oh My!"
 しぐさ書・にゃにゃん,Emote "Meow"
 しぐさ書・ブレイク銀杯,Emote "Break Cup"
@@ -23158,7 +23158,7 @@ MDぬいぐるみ２欠番,MD Plushie 2 Missing #
 秘聞録印章,Secrets Stamp
 第３回バトエンＭＤ・銅,3rd Batoen MD Bronze
 ＤＱⅩオフライン印章,DQⅩ Offline Stamp
-クイーン交換券２０２２,Queen Exchange Ticket 2022
+クイーン交換券２０２２,Queen Ticket 2022
 エンゼルウナギ,Angel Eel
 ハイネリア,Hyneria
 ハーフムーン,Halfmoon
@@ -23574,7 +23574,7 @@ GPトロフィーピンク鉄,Pink GP Iron Trophy
 タクトポーチ,Tact Pouch
 モナンのリボン,Mindini's Ribbon
 ふわふわキンギョ,Fluffy Goldfish
-しぐさ書・ドラけしＳ,Emote "Eraser S"
+しぐさ書・ドラけしＳ,Emote "Eraser Shower"
 厭悪の果実,Vile Fruit
 赤のラクリマ,Red Lacrima
 大地の箱舟プリズム,Ark of the Earth Prism
@@ -23599,9 +23599,9 @@ GPトロフィーピンク鉄,Pink GP Iron Trophy
 お祭りやぐら館のタイル,Festival Tile
 春風応援ポーチ,Spring Cheer Pouch
 大嵐メダル,Storm Medal
-しぐさ書・Ｓハート,Emote "S Heart"
-しぐさ書・Ｓスター,Emote "S Star"
-しぐさ書・Ｓクラウン,Emote "S Crown"
+しぐさ書・Ｓハート,Emote "Signal Heart"
+しぐさ書・Ｓスター,Emote "Signal Star"
+しぐさ書・Ｓクラウン,Emote "Signal Crown"
 クイーン＆ナイト印章,Queen & Knight Stamp
 蒼穹の守護者たち,Azure Sky Guardians
 神々が住まう聖域,God's Sacred Dwelling
@@ -27051,7 +27051,7 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 神秘の紅い鎌,Mystery Red Sickle
 配布用経験値の聖典,Experience Scripture
 しぐさ書・お祝いリボン,Emote "Congrats Ribbon"
-りんごあめプリズム,Fortune Candy Apple
+りんごあめプリズム,Candy Apple Prism
 邪教司祭の勲章,Magus Medal
 ブルーム・アウェイク,Bloom Awake
 カジノ祭４ポーカー金,Casino Fest 4 Poker Gold
@@ -27068,7 +27068,7 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 世界樹の宝冠,Yggdrasil Crown
 世界樹のよろい上,Yggdrasil Armor
 １０周年のかんむり,10th Anniversary Crown
-緑の上錬金石１０こ券,10 Emerald Gem Tickets
+緑の上錬金石１０こ券,10 Emerald Gems Ticket
 カジノ祭４ポーカー銅,Casino Fest 4 Poker Bronze
 世界樹のよろい下,Yggdrasil Leggings
 おうち用芝生のラグ,Lawn Rug
@@ -27628,7 +27628,7 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 天奏士ガラン,Messenger Galan
 ガラン,Galan
 ヒマエル,Himael
-大魔王ゴダ,Demon Lord Goda
+大魔王ゴダ,Demon King Goda
 ゴダ,Goda
 ウィーニー,Winny
 ペリポン２号,Peripon No. 2
@@ -30264,7 +30264,7 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 ゲーミングカフェの塀,Gaming Cafe Fence
 １０周年記念バルーン,10th Anniversary Balloon
 風竜の羽毛,Dragon Down
-クイーン交換券２０２３,Queen Exchange Ticket 2023
+クイーン交換券２０２３,Queen Ticket 2023
 純真天使のドレス下,Pure Angel Dress Bottom
 シックゴスキャップ,Chic Goth Cap
 シックゴスドレス上,Chic Goth Dress Top
@@ -30282,12 +30282,12 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 マーチングズボン,Marching Trousers
 マーチンググローブ,Marching Gloves
 マーチングブーツ,Marching Boots
-ドラパンクパーカー,Dragon Punk Hoodie
-ドラパンクズボン,Dragon Punk Trousers
-ドラパンクパンツ,Dragon Punk Pants
-ドラパンクネイル,Dragon Punk Nail
-ドラパンクシューズ,Dragon Punk Shoes
-ドラパンクグラス,Dragon Punk Glasses
+ドラパンクパーカー,Dracky Punk Hoodie
+ドラパンクズボン,Dracky Punk Trousers
+ドラパンクパンツ,Dracky Punk Pants
+ドラパンクネイル,Dracky Punk Nails
+ドラパンクシューズ,Dracky Punk Shoes
+ドラパンクグラス,Dracky Punk Glasses
 フラワーハット,Flower Hat
 ハイクラススーツ上,High Class Suit Top
 ハイクラススーツ下,High Class Suit Bottom
@@ -30329,7 +30329,7 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 童話の街並みの柱,Fairy-Tale Pillar
 巨象のフライパン,Giant Fry Pan
 カフェテラスのランプ,Cafe Terrace Lamp
-ダークペルシャの杖,Whiskamancer Cane
+ダークペルシャの杖,Whiskamancer Staff
 鬼人の大盾,Devil's Shield
 壁かけポプリリース,Potpourri Wall Wreath
 童話の街並みの塀,Fairy-Tale Fence
@@ -30481,10 +30481,10 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 バトルマスターの影,Battlemaster's Shadow
 パラディンの影,Paladin's Shadow
 烈震竜樹ハダルデ,Quake Dragon Hadalde
-コズタン,Koztan
+コズタン,Deadwood
 ショコラパーマ,Chocolate Perm
 ローズナイト,Rose Knight
-アロマルーム,Aroma Room
+アロマルーム,Aromashroom
 黒い光,Black Ray
 青い光,Blue Ray
 橙の光,Orange Ray
@@ -30497,7 +30497,7 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 プチゴレオン将軍,Frail Goreham-Hogg
 プチＳジェネラル,Frail Shogum
 原始のスライム,Primeval Slime
-ダースロード,Dread Road
+ダースロード,Dread Lord
 プチスライダーク,Frail Nemeslime
 ジェイドウォリアー,Jade Warrior
 ドラグノワール,Dragonoir
@@ -30508,7 +30508,7 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 ダンディオ団長,Captain Dandio
 ダンディオ団長の妻,Captain Dandio's Wife
 サン,San
-シャクナゲ,Rhododendron
+シャクナゲ,Shakunage
 グイダー,Guider
 セツラン,Setsuran
 プリゼーラ,Prisera
@@ -30618,3 +30618,11 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 儀式のころも,ceremonial clothes
 ころも,clothes
 バルデイーノ,Bardeeno
+属性の祝福,Blessed Element
+ふわふわホミ４世,Fluffy Healix IV
+追憶の街並み,Recollection House
+門より出でし者,Dweller from the Gate
+魔影の鬼婦人,Lady of the Shade
+門より出でし魔獣,Beast from the Gate
+つんつくカージェ,Bluecumber
+きりかぼう,Stump Chump
