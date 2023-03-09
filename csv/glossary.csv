@@ -1792,7 +1792,7 @@
 スコナ,Skona
 マフィ,Muffy
 ニワトリ,Chicken
-悪夢の右手,Nightmare Right Hand
+悪夢の右手,Right Incubus
 ムーロン,Muron
 魔法の羅針盤,Magic Compass
 タイタス号乗船パス,Titus Boarding Pass
@@ -1858,7 +1858,7 @@
 預かり所アルラ,Storage Arla
 琥珀の宝珠,Amber Pearl
 カギ束,keys
-パピヨンブレス,Papillon Bracelets
+パピヨンブレス,Papillon Bracelet
 リゼロッタ,Lieselotte
 ジャック,Jack
 モルニフ,Mornif
@@ -1899,7 +1899,7 @@
 アンルシア,Anlucia
 トーマ,Toma
 フードの男,Hooded Man
-魔元帥ゼルドラド,Demon General Zeldrad
+魔元帥ゼルドラド,Marshal Zeldrad
 賢者ルシェンダ,Sage Lushenda
 アリオス王,King Arios
 ユリア妃,Queen Julia
@@ -2214,11 +2214,11 @@
 商人トルネコ,Merchant Torneko
 宿屋セムラ,Innkeep Semula
 シスター・トルテ,Sister Torte
-悪夢の左手,Nightmare Left Hand
+悪夢の左手,Left Incubus
 おばけトマト,Haunted Tomato
 魔女グレイツェル,Witch Gretzel
-豪魔将ベリンダ,Demon Lord Belinda
-豪魔将ブレンダ,Demon Lord Brenda
+豪魔将ベリンダ,General Belinda
+豪魔将ブレンダ,General Brenda
 ベロリンマン,Abominable Showman
 真ベロリンマン,True Abominable Showman
 どくどくバルーン,Toxic Loon
@@ -2231,7 +2231,7 @@
 獣魔将ガルレイ,Beast General Gullray
 ダーマ礼拝堂の扉,Alltrades Abbey Door
 ヴィント,Vinto
-ノガート兵士長,Lead Soldier Nogato
+ノガート兵士長,Captain Nogato
 テタイ,Tetai
 ヒトナ,Hitona
 コイイ,Koii
@@ -3282,7 +3282,7 @@
 グリーターデーモン,Greeter Daemon
 バッドメーア,Bedmare
 古びた巻物巻き,Old Scroll Rolled
-神秘のゴブレット,Mystery Goblet
+神秘のゴブレット,Mystic Goblet
 踊り神ボニータ,Dance God Bonita
 踊り神ボニータ右羽,Dance God Bonita Right Wing
 踊り神ボニータ左羽,Dance God Bonita Left Wing
@@ -3669,7 +3669,7 @@
 メティス,Metis
 幻想画「一喜一憂」,Fantasy Art "Hope and Fear"
 光導使ナズナ,Light Guide Nazuna
-わたぼう,Watabou
+わたぼう,Fluffy
 学生鞄,Schoolbag
 モドール,Exeet
 シスター・モスコル,Sister Moscol
@@ -8028,7 +8028,7 @@ PCベビー,PC's Baby
 つららスライム,Slimecicle
 つむりんママ,Mama Snail Slime
 バーバニコーン,Barbunnicorn
-ツンドラキー,Arctic Dracky
+ツンドラキー,Tundracky
 浄化のたまねぎ,Pristine Peeler
 モコモコじゅう,Rotten Cotton
 ケダモン,Feralbeast
@@ -8587,7 +8587,7 @@ PCベビー,PC's Baby
 冥骸魔レギルラッゾ,Demon Corpse Legirrazzo
 ビッグハット,Sham Hatwitch
 マジカルハット,Hat Hamwitch
-アルケミストン,Spam Shatwitch
+アルケミストン,Sham Hamwitch
 ビッグビッグハット,Giga Sham Hatwitch
 チビッグハット,Frail Sham Hatwitch
 もみじこぞう,Leafy Larrikin
@@ -8792,7 +8792,7 @@ PCベビー,PC's Baby
 闇の根源の幻影,Dark Source Phantom
 冥府の君主,Underworld King
 ラーヴァドラゴン,Lava Hydra
-震撼の冥宰相,Underworld Chancellor
+震撼の冥宰相,Dark Chancellor
 守護者ラズバーン強,Apex Guardian Razburn
 冥王ネルゲル強,Apex Nergel
 右ウデ,Right Arm
@@ -9095,8 +9095,8 @@ PCベビー,PC's Baby
 邪竜の秘紋,Dragon Crest
 邪悪なる霊威,Evil Mystery Power
 プチＳキラーマシン,Frail Trauminator
-悪夢の右手強,Apex Nightmare Right Hand
-悪夢の左手強,Apex Nightmare Left Hand
+悪夢の右手強,Apex Right Incubus
+悪夢の左手強,Apex Left Incubus
 プロミネンス着弾,Prominence Impact
 禁書の守護者・右,Right Banned Book Guard
 禁書の守護者・左,Left Banned Book Guard
@@ -9521,7 +9521,7 @@ PCベビー,PC's Baby
 すいしょう玉,Crystal Ball
 がいこつⅡ,Skeleton Ⅱ
 がいこつⅢ,Skeleton Ⅲ
-がいこつ・凶,Skeleton X
+がいこつ・凶,Wicked Skeleton
 ゴーストⅡ,Ghost Ⅱ
 ゴースト・凶,Wicked Ghost
 よろいのきし・凶,Knight Destructant
@@ -9639,14 +9639,14 @@ PCベビー,PC's Baby
 かいふくクリスタル,Recovery Crystal
 ぎんの女神像,Silver Goddess Statue
 魔瘴魂ゼノドラゴン,Miasma Soul Xenodragon
-カンダタこぶんプー,Robbin' Lackey Pu
+カンダタこぶんプー,Merry Man Pu
 神殿の守護獣,Temple Guard Beast
 財宝のつまった箱,Full Treasure Box
 憎悪の記憶,Hatred Memory
 ふこうもり,Bat Luck
-カンダタこぶんクー,Robbin' Lackey Ku
+カンダタこぶんクー,Merry Man Ku
 ホースデビル・強,Evil Gamigin
-カンダタこぶんリポ,Robbin' Lackey Lipo
+カンダタこぶんリポ,Merry Man Lipo
 冥王の影,Nethershade
 はぐれジュエル,Liquid Jewel Slime
 ゴーストⅠ,Ghost Ⅰ
@@ -9828,7 +9828,7 @@ SPアイテム,Skill Point Items
 にわとり,Chicken
 煉獄の岩塊,Purgatory Rock
 アイテム,Item
-魔天士ダンタール,Sky Sorceror Dantal
+魔天士ダンタール,Sky Sorcerer Dantal
 ゴールドマンメッキス,Fool's Gold
 やみ凶鳥,Dark Gargoyl
 やみよの鬼神,Dark Fierce God
@@ -10230,7 +10230,7 @@ SPアイテム,Skill Point Items
 ご神体の間,Hall of Worship
 メルサンディ村,Melsandy Village
 さびれたほこら,Deserted Shrine
-メルン水車郷,Melun Waterwheel
+メルン水車郷,Melun Watermill
 謎の地下水路,Underground Waterway
 謎の地底湖,Underground Lake
 ワルド水源,Wald Headwaters
@@ -13817,7 +13817,7 @@ SPアイテム,Skill Point Items
 メイジドラキー帽子,Drackolyte Hat
 デュエルキャップ,Duel Cap
 マポレーナ帽子,Genie Sanguini Hat
-アルケミストン帽子,Spam Shatwitch Hat
+アルケミストン帽子,Sham Hamwitch Hat
 カジノバニーヘッド,Casino Bunny Ears
 チョコボのぼうし,Chocobo Hat
 マンドラゴラベレー,Mandragora Beret
@@ -14638,7 +14638,7 @@ SPアイテム,Skill Point Items
 しぐさ書・決め後,Emote "Pose Rear"
 しぐさ書・指さす,Emote "Point"
 しぐさ書・ほほえむ,Emote "Smile"
-しぐさ書・ひやかす,Emote "Banter"
+しぐさ書・ひやかす,Emote "Tease"
 しぐさ書・ねる,Emote "Sleep"
 ラッキーチケット金,Gold Lucky Ticket
 ふくびき券,Lottery Ticket
@@ -17954,10 +17954,10 @@ SPアイテム,Skill Point Items
 レトロなポスト・金,Gold Retro Mailbox
 鳥かごのポスト・黄,Yellow Birdcage Mailbox
 鳥かごのポスト・桃,Pink Birdcage Mailbox
-わたぼう気球おもちゃ,Watabou Toy Balloon
-ワルぼう気球おもちゃ,Warubou Toy Balloon
-わたぼうお花おもちゃ,Watabou Toy Flower
-ワルぼうお花おもちゃ,Warubou Toy Flower
+わたぼう気球おもちゃ,Fluffy Toy Balloon
+ワルぼう気球おもちゃ,Scruffy Toy Balloon
+わたぼうお花おもちゃ,Fluffy Toy Flower
+ワルぼうお花おもちゃ,Scruffy Toy Flower
 ポワンの像,Treacle Statue
 ヴェリナードの紋章旗,Verinard Banner
 ガートラントの紋章旗,Gartlant Banner
@@ -17966,8 +17966,8 @@ SPアイテム,Skill Point Items
 ドルワームの紋章旗,Dolworm Banner
 セラフィぬいぐるみ,Seraphi Plushie
 セピアのセラフィ人形,Sepia Seraphi Doll
-わたぼうのお庭ランプ,Watabou Lamp (G)
-ワルぼうのお庭ランプ,Warubou Lamp (G)
+わたぼうのお庭ランプ,Fluffy Lamp (G)
+ワルぼうのお庭ランプ,Scruffy Lamp (G)
 クラシック風の柱,Classic Pillar
 クラシック風の壁,Classic Wall
 昇り竜の柱,Dragon Pillar
@@ -20625,7 +20625,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 メイジドラキー写真立て,Drackolyte Frame
 タホドラキーの写真立て,Drackmage Frame
 ドラキーマの写真立て,Drackyma Frame
-ツンドラキーの写真立て,Arctic Dracky Frame
+ツンドラキーの写真立て,Tundracky Frame
 フランジュぬいぐるみ,Frange Plushie
 ミランぬいぐるみ,Milan Plushie
 リソルぬいぐるみ,Resol Plushie
@@ -25232,7 +25232,7 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 ばくれつけん,Multifists
 達人の呼吸,Master's Breath
 岩石おとし,Boulder Toss
-せいけん爆撃,Exploding Fist
+せいけん爆撃,Glove Bomb
 魂狩り,Soul Hunt
 ウェイトブレイク,Weight Break
 ドラムクラッシュ,Monster Masher
@@ -26154,7 +26154,7 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 ウェディのあいさつ,Weddie Greeting
 ほほえむ,smile
 苦笑い,bitter
-ひやかす,banter
+ひやかす,tease
 おびえる,scared
 ショックをうける,Received Shock
 おどろきとまどう,Shock and Confusion
@@ -27559,7 +27559,7 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 辺境警備隊兵士Ｂ,Frontier Guard Soldier B
 辺境警備隊兵士,Frontier Guard Soldier
 汎用的な便箋,General Use Paper
-カミル用飛竜,Kamil's Flying Dragon
+カミル用飛竜,Kamil's Dragon
 冒険者Ａ,Adventurer A
 冒険者Ｂ,Adventurer B
 戦場案内係Ｂ,Combat Guide B
@@ -29930,7 +29930,7 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 イカリン,Ikarin
 タコポン,Takopon
 ワカメン,Wakamen
-英雄プクラス,Hero Pukulas
+英雄プクラス,Pukulas
 あくま,Demon
 パンプキン,Pumpkin
 ドラキュラ,Dracula
@@ -30413,7 +30413,7 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 新鮮な異形獣のツノ,Fresh Hexabeast Horn
 時の宝珠,Time Jewel
 エテーネ粘土,Ethene Clay
-パドレの錬金人形,Padre's Alchemy Doll
+パドレの錬金人形,Padre Alchemy Doll
 マスター免状,Master Diploma
 神秘のテラリウム,Mysterious Terrarium
 バドのボタン,Bud's Button
@@ -30429,7 +30429,7 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 ガーデン衣装券,Garden Outfit Ticket
 ブレイク衣装券,Break Outfit Ticket
 くちづけの花,Kiss Flower
-キアリクッキー,Tingle Cookie
+キアリクッキー,Tingle Cookies
 ハイクラス衣装券,High Class Outfit Ticket
 月のメダル,Moon Medal
 海のメダル,Sea Medal
