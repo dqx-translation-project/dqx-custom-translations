@@ -52,7 +52,7 @@
 レーガ,Reyga
 グロスナー王,King Grossner
 マグナス,Magnus
-スピンドル兵士長,Lead Soldier Spindle
+スピンドル兵士長,Captain Spindle
 スピンドル,Spindle
 白いヴェールの女,White Veiled Woman
 旅芸人ピュージュ,Minstrel Pyuju
@@ -135,7 +135,7 @@
 ハルーナ,Haluna
 賢者エイドス,Sage Eidos
 チグリ大臣,Minister Chigri
-ジダン兵士長,Lead Soldier Jidan
+ジダン兵士長,Captain Jidan
 エジス,Ejis
 シュロン,Shuron
 ヨジーロ,Yojiiro
@@ -622,7 +622,7 @@
 隊長ウェルナー,Commander Werner
 テカカ,Tekaka
 リマ,Rima
-ロイス,Roisu
+ロイス,Royce
 ランディ,Randy
 リヒター,Richter
 リボック,Reebok
@@ -674,7 +674,7 @@
 ニシキ,Nishiki
 パルペペ,Parupepe
 ナギハ,Nagiha
-ヤナギ兵士長,Lead Soldier Yangi
+ヤナギ兵士長,Captain Yangi
 ヨホホン,Yohohon
 コニン,Konin
 ハパリーパ,Hapariipa
@@ -1071,7 +1071,7 @@
 マンマーの部下,Momma's Subordinate
 ナフナー,Nafuna
 ソヌーグ,Sonugu
-レオン・ビュブロ,Leon Bublo
+レオン・ビュブロ,Leon Byblo
 ボロボロの魔神兵,Tattered Demon Soldier
 武器屋ザイクス,Weapon Shop Zykes
 防具屋ドロンガ,Armor Shop Doronga
@@ -1824,14 +1824,14 @@
 セラフィ,Seraphi
 ベルムド王,King Bermud
 バスラー隊長,Commander Bassler
-レザール兵士長,Lead Soldier Lazare
+レザール兵士長,Captain Lazare
 デヒト,Decht
 シメール,Shimere
 サンシャ,Sansha
 トビー,Toby
 ルド,Ludo
 マウロ,Mauro
-ゴリウス兵士長,Lead Soldier Gorius
+ゴリウス兵士長,Captain Gorius
 フィーロ,Firo
 ドーバ,Dorba
 ミザール,Mizar
@@ -2111,7 +2111,7 @@
 グランゼドーラ兵B,Gran Zedora Soldier B
 ムーニス王,King Moonis
 カレヴァン,Kalevan
-アブタル兵士長,Lead Soldier Abutar
+アブタル兵士長,Captain Abutar
 マレイカ,Maleika
 ラッセ,Lasse
 ボルール,Borul
@@ -5037,7 +5037,7 @@ PCベビー,PC's Baby
 グリエ王子,Prince Grie
 ムニュ大臣,Minister Munyu
 先王ゾルトグリン,Former King Zoltgrin
-ネウズ兵士長,Lead Soldier Neuzu
+ネウズ兵士長,Captain Neuzu
 ザロイン,Zaroin
 レビ,Levi
 スロリブ,Throlib
@@ -6379,7 +6379,7 @@ PCベビー,PC's Baby
 ラジッチョ,Radicho
 ドーレンヌ,Dorenne
 クィラッキ,Kirakki
-シィジャン兵士長,Lead Soldier Shijan
+シィジャン兵士長,Captain Shijan
 マデサゴーラ,Madesagora
 護りの盾アンルシア,Protector Anlucia
 取引商イグラン,Trader Igran
@@ -7062,7 +7062,7 @@ PCベビー,PC's Baby
 マドハン泥,Muddy Hand Mud
 紺碧のヒスイ,Azure Jade
 小さな民家の模型,Small House Model
-半球体のかけら,Hemisphere Fragment
+半球体のかけら,Sphere Fragment
 じごくのネギボーズ,Hellish Onion Flower
 オーブンの古い写真,Old Oven Photograph
 マリーブの手紙,Mareve's Letter
@@ -7429,7 +7429,7 @@ PCベビー,PC's Baby
 ホエホエ海綿,Whelk Sponge
 わかめ由来石けん,Seaweed Soap
 カーム貝,Calm Shell
-マリーヌ神像の写真,Marine God Statue Photo
+マリーヌ神像の写真,God Marine Statue Photo
 招雷の雷盤,Double Board
 封印の雷盤,Seal Board
 入替の雷盤,Replace Board
@@ -7658,7 +7658,7 @@ PCベビー,PC's Baby
 イケてる歌詞カード,Cool Lyrics Card
 ＧＰライセンス,GP License
 パルミオのカギ,Palmio's Key
-ピナヘトのおふだ,Pinahet's Amulet
+ピナヘトのおふだ,Pinaheto's Amulet
 知理の石版,Wisdom Tablet
 ぬめぬめエキス,Slimy Extract
 ハピの花,Hapi Flower
@@ -8886,7 +8886,7 @@ PCベビー,PC's Baby
 笛吹き羊男,Silenus
 デスケルト,Celtic Faun
 アンゴラモーア,Angola Faun
-クレイジー・プック,Crazy Pook
+クレイジー・プック,Sick Satyr
 くものきょじん,Cloud Surfer
 ランプのまじん,Low Djinks
 まじんブドゥ,Djinn Genie
@@ -8971,7 +8971,7 @@ PCベビー,PC's Baby
 サンダーシャウト,Hellbound Hair-Raiser
 めいふのばんにん,Hellbound Heretic
 ゴーストベリー,Ghost Berry
-ミスター・シャウト,Mr. Shout
+ミスター・シャウト,Hell Raizer
 ニードルマン・強,Evil Needleman
 ニードルマン,Needleman
 とげジョボー,Thorny Doll
@@ -9139,7 +9139,7 @@ PCベビー,PC's Baby
 アンクルホーン,Moosifer
 ヘルバトラー強,Apex Barbatos
 デスカイザー,Master Moosifer
-エル・マーマン,El Moleman
+エル・マーマン,El Merman
 プチグラコス,Frail Gracos
 グラコス,Gracos
 暴虐の悪夢,Cruel Nightmare
@@ -10679,7 +10679,7 @@ SPアイテム,Skill Point Items
 ゼクレス城,Zechres Castle
 デズリンの家,Deathlin's house
 黄昏の園,Twilit Field
-がらんどうの間,Halls of Emptiness
+がらんどうの間,Hollow Space
 万魔の塔,Banma Tower
 万魔の塔・一の災壇,Banma Tower - 1st Platform
 未踏の海底,Unknown Sea
@@ -13369,7 +13369,7 @@ SPアイテム,Skill Point Items
 戦士のよろい,Warrior Armor
 古強者のよろい上,Veteran's Armor Top
 ぎんのむねあて,Silver Cuirass
-凱歌のよろい上,Victory Song Armor Top
+凱歌のよろい上,Triumphal Armor
 やいばのよろい上,Spiked Armor Top
 しゅうれんぎ上,Training Tank Top
 カンフージャケット,Kung Fu Jacket
@@ -13612,7 +13612,7 @@ SPアイテム,Skill Point Items
 戦士のかぶと,Warrior Helm
 古強者のかぶと,Veteran's Helm
 ぎんのはちがね,Silver Headband
-凱歌のヘルム,Victory Song Helm
+凱歌のヘルム,Triumphal Helm
 やいばのはちがね,Spiked Circlet
 カンフーキャップ,Kung Fu Cap
 古武道のずきん,Kobudo Hood
@@ -13865,7 +13865,7 @@ SPアイテム,Skill Point Items
 戦士のレガース,Warrior Shin Guards
 古強者のよろい下,Veteran's Armor Bottom
 ぎんのこしだれ,Silver Faulds
-凱歌のよろい下,Victory Song Armor Bottom
+凱歌のよろい下,Triumphal Kilt
 やいばのよろい下,Spiked Armor Bottom
 クリムゾンメイル下,Crimson Mail Bottom
 しゅうれんぎ下,Training Pants
@@ -14113,7 +14113,7 @@ SPアイテム,Skill Point Items
 戦士のグローブ,Warrior Gloves
 古強者のこて,Veteran's Gloves
 ぎんのこて,Silver Gauntlet
-凱歌のガントレット,Victory Song Gloves
+凱歌のガントレット,Triumphal Gloves
 やいばのこて,Spiked Gauntlets
 カンフーリスト,Kung Fu Bangles
 古武道のうでわ,Kobudo Bangles
@@ -14349,7 +14349,7 @@ SPアイテム,Skill Point Items
 戦士のブーツ,Warrior Boots
 古強者のグリーブ,Veteran's Boots
 ぎんのブーツ,Silver Boots
-凱歌のグリーブ,Victory Song Greaves
+凱歌のグリーブ,Triumphal Greaves
 やいばのグリーブ,Spiked Greaves
 カンフーシューズ,Kung Fu Shoes
 古武道のブーツ,Kobudo Boots
@@ -15020,11 +15020,11 @@ SPアイテム,Skill Point Items
 Ｖロン便せん赤,Red Vron Paper
 三姉妹便せん,3 Sisters Paper
 麦畑の便せん,Wheat Field Paper
-スイーツの便せん,Sweets Paper
+スイーツの便せん,Sweet Paper
 格闘場の便せん,Arena Paper
 聖なる王城の便せん,Holy Royal Castle Paper
 小さな英雄の便せん,Little Hero Paper
-荘厳な神殿の便せん,Majestic Temple Paper
+荘厳な神殿の便せん,Majestic Abbey Paper
 ピラミッドの便せん,Pyramid Paper
 勇者姫の便せん,Hero Princess Paper
 光の神殿の便せん,Light Temple Paper
@@ -19302,7 +19302,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 グランプリレシピ,Grand Prix Recipe
 ゴッドライクな杖作成,Godlike Staff Creation
 古代魔術のほうい作成法,Book of Ancient Magic
-凱歌のスコア,Victory Song Score
+凱歌のスコア,Triumphal Score
 メカニックスーツの謎,Mechanic Suit Mystery
 ミラクルコートカタログ,Miracle Outfit Catalog
 聖者のほういの作り方,Making a Saint's Outfit
@@ -20964,9 +20964,9 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 宣伝コンテスト・金,Promo Contest Gold
 宣伝コンテスト・銀,Promo Contest Silver
 宣伝コンテスト・銅,Promo Contest Bronze
-最小イカグランプリ・金,Small Squid G.P. Gold
-最小イカグランプリ・銀,Small Squid G.P. Silver
-最小イカグランプリ・銅,Small Squid G.P. Bronze
+最小イカグランプリ・金,Small Squid GP Gold
+最小イカグランプリ・銀,Small Squid GP Silver
+最小イカグランプリ・銅,Small Squid GP Bronze
 プリフィーぬいぐるみ,Prifie Plushie
 チキ坊の畑,Chickibo Field
 トコトコワラタロー・庭,Trotting Warataro (G)
@@ -30624,3 +30624,8 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 ダック,Duck
 マイーキ,Mikey
 オートミール,Oatmeal
+ビュブロ,Byblo
+演芸グランプリ,Goofball Grand Prix
+ふ化ふ化な衣装,Hatching Outfit
+バトエン,Batoen
+バットエンド,Bato-End
