@@ -199,7 +199,7 @@
 黄金の指輪,Golden Ring
 やみわらし,Viper Spittle
 けがれの大蛇,Toxic Viper
-アルウェ,Alwa
+アルウェ,Alwe
 ナブレット団長,Captain Nablette
 パクレ警部,Inspector Pakul
 ラグアス王子,Prince Raguas
@@ -272,7 +272,7 @@
 スズ,Suzu
 リン姫,Princess Lynn
 不思議な扉銀の丘,Strange Silver Door
-アルウェノート,Alwa Note
+アルウェノート,Alwe Note
 空中ブランコ,Trapeze
 ホッツィ親方,Boss Hottsi
 チャルコ,Chalko
@@ -349,7 +349,7 @@
 ヒッペル,Hippel
 ホーパフ,Houpuff
 悪魔ザイガス,Duke Sigras
-アルウェ王妃,Queen Alwa
+アルウェ王妃,Queen Alwe
 万年筆,First Pen
 リュート通常,Normal Lute
 リュート発光,Glowing Lute
@@ -2177,7 +2177,6 @@
 ピッピ,Pippy
 シガール町長,Mayor Sigal
 ピリカ,Pirika
-欠番,Miss#
 タジウス,Tajius
 魔導鬼ベゼブー,Sorcery Demon Bezebu
 ゴルゴンザ,Gorgonza
@@ -3211,7 +3210,7 @@
 ハープケース,Harp Case
 ギダのハープ,Gida's Harp
 魔炎鳥の尾羽,Darkflame Feather
-奉火のトーチ,Offer Flame Torch
+奉火のトーチ,Torch of Offering
 折れたはがねの剣,Broken Steel Sword
 エステラの紹介状,Estella's Introduction Letter
 炎の解錠の円盤,Fire Unlocking Disc
@@ -4781,7 +4780,7 @@ PCベビー,PC's Baby
 魔物管理人アゼルル,Monster Manager Azerul
 道具屋スライル,Item Shop Slyle
 バシっ娘ルンリィ,Bazoom Girl Lunry
-チェイ,Chai
+チェイ,Chey
 郵便局員ウイロウ,Postman Willow
 便せん屋サキ,Paper Shop Saki
 ソップ,Sop
@@ -7336,7 +7335,7 @@ PCベビー,PC's Baby
 応援団衣装券,Cheer Team Wear Ticket
 チアガール衣装券,Cheerleader Outfit Ticket
 忘却のアロマ,Oblivion Aroma
-白き導き手,White Guide
+白き導き手,Handy Horse
 竜の芯骨,Dragon Bone
 ガテリア式真空管,Gateria Vacuum Tube
 古代のレンチ,Ancient Wrench
@@ -7363,7 +7362,7 @@ PCベビー,PC's Baby
 オーロラパウダー,Aurora Powder
 極光の魔鉱石,Aurora Light Ore
 三闘キノコの胞子,3 Warring Shroom Spores
-奉炎のトーチ,Offer Flame Torch
+奉炎のトーチ,Torch of Offering
 ウサぐるみ衣装券,Rabbit Costume Ticket
 イエローダイアリー,Yellow Name Diary
 甲竜のヒゲ,Dragon Mustache
@@ -8840,10 +8839,10 @@ PCベビー,PC's Baby
 サボテンダー,Cactuar
 サボテンダー強,Apex Cactuar
 クモノ,Web Trap
-ジバリア,Rubblerouser
-ジバリカ,Cragcrusher
-ジバリーナ,Mountainmover
-ジバルンバ,Ridgeraiser
+ジバリア,Crag
+ジバリカ,Kacrag
+ジバリーナ,Craggle
+ジバルンバ,Kacraggle
 落とし穴,Pitfall
 超暴走魔法陣,Super Ring of Ruin
 磁界シールド,Magnetic Shield
@@ -9971,7 +9970,7 @@ SPアイテム,Skill Point Items
 トリットアーチズ,Trit Arches
 オルセコ高地,Orseco Highlands
 ガートラント領,Gartlant Territory
-追憶の世界-アルウェ王妃の別荘跡,World of Remembrance-The Ruins of Queen Alwa
+追憶の世界-アルウェ王妃の別荘跡,World of Remembrance-The Ruins of Queen Alwe
 追憶の世界-キラキラ大風車塔,World Of Remembrance-Windmill Tower
 追憶の世界-王妃の生家,World Of Remembrance-Qun's Home
 追憶の世界-ヴェリナード,World Of Remembrance-Verinard
@@ -10355,7 +10354,7 @@ SPアイテム,Skill Point Items
 虚無の楼閣,Void's Tower
 グランマーズの館,Madame Luca's House
 スイのやしろ,Sui Shrine
-竜族の隠れ里,Hidden Dragon Town
+竜族の隠れ里,Nadravian's Rest
 世界樹の頂,World Tree Top
 ゴズ渓谷,Goz Valley
 孤島の修道院,Island Monastery
@@ -10599,7 +10598,7 @@ SPアイテム,Skill Point Items
 宇宙船・立入禁止区画,Spacecraft - Restricted Area
 管理棟・冷眠室,admin building cold room
 管理棟・動力室,admin building power room
-アルウェーン管理棟,Alwane admin building
+アルウェーン管理棟,Alweyn admin building
 パルミオの研究所,Palmio's laboratory
 エピステーサ底なし穴,Epistesa Bottomless Pit
 魔瘴調査区画,Miasma Survey Area
@@ -10622,7 +10621,7 @@ SPアイテム,Skill Point Items
 ゼクレス魔導国,Zechres
 バルディスタ要塞,Fortress Valdista
 砂の都ファラザード,Sand City Farazard
-アルウェーンの町,Alwane Town
+アルウェーンの町,Alweyn Town
 マデ神殿,Made Temple
 時見の泉,Time Spring
 ゼクレス城・宝物庫,Zechres Castle - Treasury
@@ -10868,7 +10867,7 @@ SPアイテム,Skill Point Items
 嵐の領界,Storm Realm
 エテーネ王国,Ethene Kingdom
 古オーグリード,Old Ogreed
-アルウェーン,Alwane
+アルウェーン,Alweyn
 古ドワチャッカ,Old Dwachakka
 古グランゼドーラ,Old Gran Zedora
 大エテーネ島,Great Ethene Isle
@@ -11065,9 +11064,9 @@ SPアイテム,Skill Point Items
 底なし穴,bottomless pit
 ハニーレイク,Honey Lake
 ゾンガロン島,Zongalon Island
-三闘キノコ・赤,Three Mushrooms Red
-三闘キノコ・青,Three Mushrooms Blue
-三闘キノコ・緑,Three Mushrooms Green
+三闘キノコ・赤,Red Funguy
+三闘キノコ・青,Blue Funguy
+三闘キノコ・緑,Green Funguy
 貯蔵庫,storage
 王族の部屋,Royal Chamber
 ホール,hall
@@ -11085,17 +11084,17 @@ SPアイテム,Skill Point Items
 哭声の泉,Weeping Voice Fountain
 呼声の泉,Calling Voice Fountain
 呻声の泉,Moaning Voice Fountain
-アルウェ王妃の別荘跡,Queen Alwa's Villa Ruins
+アルウェ王妃の別荘跡,Queen Alwe's Villa Ruins
 客室,guest room
 庭園,garden
 クレアの部屋,Claire's room
 井戸の間,well room
 武器工房,weapon workshop
 王妃の部屋,queen's room
-兵士長の部屋,lead soldier's room
+兵士長の部屋,captain's room
 聖騎士団執務室,Holy Knights office
 ハネツキ博士の部屋,Dr. Hanetsuki's room
-空中庭園,Sky Garden
+空中庭園,Sky Gardens
 素材屋・道具屋,Material Shop/Item Shop
 防具屋・武器屋,Armor & Weapon Shop
 よろず屋,General Shop
@@ -11233,7 +11232,7 @@ SPアイテム,Skill Point Items
 船尾楼,poop deck
 ２階-一等室,2F - 1st Class Room
 甲板,deck
-三闘の祭壇,3 Battles Altar
+三闘の祭壇,Triad Altar
 地下５階,B5F
 地下６階,B6F
 地下７階,B7F
@@ -11247,7 +11246,7 @@ SPアイテム,Skill Point Items
 お面屋,Mask Shop
 花火屋,Fireworks Shop
 選択の間,option room
-種族神像の間,Tribal God Hall
+種族神像の間,Tribal God Statue
 ラバニの穴,Rabbani Hole
 ダーマ神殿への扉,door to Alltrades Abbey
 湖上の休息所,Lake Retreat
@@ -11325,8 +11324,8 @@ SPアイテム,Skill Point Items
 施療院屋上,clinic rooftop
 施療院２階,clinic 2F
 特別病室,special ward
-まもの使いハウス・牧舎,Monster User House Ranch
-まもの使いハウス,Monster User House
+まもの使いハウス・牧舎,Monster Master House - Stables
+まもの使いハウス,Monster Master House
 隠し扉,hidden door
 灯台,lighthouse
 くずれた灯台,downed lighthouse
@@ -11505,7 +11504,7 @@ SPアイテム,Skill Point Items
 書庫,study
 長老の家,Elder Family
 壁画,mural
-大雪柱,Large Snow Pillar
+大雪柱,Snowplex
 整備小屋跡,Maintenance Shed Remains
 参道,road to shrine
 本殿,shrine
@@ -11540,7 +11539,7 @@ SPアイテム,Skill Point Items
 導きの御堂,Guidance Temple
 常世の門,Eternal Gate
 氷の領界への扉,door to Ice Realm
-マティルの村-廃屋,Matil Village Empty Home
+マティルの村-廃屋,Matil Village empty home
 スイッチ,switch
 リルチェラの家,Lilcherat's house
 第１層・下層,Level 1 - Lower
@@ -11716,7 +11715,7 @@ SPアイテム,Skill Point Items
 プレゼント屋,Present Shop
 アスフェルド湖,Asfeld Lake
 モコモコパーク,Mokomoko Park
-旧学園長室,ex-Principal's office
+旧学園長室,ex-principal's office
 事務室,office
 ハウジング同好会室,Housing Club room
 超常現象研究会室,paranormal sesearch room
@@ -11852,7 +11851,7 @@ SPアイテム,Skill Point Items
 ３階への転送装置,Transporter to 3F
 市場,Market
 プクラスの研究室,Pukulas' laboratory
-冷眠室,cold storage
+冷眠室,cold room
 風車の中,Windmill Interior
 はざまの回廊,Passage Between
 赤い貨物箱,Red Cargo Box
@@ -11864,8 +11863,8 @@ SPアイテム,Skill Point Items
 中央区域,Central Zone
 管理事務所,management office
 ３階-ＶＩＰルーム,VIP Room 3F
-教会北エリア,Church north area
-教会南エリア,Church south area
+教会北エリア,north church
+教会南エリア,south church
 住宅東エリア,east residences
 住宅西エリア,west residences
 やぐら北エリア,north fort
@@ -12000,7 +11999,7 @@ SPアイテム,Skill Point Items
 ガレーの工房,Galley's Workshop
 レグルの書庫,Regul's Archives
 居住地区,Living Area
-魔瘴塚跡,Miasma Mound
+魔瘴塚跡,miasmound
 商業地区,Market Area
 砂のほこら,Sand Shrine
 鉄のほこら,Iron Shrine
@@ -12222,7 +12221,7 @@ SPアイテム,Skill Point Items
 カンティスの家・２階,Kantis' house 2F
 内部通路,inner passage
 ヘルヴェルの部屋,Helvel's room
-ヘルヴェルの家・２階,Helvel's room 2F
+ヘルヴェルの家・２階,Helvel's house 2F
 貯水池,reservoir
 惨禍の迷路,Disaster's Maze
 休息の間,rest area
@@ -12265,7 +12264,7 @@ SPアイテム,Skill Point Items
 勇者姫,hero princess
 チーム集会所,Team House
 釣り老師,Fish Master
-廃屋,deserted house
+廃屋,abandoned house
 アスフェルド学園・駅前,Asfeld Academy Station
 路地裏,back alley
 アクセ屋前,Accessory Shop
@@ -12311,11 +12310,11 @@ SPアイテム,Skill Point Items
 巨猫の巣前,Big Cat Nest
 暗黒大樹前,Dark Tree
 中央,center
-広場前,square
-水車郷前,Waterwheel Town
+広場前,plaza
+水車郷前,Watermill
 岩山前,mountain
 研究所前,laboratory
-小屋前,hut
+小屋前,cabin
 族長の家前,Chief's home
 密林前,jungle
 山地前,mountains
@@ -12357,7 +12356,7 @@ SPアイテム,Skill Point Items
 王都跡,Royal City Ruins
 棺桶乗り場,Coffin Platform
 井戸前,well
-商業区画,Commercial Area
+商業区画,Trade Area
 アトリエ,studio
 駐屯所,garrison
 顔壁前,Face Wall
@@ -12979,7 +12978,6 @@ SPアイテム,Skill Point Items
 常闇のムチ,Everdark Whip
 レジェンズウィップ,Legends Whip
 ヴォイドアンカー,Anchor of Rancour
-リサイクル634,Recycle 634
 フリーズウィップ,Malevolash
 クロスペンデュラム,Cross Pendulum
 聖王のムチ,Dryspell Whip
@@ -13193,7 +13191,7 @@ SPアイテム,Skill Point Items
 プリティリュック,Pretty Backpack
 ギュッとエリザベッテ,Elizabette Arm Doll
 ギュッとＶロン,Vron Arm Doll
-ギュッと白き導き手,White Guide Arm Doll
+ギュッと白き導き手,Handy Horse Arm Doll
 ほっとするかばん,Comfortable Bag
 ギュッとリルチェラ,Lilcherat Arm Doll
 ギュッとサジェ,Sajay Arm Doll
@@ -14330,8 +14328,6 @@ SPアイテム,Skill Point Items
 シュメリアスカート,Sumeria Skirt
 レンジャコート下２,Ranger Coat Bottom 2
 ブライダルグローブ,Bridal Gloves
-リサイクル2073,Recycle 2073
-リサイクル2074,Recycle 2074
 マリンアンクレット,Marine Anklet
 ラダトームのブーツ,Tantegel Boots
 ロトのブーツ,Erdrick's Boots
@@ -14941,7 +14937,7 @@ SPアイテム,Skill Point Items
 キラーマシン便せん,Killing Machine Paper
 キャッ飛び便せん,Vampire Cat Paper
 ねこまどう便せん,Meowgician Paper
-蒼天のソウラ便せん,Blue Sky Soura Paper
+蒼天のソウラ便せん,Souten no Soura Paper
 ロトゼタシアの便せん,Erdrea Paper
 バースデーカード,Birthday Card
 エテーネの村の便せん,Ethenian Paper
@@ -14970,7 +14966,7 @@ SPアイテム,Skill Point Items
 勇者と盟友の便せん,Hero & Ally Paper
 歯車じかけの便せん,Gear Paper
 お月見便せん,Moon Viewing Paper
-アルウェーンの便せん,Alwane Paper
+アルウェーンの便せん,Alweyn Paper
 メルサンディギフト,Melsandy Gift
 夢のアクセサリー箱２,Dream Accessory Box 2
 夢のアクセサリー箱３,Dream Accessory Box 3
@@ -16362,10 +16358,6 @@ SPアイテム,Skill Point Items
 まもの使いのくつ２,Monster Master Shoes 2
 ホイミントブーツ,Heal Mint Boots
 ホイミントミュール,Heal Mint Shoes
-リサイクル4266,Recycle 4266
-リサイクル4267,Recycle 4267
-リサイクル4268,Recycle 4268
-リサイクル4269,Recycle 4269
 レオパードブーツ,Leopard Boots
 アジサイ姫ぞうり,Hydrangea Sandals
 夢の王国ブーツ,Dream Kingdom Boots
@@ -16535,7 +16527,6 @@ SPアイテム,Skill Point Items
 マジカルじんべい下,Magical Jinbei Bottom
 キャロル姫ゆかた下,Carol Yukata Bottom
 キャロルじんべい下,Carol Jinbei Bottom
-リサイクル4508,Recycle 4508
 エテーネルスープ,Ethenel Soup
 しぐさ書・ハート射抜く,Emote "Shoot Hearts"
 しぐさ書・つまみ食い,Emote "Eat"
@@ -17155,7 +17146,7 @@ SPアイテム,Skill Point Items
 セピアドワーフ人形・男,Sepia Dwarf Doll (M)
 セピアドワーフ人形・女,Sepia Dwarf Doll (F)
 紅葉のモビール,Autumn Mobile
-蒼天のソウラの絵,Blue Sky Soura Painting
+蒼天のソウラの絵,Souten no Soura Painting
 豪華なシャンデリア,Luxury Chandelier
 桜のアーチ,Cherry Blossom Arch
 スライムつむりぐるみ小,Shell Slime Plushie S
@@ -17862,7 +17853,7 @@ SPアイテム,Skill Point Items
 マイユの像,Maille Statue
 フウラの像,Fuura Statue
 ソーミャの像,Somya Statue
-アルウェの像,Alwa Statue
+アルウェの像,Alwe Statue
 ポイックリンの像,Poiclin Statue
 マリーンの像,Malynn Statue
 ミシュアの像,Mishua Statue
@@ -18395,7 +18386,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 第３回マイユの像,3rd Maille Statue
 第３回リゼロッタの像,3rd Lieselotte Statue
 第３回フウラの像,3rd Fuura Statue
-第３回アルウェの像,3rd Alwa Statue
+第３回アルウェの像,3rd Alwe Statue
 第３回ルシェンダの像,3rd Lushenda Statue
 第３回レイの像,3rd Rei Statue
 第３回魔勇者の像,3rd Evil Hero Statue
@@ -19945,16 +19936,12 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 闇のスピリットカプセル,Dark Spirit Capsule
 光のスピリットカプセル,Light Spirit Capsule
 スノーソンカプセル,Snowson Capsule
-リサイクル8197,Recycle 8197
 療魔の霊符・紅,Red Healer Charm
 療魔の霊符・黄,Yellow Healer Charm
-リサイクル8200,Recycle 8200
 踊魔の霊符・紅,Red Dancer Charm
 踊魔の霊符・紫,Purple Dancer Charm
-リサイクル8203,Recycle 8203
 戦魔の霊符・紅,Red Fighter Charm
 戦魔の霊符・白,White Fighter Charm
-リサイクル8206,Recycle 8206
 烈魔の霊符・白,White Fierce Charm
 烈魔の霊符・黒,Black Fierce Charm
 療魔の霊符・フリル桜,Pink Healer Charm
@@ -20236,11 +20223,11 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 パピヨンポスト・幻,Phantom Papillon Mailbox
 パピヨンツリー・幻,Phantom Papillon Tree
 エステラぬいぐるみ,Estella Plushie
-竜族の人形・男,Dragon Doll (M)
-竜族の人形・女,Dragon Doll (F)
+竜族の人形・男,Nadravian Doll (M)
+竜族の人形・女,Nadravian Doll (F)
 セピアのエステラ人形,Sepia Estella Doll
-セピアの竜族の人形・男,Sepia Dragon Doll (M)
-セピアの竜族の人形・女,Sepia Dragon Doll (F)
+セピアの竜族の人形・男,Sepia Nadravian Doll (M)
+セピアの竜族の人形・女,Sepia Nadravian Doll (F)
 お月見の障子,Moon Viewing Door
 お月見のぼんぼり,Moon Viewing Lantern
 トルネコのオルゴール,Torneko Music Box
@@ -20351,8 +20338,8 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 ゴーレムぬいぐるみ小,Golem Plushie S
 ミミックぬいぐるみ,Mimic Plushie
 ミミックぬいぐるみ小,Mimic Plushie S
-大きな竜族の人形・男,Large Dragon Doll (M)
-大きな竜族の人形・女,Large Dragon Doll (F)
+大きな竜族の人形・男,Large Nadravian Doll (M)
+大きな竜族の人形・女,Large Nadravian Doll (F)
 ミネアのオルゴール,Minea Music Box
 グレイツェルぬいぐるみ,Gretzel Plushie
 太陽と月のアーチ,Sun and Moon Arch
@@ -21112,20 +21099,6 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 鷲王の盾,Eagle Shield
 鉄壁の大盾,Ironclad Greatshield
 重装兵の大盾,Heavy Armor Greatshield
-リサイクル11703,Recycle 11703
-リサイクル11704,Recycle 11704
-リサイクル11705,Recycle 11705
-リサイクル11706,Recycle 11706
-リサイクル11707,Recycle 11707
-リサイクル11708,Recycle 11708
-リサイクル11709,Recycle 11709
-リサイクル11710,Recycle 11710
-リサイクル11711,Recycle 11711
-リサイクル11712,Recycle 11712
-リサイクル11713,Recycle 11713
-リサイクル11714,Recycle 11714
-リサイクル11715,Recycle 11715
-リサイクル11716,Recycle 11716
 シュバリエハット,Chevalier Hat
 シュバリエメイル下,Chevalier Mail Bottom
 シュバリエグローブ,Chevalier Gloves
@@ -21264,7 +21237,6 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 ルビスのかんむり,Rubiss' Crown
 ルビスのローブ上,Rubiss' Robe Top
 ルビスのローブ下,Rubiss' Robe Bottom
-リサイクル12403,Recycle 12403
 ルビスのブーツ,Rubiss' Boots
 モガマルヘッド,Cyril Head
 モガマルウェア,Cyril Suit
@@ -21406,7 +21378,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 エルフ人形男のライト,Elf Boy Light
 ドワーフ人形男のライト,Dwarf Boy Light
 プクリポ人形男のライト,Pukulipo Boy Light
-竜族人形男のライト,Dragon Boy Light
+竜族人形男のライト,Nadravian Boy Light
 スラシャボンの像,Liq. Soap Slime Statue
 サウルステントウの像,Ladyceratops Statue
 きなこづちの像,Honeyhood Statue
@@ -21440,14 +21412,14 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 カボチャドワーフ人形女,Pumpkin Dwarf Doll (F)
 オバケプクリポ人形男,Ghost Pukulipo Doll (M)
 オバケプクリポ人形女,Ghost Pukulipo Doll (F)
-ベビタン竜族人形男,Imp Dragon Doll (M)
-ベビタン竜族人形女,Imp Dragon Doll (F)
+ベビタン竜族人形男,Imp Nadravian Doll (M)
+ベビタン竜族人形女,Imp Nadravian Doll (F)
 オーガ人形女のライト,Ogre Girl Light
 ウェディ人形女のライト,Weddie Girl Light
 エルフ人形女のライト,Elf Girl Light
 ドワーフ人形女のライト,Dwarf Girl Light
 プクリポ人形女のライト,Pukulipo Girl Light
-竜族人形女のライト,Dragon Girl Light
+竜族人形女のライト,Nadravian Girl Light
 ネコ姫の壁かけライト,Cat Princess Wall Light
 ネコ姫の観葉植物,Cat Princess Plant
 ネコ姫のサイドチェスト,Cat Princess Side Chest
@@ -21505,7 +21477,6 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 ピクニックグリエ,Grei Picnic
 ピクニックプクラス,Pukulas Picnic
 フラッシュタイルラグ庭,Flash Tile Rug (G)
-アストルティア草花欠番,Astoltia Flowers Missing #
 アズランカズラ,Azlan Flowers
 エピステーサ桃小花,Pink Epistesa Flowers
 エテーネスズラン,Ethene Lilies
@@ -21577,7 +21548,6 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 キュルルのポスト,Kyururu Mailbox
 キュルルの畑,Kyururu Field
 お店のカーペット小・赤,Red Shop Carpet S
-欠番マイタウン屋台２,Miss # My Town Stall 2
 建物屋の看板,Building Shop Sign
 ランドンクーンの像,Landon Coon Statue
 壁かけグレン紋章旗,Glen Wall Banner
@@ -21635,7 +21605,6 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 水琴窟・庭,Koto Cave (G)
 カエルの置物・庭,Frog Ornament (G)
 水鳥のいる池・庭,Bird Pond (G)
-欠番ジェニャの卵,Missing # Jenya Egg
 ウルベアのベンチセット,Urbea Bench Set
 ダラズ大鉱脈の街灯,Daraz Vein Street Light
 ウルベアの自販機,Urbea Vending Machine
@@ -21643,14 +21612,13 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 技術庁まちかど掲示板,Empire Tech Town Board
 防砂ダムの大砲,Sand Dam Cannon
 パルミオまちかど掲示板,Palmio Town Board
-アルウェーンのベンチ,Alwane Bench
-アルウェーンのゴミ箱,Alwane Trash Bin
-アルウェーンの街灯,Alwane Street Light
-アルウェーンのアーチ,Alwane Arch
+アルウェーンのベンチ,Alweyn Bench
+アルウェーンのゴミ箱,Alweyn Trash Bin
+アルウェーンの街灯,Alweyn Street Light
+アルウェーンのアーチ,Alweyn Arch
 ホメロスの像,Jasper Statue
 黄金のパラディン像,Golden Paladin Statue
 キラキラスライム風鈴,Glittering Slime Chime
-欠番ウォーターベッド,Missing # Waterbed
 家族の肖像画,Family Portrait
 メレアーデの像,Mereade Statue
 クオードの像,Quard Statue
@@ -21671,8 +21639,8 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 レーザー扉付きついたて,Laser Door Partition
 パルミオ研究所分析機,Palmio Lab Analyzer
 カプセルトイマシーン,Capsule Toy Machine
-アルウェーン丸テーブル,Alwane Round Table
-アルウェーンのチェア,Alwane Chair
+アルウェーン丸テーブル,Alweyn Round Table
+アルウェーンのチェア,Alweyn Chair
 管理棟のアクアリウム,Admin Building Aquarium
 宇宙船のスケルトン看板,Spaceship Skeleton Sign
 管理棟の扉,Admin Building Door
@@ -21723,12 +21691,10 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 第５回スライムレース銀,5th Slime Race Silver
 第５回スライムレース,5th Slime Race Bronze
 シルエット・猫,Silhouette Cat
-シルエット・記号欠番,Silhouette Sign Missing #
 シルエット・樹木,Silhouette Tree
 シルエット・モンスター,Silhouette Monster
 シルエット・庭草,Silhouette Grass (G)
 シルエット・五種族,Silhouette 5 Tribes
-シルエット・DQ1欠番,Silhouette DQ1 Missing #
 シルエット・犬,Silhouette Dog
 厳かな床の間,Solemn Alcove
 聖夜のフォトスポット,Christmas Photo Spot
@@ -21844,7 +21810,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 ピクニックリベリオ,Rebelio Picnic
 ピクニックリィン,Lynn Picnic
 ピクニックフォステイル,Fostail Picnic
-ピクニックアルウエ,Alwae Picnic
+ピクニックアルウエ,Alwe Picnic
 ピクニックチリ,Chiri Picnic
 ピクニックパルミオ,Palmio Picnic
 ピクニックリンジャーラ,Linjara Picnic
@@ -22326,7 +22292,6 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 もみじのラグ,Maple Rug
 トコトコニードルうさこ,Trotting Needle Rabbit
 トコトコリンベリィ・庭,Trotting Linberry (G)
-欠番お菓子の家カウンタ,Miss# Candy House Counter
 コロシアムトロフィー剛,Coliseum Trophy-Strong
 雑貨屋さんの屋根白,White Shop Roof
 雑貨屋さんのラック白,White Shop Rack
@@ -22700,7 +22665,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 グレイスフルボトム,Graceful Pants
 グレイスフルブーツ,Graceful Boots
 蔦の絡まる家,Ivy Covered House
-リサイクル,Recycle
+リサイクル,recycle
 暗黒の魔人強メダル,Apex Ruin Medal
 アークデーモンカプセル,Archdemon Capsule
 デザートデモンカプセル,Dessert Demon Capsule
@@ -22757,7 +22722,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 冒険スタンプ印章,Adventure Stamp
 デモンマウンテン印章,Demon Mountain Stamp
 ゴーラ印章,Gora Stamp
-蒼天のソウラ印章,Blue Sky Soura Stamp
+蒼天のソウラ印章,Souten no Soura Stamp
 地獄のミサワ印章,Misawa From Hell Stamp
 ボスコイン優待券,Boss Coin Discount Ticket
 ボスコイン無料券,Free Boss Coin Ticket
@@ -22883,8 +22848,6 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 第２回大富豪庭アート銀,Tycoon Art 2 Silver (G)
 第２回大富豪庭アート銅,Tycoon Art 2 Bronze (G)
 第２３回ＧＰトロフィ金,23rd GP Gold Trophy
-MDぬいぐるみ１欠番,MD Plushie 1 Missing #
-MDぬいぐるみ２欠番,MD Plushie 2 Missing #
 コロシアムトロフィー皇,Coliseum Trophy-Emperor
 ドルワーム職人ギルド扉,Dolworm Crafting Guild Door
 ドルワーム王国の扉,Dolworm Kingdom Door
@@ -25845,7 +25808,7 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 アラハギーロ,Al-Ahagiro
 雪の女王,Snow Queen
 ナシーム,Naseem
-宇宙船アルウェーン,Spacecraft Alwane
+宇宙船アルウェーン,Spacecraft Alweyn
 ムスト,Must
 ルシュカ,Ruska
 アスフェルド,Asfeld
@@ -27298,16 +27261,16 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 妖精図書館の蝶,Fairy Library Butterfly
 妖精図書館のはしご,Fairy Library Ladder
 壁かけ妖精図書館ランプ,Fairy Library Wall Lamp
-学園の菜園２つの鉢植え,Shcool Garden 2 Plants
-学園の菜園の飾り棚,Shcool Garden Shelf
-学園の菜園の植え込み小,Shcool Garden Plant S
-学園の菜園の植え込み大,Shcool Garden Plant L
-学園の菜園木の鉢植えＡ,Shcool Garden Tree A
-学園の菜園木の鉢植えＢ,Shcool Garden Tree B
-学園の菜園の小花鉢植え,Shcool Garden Flower S
-学園の菜園木の鉢植えＣ,Shcool Garden Tree C
-学園の菜園木の鉢植えＤ,Shcool Garden Tree D
-学園の菜園木の鉢植えＥ,Shcool Garden Tree E
+学園の菜園２つの鉢植え,School Garden 2 Plants
+学園の菜園の飾り棚,School Garden Shelf
+学園の菜園の植え込み小,School Garden Plant S
+学園の菜園の植え込み大,School Garden Plant L
+学園の菜園木の鉢植えＡ,School Garden Tree A
+学園の菜園木の鉢植えＢ,School Garden Tree B
+学園の菜園の小花鉢植え,School Garden Flower S
+学園の菜園木の鉢植えＣ,School Garden Tree C
+学園の菜園木の鉢植えＤ,School Garden Tree D
+学園の菜園木の鉢植えＥ,School Garden Tree E
 ついてクンマット,Pet Mat
 ついてクンマット・丸,Round Pet Mat
 ついてクンマット・庭,Pet Mat (G)
@@ -30629,3 +30592,63 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 ふ化ふ化な衣装,Hatching Outfit
 バトエン,Batoen
 バットエンド,Bato-End
+闘いの広間,Battlefield
+ゼドラ集落,Zedra Village
+造成地,Created Land
+二の島,2nd Isle
+アルウェ王妃の別荘跡１階,Queen Alwe's Villa Ruins 1F
+アルウェ王妃の別荘跡２階,Queen Alwe's Villa Ruins 2F
+使用人部屋,Servant Room
+厨房,kitchen
+調理場,kitchen
+カミハルムイ北,Kamiharmui North
+カミハルムイ南,Kamiharmui South
+コニウェア,Coniware
+三の島,3rd Isle
+城下町,Castle Town
+ＶＩＰルーム,VIP Room
+センターホール,Center Hall
+シーサイドルーム,Seaside Room
+ノースルーム,North Room
+サウスルーム,South Room
+２階-シーサイドルーム,Seaside Room 2F
+２階-ノースルーム,North Room 2F
+１階-ノースルーム,North Room 1F
+２階-サウスルーム,South Room 2F
+１階-サウスルーム,South Room 1F
+３階-センターホール,Center Hall 3F
+２階-センターホール,Center Hall 2F
+１階-センターホール,Center Hall 1F
+２階-カジノテラス,Casino Terrace 2F
+１階-カジノテラス,Casino Terrace 1F
+カジノテラス,Casino Terrace
+コイン販売所,Coin Counter
+１階-シーサイドルーム,Seaside Room 1F
+３階-カジノテラス,Casino Terrace 3F
+大神殿,Great Temple
+神殿,temple
+丘陵,hills
+聖域,Sanctuary
+ビンゴすごろくホール,Bingo/Sugoroku Hall
+すごろくルーム,Sugoroku Room
+心願の間,Wish Hall
+祭壇,Altar
+スライムレースホール,Slime Race Hall
+民家,house
+復活の門,Rebirth Gate
+資材倉庫,material storage
+歓談の間,Chat Room
+塩水晶の陣地,Salt Crystal Camp
+巫女の御座,Maiden's Throne
+反乱軍の隠れ家,Rebel Army Hideout
+レオーネの間,Leone's room
+太古の浜辺,Ancient Beach
+中心核の間,Core Chamber
+ハルッカの家,Haruka's house
+栄光の原野,Glory Plains
+残光の荒野,Afterglow Wilds
+１０周年記念会場,10th Anniversary Venue
+底なし谷,Valley Depth
+風だまりの絶壁,Windswept Cliffs
+兵士の訓練場,Soldier Training Grounds
+竜の断崖,Dragon Cliff
