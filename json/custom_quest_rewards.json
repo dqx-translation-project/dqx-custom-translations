@@ -90,7 +90,7 @@
     "しぐさ「ドワーフのあいさつ」": "Emote \"Dwarf Greeting\""
   },
   "31": {
-    "ご当地便せんが購入可能になる": "Can Purchase This Place's Paper"
+    "ご当地便せんが購入可能になる": "Can Buy This Place's Paper"
   },
   "32": {
     "風の町アズランのご当地便せん": "Wind Town Azlan's Paper"
@@ -117,13 +117,13 @@
     "娯楽島ラッカランのご当地便せん": "Luckland Island's Paper"
   },
   "40": {
-    "桜花の便せんが購入可能になる": "Can Purchase Sakura Paper"
+    "桜花の便せんが購入可能になる": "Can Buy Sakura Paper"
   },
   "41": {
-    "紅蓮の便せんが購入可能になる": "Can Purchase Red Lotus Paper"
+    "紅蓮の便せんが購入可能になる": "Can Buy Red Lotus Paper"
   },
   "42": {
-    "遺跡の便せんが購入可能になる": "Can Purchase Ruins Paper"
+    "遺跡の便せんが購入可能になる": "Can Buy Ruins Paper"
   },
   "43": {
     "　５０種類 入れられるようになる": "  50 Different Kinds of Items"
@@ -132,7 +132,7 @@
     "盗賊のターバン　グローブ": "Thief Turban, Gloves"
   },
   "45": {
-    "メダルの便せんが購入可能になる": "Can Purchase Medal Paper"
+    "メダルの便せんが購入可能になる": "Can Buy Medal Paper"
   },
   "46": {
     "レベルの上限が５５になる": "Maximum Level Becomes 55"
@@ -627,7 +627,7 @@
     "ギュッとウサギ　・ふくびき券": "Rabbit Arm Doll, Lottery Ticket"
   },
   "210": {
-    "アロマの便せんが購入可能になる": "Can Purchase Aroma Paper"
+    "アロマの便せんが購入可能になる": "Can Buy Aroma Paper"
   },
   "211": {
     "しぐさ「おねだり」": "Emote \"Begging\""
@@ -685,5 +685,86 @@
   },
   "229": {
     "飛竜を呼べるようになる": "In False Lendersia"
+  },
+  "230": {
+    "Lv11以上武器鍛冶職人になれる": "Unlock Lv11+ Weaponsmithing"
+  },
+  "231": {
+    "聖守護者の闘戦記に": "Holy Guardians Battle"
+  },
+  "232": {
+    "しぐさ「美少女怪盗のポーズ」": "Emote \"Phantom Thief Pose\""
+  },
+  "233": {
+    "しぐさ「炎の友情☆ダンス」": "Emote \"Fire Friendship☆Dance\""
+  },
+  "234": {
+    "勇者姫の便せんが購入可能になる": "Can Buy Hero Princess Paper"
+  },
+  "235": {
+    "荘厳な神殿の便せんが購入可能に": "Can Buy Majestic Abbey Paper"
+  },
+  "236": {
+    "ピラミッドの便せんが購入可能に": "Can Buy Pyramid Paper"
+  },
+  "237": {
+    "スイーツの便せんが購入可能に": "Can Buy Sweet Paper"
+  },
+  "238": {
+    "格闘場の便せんが購入可能になる": "Can Buy Arena Paper"
+  },
+  "239": {
+    "聖なる王城の便せんが購入可能に": "Can Buy Holy Royal Castle Paper"
+  },
+  "240": {
+    "光の神殿の便せんが購入可能に": "Can Buy Light Temple Paper"
+  },
+  "241": {
+    "麦畑の便せんが購入可能になる": "Can Buy Wheat Field Paper"
+  },
+  "242": {
+    "小さな英雄の便せんが購入可能に": "Can Buy Little Hero Paper"
+  },
+  "243": {
+    "幸福の便せんが購入可能になる": "Can Buy Happiness Paper"
+  },
+  "244": {
+    "潮騒の便せんが購入可能になる": "Can Buy Tidal Paper"
+  },
+  "245": {
+    "王都の便せんが購入可能になる": "Can Buy Royal City Paper"
+  },
+  "246": {
+    "太陽の便せんが購入可能になる": "Can Buy Sun Paper"
+  },
+  "247": {
+    "南国の便せんが購入可能になる": "Can Buy Tropical Paper"
+  },
+  "248": {
+    "港町の便せんが購入可能になる": "Can Buy Port Town Paper"
+  },
+  "249": {
+    "闘士の便せんが購入可能になる": "Can Buy Fighter Paper"
+  },
+  "250": {
+    "しぐさ「お祝いリボン」": "Emote \"Congrats Ribbon\""
+  },
+  "251": {
+    "詩人ナスガルドの舞台に": "Poet Woebergard's Stage"
+  },
+  "252": {
+    "　参加できるようになる": "  is Available"
+  },
+  "253": {
+    "黄金の秘宝鑑定を": "Gold Treasure Appraisal"
+  },
+  "254": {
+    "　受けられるようになる": "  is Available"
+  },
+  "255": {
+    "真と偽りのレンダーシア内に限り": "True and False Lendersia Now"
+  },
+  "256": {
+    "　バシっ娘の回数制限がなくなる": "  Unlimited Using Bazoom Girls"
   }
 }
