@@ -16219,6 +16219,8 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 じゃんけんグー,Rock
 未確認飛行物体,UFO
 ランプ錬金職人,Lamp Alchemist
+　と言われた。,""
+　と頼まれた。,""
 バズズ(コイン),Pazuzu (Coin)
 宝箱ゾーマCS用,Zoma Box CS
 ハンマー(片手),hammer
@@ -16256,8 +16258,6 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 ナスビナーラ6,Woebergine 6
 ナスビナーラ7,Woebergine 7
 破邪舟 発着点,Ship Dock
-　と言われた。,""
-　と頼まれた。,""
 管理棟　中央,administration building center
 銀の木工刀小,Small Silver Woodworking Knife
 管理棟　下層,lower administration building
@@ -27529,6 +27529,7 @@ SPアイテム,Skill Point Items
 ワガハイ,I
 でアール,!
 レンタル,rental
+ガラクタ,junk
 PCベビー,PC's Baby
 ×を描く,Draw an X
 鎌(両手),scythe
@@ -30672,4 +30673,3 @@ PCベビー,PC's Baby
 棍,rod
 扇,fan
 弓,bow
-ガラクタ,junk
