@@ -23294,7 +23294,6 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 マグカップ,Mug
 ねこちゃん,Cat
 つまみ食い,Eat
-オンライン,online
 SPアイテム,Skill Point Items
 (アナザー),(Another)
 短剣(片手),dagger
@@ -30352,7 +30351,7 @@ PCベビー,PC's Baby
 チマ,Chima
 シギ,Shigi
 パン,bread
-竜笛,Flute
+竜笛,flute
 ベラ,Honey
 トメ,Tomei
 馬車,wagon
@@ -30507,7 +30506,7 @@ PCベビー,PC's Baby
 ムチ,whip
 フナ,Carp
 賢者,sage
-戦車,Tank
+戦車,chariot
 教皇,pope
 愚者,fool
 盟友,ally
@@ -30581,7 +30580,7 @@ PCベビー,PC's Baby
 ベン,Ben
 レグ,Reg
 ギル,Gil
-宿屋,Inn
+宿屋,inn
 カイ,Kai
 リム,Rim
 アロ,Aro
@@ -30603,8 +30602,8 @@ PCベビー,PC's Baby
 ロア,Roa
 セン,Sen
 陰獣,Yin
-歯車,Cog
-泥沼,Bog
+歯車,cog
+泥沼,bog
 タイ,Red Snapper
 オノ,axe
 アユ,Ayu
@@ -30654,8 +30653,8 @@ PCベビー,PC's Baby
 Ⅰ‐,Ⅰ‐
 Ⅱ‐,Ⅱ‐
 Ⅲ‐,Ⅲ‐
-９階,9F
-８階,8F
+９階,ninth floor
+８階,eighth floor
 オデ,I
 駅,train station
 泉,fountain
@@ -30674,3 +30673,4 @@ PCベビー,PC's Baby
 棍,rod
 扇,fan
 弓,bow
+オンライン,online
