@@ -1,5 +1,6 @@
 このマップは モンスターから逃げられません。,You can't run from monsters on this map.
 　　　～モンスター討伐隊隊員からの依頼～,         Monster Strike Force Request
+季節イベント「お月見」　コンパニオン,Seasonal Event "Moon View" Companion
 ルファ神殿エントランス（オープン）,Rufa Temple - Entry (Open)
 プンスコのテーブル＆ティーセット,Punsuko's Table & Tea Set
 レビュール街道北-海風の洞くつ 前,Reviewle Highway North - Seabreeze Cave
@@ -36,6 +37,11 @@
 イルーシャのスケッチブック,Irusha's Sketchbook
 ドラゴンクエストＸショップ,Dragon Quest X Shop
 １００万ゴールドの入った袋,1 Million Gold Bag
+女性プラコン服ミッドナイト,Midnight Clothes (F)
+女性プラコン服アイスブルー,Ice Blue Clothes (F)
+男性プラコン服ダークグレー,Dark Gray Clothes (M)
+男性プラコン服ミストグレー,Mist Gray Clothes (M)
+男性プラコン服ミッドナイト,Midnight Clothes (M)
 5000年の旅路 遥かなる故郷へ,5000 Year Journey to a Faraway Hometown
 ワルド水源-湖上の休息所 前,Wald Headwaters - Lake Retreat
 プログラマー検証ステージ1,Programmer Verification Stage 1
@@ -165,6 +171,17 @@
 カワイ子ちゃんにご注意を,Beware of Cutie
 トリック・オア・トリート,Trick or Treat
 迷子の迷子のエルフちゃん,Lost Elf Child
+女性プラコン服サンセット,Sunset Clothes (F)
+プラコンスクール制服女赤,Red School Uniform F
+プラコンスクール制服女黒,Black School Uniform F
+プラコンスクール制服女白,White School Uniform F
+プラコンスクール制服女紺,Blue School Uniform F
+プラコンスクール制服女茶,Brown School Uniform F
+プラコンスクール制服男赤,Red School Uniform M
+プラコンスクール制服男黒,Black School Uniform M
+プラコンスクール制服男白,White School Uniform M
+プラコンスクール制服男紺,Blue School Uniform M
+プラコンスクール制服男茶,Brown School Uniform M
 セレドット山道-資料室 前,Celedot Mountain Pass - Archives
 ローヌ樹林帯-黄葉商店 前,Rhone Forest Belt - Leaf Shop
 レビュール街道南-井戸 前,Reviewle Highway South - Well
@@ -1755,6 +1772,18 @@ Reジューンプライドの憂鬱,Re: June Bride's Gloom
 エビルプリーストコイン,Aamon Coin
 エビルプリーストカード,Aamon Card
 プラコンしゃぼんセット,Soap Set
+パーティーロングドレス,Party Long Dress
+髪無しグロリアススーツ,Hairless Glorious Suit
+きんぞくウルフきぐるみ,Metal Wolf Costume
+ゴールドマンのきぐるみ,Gold Golem Costume
+ナスビナーラのきぐるみ,Woebergine Costume
+サマーウルフのきぐるみ,Summer Wolf Costume
+アスフェルド学園学生服,Asfeld Academy Uniform
+金ナスビナーラきぐるみ,Gold Woebergine Costume
+プラコンおしゃれ水着青,Blue Snazzy Swimsuit
+ダッフルセーラーセット,Duffel Outfit
+ダルメシアンボーイ衣装,Dalmatian Outfit (M)
+ダルメシアンガール衣装,Dalmatian Outfit (F)
 リャナ荒涼地帯-灯台 前,Lyana Desolate Area - Lighthouse
 ビーチで大公演！？ 2017,Beach Performance!? 2017
 なぞ解きオブジェクト02,Mystery Solving Object 2
@@ -3535,6 +3564,30 @@ Reジューンプライドの憂鬱,Re: June Bride's Gloom
 色変わりアーチネオン,Neon Arch
 プラコンお風呂セット,Bath Set
 ハッピーバレンタイン,Happy Valentine's Day
+フォーマルタキシード,Formal Tuxedo
+コロシアムよろい＿金,Gold Colosseum Armor
+コロシアムよろい＿銀,Silver Colosseum Armor
+コロシアムよろい＿銅,Bronze Colosseum Armor
+コロシアムローブ＿金,Gold Colosseum Robe
+コロシアムローブ＿銀,Silver Colosseum Robe
+コロシアムローブ＿銅,Bronze Colosseum Robe
+女性プラコン服ピンク,Pink Clothes (F)
+女性プラコン服エンジ,Red Clothes (F)
+男性プラコン服エンジ,Red Clothes (M)
+男性プラコン服ピンク,Pink Clothes (M)
+プチデビルジャケット,Petit Devil Jacket
+アスフェルド学園夏服,Asfeld Academy Summer Wear
+ホイミントパンタロン,Heal Mint Pantaloons
+ホイミントワンピース,Heal Mint One Piece
+アスフェルド学園冬服,Asfeld Academy Winter Wear
+タータンボーイスーツ,Tartan Suit (M)
+タータンガールスーツ,Tartan Suit (F)
+アスフェルド学園制服,Asfeld Academy Uniform
+ディープギアモードⅠ,Deep Gear Mode Ⅰ
+マジカルボーイスーツ,Magical Boy Suit
+マジカルガールスーツ,Magical Girl Suit
+ディープギアモードⅡ,Deep Gear Mode Ⅱ
+猫貴族のマントセット,Aristocat Outfit
 キュララな夏休み 2017,Kyurara Summer Holiday '17
 Re白きヴェールの乙女,Re: Maid of the White Veil
 Reツリーは白銀に消ゆ,Tree's Disappearance Again
@@ -3542,6 +3595,7 @@ GPトロフィーピンク銀,Pink GP Silver Trophy
 GPトロフィーピンク銅,Pink GP Bronze Trophy
 GPトロフィーピンク金,Pink GP Gold Trophy
 GPトロフィーピンク鉄,Pink GP Iron Trophy
+GMキャラコスチューム,GM Character Costume
 事務棟-４階・所長室,Office Building 4F - Director's Office
 祈りの宿-旅人バザー,Prayer Inn Traveler's Bazaar
 ベラストル家-大広間,Belastre House - Great Hall
@@ -7490,6 +7544,68 @@ GPトロフィーピンク鉄,Pink GP Iron Trophy
 闇芸人ルルルリーチ,Relulu
 ゴールデンゴーレム,Balhib
 スライムジェネラル,Shogum
+プスゴンのきぐるみ,Pusgon Costume
+ゴーレムのきぐるみ,Golem Costume
+女子のスクール制服,Girl School Uniform
+男子のスクール制服,Boy School Uniform
+ＤＱⅧ主人公の衣装,DQⅧ Hero Costume
+ウェディングドレス,Wedding Dress
+ホワイトタキシード,White Tuxedo
+リベリオのきぐるみ,Rebelio Costume
+トナカイのきぐるみ,Reindeer Costume
+プリンスタキシード,Prince Tuxedo
+ブラックタキシード,Black Tuxedo
+グリーンタキシード,Green Tuxedo
+女性さくらのゆかた,Sakura Yukata (F)
+女性もみじのゆかた,Maple Yukata (F)
+女性白波柄のゆかた,White Wave Yukata (F)
+男性さくらのゆかた,Sakura Yukata (M)
+男性もみじのゆかた,Maple Yukata (M)
+男性白波柄のゆかた,White Wave Yukata (M)
+ウサぐるみ・ピンク,Pink Rabbit
+シュガーナイトの服,Sugar Knight's Clothes
+カプサイナイトの服,Capsai Knight's Clothes
+花狩人のころも・赤,Red Flwr Hunter Outfit
+花狩人のころも・青,Blue Flower Hunter Outfit
+花狩人のころも・黄,Yellow Flower Hunter Outfit
+花狩人のころも・緑,Green Flower Hunter Outfit
+花狩人のころも・紫,Purple Flower Hunter Outfit
+くらげドレスセット,Jellyfish Dress Set
+竜将のよろいセット,Dragon General Armor Set
+昔日のよろいセット,Ancient Armor Set
+スノースターセット,Snowstar Outfit
+サハラコートセット,Sahara Outfit
+イカしたＴシャツ桃,Pink Cool T-Shirt
+イカしたＴシャツ黄,Yellow Cool T-Shirt
+DQ1勇者たいまつなし,DQ1 Hero Without Torch
+DQ1勇者たいまつあり,DQ1 Hero With Torch
+オス三毛猫スーツⅠ,Calico Cat Suit (M) Ⅰ
+メス三毛猫スーツⅠ,Calico Cat Suit (F) Ⅰ
+あさがお柄のゆかた,Bell Pattern Yukata
+トンボ柄のじんべい,Dragonfly Jinbei
+ハートボーイ兵隊服,Heart Soldier Uniform (M)
+ハートガール兵隊服,Heart Soldier Uniform (F)
+防衛軍の制服・灰色,Gray Defense Force Suit
+ボーイモッズコート,Boy Mod Coat
+ガールモッズコート,Girl Mod Coat
+プラコンドレス・黒,Black Dress
+プラコンスーツ・黒,Black Suit
+カンフーボーイ衣装,Kung Fu Boy Costume
+カンフーガール衣装,Kung Fu Girl Costume
+カーニバルコーデⅠ,Carnival Outfit Ⅰ
+潜水服・デフォルト,Default Diving Suit
+オス三毛猫スーツⅡ,Calico Cat Suit (M) Ⅱ
+メス三毛猫スーツⅡ,Calico Cat Suit (F) Ⅱ
+カーニバルコーデⅡ,Carnival Outfit Ⅱ
+カラス神楽の装束Ⅰ,Crow Dance Costume Ⅰ
+レンタル花がら水着,Rental Floral Swimwear
+カラス神楽の装束Ⅱ,Crow Dance Costume Ⅱ
+ガーデンスーツ衣装,Garden Suit Outfit
+ガーデンドレス衣装,Garden Dress Outfit
+スチーム装備セット,Steam Equipment Set
+クールスターセット,Cool Star Outfit
+ポップスターセット,Pop Star Outfit
+若武者の甲冑セット,Young Warrior Armor Set
 Re星降る夜の大乱闘,Re: Starry Night Scuffle
 デフェル荒野-墓 前,Defel Wilderness - Tomb
 夏宵メモワール 2017,Summer Memoirs 2017
@@ -11593,6 +11709,62 @@ Re星降る夜の大乱闘,Re: Starry Night Scuffle
 グレートドラキー,Gracky
 しんごんのじゅず,Rosary
 エビルプリースト,Aamon
+アインスリッター,Eins Ritter
+パーティードレス,Party Dress
+ロングタキシード,Long Tuxedo
+パンプキンの衣装,Pumpkin Costume
+ドラキュラの衣装,Dracula Costume
+男性プラコン服白,White Clothes (M)
+女性プラコン服紫,Purple Clothes (F)
+プリンセスドレス,Princess Dress
+レッドタキシード,Red Tuxedo
+ブルータキシード,Blue Tuxedo
+女性金魚のゆかた,Women's Goldfish Yukata
+女性花柄のゆかた,Women's Floral Yukata
+男性金魚のゆかた,Men's Goldfish Yukata
+男性花柄のゆかた,Men's Floral Yukata
+白組のたいそう着,White Team Track Suit
+赤組のたいそう着,Red Team Track Suit
+シックゴスセット,Chic Goth Outfit
+ドラパンクセット,Dracky Punk Outfit
+マーチングセット,Marching Outfit
+ジャックの衣装２,Jack's Costume 2
+ミイラ男の衣装２,Mummy Boy Costume 2
+フェアリー衣装Ⅰ,Fairy Costume Ⅰ
+ジャックの衣装３,Jack's Costume 3
+ミイラ男の衣装３,Mummy Boy Costume 3
+白ヒゲのサンタ服,White Beard Santa Suit
+防衛軍の制服・緑,Green Defense Force Suit
+防衛軍の制服・紺,Blue Defense Force Suit
+防衛軍の制服・赤,Red Defense Force Suit
+防衛軍の制服・紫,Purple Defense Force Suit
+防衛軍の制服・金,Gold Defense Force Suit
+ネコミイラ衣装Ⅰ,Cat Mummy Costume Ⅰ
+ランプ錬金練習着,Lamp Alchemy Work Wear
+キューピッド衣装,Cupid Costume
+覇者のローブ・金,Gold Champ Robe
+覇者のローブ・銀,Silver Champ Robe
+覇者のローブ・銅,Bronze Champ Robe
+栄光のローブ・金,Gold Glory Robe
+栄光のローブ・銀,Silver Glory Robe
+栄光のローブ・銅,Bronze Glory Robe
+防衛軍の制服・Ｙ,Defense Force Suit Y
+防衛軍の制服・Ｚ,Defense Force Suit Z
+グロリアススーツ,Glorious Suit
+潜水服・ワイルド,Wild Diving Suit
+ライダーススーツ,Riders Suit
+メット無しスーツ,Helmetless Suit
+フェアリー衣装Ⅱ,Fairy Costume Ⅱ
+ネコミイラ衣装Ⅱ,Cat Mummy Costume Ⅱ
+テレパスタイツⅠ,Telepath Tights Ⅰ
+サメきぐるみ・青,Blue Shark Suit
+サメきぐるみ・桃,Pink Shark Suit
+サメきぐるみ・金,Gold Shark Suit
+テレパスタイツⅡ,Telepath Tights Ⅱ
+アイスダンス衣装,Ice Dance Outfit
+春風チアーズ衣装,Spring Cheer Outfit
+ブレイクスタイル,Break Style
+メロディアセット,Melody Outfit
 GPトロフィー黄銀,Yellow GP Silver Trophy
 GPトロフィー黄銅,Yellow GP Bronze Trophy
 GPトロフィー白銀,White GP Silver Trophy
@@ -11608,6 +11780,7 @@ Re昏きブルーの男,Re: Dark Blue Man
 アトラス(コイン),Atlas (Coin)
 ブーメラン(片手),boomerang
 スティック(片手),wand
+PC兄弟の装備一式,PC Sib. Equipment Set
 生産棟-地下１階,Manufacturing Building - B1F
 ３階-騎士団長室,3F - Knight Captain's Room
 研究棟-地下２階,Research Building - B2F
@@ -16221,6 +16394,41 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 ランプ錬金職人,Lamp Alchemist
 　と言われた。,""
 　と頼まれた。,""
+ショートマント,Short Mantle
+レギオンゼーレ,Legion Seele
+ジャックの衣装,Jack's Costume
+ミイラ男の衣装,Mummy Boy Costume
+ミローレの衣装,Milore Costume
+スイートな衣装,Sweet Outfit
+チアガールの服,Cheerleader Clothes
+ウサぐるみ・白,White Rabbit
+ウサぐるみ・青,Blue Rabbit
+ウサぐるみ・茶,Brown Rabbit
+清廉天使セット,Honest Angel Outfit
+純真天使セット,Pure Angel Outfit
+オバケの衣装２,Ghost Costume 2
+あくまの衣装２,Imp Costume 2
+オバケの衣装３,Ghost Costume 3
+あくまの衣装３,Imp Costume 3
+アラビアン衣装,Arabian Outfit
+カンダタ見習い,Robbin' 'Ood Amateur
+ウサぐるみ・黄,Yellow Rabbit
+かぼちゃ姫衣装,Pumpkin Prncss Outfit
+武器鍛冶練習着,Weaponsmith Work Wear
+防具鍛冶練習着,Armorsmith Work Wear
+道具鍛冶練習着,Toolsmith Work Wear
+さいほう練習着,Sewing Work Wear
+ツボ錬金練習着,Pot Alchemy Work Wear
+エンジェル衣装,Angel Costume
+釣り師の衣装Ⅰ,Angler's Costume Ⅰ
+ウサぐるみ・黒,Black Rabbit
+ライダースーツ,Rider Suit
+釣り師の衣装Ⅱ,Angler's Costume Ⅱ
+潜水服・エール,Cheer Diving Suit
+ラプタースーツ,Raptor Suit
+カンダタ大元帥,Robbin' 'Ood General
+春風応援団衣装,Spring Cheer S Outfit
+ハイクラス衣装,High Class Outfit
 バズズ(コイン),Pazuzu (Coin)
 宝箱ゾーマCS用,Zoma Box CS
 ハンマー(片手),hammer
@@ -19978,6 +20186,34 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 エックスさん,X
 サポート仲間,support companion
 ツボ錬金職人,Pot Alchemist
+ロングマント,Long Mantle
+フルオーバー,Pullover
+オバケの衣装,Ghost Costume
+あくまの衣装,Imp Costume
+女性メイド服,Maid Outfit (F)
+丸小紋セット,Circle Pattern Set
+小悪魔ドレス,Lil' Devil Dress
+桜花のはかま,Cherry Blossom Hakama
+釣り師の衣装,Angler's Costume
+スクール水着,School Swimsuit
+ピエロ衣装Ⅰ,Clown Costume Ⅰ
+制服エプロン,Uniform Apron
+カンダタ騎兵,Robbin 'Ood Cavalry
+カンダタ将軍,Robbin' 'Ood General
+カンダタ元帥,Robbin 'Ood Marshal
+大怪盗衣装Ⅰ,Thief Outfit Ⅰ
+覇者の鎧・金,Gold Champ Armor
+覇者の鎧・銀,Silver Champ Armor
+覇者の鎧・銅,Bronze Champ Armor
+栄光の鎧・金,Gold Glory Armor
+栄光の鎧・銀,Silver Glory Armor
+栄光の鎧・銅,Bronze Glory Armor
+魔仙卿の衣装,Oracle's Outfit
+しにがみの服,Reaper's Robes
+大魔王の衣装,Demon King Costume
+ピエロ衣装Ⅱ,Clown Costume Ⅱ
+大怪盗衣装Ⅱ,Thief Outfit Ⅱ
+カンダタ総帥,Robbin' 'Ood Chief
 モンスター26,Monster 26
 モンスター27,Monster 27
 モンスター28,Monster 28
@@ -23295,6 +23531,16 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 ねこちゃん,Cat
 つまみ食い,Eat
 オンライン,online
+ベジセルク,Cucumberserk
+男性執事服,Butler Uniform (M)
+夜桜スーツ,Night Cherry Suit
+夜狐セット,Nightfox Outfit
+デビル衣装,Devil Costume
+木工練習着,Wdwk. Work Wear
+調理練習着,Cook Work Wear
+潜水服・赤,Red Diving Suit
+潜水服・青,Blue Dive Suit
+潜水服・黄,Ylw. Dive Suit
 SPアイテム,Skill Point Items
 (アナザー),(Another)
 短剣(片手),dagger
@@ -27534,6 +27780,8 @@ SPアイテム,Skill Point Items
 リプレイ,replay
 すばやさ,agility
 きようさ,deftness
+和風装束,Breezy Wear
+ジャージ,Jersey
 PCベビー,PC's Baby
 ×を描く,Draw an X
 鎌(両手),scythe
@@ -30676,251 +30924,3 @@ PCベビー,PC's Baby
 棍,rod
 扇,fan
 弓,bow
-ベジセルク,Cucumberserk
-ショートマント,Short Mantle
-ロングマント,Long Mantle
-フルオーバー,Pullover
-和風装束,Breezy Wear
-レギオンゼーレ,Legion Seele
-アインスリッター,Eins Ritter
-プスゴンのきぐるみ,Pusgon Costume
-ゴーレムのきぐるみ,Golem Costume
-女子のスクール制服,Girl School Uniform
-男子のスクール制服,Boy School Uniform
-パーティードレス,Party Dress
-パーティーロングドレス,Party Long Dress
-フォーマルタキシード,Formal Tuxedo
-ロングタキシード,Long Tuxedo
-髪無しグロリアススーツ,Hairless Glorious Suit
-きんぞくウルフきぐるみ,Metal Wolf Costume
-ＤＱⅧ主人公の衣装,DQⅧ Hero Costume
-ウェディングドレス,Wedding Dress
-ホワイトタキシード,White Tuxedo
-ゴールドマンのきぐるみ,Gold Golem Costume
-ナスビナーラのきぐるみ,Woebergine Costume
-リベリオのきぐるみ,Rebelio Costume
-ジャックの衣装,Jack's Costume
-オバケの衣装,Ghost Costume
-ミイラ男の衣装,Mummy Boy Costume
-あくまの衣装,Imp Costume
-トナカイのきぐるみ,Reindeer Costume
-ミローレの衣装,Milore Costume
-スイートな衣装,Sweet Outfit
-女性メイド服,Maid Outfit (F)
-男性執事服,Butler Uniform (M)
-コロシアムよろい＿金,Gold Colosseum Armor
-コロシアムよろい＿銀,Silver Colosseum Armor
-コロシアムよろい＿銅,Bronze Colosseum Armor
-コロシアムローブ＿金,Gold Colosseum Robe
-コロシアムローブ＿銀,Silver Colosseum Robe
-コロシアムローブ＿銅,Bronze Colosseum Robe
-サマーウルフのきぐるみ,Summer Wolf Costume
-パンプキンの衣装,Pumpkin Costume
-ドラキュラの衣装,Dracula Costume
-チアガールの服,Cheerleader Clothes
-女性プラコン服ピンク,Pink Clothes (F)
-女性プラコン服エンジ,Red Clothes (F)
-女性プラコン服ミッドナイト,Midnight Clothes (F)
-女性プラコン服アイスブルー,Ice Blue Clothes (F)
-女性プラコン服サンセット,Sunset Clothes (F)
-男性プラコン服ダークグレー,Dark Gray Clothes (M)
-男性プラコン服エンジ,Red Clothes (M)
-男性プラコン服ミストグレー,Mist Gray Clothes (M)
-男性プラコン服ミッドナイト,Midnight Clothes (M)
-男性プラコン服白,White Clothes (M)
-女性プラコン服紫,Purple Clothes (F)
-男性プラコン服ピンク,Pink Clothes (M)
-丸小紋セット,Circle Pattern Set
-プラコンスクール制服女赤,Red School Uniform F
-プラコンスクール制服女黒,Black School Uniform F
-プラコンスクール制服女白,White School Uniform F
-プラコンスクール制服女紺,Blue School Uniform F
-プラコンスクール制服女茶,Brown School Uniform F
-プラコンスクール制服男赤,Red School Uniform M
-プラコンスクール制服男黒,Black School Uniform M
-プラコンスクール制服男白,White School Uniform M
-プラコンスクール制服男紺,Blue School Uniform M
-プラコンスクール制服男茶,Brown School Uniform M
-プリンセスドレス,Princess Dress
-プリンスタキシード,Prince Tuxedo
-ブラックタキシード,Black Tuxedo
-レッドタキシード,Red Tuxedo
-ブルータキシード,Blue Tuxedo
-グリーンタキシード,Green Tuxedo
-女性金魚のゆかた,Women's Goldfish Yukata
-女性花柄のゆかた,Women's Floral Yukata
-女性さくらのゆかた,Sakura Yukata (F)
-女性もみじのゆかた,Maple Yukata (F)
-女性白波柄のゆかた,White Wave Yukata (F)
-男性金魚のゆかた,Men's Goldfish Yukata
-男性花柄のゆかた,Men's Floral Yukata
-男性さくらのゆかた,Sakura Yukata (M)
-男性もみじのゆかた,Maple Yukata (M)
-男性白波柄のゆかた,White Wave Yukata (M)
-ウサぐるみ・白,White Rabbit
-ウサぐるみ・ピンク,Pink Rabbit
-ウサぐるみ・青,Blue Rabbit
-ウサぐるみ・茶,Brown Rabbit
-白組のたいそう着,White Team Track Suit
-赤組のたいそう着,Red Team Track Suit
-シュガーナイトの服,Sugar Knight's Clothes
-カプサイナイトの服,Capsai Knight's Clothes
-アスフェルド学園学生服,Asfeld Academy Uniform
-プチデビルジャケット,Petit Devil Jacket
-小悪魔ドレス,Lil' Devil Dress
-花狩人のころも・赤,Red Flwr Hunter Outfit
-花狩人のころも・青,Blue Flower Hunter Outfit
-花狩人のころも・黄,Yellow Flower Hunter Outfit
-花狩人のころも・緑,Green Flower Hunter Outfit
-花狩人のころも・紫,Purple Flower Hunter Outfit
-夜桜スーツ,Night Cherry Suit
-桜花のはかま,Cherry Blossom Hakama
-シックゴスセット,Chic Goth Outfit
-ドラパンクセット,Dracky Punk Outfit
-マーチングセット,Marching Outfit
-清廉天使セット,Honest Angel Outfit
-純真天使セット,Pure Angel Outfit
-くらげドレスセット,Jellyfish Dress Set
-釣り師の衣装,Angler's Costume
-夜狐セット,Nightfox Outfit
-竜将のよろいセット,Dragon General Armor Set
-昔日のよろいセット,Ancient Armor Set
-スノースターセット,Snowstar Outfit
-サハラコートセット,Sahara Outfit
-イカしたＴシャツ桃,Pink Cool T-Shirt
-イカしたＴシャツ黄,Yellow Cool T-Shirt
-DQ1勇者たいまつなし,DQ1 Hero Without Torch
-DQ1勇者たいまつあり,DQ1 Hero With Torch
-オス三毛猫スーツⅠ,Calico Cat Suit (M) Ⅰ
-メス三毛猫スーツⅠ,Calico Cat Suit (F) Ⅰ
-アスフェルド学園夏服,Asfeld Academy Summer Wear
-スクール水着,School Swimsuit
-ホイミントパンタロン,Heal Mint Pantaloons
-ホイミントワンピース,Heal Mint One Piece
-あさがお柄のゆかた,Bell Pattern Yukata
-トンボ柄のじんべい,Dragonfly Jinbei
-アスフェルド学園冬服,Asfeld Academy Winter Wear
-ジャージ,Jersey
-ジャックの衣装２,Jack's Costume 2
-オバケの衣装２,Ghost Costume 2
-ミイラ男の衣装２,Mummy Boy Costume 2
-あくまの衣装２,Imp Costume 2
-フェアリー衣装Ⅰ,Fairy Costume Ⅰ
-ピエロ衣装Ⅰ,Clown Costume Ⅰ
-デビル衣装,Devil Costume
-制服エプロン,Uniform Apron
-ジャックの衣装３,Jack's Costume 3
-オバケの衣装３,Ghost Costume 3
-ミイラ男の衣装３,Mummy Boy Costume 3
-あくまの衣装３,Imp Costume 3
-ハートボーイ兵隊服,Heart Soldier Uniform (M)
-ハートガール兵隊服,Heart Soldier Uniform (F)
-白ヒゲのサンタ服,White Beard Santa Suit
-防衛軍の制服・灰色,Gray Defense Force Suit
-防衛軍の制服・緑,Green Defense Force Suit
-防衛軍の制服・紺,Blue Defense Force Suit
-防衛軍の制服・赤,Red Defense Force Suit
-防衛軍の制服・紫,Purple Defense Force Suit
-防衛軍の制服・金,Gold Defense Force Suit
-アラビアン衣装,Arabian Outfit
-カンダタ見習い,Robbin' 'Ood Amateur
-カンダタ騎兵,Robbin 'Ood Cavalry
-カンダタ将軍,Robbin' 'Ood General
-カンダタ元帥,Robbin 'Ood Marshal
-GMキャラコスチューム,GM Character Costume
-ウサぐるみ・黄,Yellow Rabbit
-PC兄弟の装備一式,PC Sib. Equipment Set
-ネコミイラ衣装Ⅰ,Cat Mummy Costume Ⅰ
-かぼちゃ姫衣装,Pumpkin Prncss Outfit
-大怪盗衣装Ⅰ,Thief Outfit Ⅰ
-タータンボーイスーツ,Tartan Suit (M)
-タータンガールスーツ,Tartan Suit (F)
-ボーイモッズコート,Boy Mod Coat
-ガールモッズコート,Girl Mod Coat
-金ナスビナーラきぐるみ,Gold Woebergine Costume
-武器鍛冶練習着,Weaponsmith Work Wear
-防具鍛冶練習着,Armorsmith Work Wear
-道具鍛冶練習着,Toolsmith Work Wear
-さいほう練習着,Sewing Work Wear
-木工練習着,Wdwk. Work Wear
-調理練習着,Cook Work Wear
-ランプ錬金練習着,Lamp Alchemy Work Wear
-ツボ錬金練習着,Pot Alchemy Work Wear
-エンジェル衣装,Angel Costume
-キューピッド衣装,Cupid Costume
-プラコンドレス・黒,Black Dress
-覇者の鎧・金,Gold Champ Armor
-覇者の鎧・銀,Silver Champ Armor
-覇者の鎧・銅,Bronze Champ Armor
-覇者のローブ・金,Gold Champ Robe
-覇者のローブ・銀,Silver Champ Robe
-覇者のローブ・銅,Bronze Champ Robe
-プラコンスーツ・黒,Black Suit
-プラコンおしゃれ水着青,Blue Snazzy Swimsuit
-ダッフルセーラーセット,Duffel Outfit
-釣り師の衣装Ⅰ,Angler's Costume Ⅰ
-栄光の鎧・金,Gold Glory Armor
-栄光の鎧・銀,Silver Glory Armor
-栄光の鎧・銅,Bronze Glory Armor
-栄光のローブ・金,Gold Glory Robe
-栄光のローブ・銀,Silver Glory Robe
-栄光のローブ・銅,Bronze Glory Robe
-アスフェルド学園制服,Asfeld Academy Uniform
-防衛軍の制服・Ｙ,Defense Force Suit Y
-防衛軍の制服・Ｚ,Defense Force Suit Z
-魔仙卿の衣装,Oracle's Outfit
-カンフーボーイ衣装,Kung Fu Boy Costume
-カンフーガール衣装,Kung Fu Girl Costume
-グロリアススーツ,Glorious Suit
-潜水服・赤,Red Diving Suit
-カーニバルコーデⅠ,Carnival Outfit Ⅰ
-しにがみの服,Reaper's Robes
-ディープギアモードⅠ,Deep Gear Mode Ⅰ
-潜水服・青,Blue Dive Suit
-潜水服・黄,Ylw. Dive Suit
-大魔王の衣装,Demon King Costume
-潜水服・ワイルド,Wild Diving Suit
-ウサぐるみ・黒,Black Rabbit
-マジカルボーイスーツ,Magical Boy Suit
-潜水服・デフォルト,Default Diving Suit
-ライダーススーツ,Riders Suit
-ライダースーツ,Rider Suit
-マジカルガールスーツ,Magical Girl Suit
-メット無しスーツ,Helmetless Suit
-オス三毛猫スーツⅡ,Calico Cat Suit (M) Ⅱ
-メス三毛猫スーツⅡ,Calico Cat Suit (F) Ⅱ
-フェアリー衣装Ⅱ,Fairy Costume Ⅱ
-ピエロ衣装Ⅱ,Clown Costume Ⅱ
-ネコミイラ衣装Ⅱ,Cat Mummy Costume Ⅱ
-大怪盗衣装Ⅱ,Thief Outfit Ⅱ
-カーニバルコーデⅡ,Carnival Outfit Ⅱ
-ディープギアモードⅡ,Deep Gear Mode Ⅱ
-釣り師の衣装Ⅱ,Angler's Costume Ⅱ
-潜水服・エール,Cheer Diving Suit
-テレパスタイツⅠ,Telepath Tights Ⅰ
-ラプタースーツ,Raptor Suit
-カラス神楽の装束Ⅰ,Crow Dance Costume Ⅰ
-サメきぐるみ・青,Blue Shark Suit
-サメきぐるみ・桃,Pink Shark Suit
-サメきぐるみ・金,Gold Shark Suit
-レンタル花がら水着,Rental Floral Swimwear
-テレパスタイツⅡ,Telepath Tights Ⅱ
-カラス神楽の装束Ⅱ,Crow Dance Costume Ⅱ
-アイスダンス衣装,Ice Dance Outfit
-ダルメシアンボーイ衣装,Dalmatian Outfit (M)
-ダルメシアンガール衣装,Dalmatian Outfit (F)
-カンダタ大元帥,Robbin' 'Ood General
-カンダタ総帥,Robbin' 'Ood Chief
-春風応援団衣装,Spring Cheer S Outfit
-春風チアーズ衣装,Spring Cheer Outfit
-季節イベント「お月見」　コンパニオン,Seasonal Event "Moon View" Companion
-ブレイクスタイル,Break Style
-ガーデンスーツ衣装,Garden Suit Outfit
-ガーデンドレス衣装,Garden Dress Outfit
-ハイクラス衣装,High Class Outfit
-メロディアセット,Melody Outfit
-スチーム装備セット,Steam Equipment Set
-クールスターセット,Cool Star Outfit
-ポップスターセット,Pop Star Outfit
-猫貴族のマントセット,Aristocat Outfit
-若武者の甲冑セット,Young Warrior Armor Set
