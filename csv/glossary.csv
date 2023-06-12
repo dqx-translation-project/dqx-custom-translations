@@ -23610,7 +23610,7 @@ SPアイテム,Skill Point Items
 宵の食堂,night dining room
 風車の中,Windmill Interior
 回復の泉,Recovery Fountain
-秘湯の花,Hot Spring Flower
+秘湯の花,Secret Springs Flower
 軍司令部,Army Headquarters
 神の緋石,Divine Crimsonite
 師ハジカ,Professor Hajika
@@ -23648,7 +23648,7 @@ SPアイテム,Skill Point Items
 空き部室,empty club room
 空き教室,empty classroom
 第一倉庫,first warehouse
-北西の家,Northeast House
+北西の家,northeast house
 聖女の盾,Saintess Shield
 常闇の盾,Everdark Shield
 聖王の盾,Dryspell Shield
@@ -30575,23 +30575,23 @@ PCベビー,PC's Baby
 神官,priest
 聖鳥,Flamia
 氷玉,ice ball
-大砲,Cannon
+大砲,cannon
 魔眼,Eyasor
-輪廻,Reborn
+輪廻,reborn
 楽園,Utopia
 校庭,campus
 酒場,tavern
-山頂,Summit
+山頂,summit
 重塔,pagoda
 御殿,palace
 楽屋,office
 庭園,garden
 階段,stairs
 本殿,shrine
-達人,Master
+達人,master
 客間,parlor
 市場,market
-聖堂,Shrine
+聖堂,shrine
 官舎,office
 城前,castle
 中央,center
@@ -30605,9 +30605,9 @@ PCベビー,PC's Baby
 罪人,sinner
 隠者,hermit
 霊子,spirit
-旦那,Master
+旦那,master
 狩人,hunter
-真偽,Truth?
+真偽,True or False
 神殿,temple
 チリ,Chiri
 マチ,Machi
@@ -30734,3 +30734,4 @@ PCベビー,PC's Baby
 棍,rod
 扇,fan
 弓,bow
+主人,master
