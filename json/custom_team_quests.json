@@ -32,58 +32,28 @@
   "11": {
     "バトルロードで　4回　勝利する。": "Win 4 times at Battle Road."
   },
-    "12": {
-    "プヨンターゲット討伐！": "Defeat Healium Balloon!"
-  },
-    "13": {
-    "バズズ討伐！": "Defeat Pazuzu!"
-  },
-    "14": {
+  "12": {
     "魔法の迷宮で出現する　バズズを　1匹討伐する。": "Defeat 1 Pazuzu in the Magic Maze."
   },
-    "15": {
-    "ロヴォス高地征伐！": "Rovos Highlands Subjugation!"
-  },
-    "16": {
+  "13": {
     "レンダーシア大陸の　ロヴォス高地にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Rovos Highlands in Lendersia."
   },
-    "17": {
-    "キラ拾い探索！": "Search for Sparkly Spots!"
-  },
-    "18": {
+  "14": {
     "落ちているアイテムを　10個拾う。": "Pick up 10 items on the ground."
   },
-    "19": {
-    "職人作業挑戦！": "Craftsman Work Challenge!"
-  },
-    "20": {
+  "15": {
     "職人作業を　4回　成功させる。": "Successfully craft 4 times."
   },
-    "21": {
-    "水系討伐！": "Defeat Water-types!"
-  },
-    "22": {
+  "16": {
     "水系のモンスターを　90匹討伐する。": "Defeat 80 Water-type monsters."
   },
-    "23": {
-    "魔法の迷宮制覇！": "Magic Maze Conquest!"
-  },
-    "24": {
+  "17": {
     "魔法の迷宮を　16回クリアする。": "Clear the Magic Maze 16 times."
   },
-    "25": {
-    "グレン領東征伐！": "Glen East Subjugation!"
-  },
-    "26": {
-    "デュランダル討伐！": "Defeat A3G15!"
-  },
-    "27": {
+  "18": {
     "デュランダルを　20匹討伐する。": "Defeat 20 A3G15s!"
   },
-    "28": {
-    "タロット魔人討伐！": "Defeat Tarot Genie!"
-  },
-    "29": {
+  "19": {
     "魔法の迷宮で出現する　タロット魔人を　1匹討伐する。": "Defeat 1 Tarot Genie in the Magic Maze."
   }
 }
