@@ -12,7 +12,7 @@
     "モンスターを　50匹討伐する。": "Defeat 50 monsters."
   },
   "5": {
-    "落ちているアイテムを　30個拾う。": "Pick up 30 items on the ground."
+    "落ちているアイテムを　30個拾う。": "Pick up 30 items off the ground."
   },
   "6": {
     "職人作業を　10回　成功させる。": "Successfully craft 10 times."
@@ -51,7 +51,7 @@
     "魔法の迷宮を　16回クリアする。": "Clear the Magic Maze 16 times."
   },
   "18": {
-    "デュランダルを　20匹討伐する。": "Defeat 20 A3G15s!"
+    "デュランダルを　20匹討伐する。": "Defeat 20 A3G15s."
   },
   "19": {
     "魔法の迷宮で出現する　タロット魔人を　1匹討伐する。": "Defeat 1 Tarot Genie in the Magic Maze."
@@ -78,9 +78,9 @@
     "邪神の宮殿で　2回　勝利する。": "Win 2 times in the Evil God Palace."
   },
   "27": {
-    "職人作業を　6回　成功させる。": ""
+    "職人作業を　6回　成功させる。": "Successfully craft 6 times."
   },
   "28": {
-    "依頼書クエストを　2回クリアする。": ""
+    "依頼書クエストを　2回クリアする。": "Clear 2 request form quests."
   }
 }
