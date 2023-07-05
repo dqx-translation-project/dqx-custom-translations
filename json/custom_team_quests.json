@@ -36,7 +36,7 @@
     "魔法の迷宮で出現する　バズズを　1匹討伐する。": "Defeat 1 Pazuzu in the Magic Maze."
   },
   "13": {
-    "レンダーシア大陸の　ロヴォス高地にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Rovos Highlands in Lendersia."
+    "レンダーシア大陸の　ロヴォス高地にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Rovos Highlands\nin Lendersia."
   },
   "14": {
     "落ちているアイテムを　10個拾う。": "Pick up 10 items off the ground."
@@ -124,5 +124,23 @@
   },
   "42": {
     "魔法の迷宮で出現する　ドン・モグーラを　1匹討伐する。": "Defeat 1 Don Mole in the Magic Maze."
+  },
+  "43": {
+    "レンダーシア大陸の　ねじれたる異形の大地にいる\nモンスターを 50匹討伐する。": "Defeat 50 monsters in the Twisted Deformed\nEarth in Lendersia."
+  },
+  "44": {
+    "常闇の聖戦で ダークキングを 1匹討伐する。": "Defeat Dark King Slime once."
+  },
+  "45": {
+    "依頼書クエストを 1回クリアする。": "Clear 1 request form quest."
+  },
+  "46": {
+    "虫系のモンスターを　70匹討伐する。": "Defeat 50 Insect-type monsters."
+  },
+  "47": {
+    "スライムベホマズンを　20匹討伐する。": "Defeat 20 King Cureslimes."
+  },
+  "48": {
+    "スマイルリザードを　20匹討伐する。": "Defeat 20 Raptiles."
   }
 }
