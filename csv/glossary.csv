@@ -42,6 +42,10 @@
 男性プラコン服ダークグレー,Dark Gray Clothes (M)
 男性プラコン服ミストグレー,Mist Gray Clothes (M)
 男性プラコン服ミッドナイト,Midnight Clothes (M)
+アスフェルド学園男性用夏服,Asfeld Summer Uniform (M)
+アスフェルド学園女性用夏服,Asfeld Summer Uniform (F)
+アスフェルド学園男性用水着,Asfeld Swimwear (M)
+アスフェルド学園女性用水着,Asfeld Swimwear (F)
 5000年の旅路 遥かなる故郷へ,5000 Year Journey to a Faraway Hometown
 ワルド水源-湖上の休息所 前,Wald Headwaters - Lake Retreat
 プログラマー検証ステージ1,Programmer Verification Stage 1
@@ -182,6 +186,7 @@
 プラコンスクール制服男白,White School Uniform M
 プラコンスクール制服男紺,Blue School Uniform M
 プラコンスクール制服男茶,Brown School Uniform M
+プラコン子供用水着セット,Children's Swimsuit
 セレドット山道-資料室 前,Celedot Mountain Pass - Archives
 ローヌ樹林帯-黄葉商店 前,Rhone Forest Belt - Leaf Shop
 レビュール街道南-井戸 前,Reviewle Highway South - Well
@@ -1797,6 +1802,46 @@ Reジューンプライドの憂鬱,Re: June Bride's Gloom
 イッショウの家仕切り机,Issho's House Desk
 イッショウの家の作業机,Issho's House Work Desk
 イッショウの家のポスト,Issho's House Mailbox
+満月の夜の物語２０２３,Full Moon Night Tale 2023
+お弁当が載ったテーブル,Table with Lunchboxes
+手に持てるサンドイッチ,Sandwiches to Take
+しぐさ書・やめられない,Emote "Can't Stop"
+庭用ネオン・虹サークル,Neon Rainbow Circle (G)
+第７回最小釣りコン・金,7th S Fish Contest Gold
+クイーン＆ナイト２印章,Queen & Knight 2 Stamp
+第７回最小釣りコン・銀,7th S Fish Contest Slvr
+第２回機神のトロフィー,2nd Mech Trophy
+第２回機神のトロフィ銀,2nd Mech Silver Trophy
+第２回機神のトロフィ銅,2nd Mech Bronze Trophy
+庭用ネオン・縦メーター,Neon Vertical Meter (G)
+第７回最小釣りコン・銅,7th S Fish Contest Brnz
+フェアリスターカーテン,Fairy Star Curtain
+ジェットマシンプリズム,Jet Machine Prism
+ロケットマシンプリズム,Rocket Machine Prism
+黄金のたこやきプリズム,Gold Takoyaki Prism
+しぐさ書・ファイヤー赤,Emote "Fire Red"
+スライムベホマズンツボ,King Cureslime Pot
+ナルビア宿屋の縦長ラグ,Nalbia Inn Long Rug
+ナルビア宿屋のテーブル,Nalbia Inn Table
+壁かけナルビアのランプ,Nalbia Wall Lamp
+壁かけナルビア民家の棚,Nalbia House Wall Shelf
+スレア海岸の木製ボート,Surea Coast Wooden Boat
+スタンドつきスピーカー,Speaker with Stand
+コロシアムトロフィー朧,Coliseum Trophy-Hazy
+コロシアムトロフィー牙,Coliseum Trophy-Fang
+コロシアムトロフィー冥,Coliseum Trophy-Dark
+コロシアムトロフィー昴,Coliseum Trophy-Subaru
+コロシアムトロフィー帝,Coliseum Trophy-Emperor
+第２９回ＧＰトロフィ金,29th GP Gold Trophy
+第２９回ＧＰトロフィ銀,29th GP Silver Trophy
+第２９回ＧＰトロフィ銅,29th GP Bronze Trophy
+第２９回ＧＰトロフィ鋼,29th GP Steel Trophy
+しぐさ書・ファイヤー青,Emote "Fire Blue"
+しぐさ書・ファイヤー緑,Emote "Fire Green"
+しぐさ書・ファイヤー桃,Emote "Fire Pink"
+しぐさ書・ファイヤー黄,Emote "Fire Yellow"
+プラコンシャワー用衣装,Shower Outfit
+パピリオアーマーセット,Papilio Armor Set
 リャナ荒涼地帯-灯台 前,Lyana Desolate Area - Lighthouse
 ビーチで大公演！？ 2017,Beach Performance!? 2017
 なぞ解きオブジェクト02,Mystery Solving Object 2
@@ -3606,6 +3651,22 @@ Reジューンプライドの憂鬱,Re: June Bride's Gloom
 ノスタルジックチェア,Nostalgic Chair
 イッショウの家の円座,Issho's House Round Mat
 イッショウの家のイス,Issho's House Chair
+庭用ネオン・サークル,Neon Circle (G)
+庭用ネオン・メーター,Neon Meter (G)
+和紙のお月見天井飾り,Moon View Ceiling Decor
+赤サメきぐるみ衣装券,Red Shark Suit Ticket
+庭用ネオン・パターン,Neon Pattern (G)
+ゴマフアザラシぐるみ,Spotted Seal Plushie
+黒サメきぐるみ衣装券,Black Shark Suit Ticket
+ヘルプラネットのツボ,Solaris Pot
+ナルビア宿屋のタンス,Nalbia Inn Wardrobe
+ナルビア宿屋のソファ,Nalbia Inn Sofa
+ナルビア宿屋の鉢植え,Nalbia Inn Plant Pot
+壁かけナルビアの額縁,Nalbia Picture Frame
+ナルビア武器屋の甲冑,Nalbia Shop Armor
+しぐさ書・座礼その２,Emote "Sit and Bow" v2
+パピリオケープセット,Papilio Cape Set
+ハッピーホワイトデー,Happy White Day
 キュララな夏休み 2017,Kyurara Summer Holiday '17
 Re白きヴェールの乙女,Re: Maid of the White Veil
 Reツリーは白銀に消ゆ,Tree's Disappearance Again
@@ -3614,6 +3675,13 @@ GPトロフィーピンク銅,Pink GP Bronze Trophy
 GPトロフィーピンク金,Pink GP Gold Trophy
 GPトロフィーピンク鉄,Pink GP Iron Trophy
 GMキャラコスチューム,GM Character Costume
+GPトロフィーアクア金,GP Gold Trophy Aqua
+GPトロフィーアクア銀,GP Silver Trophy Aqua
+GPトロフィーアクア銅,GP Bronze Trophy Aqua
+GPトロフィーアクア鉄,GP Steel Trophy Aqua
+GPトロフィーワイン金,GP Gold Trophy Wine
+GPトロフィーワイン銀,GP Silver Trophy Wine
+GPトロフィーワイン鉄,GP Steel Trophy Wine
 事務棟-４階・所長室,Office Building - 4F - Director's Office
 祈りの宿-旅人バザー,Prayer Inn - Traveler's Bazaar
 ベラストル家-大広間,Belastre House - Great Hall
@@ -7653,6 +7721,50 @@ DQ1勇者たいまつあり,DQ1 Hero With Torch
 住宅素材屋ノーニャ,Housing Materials Nonya
 住宅素材屋ムントン,Housing Materials Munton
 筋肉伝道師キタエル,Muscle Evangelist Kitael
+海邪甲デプスロガン,Depsrogan, Evil of the Sea
+アノマロカリサイス,Anomalocaris Scythe
+かっぱえび家の帽子,Shrimp Hat
+第７回釣りコン・金,7th Fish Contest Gold
+庭用ネオン・アロー,Neon Arrow (G)
+アシュレイの髪飾り,Ashley's Hairpin
+第７回釣りコン・銀,7th Fish Contest Silver
+第７回釣りコン・銅,7th Fish Contest Bronze
+庭用ネオン・レター,Neon Letter (G)
+オスクトルクラウン,Oscutor Crown
+庭用ネオン・ハート,Neon Heart (G)
+時の王者のグローブ,Champion of Time Gloves
+庭用ネオン・ファン,Neon Fan (G)
+オレンジキャンディ,Orange Candy
+始源の歌姫の髪飾り,First Diva's Hairpin
+始源の歌姫のドレス,First Diva's Dress
+プロディトスーツ上,Prodito Suit Top
+プロディトスーツ下,Prodito Suit Bottom
+プロディトグローブ,Prodito Gloves
+プロディトシューズ,Prodito Shoes
+オスクトルローブ上,Oscutor Robe Top
+オスクトルローブ下,Oscutor Robe Bottom
+オスクトルグローブ,Oscutor Gloves
+かまいたちプリズム,Cyclown Prism
+イグナイトメイル下,Ignite Mail Bottom
+イグナイトグローブ,Ignite Gloves
+イグナイトグリーブ,Ignite Greaves
+イグナイトメイル上,Ignite Mail Top
+ストーンマンのツボ,Stone Golem Pot
+シルバリヌスのツボ,Silverine Pot
+はぐれメタル浮き輪,Liquid Metal Floatie
+ネオン・虹サークル,Neon Rainbow Circle
+ネオン・縦メーター,Neon Vertical Meter
+ナルビア宿屋のイス,Nalbia Inn Chair
+ナルビア宿屋のラグ,Nalbia Inn Rug
+ナルビア民家のラグ,Nalbia House Rug
+ナルビア武器屋の槍,Nalbia Shop Spear
+２ウェイスピーカー,2-Way Speaker
+始源の歌姫のアーム,First Diva's Armbands
+しぐさ書・怒り心頭,Emote "Furious"
+プラコン風呂用衣装,Bath Outfit
+ビクトリーチップ青,Blue Victory Chip
+ビクトリーチップ黄,Yellow Victory Chip
+ビクトリーチップ紫,Purple Victory Chip
 Re星降る夜の大乱闘,Re: Starry Night Scuffle
 デフェル荒野-墓 前,Defel Wilderness - Tomb
 夏宵メモワール 2017,Summer Memoirs 2017
@@ -11853,6 +11965,34 @@ Re星降る夜の大乱闘,Re: Starry Night Scuffle
 住宅素材屋ペペプ,Housing Materials Pepepu
 住宅素材屋ツイナ,Housing Materials Tuina
 住宅素材屋セスタ,Housing Materials Cesta
+フカき海の底で２,Bottom of Shark Sea 2
+魔天鋼バルバトン,Balbaton, Steel of Evil
+魔天剛アロゲイル,Arogeil, Strength of Evil
+魔天導ビブローン,Bibron, Way of Evil
+乱破の忍び装束上,Spy's Ninja Top
+闇雷竜のまなざし,Dark Thundragon's Gaze
+レオーネの髪飾り,Leone's Hairpin
+パピリオアーマー,Papilio Armor
+パピリオボトムス,Papilio Bottoms
+パピリオグローブ,Papilio Gloves
+時の王者のブーツ,Champion of Time Boots
+庭用ネオン・粒子,Neon Particles (G)
+ファラスカプセル,Faras Capsule
+プロディトヘッド,Prodito Headdress
+たこやきプリズム,Takoyaki Prism
+乱破の忍び装束下,Spy's Ninja Bottom
+オスクトルブーツ,Oscutor Boots
+イグナイトバンド,Ignite Headband
+夜に蛍が舞う水辺,Fireflies Waterside
+ネオン・サークル,Neon Circle
+ネオン・メーター,Neon Meter
+ネオン・パターン,Neon Pattern
+スレア海岸の大樹,Surea Coast Large Tree
+ナルビア宿屋の扉,Nalbia Inn Door
+ナルビア宿屋の柱,Nalbia Inn Pillar
+始源の歌姫のくつ,First Diva's Shoes
+DQ3賢者男　ゾーマ,DQ3 Sage (M), Zoma
+DQ3賢者女　ゾーマ,DQ3 Sage (F), Zoma
 GPトロフィー黄銀,Yellow GP Silver Trophy
 GPトロフィー黄銅,Yellow GP Bronze Trophy
 GPトロフィー白銀,White GP Silver Trophy
@@ -11869,6 +12009,13 @@ Re昏きブルーの男,Re: Dark Blue Man
 ブーメラン(片手),boomerang
 スティック(片手),wand
 PC兄弟の装備一式,PC Sib. Equipment Set
+GPトロフィー紫金,GP Gold Trophy Purple
+GPトロフィー紫銀,GP Silver Trophy Purple
+GPトロフィー紫銅,GP Bronze Trophy Purple
+GPトロフィー紫鉄,GP Steel Trophy Purple
+GPトロフィー朱金,GP Gold Trophy Red
+GPトロフィー朱銀,GP Silver Trophy Red
+GPトロフィー朱鉄,GP Steel Trophy Red
 生産棟-地下１階,Manufacturing Building - B1F
 ３階-騎士団長室,3F - Knight Captain Room
 研究棟-地下２階,Research Building - B2F
@@ -16554,6 +16701,33 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 魔王アトラス900,Demon King Atlas 900
 クラブメンバー,Club Member
 僧侶ヌィもどき,Priest Nui Imitator
+時の王者の名残,Champion of Time's Remains
+新たなる目覚め,A New Awakening
+魔天兵ドゥース,Deus, Soldier of Evil
+エビのサンプル,Shrimp Sample
+魔天球デカラビ,Dekaraby, Sphere of Evil
+パピリオベール,Papilio Veil
+パピリオケープ,Papilio Cape
+パピリオブーツ,Papilio Boots
+時の王者の服上,Champion of Time Shirt
+時の王者の服下,Champion of Time Pants
+パドレカプセル,Padre Capsule
+風鈴の鳴る小径,Path with Wind Chimes
+ネオン・アロー,Neon Arrow
+ネオン・レター,Neon Letter
+ネオン・ファン,Neon Fan
+スポットライト,Spotlight
+スタンドマイク,Microphone Stand
+レイクランの像,Leichlan Statue
+妹姫のバングル,Young Princess' Bangles
+妹姫のサンダル,Young Princess' Sandals
+冥界のウィッグ,Underworld Wig
+冥界のグローブ,Underworld Gloves
+DQ3勇者　ゾーマ,DQ3 Hero, Zoma
+DQ3戦士　ゾーマ,DQ3 Warrior, Zoma
+DQ3僧侶　ゾーマ,DQ3 Priest, Zoma
+ネオン・ハート,Neon Heart
+経験値の古文書,Experience Scroll
 バズズ(コイン),Pazuzu (Coin)
 宝箱ゾーマCS用,Zoma Box CS
 ハンマー(片手),hammer
@@ -20370,6 +20544,30 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 キリカの草餅,Kirika Dumplings
 盗賊ルーサー,Thief Luther
 ベリナイスド,Verinaice
+三闘士の誓い,Triad's Oath
+歌姫の贈り物,Diva's Gift
+魔天僕キアス,Kias, Servant of Evil
+乱破の額当て,Spy's Headband
+乱破の秘伝書,Spy's Secrets
+喝采への渇望,Thirsting For Applause
+テトラルの像,Tetral Statue
+テレビレンズ,TV Lens
+回復の泉・庭,Healing Fountain (G)
+ネオン・粒子,Neon Particles
+フットライト,Footlight
+コンボアンプ,Combo Amp
+ドラムセット,Drum Set
+ギブスンの像,Gibsun Statue
+妹姫の髪飾り,Young Princess' Hairpin
+冥界のブーツ,Underworld Boots
+男性用天使服,Angel Clothes (M)
+女性用天使服,Angel Clothes (F)
+ゾーマ　勇者,Zoma, Hero
+ゾーマ　戦士,Zoma, Warrior
+ゾーマ　僧侶,Zoma, Priest
+ゾーマ　賢者,Zoma, Sage
+オアシスの水,Oasis Water
+神官エステラ,Priestess Estella
 モンスター26,Monster 26
 モンスター27,Monster 27
 モンスター28,Monster 28
@@ -23740,6 +23938,30 @@ Pの　経験値,EXP
 デザイン画,design sketch
 キンゴロウ,Kingsley
 何もしない,Do nothing
+神化の工房,Divine Workshop
+魔爪の知将,Commander of the Demonic Claw
+壊乱の邪将,General of Corruption
+鉄槌の猛将,General of the Hammer
+魔天臣アム,Am, Princess of Evil
+悪逆の凶将,General of Treason
+竜蹄の暴将,General of Tyranny
+黄金の甲冑,Golden Armor
+歴戦の甲冑,Veteran Armor
+鬼謀の幻将,General of Conspiracy
+練武の巨兵,Commander of Skill
+領界２印章,Realm 2 Stamp
+和傘の灯火,Umbrella Light
+乱破の手甲,Spy's Wrist Guards
+乱破の脚半,Spy's Gaiters
+ライトの像,Light Statue
+妹姫の服上,Young Princess' Top
+妹姫の服下,Young Princess' Bottoms
+冥界の大鎌,Underworld Scythe
+冥界の王装,Underworld King Garment
+冥界の仮面,Underworld Mask
+冥界セット,Underworld Outfit
+メドゥサン,Medusan
+青の騎士団,Blue Brigade
 SPアイテム,Skill Point Items
 (アナザー),(Another)
 短剣(片手),dagger
@@ -28010,6 +28232,11 @@ SPアイテム,Skill Point Items
 シェーン,Shane
 ヘイゼル,Hazel
 ノバカイ,Novakai
+えびせん,Shrimp Snack
+領界印章,Realm Stamp
+ＤＷの像,DW Statue
+3rd兄弟服,3rd Sib Garb
+イベント,event
 PCベビー,PC's Baby
 ×を描く,Draw an X
 鎌(両手),scythe
@@ -30690,6 +30917,23 @@ PCベビー,PC's Baby
 ルーベ,Rubay
 デイン,Zap
 アポロ,Apollo
+魂の形,Figure of a Spirit
+ボルボ,Bolbo
+毒の床,Poison Floor
+くない,Ninja Knife
+譜面台,Music Stand
+ギター,Guitar
+ベース,Bass
+投影機,Projector
+ポート,Port
+ジョス,Joss
+グッス,Guss
+ハクヒ,Hakuhi
+ペペプ,Pepepu
+ツイナ,Tuina
+セスタ,Cesta
+光の河,River of Light
+起動石,Starting Stone
 兵士A,Soldier A
 兵士B,Soldier B
 兵士C,Soldier C
@@ -30928,6 +31172,7 @@ PCベビー,PC's Baby
 広間,hall
 神化,deification
 短冊,paper strip
+井戸,well
 駅,train station
 泉,fountain
 館,mansion
@@ -30945,248 +31190,3 @@ PCベビー,PC's Baby
 棍,rod
 扇,fan
 弓,bow
-三闘士の誓い,Triad's Oath
-時の王者の名残,Champion of Time's Remains
-歌姫の贈り物,Diva's Gift
-新たなる目覚め,A New Awakening
-魂の形,Figure of a Spirit
-満月の夜の物語２０２３,Full Moon Night Tale 2023
-フカき海の底で２,Bottom of Shark Sea 2
-神化の工房,Divine Workshop
-お弁当が載ったテーブル,Table with Lunchboxes
-手に持てるサンドイッチ,Sandwiches to Take
-海邪甲デプスロガン,Depsrogan, Evil of the Sea
-魔爪の知将,Commander of the Demonic Claw
-壊乱の邪将,General of Corruption
-魔天僕キアス,Kias, Servant of Evil
-鉄槌の猛将,General of the Hammer
-魔天臣アム,Am, Princess of Evil
-魔天兵ドゥース,Deus, Soldier of Evil
-ボルボ,Bolbo
-悪逆の凶将,General of Treason
-竜蹄の暴将,General of Tyranny
-エビのサンプル,Shrimp Sample
-黄金の甲冑,Golden Armor
-歴戦の甲冑,Veteran Armor
-毒の床,Poison Floor
-鬼謀の幻将,General of Conspiracy
-練武の巨兵,Commander of Skill
-魔天球デカラビ,Dekaraby, Sphere of Evil
-魔天鋼バルバトン,Balbaton, Steel of Evil
-魔天剛アロゲイル,Arogeil, Strength of Evil
-魔天導ビブローン,Bibron, Way of Evil
-くない,Ninja Knife
-えびせん,Shrimp Snack
-アノマロカリサイス,Anomalocaris Scythe
-しぐさ書・やめられない,Emote "Can't Stop"
-乱破の額当て,Spy's Headband
-乱破の忍び装束上,Spy's Ninja Top
-闇雷竜のまなざし,Dark Thundragon's Gaze
-乱破の秘伝書,Spy's Secrets
-かっぱえび家の帽子,Shrimp Hat
-喝采への渇望,Thirsting For Applause
-第７回釣りコン・金,7th Fish Contest Gold
-庭用ネオン・アロー,Neon Arrow (G)
-アシュレイの髪飾り,Ashley's Hairpin
-レオーネの髪飾り,Leone's Hairpin
-パピリオベール,Papilio Veil
-第７回釣りコン・銀,7th Fish Contest Silver
-パピリオケープ,Papilio Cape
-パピリオアーマー,Papilio Armor
-パピリオボトムス,Papilio Bottoms
-第７回釣りコン・銅,7th Fish Contest Bronze
-庭用ネオン・虹サークル,Neon Rainbow Circle (G)
-第７回最小釣りコン・金,7th S Fish Contest Gold
-パピリオグローブ,Papilio Gloves
-クイーン＆ナイト２印章,Queen & Knight 2 Stamp
-第７回最小釣りコン・銀,7th S Fish Contest Slvr
-第２回機神のトロフィー,2nd Mech Trophy
-庭用ネオン・サークル,Neon Circle (G)
-庭用ネオン・メーター,Neon Meter (G)
-領界印章,Realm Stamp
-パピリオブーツ,Papilio Boots
-時の王者の服上,Champion of Time Shirt
-第２回機神のトロフィ銀,2nd Mech Silver Trophy
-第２回機神のトロフィ銅,2nd Mech Bronze Trophy
-テトラルの像,Tetral Statue
-時の王者の服下,Champion of Time Pants
-庭用ネオン・縦メーター,Neon Vertical Meter (G)
-第７回最小釣りコン・銅,7th S Fish Contest Brnz
-庭用ネオン・レター,Neon Letter (G)
-領界２印章,Realm 2 Stamp
-オスクトルクラウン,Oscutor Crown
-庭用ネオン・ハート,Neon Heart (G)
-時の王者のグローブ,Champion of Time Gloves
-時の王者のブーツ,Champion of Time Boots
-和傘の灯火,Umbrella Light
-和紙のお月見天井飾り,Moon View Ceiling Decor
-赤サメきぐるみ衣装券,Red Shark Suit Ticket
-庭用ネオン・ファン,Neon Fan (G)
-庭用ネオン・粒子,Neon Particles (G)
-庭用ネオン・パターン,Neon Pattern (G)
-ゴマフアザラシぐるみ,Spotted Seal Plushie
-フェアリスターカーテン,Fairy Star Curtain
-黒サメきぐるみ衣装券,Black Shark Suit Ticket
-オレンジキャンディ,Orange Candy
-テレビレンズ,TV Lens
-始源の歌姫の髪飾り,First Diva's Hairpin
-パドレカプセル,Padre Capsule
-ファラスカプセル,Faras Capsule
-始源の歌姫のドレス,First Diva's Dress
-プロディトヘッド,Prodito Headdress
-ジェットマシンプリズム,Jet Machine Prism
-プロディトスーツ上,Prodito Suit Top
-ロケットマシンプリズム,Rocket Machine Prism
-プロディトスーツ下,Prodito Suit Bottom
-プロディトグローブ,Prodito Gloves
-プロディトシューズ,Prodito Shoes
-オスクトルローブ上,Oscutor Robe Top
-オスクトルローブ下,Oscutor Robe Bottom
-オスクトルグローブ,Oscutor Gloves
-かまいたちプリズム,Cyclown Prism
-たこやきプリズム,Takoyaki Prism
-乱破の忍び装束下,Spy's Ninja Bottom
-黄金のたこやきプリズム,Gold Takoyaki Prism
-しぐさ書・ファイヤー赤,Emote "Fire Red"
-オスクトルブーツ,Oscutor Boots
-イグナイトメイル下,Ignite Mail Bottom
-イグナイトグローブ,Ignite Gloves
-イグナイトグリーブ,Ignite Greaves
-乱破の手甲,Spy's Wrist Guards
-乱破の脚半,Spy's Gaiters
-イグナイトバンド,Ignite Headband
-イグナイトメイル上,Ignite Mail Top
-ヘルプラネットのツボ,Solaris Pot
-ストーンマンのツボ,Stone Golem Pot
-シルバリヌスのツボ,Silverine Pot
-スライムベホマズンツボ,King Cureslime Pot
-はぐれメタル浮き輪,Liquid Metal Floatie
-回復の泉・庭,Healing Fountain (G)
-風鈴の鳴る小径,Path with Wind Chimes
-夜に蛍が舞う水辺,Fireflies Waterside
-ネオン・アロー,Neon Arrow
-ネオン・虹サークル,Neon Rainbow Circle
-ネオン・サークル,Neon Circle
-ネオン・メーター,Neon Meter
-ネオン・縦メーター,Neon Vertical Meter
-ネオン・レター,Neon Letter
-ネオン・ファン,Neon Fan
-ネオン・粒子,Neon Particles
-ネオン・パターン,Neon Pattern
-ナルビア宿屋の縦長ラグ,Nalbia Inn Long Rug
-ナルビア宿屋のタンス,Nalbia Inn Wardrobe
-ナルビア宿屋のソファ,Nalbia Inn Sofa
-ナルビア宿屋のテーブル,Nalbia Inn Table
-ナルビア宿屋のイス,Nalbia Inn Chair
-ナルビア宿屋のラグ,Nalbia Inn Rug
-ナルビア宿屋の鉢植え,Nalbia Inn Plant Pot
-壁かけナルビアのランプ,Nalbia Wall Lamp
-壁かけナルビアの額縁,Nalbia Picture Frame
-ナルビア民家のラグ,Nalbia House Rug
-ナルビア武器屋の甲冑,Nalbia Shop Armor
-ナルビア武器屋の槍,Nalbia Shop Spear
-壁かけナルビア民家の棚,Nalbia House Wall Shelf
-スレア海岸の大樹,Surea Coast Large Tree
-スレア海岸の木製ボート,Surea Coast Wooden Boat
-ナルビア宿屋の扉,Nalbia Inn Door
-フットライト,Footlight
-スポットライト,Spotlight
-コンボアンプ,Combo Amp
-スタンドマイク,Microphone Stand
-譜面台,Music Stand
-スタンドつきスピーカー,Speaker with Stand
-２ウェイスピーカー,2-Way Speaker
-ドラムセット,Drum Set
-ギター,Guitar
-ベース,Bass
-ＤＷの像,DW Statue
-レイクランの像,Leichlan Statue
-ギブスンの像,Gibsun Statue
-ライトの像,Light Statue
-コロシアムトロフィー朧,Coliseum Trophy-Hazy
-コロシアムトロフィー牙,Coliseum Trophy-Fang
-コロシアムトロフィー冥,Coliseum Trophy-Dark
-コロシアムトロフィー昴,Coliseum Trophy-Subaru
-コロシアムトロフィー帝,Coliseum Trophy-Emperor
-第２９回ＧＰトロフィ金,29th GP Gold Trophy
-第２９回ＧＰトロフィ銀,29th GP Silver Trophy
-第２９回ＧＰトロフィ銅,29th GP Bronze Trophy
-第２９回ＧＰトロフィ鋼,29th GP Steel Trophy
-GPトロフィー紫金,GP Gold Trophy Purple
-GPトロフィー紫銀,GP Silver Trophy Purple
-GPトロフィー紫銅,GP Bronze Trophy Purple
-GPトロフィー紫鉄,GP Steel Trophy Purple
-GPトロフィー朱金,GP Gold Trophy Red
-GPトロフィー朱銀,GP Silver Trophy Red
-GPトロフィー朱鉄,GP Steel Trophy Red
-GPトロフィーアクア金,GP Gold Trophy Aqua
-GPトロフィーアクア銀,GP Silver Trophy Aqua
-GPトロフィーアクア銅,GP Bronze Trophy Aqua
-GPトロフィーアクア鉄,GP Steel Trophy Aqua
-GPトロフィーワイン金,GP Gold Trophy Wine
-GPトロフィーワイン銀,GP Silver Trophy Wine
-GPトロフィーワイン鉄,GP Steel Trophy Wine
-ナルビア宿屋の柱,Nalbia Inn Pillar
-始源の歌姫のアーム,First Diva's Armbands
-始源の歌姫のくつ,First Diva's Shoes
-妹姫の髪飾り,Young Princess' Hairpin
-妹姫の服上,Young Princess' Top
-妹姫の服下,Young Princess' Bottoms
-妹姫のバングル,Young Princess' Bangles
-妹姫のサンダル,Young Princess' Sandals
-冥界の大鎌,Underworld Scythe
-冥界のウィッグ,Underworld Wig
-冥界の王装,Underworld King Garment
-冥界のグローブ,Underworld Gloves
-冥界のブーツ,Underworld Boots
-冥界の仮面,Underworld Mask
-しぐさ書・ファイヤー青,Emote "Fire Blue"
-しぐさ書・ファイヤー緑,Emote "Fire Green"
-しぐさ書・ファイヤー桃,Emote "Fire Pink"
-しぐさ書・ファイヤー黄,Emote "Fire Yellow"
-しぐさ書・怒り心頭,Emote "Furious"
-しぐさ書・座礼その２,Emote "Sit and Bow" v2
-男性用天使服,Angel Clothes (M)
-女性用天使服,Angel Clothes (F)
-プラコン風呂用衣装,Bath Outfit
-プラコン子供用水着セット,Children's Swimsuit
-プラコンシャワー用衣装,Shower Outfit
-冥界セット,Underworld Outfit
-パピリオアーマーセット,Papilio Armor Set
-パピリオケープセット,Papilio Cape Set
-3rd兄弟服,3rd Sib Garb
-DQ3勇者　ゾーマ,DQ3 Hero, Zoma
-DQ3戦士　ゾーマ,DQ3 Warrior, Zoma
-DQ3僧侶　ゾーマ,DQ3 Priest, Zoma
-DQ3賢者男　ゾーマ,DQ3 Sage (M), Zoma
-DQ3賢者女　ゾーマ,DQ3 Sage (F), Zoma
-ゾーマ　勇者,Zoma, Hero
-ゾーマ　戦士,Zoma, Warrior
-ゾーマ　僧侶,Zoma, Priest
-ゾーマ　賢者,Zoma, Sage
-アスフェルド学園男性用夏服,Asfeld Summer Uniform (M)
-アスフェルド学園女性用夏服,Asfeld Summer Uniform (F)
-アスフェルド学園男性用水着,Asfeld Swimwear (M)
-アスフェルド学園女性用水着,Asfeld Swimwear (F)
-メドゥサン,Medusan
-投影機,Projector
-ビクトリーチップ青,Blue Victory Chip
-ビクトリーチップ黄,Yellow Victory Chip
-ビクトリーチップ紫,Purple Victory Chip
-ネオン・ハート,Neon Heart
-オアシスの水,Oasis Water
-ポート,Port
-ジョス,Joss
-グッス,Guss
-ハクヒ,Hakuhi
-ペペプ,Pepepu
-ツイナ,Tuina
-セスタ,Cesta
-光の河,River of Light
-青の騎士団,Blue Brigade
-井戸,well
-経験値の古文書,Experience Scroll
-起動石,Starting Stone
-イベント,event
-ハッピーホワイトデー,Happy White Day
-神官エステラ,Priestess Estella
