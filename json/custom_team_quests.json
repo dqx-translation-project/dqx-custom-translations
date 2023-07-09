@@ -87,7 +87,7 @@
     "サイコマスターを　20匹討伐する。": "Defeat 20 Psycho Masters."
   },
   "30": {
-    "タップペンギーを　20匹討伐する。": "Defeat Pogoin' Penguins."
+    "タップペンギーを　20匹討伐する。": "Defeat 20 Pogoin' Penguins."
   },
   "31": {
     "レンダーシア大陸の　メルサンディ穀倉帯にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Melsandy Granary\nBelt in Lendersia."
@@ -117,7 +117,7 @@
     "魔法の迷宮を　4回クリアする。": "Clear the Magic Maze 4 times."
   },
   "40": {
-    "ピラミッドの　第八霊廟で　1回　勝利する。": "Win 1 time at the Pyramid's 8th Tomb."
+    "ピラミッドの　第八霊廟で　1回　勝利する。": "Clear the Pyramid's 8th Tomb once."
   },
   "41": {
     "氷の領界の　とこしえの氷原にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Eternal Ice Field\nin the Ice Realm."
@@ -163,5 +163,29 @@
   },
   "55": {
     "魔法の迷宮で出現する　グラコス強を　1匹討伐する。": "Defeat 1 Apex Gracos in the Magic Maze."
+  },
+  "56": {
+    "キラービーを　20匹討伐する。": "Defeat 20 Scornets."
+  },
+  "57": {
+    "ヘルクラッシャーを　20匹討伐する。": "Defeat 20 Hell Gladiators."
+  },
+  "58": {
+    "落ちているアイテムを　40個拾う。": "Pick up 40 items off the ground."
+  },
+  "59": {
+    "落ちているアイテムを　40個拾う。": "Pick up 40 items off the ground."
+  },
+  "60": {
+    "職人作業を　10回　成功させる。": "Successfully craft 10 times."
+  },
+  "61": {
+    "マシン系のモンスターを　80匹討伐する。": "Defeat 80 Machine-type monsters."
+  },
+  "62": {
+    "デスマーキュリーを　20匹討伐する。": "Defeat 20 Mortcuries."
+  },
+  "63": {
+    "ピラミッドの　第二霊廟で　1回　勝利する。": "Clear the Pyramid's 2nd Tomb once."
   }
 }
