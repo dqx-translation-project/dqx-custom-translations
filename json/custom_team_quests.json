@@ -129,7 +129,7 @@
     "レンダーシア大陸の　ねじれたる異形の大地にいる\nモンスターを 50匹討伐する。": "Defeat 50 monsters in the Twisted Deformed\nEarth in Lendersia."
   },
   "44": {
-    "常闇の聖戦で ダークキングを 1匹討伐する。": "Defeat Dark King Slime once."
+    "常闇の聖戦で ダークキングを 1匹討伐する。": "Defeat 1 Dark King Slime in the Everdark War."
   },
   "45": {
     "依頼書クエストを 1回クリアする。": "Clear 1 request form quest."
@@ -187,5 +187,17 @@
   },
   "63": {
     "ピラミッドの　第二霊廟で　1回　勝利する。": "Clear the Pyramid's 2nd Tomb once."
+  },
+  "64": {
+    "魔法の迷宮で出現する　アトラスを　1匹討伐する。": "Defeat 1 Atlas in the Magic Maze."
+  },
+  "65": {
+    "プクランド大陸のオルフェア地方東にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Orphea Region East\non the Pukuland Continent."
+  },
+  "66": {
+    "鳥系のモンスターを　80匹討伐する。": "Defeat 80 Bird-type monsters."
+  },
+  "67": {
+    "ダークキャンドルを　20匹討伐する。": "Defeat 20 Dark Candles."
   }
 }
