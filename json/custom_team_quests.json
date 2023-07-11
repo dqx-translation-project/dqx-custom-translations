@@ -102,7 +102,7 @@
     "エルダーフレイムを　20匹討伐する。": "Defeat 20 Elder Flames."
   },
   "35": {
-    "魔法の迷宮で出現する　悪霊の神々強を　1匹討伐する。": "Defeat the Apex Evil Trinity once\ninside the Magic Maze."
+    "魔法の迷宮で出現する　悪霊の神々強を　1匹討伐する。": "Defeat 1 Apex Evil Trinity in the Magic Maze."
   },
   "36": {
     "エメラルドーンを　20匹討伐する。": "Defeat 20 Emeraldons."
@@ -199,5 +199,17 @@
   },
   "67": {
     "ダークキャンドルを　20匹討伐する。": "Defeat 20 Dark Candles."
+  },
+  "68": {
+    "クラウンヘッドを　20匹討伐する。": "Defeat 20 Moai Minstrels."
+  },
+  "69": {
+    "パペットロープを　20匹討伐する。": "Defeat 20 Puppet Ropes."
+  },
+  "70": {
+    "釣りで　魚を　10匹　釣り上げる。": "Catch 10 fish."
+  },
+  "71": {
+    "魔法の迷宮で出現する　輪王ザルトラを　1匹討伐する。": "Defeat 1 Ring King Zaltra in the Magic Maze."
   }
 }
