@@ -6,7 +6,7 @@
     "プヨンターゲットを　20匹討伐する。": "Defeat 20 Healium Balloons."
   },
   "3": {
-    "レンダーシア大陸の　魔女の森にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Witchwood in Lendersia."
+    "レンダーシア大陸の　魔女の森にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Witchwood in\nLendersia."
   },
   "4": {
     "モンスターを　50匹討伐する。": "Defeat 50 monsters."
@@ -24,7 +24,7 @@
     "魔法の迷宮を　12回クリアする。": "Clear the Magic Maze 12 times."
   },
   "9": {
-    "オーグリード大陸のグレン領東にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Glen East on Ogreed Continent."
+    "オーグリード大陸のグレン領東にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Glen East in\nOgreed."
   },
   "10": {
     "メギドロイドを　20匹討伐する。": "Defeat 20 Mechidroids."
@@ -36,7 +36,7 @@
     "魔法の迷宮で出現する　バズズを　1匹討伐する。": "Defeat 1 Pazuzu in the Magic Maze."
   },
   "13": {
-    "レンダーシア大陸の　ロヴォス高地にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Rovos Highlands\nin Lendersia."
+    "レンダーシア大陸の　ロヴォス高地にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Rovos Highlands in\nLendersia."
   },
   "14": {
     "落ちているアイテムを　10個拾う。": "Pick up 10 items off the ground."
@@ -90,7 +90,7 @@
     "タップペンギーを　20匹討伐する。": "Defeat 20 Pogoin' Penguins."
   },
   "31": {
-    "レンダーシア大陸の　メルサンディ穀倉帯にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Melsandy Granary\nBelt in Lendersia."
+    "レンダーシア大陸の　メルサンディ穀倉帯にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Melsandy Granary Belt in\nLendersia."
   },
   "32": {
     "落ちているアイテムを　20個拾う。": "Pick up 20 items off the ground."
@@ -120,13 +120,13 @@
     "ピラミッドの　第八霊廟で　1回　勝利する。": "Clear the Pyramid's 8th Tomb once."
   },
   "41": {
-    "氷の領界の　とこしえの氷原にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Eternal Ice Field\nin the Ice Realm."
+    "氷の領界の　とこしえの氷原にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Eternal Ice Field in the\nIce Realm."
   },
   "42": {
     "魔法の迷宮で出現する　ドン・モグーラを　1匹討伐する。": "Defeat 1 Don Mole in the Magic Maze."
   },
   "43": {
-    "レンダーシア大陸の　ねじれたる異形の大地にいる\nモンスターを 50匹討伐する。": "Defeat 50 monsters in the Twisted Deformed\nEarth in Lendersia."
+    "レンダーシア大陸の　ねじれたる異形の大地にいる\nモンスターを 50匹討伐する。": "Defeat 50 monsters in the Twisted Deformed Earth in\nLendersia."
   },
   "44": {
     "常闇の聖戦で ダークキングを 1匹討伐する。": "Defeat 1 Dark King Slime in the Everdark War."
@@ -150,7 +150,7 @@
     "グリンバングルを　20匹討伐する。": "Defeat 20 Snotbonces."
   },
   "51": {
-    "プクランド大陸のオルフェア地方西にいる\nモンスターを 50匹討伐する。": "Defeat 50 monsters in Orphea Region East in\nPukuland."
+    "プクランド大陸のオルフェア地方西にいる\nモンスターを 50匹討伐する。": "Defeat 50 monsters in Orphea Region West in\nPukuland."
   },
   "52": {
     "職人作業を　8回　成功させる。": "Successfully craft 8 times."
@@ -192,7 +192,7 @@
     "魔法の迷宮で出現する　アトラスを　1匹討伐する。": "Defeat 1 Atlas in the Magic Maze."
   },
   "65": {
-    "プクランド大陸のオルフェア地方東にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Orphea Region East\non the Pukuland Continent."
+    "プクランド大陸のオルフェア地方東にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Orphea Region East in\nPukuland."
   },
   "66": {
     "鳥系のモンスターを　80匹討伐する。": "Defeat 80 Bird-type monsters."
@@ -211,5 +211,23 @@
   },
   "71": {
     "魔法の迷宮で出現する　輪王ザルトラを　1匹討伐する。": "Defeat 1 Ring King Zaltra in the Magic Maze."
+  },
+  "71": {
+    "ガネーシャエビルを　20匹討伐する。": "Defeat 20 Evil Ganeshes."
+  },
+  "72": {
+    "水系のモンスターを　50匹討伐する。": "Defeat 50 Water-type monsters."
+  },
+  "73": {
+    "依頼書クエストを　4回クリアする。": "Clear 4 request form quests."
+  },
+  "74": {
+    "プクランド大陸の風車の丘にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Windmill Way in\nPukuland."
+  },
+  "75": {
+    "カーディナルナイトを　20匹討伐する。": "Defeat 20 Cardinal Knights."
+  },
+  "76": {
+    "魔法の迷宮で出現する　死神スライダークを　1匹討伐する。": "Defeat 1 Nemeslime in the Magic Maze."
   }
 }
