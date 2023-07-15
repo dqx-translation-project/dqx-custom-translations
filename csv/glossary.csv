@@ -11993,6 +11993,7 @@ Re星降る夜の大乱闘,Re: Starry Night Scuffle
 始源の歌姫のくつ,First Diva's Shoes
 DQ3賢者男　ゾーマ,DQ3 Sage (M), Zoma
 DQ3賢者女　ゾーマ,DQ3 Sage (F), Zoma
+メラゾ熱ワクチン,Kafrizz Fever vaccine
 GPトロフィー黄銀,Yellow GP Silver Trophy
 GPトロフィー黄銅,Yellow GP Bronze Trophy
 GPトロフィー白銀,White GP Silver Trophy
@@ -16728,6 +16729,7 @@ DQ3戦士　ゾーマ,DQ3 Warrior, Zoma
 DQ3僧侶　ゾーマ,DQ3 Priest, Zoma
 ネオン・ハート,Neon Heart
 経験値の古文書,Experience Scroll
+バトエンマニア,Batoenmania
 バズズ(コイン),Pazuzu (Coin)
 宝箱ゾーマCS用,Zoma Box CS
 ハンマー(片手),hammer
@@ -20569,6 +20571,10 @@ DQ3僧侶　ゾーマ,DQ3 Priest, Zoma
 オアシスの水,Oasis Water
 神官エステラ,Priestess Estella
 インストール,install
+さいほう職人,Sewer
+武器鍛冶職人,Weaponsmith
+防具鍛冶職人,Armorsmith
+道具鍛冶職人,Toolsmith
 モンスター26,Monster 26
 モンスター27,Monster 27
 モンスター28,Monster 28
@@ -28243,6 +28249,9 @@ SPアイテム,Skill Point Items
 シヤドー,Shadow
 レムリナ,Lemrina
 クリサン,Krisan
+木工職人,Woodworker
+調理職人,Cook
+ワクチン,vaccine
 PCベビー,PC's Baby
 ×を描く,Draw an X
 鎌(両手),scythe
@@ -30946,6 +30955,7 @@ PCベビー,PC's Baby
 きぜい,Kizei
 きいれ,Kirei
 ぺいら,James
+ラベル,label
 兵士A,Soldier A
 兵士B,Soldier B
 兵士C,Soldier C
@@ -31202,13 +31212,3 @@ PCベビー,PC's Baby
 棍,rod
 扇,fan
 弓,bow
-バトエンマニア,Batoenmania
-さいほう職人,Sewer
-木工職人,Woodworker
-調理職人,Cook
-武器鍛冶職人,Weaponsmith
-防具鍛冶職人,Armorsmith
-道具鍛冶職人,Toolsmith
-ラベル,label
-ワクチン,vaccine
-メラゾ熱ワクチン,Kafrizz Fever vaccine
