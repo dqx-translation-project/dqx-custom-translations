@@ -176,16 +176,16 @@
 トリック・オア・トリート,Trick or Treat
 迷子の迷子のエルフちゃん,Lost Elf Child
 女性プラコン服サンセット,Sunset Clothes (F)
-プラコンスクール制服女赤,Red School Uniform F
-プラコンスクール制服女黒,Black School Uniform F
-プラコンスクール制服女白,White School Uniform F
-プラコンスクール制服女紺,Blue School Uniform F
-プラコンスクール制服女茶,Brown School Uniform F
-プラコンスクール制服男赤,Red School Uniform M
-プラコンスクール制服男黒,Black School Uniform M
-プラコンスクール制服男白,White School Uniform M
-プラコンスクール制服男紺,Blue School Uniform M
-プラコンスクール制服男茶,Brown School Uniform M
+プラコンスクール制服女赤,Red School Uniform (F)
+プラコンスクール制服女黒,Black School Uniform (F)
+プラコンスクール制服女白,White School Uniform (F)
+プラコンスクール制服女紺,Blue School Uniform (F)
+プラコンスクール制服女茶,Brown School Uniform (F)
+プラコンスクール制服男赤,Red School Uniform (M)
+プラコンスクール制服男黒,Black School Uniform (M)
+プラコンスクール制服男白,White School Uniform (M)
+プラコンスクール制服男紺,Blue School Uniform (M)
+プラコンスクール制服男茶,Brown School Uniform (M)
 プラコン子供用水着セット,Children's Swimsuit
 セレドット山道-資料室 前,Celedot Mountain Pass - Archives
 ローヌ樹林帯-黄葉商店 前,Rhone Forest Belt - Leaf Shop
@@ -7651,7 +7651,7 @@ GPトロフィーワイン鉄,GP Steel Trophy Wine
 ウサぐるみ・ピンク,Pink Rabbit
 シュガーナイトの服,Sugar Knight's Clothes
 カプサイナイトの服,Capsai Knight's Clothes
-花狩人のころも・赤,Red Flwr Hunter Outfit
+花狩人のころも・赤,Red Flower Hunter Outfit
 花狩人のころも・青,Blue Flower Hunter Outfit
 花狩人のころも・黄,Yellow Flower Hunter Outfit
 花狩人のころも・緑,Green Flower Hunter Outfit
@@ -11900,7 +11900,7 @@ Re星降る夜の大乱闘,Re: Starry Night Scuffle
 防衛軍の制服・紫,Purple Defense Force Suit
 防衛軍の制服・金,Gold Defense Force Suit
 ネコミイラ衣装Ⅰ,Cat Mummy Costume Ⅰ
-ランプ錬金練習着,Lamp Alchemy Work Wear
+ランプ錬金練習着,Lamp Alchemy Training Wear
 キューピッド衣装,Cupid Costume
 覇者のローブ・金,Gold Champ Robe
 覇者のローブ・銀,Silver Champ Robe
@@ -16653,12 +16653,12 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 アラビアン衣装,Arabian Outfit
 カンダタ見習い,Robbin' 'Ood Amateur
 ウサぐるみ・黄,Yellow Rabbit
-かぼちゃ姫衣装,Pumpkin Prncss Outfit
-武器鍛冶練習着,Weaponsmith Work Wear
-防具鍛冶練習着,Armorsmith Work Wear
-道具鍛冶練習着,Toolsmith Work Wear
-さいほう練習着,Sewing Work Wear
-ツボ錬金練習着,Pot Alchemy Work Wear
+かぼちゃ姫衣装,Pumpkin Princess Outfit
+武器鍛冶練習着,Weaponsmith Training Wear
+防具鍛冶練習着,Armorsmith Training Wear
+道具鍛冶練習着,Toolsmith Training Wear
+さいほう練習着,Sewer Training Wear
+ツボ錬金練習着,Pot Alchemy Training Wear
 エンジェル衣装,Angel Costume
 釣り師の衣装Ⅰ,Angler's Costume Ⅰ
 ウサぐるみ・黒,Black Rabbit
@@ -16667,7 +16667,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 潜水服・エール,Cheer Diving Suit
 ラプタースーツ,Raptor Suit
 カンダタ大元帥,Robbin' 'Ood Commander
-春風応援団衣装,Spring Cheer S Outfit
+春風応援団衣装,Spring Cheer Team Outfit
 ハイクラス衣装,High Class Outfit
 サポートなかま,support companion
 インスペクター,inspector
@@ -23903,8 +23903,8 @@ Pの　経験値,EXP
 夜桜スーツ,Night Cherry Suit
 夜狐セット,Nightfox Outfit
 デビル衣装,Devil Costume
-木工練習着,Woodworker's Wear
-調理練習着,Cook Work Wear
+木工練習着,Woodworker Training Wear
+調理練習着,Cook Training Wear
 潜水服・赤,Red Diving Suit
 潜水服・青,Blue Diving Suit
 潜水服・黄,Yellow Diving Suit
@@ -23936,7 +23936,7 @@ Pの　経験値,EXP
 自爆マグマ,Kamagmakaze
 プチメテオ,Small Meteor
 天声の化身,Avatar of Voices Above
-ペネトーレ,Penetore
+ペネトーレ,Penetray
 謎の貴婦人,Mysterious Lady
 イキリエル,Ikiriel
 キャンセル,cancel
@@ -24140,7 +24140,7 @@ SPアイテム,Skill Point Items
 迎春の間,New Year room
 町長の家,mayor's house
 村長の家,Chief's house
-妖精の村,Fairy Village
+妖精の村,Faerie Lea
 衣裳部屋,dressing room
 修行部屋,training room
 青い台座,Blue Pedestal
@@ -28248,7 +28248,7 @@ SPアイテム,Skill Point Items
 えびせん,Shrimp Snack
 領界印章,Realm Stamp
 ＤＷの像,DW Statue
-3rd兄弟服,3rd Sib Garb
+3rd兄弟服,3rd Brother Clothes
 イベント,event
 ジュニー,Junie
 シヤドー,Shadow
@@ -30940,7 +30940,7 @@ PCベビー,PC's Baby
 デイン,Zap
 アポロ,Apollo
 魂の形,Figure of a Spirit
-ボルボ,Bolbo
+ボルボ,Bulbo
 毒の床,Poison Floor
 くない,Kunai
 譜面台,Music Stand
