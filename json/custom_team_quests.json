@@ -174,7 +174,7 @@
     "落ちているアイテムを　40個拾う。": "Pick up 40 items off the ground."
   },
   "59": {
-    "落ちているアイテムを　40個拾う。": "Pick up 40 items off the ground."
+    "マシン系のモンスターを　90匹討伐する。": "Defeat 90 Machine-type monsters."
   },
   "60": {
     "職人作業を　10回　成功させる。": "Successfully craft 10 times."
@@ -340,5 +340,23 @@
   },
   "113": {
     "魔法の迷宮で出現する　ゲルニック将軍を　1匹討伐する。": "Defeat 1 Hootingham-Gore in\nthe Magic Maze."
-  }
+  },
+  "114": {
+    "まだらイチョウを　20匹討伐する。": "Defeat 20 Bud Brothers."
+  },
+  "115": {
+    "エビルソーサラーを　20匹討伐する。": "Defeat 20 Evil Sorcerors."
+  },
+  "116": {
+    "エルトナ大陸のスイゼン湿原にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Suizen Marsh in\nEltona."
+  },
+  "117": {
+    "イーブルフライを　20匹討伐する。": "Defeat 20 Cutterflies."
+  },
+  "118": {
+    "嵐の領界の　翠嵐の聖塔にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Storm Tower in the\nStorm Realm."
+  },
+  "119": {
+    "いにしえのゼルメアを　1回 クリアする。": "Clear Ancient Zelmea once."
+  } 
 }
