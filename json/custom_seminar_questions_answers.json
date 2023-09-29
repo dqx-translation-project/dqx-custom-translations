@@ -1,0 +1,290 @@
+{
+  "1": {
+    "自分の職業を　変えたい！\nそんな時に頼れるのは　ダーマ神殿から\n冒険者の酒場へ出張中の　○○だ！\nさて　○○に入る言葉は？": "I want to change vocations! To do that,\nyou can talk to X inside of any tavern!\nNow, who is X?"
+  },
+  "2": {
+    "教官": "Instructor"
+  },
+  "3": {
+    "神官": "Priest"
+  },
+  "4": {
+    "邪神": "Dark Deity"
+  },
+  "5": {
+    "職業のレベルが　アップするたびに\n必ず　もらえるようになるものは　どれ？": "Which of the following is always given\nto you when a vocation levels up?"
+  },
+  "6": {
+    "スキルポイント": "Skill Points"
+  },
+  "7": {
+    "おいしいケーキ": "Delicious Cakes"
+  },
+  "8": {
+    "お祝いのカード": "Congratulatory Card"
+  },
+  "9": {
+    "道の途中で見つけた　キラキラを調べたら\n使い道の　わからない素材を　手に入れた！\nそんな時は売って　お金に変えると　いいぞ。\nさて　旅人のための　売り買いの場といえば？": "On your adventures, you may find some sparkly\nspots on the ground and get materials you're\nnot sure what to do with. Why not sell them\nfor Gold? Where's the best place to do this?"
+  },
+  "10": {
+    "宿屋": "Inn"
+  },
+  "11": {
+    "旅人バザー": "Traveler's Bazaar"
+  },
+  "12": {
+    "教会": "Church"
+  },
+  "13": {
+    "岳都ガタラの酒場": "Mount Gatara's Tavern"
+  },
+  "14": {
+    "冒険の中では　さまざまな場面で\nクエストを　頼まれることがあるぞ！\n受けているクエストの内容を\n忘れてしまった時に便利な　リストの名前は？": "During your adventures, you'll accept many\nquests! What is the name of the handy list\nthat lets you view your currently accepted\nquests?"
+  },
+  "15": {
+    "クエストリスト": "Quest List"
+  },
+  "16": {
+    "獲得称号リスト": "Accolades"
+  },
+  "17": {
+    "討伐モンスターリスト": "Defeated Monsters"
+  },
+  "18": {
+    "ブラックリスト": "Blacklist"
+  },
+  "19": {
+    "新しい町に入ったら\n『クエストが紹介された』と通知が出た！\nクエストの紹介は　クエストリストを\n開いてから　どうすることで読める？": "When entering a new town, you may see a\n\"New quests can be accepted!\" notification.\nHow can you view them in the Quest List?"
+  },
+  "20": {
+    "カメラを左右に動かす": "Move the camera left/right."
+  },
+  "21": {
+    "クエストリストを閉じる": "Open the Quest List."
+  },
+  "22": {
+    "深く念じる": "Think deeply."
+  },
+  "23": {
+    "紹介されているタブを開く": "Open the Available tab."
+  },
+  "24": {
+    "鉛筆でこすってみる": "Rub it with a pencil."
+  },
+  "25": {
+    "旅人バザーに　どうのつるぎ＋３が売っていた！\nこの　『＋３』が意味するものは\n次のうち　どれ？": "You found a Bronze Sword for sale in the\nTraveler's Bazaar with a +3! What does this\n+3 signify?"
+  },
+  "26": {
+    "お値段３割増し": "It's 30% more expensive."
+  },
+  "27": {
+    "錬金効果が３個ついている": "It has 3 alchemy effects attached."
+  },
+  "28": {
+    "３倍かっこいい": "It's 3 times as cool!"
+  },
+  "29": {
+    "戦士の　ゆうかんスキルに　スキルポイントを\n２８ポイント振ることで習得できる\nスキル効果は　次のうち　どれ？": "A warrior allocates 28 skill points into\ntheir Courage skill line. Which skill effect\ndid they just learn?"
+  },
+  "30": {
+    "全職業でちからが５上がる": "Natural Strength +5"
+  },
+  "31": {
+    "ご飯がおいしく食べられる": "Can Enjoy Delicious Food"
+  },
+  "32": {
+    "新しい恋がはじまる": "New Love's Beginnings"
+  },
+  "33": {
+    "次のうち　職業スキルにある\nスキル効果の　習得によって\n起きないことは　どれ？": "Which of the following is not a possible\neffect when learning vocation skills?"
+  },
+  "34": {
+    "全職業で最大ＨＰが増える": "Natural HP"
+  },
+  "35": {
+    "全職業でちからが増える": "Natural Strength"
+  },
+  "36": {
+    "全職業で最大ＭＰが増える": "Natural MP"
+  },
+  "37": {
+    "紳士的たしなみが身に付く": "Gentlemanly Manners"
+  },
+  "38": {
+    "ゴールドが　貯まってきたら\n町にある住宅村に行って　自分だけの家を\n建ててみよう！　さて　次のうち\n自分の家で　できないことは　どれ？": "Once you have enough Gold, try going to a\nhousing district to build your own house!\nWhich of the following is not possible in\nyour home?"
+  },
+  "39": {
+    "好みの外装にカスタマイズ": "Customize the exterior."
+  },
+  "40": {
+    "屋根ウラに持ち物をしまう": "Store items in house storage."
+  },
+  "41": {
+    "コンシェルジュを雇う": "Hire a concierge."
+  },
+  "42": {
+    "こだわりの紅茶をいれる": "Make some nice tea."
+  },
+  "43": {
+    "もっと　冒険の知識を得たい！\nそんな時に役に立つ　メインコマンドの\n『さくせん』の　『遊び方ガイド』から\nいつでも　見れるものとは？": "I want to learn more about adventuring!\nWhat command can I check under \"Misc.\",\nthen \"Play Guide\" to see how?"
+  },
+  "44": {
+    "今日の運勢": "Today's Fortune"
+  },
+  "45": {
+    "遊び方のヒント": "How to Play"
+  },
+  "46": {
+    "アストルティア王族名鑑": "Astoltia Royalty Directory"
+  },
+  "47": {
+    "ひみつのダイアリー": "My Secret Diary"
+  },
+  "48": {
+    "見たことのない景色": "An Unforgettable View"
+  },
+  "49": {
+    "知り合った　ほかの冒険者と\nパーティを組んで　一緒に\nレベルを上げたり　冒険がしたい！\nそんなときは　どうするといい？": "I want to form a party with other adventurers\nto increase my level! What should I do?"
+  },
+  "50": {
+    "なかまにさそう": "Invite them to your party."
+  },
+  "51": {
+    "じっと見つめる": "Stare at them."
+  },
+  "52": {
+    "さびしそうに去る": "Leave dejectedly."
+  },
+  "53": {
+    "ほかの冒険者と　パーティを組んで\n楽しく過ごすことが　できた！\n相手の人と　また　一緒に遊ぶために\nお別れする前に　やっておくと　いいことは？": "I had a lot of fun partying with other\nadventurers! What is something I should do\nbefore saying goodbye?"
+  },
+  "54": {
+    "熱い視線を送る": "Gaze at them passionately."
+  },
+  "55": {
+    "フレンドにさそう": "Add them as a friend."
+  },
+  "56": {
+    "今日という日に感謝する": "Be grateful for today."
+  },
+  "57": {
+    "冒険者の酒場で　サポート仲間として\nフレンドを　紹介してもらうと受けられる\nうれしい特典は　次のうち　どれ？": "You can hire support party members at the\nAdventurer's Tavern. What is a benefit of\nhiring one of your friends?"
+  },
+  "58": {
+    "厚くお礼を言われる": "You'll be thanked profusely."
+  },
+  "59": {
+    "紹介料が半分になる": "Hiring cost is halved."
+  },
+  "60": {
+    "紹介料がタダになる": "Hiring cost is free."
+  },
+  "61": {
+    "ドリンクサービスがある": "There's drink service."
+  },
+  "62": {
+    "チームとは　冒険者同士で作る　グループだ。\n自分におすすめのチームに　入隊したい時は\n冒険者の酒場にいる紹介人から　何を選べばいい？": "Teams are groups of adventurers. If you'd like\njoin a recommended team, which option should\nyou choose at an Introducer in the tavern?"
+  },
+  "63": {
+    "冒険グループ": "Adventure Groups"
+  },
+  "64": {
+    "世間話をする": "Make small talk."
+  },
+  "65": {
+    "おすすめチーム": "Proposed Teams"
+  },
+  "66": {
+    "ミルクを一杯たのむ": "A glass of milk, please?"
+  },
+  "67": {
+    "レベル２０以上になって　港町レンドア北に行くと\n他の冒険者たちとの　パーティで挑む\nとある　ふしぎな迷宮に　行けるようになるぞ。\nこの　迷宮の名前は？": "Starting at level 20, you can enter a\nmysterious maze from Port Town Lendor with\nother adventurers. What is this maze called?"
+  },
+  "68": {
+    "モガレの洞くつ": "Mogare Cave"
+  },
+  "69": {
+    "ランガーオ村": "Langao Village"
+  },
+  "70": {
+    "魔法の迷宮": "Magic Maze"
+  },
+  "71": {
+    "メダルオーナーの城": "Medal Owner's Castle"
+  },
+  "72": {
+    "奈落の底": "The Abyss"
+  },
+  "73": {
+    "モンスターが　自分の周りに\n爆発が起きる呪文を　となえようとしている！\nこんなとき　ダメージを受けずにすむ方法は？": "A monster is about to cast a spell that will\ncause an explosion all around them! How can\nI avoid taking damage?"
+  },
+  "74": {
+    "モンスターから離れる": "Move away from the monster."
+  },
+  "75": {
+    "けんめいに祈る": "Pray vigorously."
+  },
+  "76": {
+    "命ごいをする": "Fight for your life."
+  },
+  "77": {
+    "モンスターを押して　仲間から遠ざけることで\n仲間を　攻撃から守ることができるぞ！\nさて　この中で　モンスターを押すのが\n得意なのは　だれ？": "By pushing monsters away from party members,\nyou can protect them from attacks! Who would\nbe best at pushing?"
+  },
+  "78": {
+    "かいふく魔力が高い僧侶": "An adept priest."
+  },
+  "79": {
+    "おもさが高い戦士": "A bulky warrior."
+  },
+  "80": {
+    "ツッコミ上手な旅芸人": "A tricky minstrel."
+  },
+  "81": {
+    "戦闘中に　モンスターが\n仲間の僧侶に　怒りを向けた！\nそんな時の　モンスターが取る行動は？": "During battle, a monster gets angry at the\npriest! What will the monster do now?"
+  },
+  "82": {
+    "あらゆる文句をつけてくる": "Complain about everything."
+  },
+  "83": {
+    "怒りで顔をまっ赤にする": "Turn red with anger."
+  },
+  "84": {
+    "僧侶を狙って攻撃してくる": "Attack the priest."
+  },
+  "85": {
+    "後で日記にしたためる": "Write in their diary later."
+  },
+  "86": {
+    "戦闘中に　ゆっくり時間をかけて\nコマンドを選択した時に\n起きることは　次のうち　どれ？": "During battle, what happens if you take your\ntime with selecting a command?"
+  },
+  "87": {
+    "背中がかゆくなる": "You get embarassed."
+  },
+  "88": {
+    "次のコマンドがはやく出る": "The next command comes faster."
+  },
+  "89": {
+    "おだやかな気持ちになる": "You become calm."
+  },
+  "90": {
+    "運命の人に出会える": "You'll meet your destiny."
+  },
+  "91": {
+    "ちょっと上級テクニック！\n片手剣を装備しているのに　戦闘中に　\n両手剣スキルを　使いたくなってしまった！\nこんな時　どうすると　いい？": "This one's a bit advanced! During battle, I am\nusing a sword, but want to use greatsword\nskills. How can I achieve this?"
+  },
+  "92": {
+    "武器を切り換える": "Swap weapons."
+  },
+  "93": {
+    "あきらめる": "Give up."
+  },
+  "94": {
+    "けんめいに祈る": "Pray vigorously."
+  },
+  "95": {
+    "みずからの選択を悔やむ": "Regret your decision."
+  },
+  "96": {
+    "何か別のことを考える": "Think about something else."
+  }
+}
