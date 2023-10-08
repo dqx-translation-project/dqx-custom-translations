@@ -30,6 +30,8 @@
 ロヴォス高地-教会シスター 前,Rovos Highlands - Church Sister
 コニウェア平原-三門の関所 前,Coniware Plain - Three Way Gate
 追憶の世界-キラキラ大風車塔,World Of Remembrance-Windmill Tower
+セレドット山道-滝見の吊り橋,Celedot Mountain Pass - Fallsview Bridge
+リンジャハル海岸-高台の遺跡,Linjahar Coast - Hilltop Ruins
 ムストの町・風車へのはしご,Town of Must - Ladder to Windmill
 ルクスガルン大空洞への亀裂,Crevice to Luxgarn Caverns
 壊れたハイハイジャンプさん,Broken Mr. High High Jump
@@ -58,6 +60,7 @@
 プログラマー検証ステージ8,Programmer Verification Stage 8
 リンジャハル海岸-海岸遺跡,Linjahar Coast - Coast Ruins
 ランプ錬金ギルド 地下１階,Lamp Alchemy Guild B1F
+レビュール街道北-谷合の森,Reviewle Highway North - Veil of the Vale
 アルビデ死体・左手袋なし,Albide Corpse - Left Arm Missing
 現・パドレア邸の食卓椅子,Present Padrea Mansion Dining Chair
 翠将鬼ジェルザークと戦う,Battle with Green General Gelzark
@@ -189,6 +192,11 @@
 プラコンスクール制服男茶,Brown School Uniform (M)
 プラコン子供用水着セット,Children's Swimsuit
 中断して天星郷に帰還する,Suspend and Return to the Firmament
+その翼は未来へと羽ばたく,Wings Soar to the Future
+ナイトたちの血戦２０２４,Knights Bloody Battle 2024
+薬師の天使は手を借りたい,An Apothecary Angel's Aid
+スカーレット★レジェンド,Scarlet★Legend
+新春★登竜門を突破せよ！,New Year★Success Awaits!
 セレドット山道-資料室 前,Celedot Mountain Pass - Archives
 ローヌ樹林帯-黄葉商店 前,Rhone Forest Belt - Leaf Shop
 レビュール街道南-井戸 前,Reviewle Highway South - Well
@@ -1843,6 +1851,39 @@ Reジューンプライドの憂鬱,Re: June Bride's Gloom
 しぐさ書・ファイヤー黄,Emote "Fire Yellow"
 プラコンシャワー用衣装,Shower Outfit
 パピリオアーマーセット,Papilio Armor Set
+配達！異世界のお客さま,Delivery! Otherworld Buyer
+美女たちの聖戦２０２４,Beauties Battle 2024
+中枢へ向かう通路への扉,Door to Passage to Core
+壊れたユーライザの光輪,Yuliza's Broken Halo
+ジア・ネブラのブロック,Dia Nebula's Block
+しぐさ書・この葉がくれ,Emote "Hide in Leaves"
+クイーン交換券２０２４,Queen Ticket 2024
+しぐさ書・ラブリーティ,Emote "Lovely Tea"
+カジノ祭５ルーレット金,CasinoFest 5 Roul. Gold
+ウェルカムギフト３印章,Welcome Gift 3 Stamp
+カジノ祭５ルーレット銀,CasinoFest 5 Roul. Slvr
+カジノ祭５ルーレット銅,CasinoFest 5 Roul. Brnz
+第３０回ＧＰトロフィ金,30th GP Gold Trophy
+第３０回ＧＰトロフィ銀,30th GP Silver Trophy
+第３０回ＧＰトロフィ銅,30th GP Bronze Trophy
+第３０回ＧＰトロフィ鋼,30th GP Steel Trophy
+第１２回レクタリス像庭,12th Lectalis Statue(G)
+第１２回メレアーデ像庭,12th Mereade Statue (G)
+第１２回アンルシア像庭,12th Anlucia Statue (G)
+第１２回エルドナ神像庭,12th Eldona Statue (G)
+第１２回ヴァレリア像庭,12th Valeria Statue (G)
+第１２回ユーライザ像庭,12th Yuliza Statue (G)
+第１１回ギルガラン像庭,11th Gilgaran Statue(G)
+第１１回ナドラガ神像庭,11th Nadraga Statue (G)
+王国軍司令部打ち込み台,Royal Army Strike Stand
+壁かけ王国軍司令部の旗,Royal Army Flag
+王国軍司令部の吊り飾り,Royal Army Decoration
+メルヒオール特製ジャム,Melchior's Special Jam
+テッテ専用コーデギフト,Glamour Gift for Tette
+ソルシエールの服セット,Sorciere's Outfit
+わだつみのころもセット,Sea God Outfit
+エルドナ神の装束セット,Eldona's Outfit
+わだつみのころもせっと,Sea God Outfit
 リャナ荒涼地帯-灯台 前,Lyana Desolate Area - Lighthouse
 ビーチで大公演！？ 2017,Beach Performance!? 2017
 なぞ解きオブジェクト02,Mystery Solving Object 2
@@ -3668,6 +3709,49 @@ Reジューンプライドの憂鬱,Re: June Bride's Gloom
 パピリオケープセット,Papilio Cape Set
 ハッピーホワイトデー,Happy White Day
 カブたちに連絡を取る,Contact Kabu's Group
+ツリーは白銀に消ゆ３,Tree's Disappearance 3
+マザー・ヘレナの部屋,Mother Helena's Room
+表層・エメラーダ宙橋,Surface - Emerada Bridge
+中層・エメラーダ宙橋,Middle - Emerada Bridge
+芯層・エメラーダ宙橋,Core - Emerada Bridge
+エメラーダ宙橋への扉,Door to Emerada Bridge
+レド・ゲノスとうめい,Ledo Genos Transparent
+ジア・メルド・ゲノス,Dia Meldo Genos
+ラダ・ガートフェイク,Lada Gart Fake
+ナイト交換券２０２４,Knight Ticket 2024
+プチ帝国三将軍カード,Frail Triumgorate Card
+アラモンドＺプリズム,Alamond Z Prism
+ブーストピアスの破片,Boost Earrings Shard
+オーガＴＲＩプリズム,Ogre TRI Prism
+王国軍司令部の緑大扉,Royal Army Green Door L
+クリスマスベアぐるみ,Christmas Bear Plushie
+夢のアクセサリー箱４,Dream Accessory Box 4
+第１２回レクタリス像,12th Lectalis Statue
+第１２回メレアーデ像,12th Mereade Statue
+カジノ祭５ポーカー金,CasinoFest 5 Poker Gold
+カジノ祭５ポーカー銀,CasinoFest 5 Poker Slvr
+第１２回アンルシア像,12th Anlucia Statue
+カジノ祭５ポーカー銅,CasinoFest 5 Poker Brnz
+第１２回エルドナ神像,12th Eldona Statue
+カジノ祭５スロット金,CasinoFest 5 Slots Gold
+カジノ祭５スロット銀,CasinoFest 5 Slots Slvr
+カジノ祭５スロット銅,CasinoFest 5 Slots Brnz
+第１２回ヴァレリア像,12th Valeria Statue
+第１２回ユーライザ像,12th Yuliza Statue
+エックス君バトル印章,Mr. X Battle Stamp
+第１１回ギルガラン像,11th Gilgaran Statue
+第１１回ナドラガ神像,11th Nadraga Statue
+第１２回セラフィ像庭,12th Seraphi Statue (G)
+第１１回ヒューザ像庭,11th Hyuza Statue (G)
+第１１回ナジーン像庭,11th Nazine Statue (G)
+第１１回プクラス像庭,11th Pukulas Statue (G)
+第１１回ファラス像庭,11th Faras Statue (G)
+ギュッとウサギぐるみ,Rabbit Arm Doll Plush
+王国軍司令部の木製扉,Royal Army Wooden Door
+王国軍司令部の紫大扉,Royal Army Purple Door
+くるみのカップケーキ,Walnut Cupcake
+敵の弱点属性がわかる,View Enemy Weaknesses
+行動時ブレードガード,Greatsword Guard On Action
 キュララな夏休み 2017,Kyurara Summer Holiday '17
 Re白きヴェールの乙女,Re: Maid of the White Veil
 Reツリーは白銀に消ゆ,Tree's Disappearance Again
@@ -3683,6 +3767,8 @@ GPトロフィーアクア鉄,GP Steel Trophy Aqua
 GPトロフィーワイン金,GP Gold Trophy Wine
 GPトロフィーワイン銀,GP Silver Trophy Wine
 GPトロフィーワイン鉄,GP Steel Trophy Wine
+ギガデーモン(コイン),Pruslas (Coin)
+ヘルバトラー(コイン),Barbatos (Coin)
 事務棟-４階・所長室,Office Building - 4F - Director's Office
 祈りの宿-旅人バザー,Prayer Inn - Traveler's Bazaar
 ベラストル家-大広間,Belastre House - Great Hall
@@ -7768,11 +7854,84 @@ DQ1勇者たいまつあり,DQ1 Hero With Torch
 ビクトリーチップ紫,Purple Victory Chip
 しぐさ書・やめとま,Emote "Can't Stop"
 ブルートライデント,Blue Trident
+受け継がれしチカラ,Inherited Power
+とある天使の罪と罰,Sins of a Certain Angel
+死へと導く獣の伝承,Beast That Leads to Death
+理不尽な研究に捧ぐ,Devoted to Absurd Research
+表層・サフィア宙橋,Surface - Saphia Bridge
+中層・サフィア宙橋,Middle - Saphia Bridge
+芯層・サフィア宙橋,Core - Saphia Bridge
+大光の管制室への扉,Door to Pulse Control Room
+サフィア宙橋への扉,Door to Saphia Bridge
+タウン案内係ポポコ,Town Guide Popoko
+会場案内係ファリネ,Venue Guide Farine
+おまじない師プポペ,Charmer Pupope
+騒演王ベイオウルフ,Chaotic King Beowulf
+ユーライザ神の光輪,Yuliza's Halo
+アシュレイフェイク,Ashley Fake
+ユーライザフェイク,Yuliza Fake
+とうめいイレイザー,Transparent Eraser
+レトロなサングラス,Retro Sunglasses
+しぐさ書・パンフ２,Emote "Pamphlet 2"
+ＤＱＸショップ印章,DQX Shop Stamp
+荘厳な竜のふりそで,Majestic Dragon Kimono
+しぐさ書・たてごと,Emote "Harp"
+天星郷の翼プリズム,Firmament Wings Prism
+ダイナーヘアドレス,Diner Headdress
+クマチャンキャップ,Bear-chan Cap
+ダイナースニーカー,Diner Sneakers
+フラウススティック,Fraws Wand
+神都の庭オルゴール,Holy City Music Box (G)
+天使のタペストリー,Angel Tapestry
+プチドラゴンカード,Frail Green Dragon Card
+第１２回セラフィ像,12th Seraphi Statue
+スカーレットグラス,Scarlet Glasses
+フォーリオン２印章,Fourion 2 Stamp
+ソルシエールハット,Sorciere's Hat
+ソルシエールの服上,Sorciere's Top
+ソルシエールの服下,Sorciere's Bottoms
+ソルシエールグラブ,Sorciere's Gloves
+ソルシエールブーツ,Sorciere's Boots
+エルドナ神のリボン,Eldona's Ribbon
+エルドナ神の装束上,Eldona's Dress Top
+エルドナ神の装束下,Eldona's Dress Bottom
+エルドナ神のぞうり,Eldona's Sandals
+エルドナ神の紐飾り,Eldona's String Decor
+わだつみのかんむり,Sea God Crown
+わだつみのころも上,Sea God Robe Top
+カジノ祭５ビンゴ金,CasinoFest 5 Bingo Gold
+カジノ祭５ビンゴ銀,CasinoFest 5 Bingo Slvr
+カジノ祭５ビンゴ銅,CasinoFest 5 Bingo Brnz
+わだつみのころも下,Sea God Robe Bottom
+レクタリスのころも,Lectalis' Robe
+レクタリスのうでわ,Lectalis' Bangles
+レクタリスの花飾り,Lectalis' Floral Decor
+神々のゆびわの破片,Ring of the Gods Shard
+スラライトステッキ,Slimelight Stick
+結界の守護者コイン,Ward Guardian Coin
+結界の守護者カード,Ward Guardian Card
+結界の守護者練習札,Ward Guardian Tag
+結界の守護者メダル,Ward Guardian Medal
+第１１回ヒューザ像,11th Hyuza Statue
+第１１回ナジーン像,11th Nazine Statue
+第１１回プクラス像,11th Pukulas Statue
+第１１回ファラス像,11th Faras Statue
+第１１回パドレ像庭,11th Padre Statue (G)
+第１１回ラウル像庭,11th Raul Statue (G)
+王国軍司令部の緑扉,Royal Army Green Door
+王国軍司令部の武器,Royal Army Weapon
+王国軍司令部の防具,Royal Army Armor
+スカーレットコート,Scarlet Coating
+泡雪のコートセット,Light Snow Outfit
+真・オノむそう・改,Axes of True Evil+
+ガード時80%でためる,Tension On Parry 80%
+行動時20%バイシオン,Oomph On Action 20%
 Re星降る夜の大乱闘,Re: Starry Night Scuffle
 デフェル荒野-墓 前,Defel Desert - Tomb
 夏宵メモワール 2017,Summer Memoirs 2017
 魔女の森-夜宴館 前,Witchwood - Banquet Hall
 しぐさ書・×を描く,Emote "Draw an X"
+攻撃時5%移動アップ,Movement Up Attack 5%
 事務棟-２階・受付,Office Building - 2F - Reception
 マティルの村-廃屋,Matil Village abandoned house
 ダストンの花_咲き,Duston's Blooming Flower
@@ -12004,6 +12163,92 @@ DQ3賢者女　ゾーマ,DQ3 Sage (F), Zoma
 オルフェアリーズ,Orphearies
 グレンドラゴニア,Glendragonia
 ドルタムの念晶鏡,Doltam's Telecrystal Mirror
+大空の向こう側で,Beyond the Vast Sky
+夢のドレスを君に,A Dream Dress For You
+悠久の時を超えて,Beyond the Bounds of Time
+表層・ルビン宙橋,Surface - Rubin Bridge
+中層・ルビン宙橋,Middle - Rubin Bridge
+芯層・ルビン宙橋,Core - Rubin Bridge
+念晶錬磨場・初級,Telecrystal Refinery - Beginner
+ジア燃石生産場１,Diatite Production Plant 1
+念晶錬磨場・中級,Telecrystal Refinery - Intermediate
+ジア燃石生産場２,Diatite Production Plant 2
+念晶錬磨場・上級,Telecrystal Refinery - Advanced
+ルビン宙橋への扉,Door to Rubin Bridge
+中枢へ向かう通路,Passage to Core
+ＣＭ用プクリポ１,Pukulipo For CM 1
+ＣＭ用プクリポ２,Pukulipo For CM 2
+ＣＭ用プクリポ３,Pukulipo For CM 3
+ＣＭ用プクリポ４,Pukulipo For CM 4
+ＣＭ用ウェディ１,Weddie For CM 1
+ＣＭ用ウェディ２,Weddie For CM 2
+ＣＭ用ウェディ３,Weddie For CM 3
+ＣＭ用ウェディ４,Weddie For CM 4
+ＣＭ用ドワーフ１,Dwarf For CM 1
+ＣＭ用ドワーフ２,Dwarf For CM 2
+ＣＭ用ドワーフ３,Dwarf For CM 3
+ＣＭ用ドワーフ４,Dwarf For CM 4
+ゴールデンリーフ,Golden Leaf
+混沌竜ランブルス,Rumbles, Dragon of Chaos
+ギガデンデロベー,Giga Dendelobe
+ギガモーモリーナ,Giga Sanguilina
+いにしえの廃棄物,Ancient Waste
+ブルークリスタル,Blue Crystal
+ハクオウフェイク,Hakuo Fake
+レオーネフェイク,Leone Fake
+ドルタムシールド,Doltam Shield
+ネブラ用とうめい,Transparent for Nebula
+雪の結晶プリズム,Snowflake Prism
+しぐさ書・ギフト,Emote "Gift"
+リィンカネ便せん,Reincarnate Paper
+ふわふわコウリン,Fluffy Kourin
+荘厳な竜のはかま,Majestic Dragon Hakama
+マーシャルピアス,Field Marshal's Earring
+フラウスウィップ,Fraws Whip
+戦神の箱＋４・改,War God's Box +4 v2
+神都のオルゴール,Holy City Music Box
+ダイナートップス,Diner Top
+戦神の箱＋３・改,War God's Box +3 v2
+クマチャンコート,Bear-chan Coat
+しぐさ書・天灯青,Emote "Blue Lantern"
+フラウスブレード,Fraws Blade
+鋼殻のトロフィー,Steel Shell Trophy
+クマチャンミトン,Bear-chan Mittens
+クマチャンブーツ,Bear-chan Boots
+ダイナースカート,Diner Skirt
+しぐさ書・天灯緑,Emote "Green Lantern"
+しぐさ書・天灯桃,Emote "Pink Lantern"
+おシャケなポーチ,Salmon Pouch
+フラウスショット,Fraws Bow
+ダイナーシューズ,Diner Shoes
+しぐさ書・天灯黄,Emote "Yellow Lantern"
+マーブルステッキ,Marble Wand
+審判の天使リスト,Angel of Judgment Bands
+しぐさ書・天灯白,Emote "White Lantern"
+審判の天使のくつ,Angel of Judgment Shoes
+壁かけパッケージ,Wall Hanging Package
+大王イカのズボン,King Squid Pants
+戦神の箱＋５・改,War God's Box +5 v2
+レクタリスの光輪,Lectalis' Halo
+レクタリスのくつ,Lectalis' Shoes
+ふわふわホホジロ,Fluffy Shark
+第１１回パドレ像,11th Padre Statue
+第１１回ラウル像,11th Raul Statue
+第１２回ピコ像庭,12th Pico Statue (G)
+王国軍司令部の剣,Royal Army Sword
+王国軍司令部の盾,Royal Army Shield
+プリプリぎんなん,Plump Gingko Nut
+家出したスランジ,Runaway Slanjey
+家出したスラルド,Runaway Slardo
+家出したスープル,Runaway Slimon
+ショッパーバッグ,Shopping Bag
+レクタリスの姿絵,Lectalis Portrait
+プレミアムな金箔,Premium Gold Leaf
+天使の資料カード,Angel's Reference Card
+レクタリスセット,Lectalis Outfit
+敵を倒すとためる,Tension On Enemy Defeat
+氷結らんげき・改,Crushed Ice+
+全身全霊斬り・改,Unbridled Blade+
 GPトロフィー黄銀,Yellow GP Silver Trophy
 GPトロフィー黄銅,Yellow GP Bronze Trophy
 GPトロフィー白銀,White GP Silver Trophy
@@ -16745,6 +16990,71 @@ DQ3僧侶　ゾーマ,DQ3 Priest, Zoma
 ガタラアームズ,Gatara Arms
 ナンナの水撃砲,Nanna's Water Gun
 エメラーダ宙橋,Emerada Bridge
+声なきことづけ,Words Without a Voice
+表層・通話端末,Surface - Call Terminal
+中層・通話端末,Middle - Call Terminal
+芯層・通話端末,Core - Call Terminal
+ジア・クトＸＸ,Dia Kut XX
+ジア・クトＸＹ,Dia Kut XY
+メルド・ゲノス,Meldo Genos
+ルーベ・ゲノス,Rubay Genos
+星獣イジュツィ,Star Beast Ijutsi
+ゲノス前室の扉,Genos Chamber Door
+香水師パパーペ,Perfumer Papape
+ＣＭ用エルフ１,Elf For CM 1
+ＣＭ用エルフ２,Elf For CM 2
+ＣＭ用エルフ３,Elf For CM 3
+ＣＭ用エルフ４,Elf For CM 4
+ＣＭ用オーガ１,Ogre For CM 1
+ＣＭ用オーガ２,Ogre For CM 2
+ＣＭ用オーガ３,Ogre For CM 3
+ＣＭ用オーガ４,Ogre For CM 4
+村人ウィリアム,Villager William
+ミニマドハンド,Mini Muddy Hand
+ラルゥの研究室,Larue's Laboratory
+メルド結晶の壁,Meldo Crystal Wall
+マグマカプセル,Magma Capsule
+リィンカネ印章,Reincarnate Stamp
+ボイス付き手紙,Letter with Voice
+天星の軌跡・金,Path of the Star Gold
+天星の軌跡・銀,Path of the Star Silver
+レメディピアス,Remedy Earrings
+天星の軌跡・銅,Path of the Star Bronze
+邪竜王チケット,Evil Dragonlord Ticket
+アオザイのくつ,Ao Dai Shoes
+ダイナーズボン,Diner Trousers
+サイレスヘッド,Gryphon Head
+さそりグローブ,Scorpion Gloves
+審判の天使服上,Angel of Judgment Shirt
+フラウスロッド,Fraws Rod
+フラウススピア,Fraws Spear
+審判の天使服下,Angel of Judgment Pants
+フラウスファン,Fraws Fan
+もこ耳ニット帽,Fluffy Ears Knit Hat
+ライオンアーム,Lion Armguards
+フラウスサイズ,Fraws Scythe
+ねこ耳ニット帽,Cat Ears Knit Hat
+第１２回ピコ像,12th Pico Statue
+特別番組視聴券,Special Program Ticket
+泡雪のコート上,Light Snow Coat Top
+暗殺鳥のしっぽ,Assassin Bird Tail
+泡雪のコート下,Light Snow Coat Bottom
+泡雪のてぶくろ,Light Snow Mittens
+わだつみの竜手,Sea God Dragon Hands
+わだつみの竜足,Sea God Dragon Feet
+強靭なホネの束,Strong Bones Bundle
+ツヤツヤくるみ,Shiny Walnut
+元気なコウリン,Lively Kourin
+うつろいの試薬,Reagent of Change
+シュガーポット,Sugar Pot
+ダイナー衣装券,Diner Outfit Ticket
+アオザイ衣装券,Ao Dai Outfit Ticket
+赤いマドハン泥,Red Muddy Hand Mud
+アシュレイの書,Ashley's Book
+アルヴァンの書,Alvan's Book
+ドワーフ三闘士,Dwarven Triad
+さすらいの詩人,Wandering Poet
+オノむそう・改,Axes of Evil+
 バズズ(コイン),Pazuzu (Coin)
 宝箱ゾーマCS用,Zoma Box CS
 ハンマー(片手),hammer
@@ -20601,6 +20911,62 @@ DQ3僧侶　ゾーマ,DQ3 Priest, Zoma
 カブの烈火掌,Kabu's Fiery Palm
 大光の管制室,Pulse Control Room
 サフィア宙橋,Saphia Bridge
+勇者の歴史書,Hero's History Book
+疑惑の同居人,Suspicious Roommate
+闘技演習場１,Training Ground 1
+闘技演習場２,Training Ground 2
+闘技演習場３,Training Ground 3
+発着場への扉,Door to Landing
+機関部への扉,Door to Engine
+中枢前への扉,Door to Core
+最終帰還地点,Final Return Point
+闘技演習場４,Training Ground 4
+滝見の吊り橋,Fallsview Bridge
+ジア・クト艦,Dia Kut Ship
+徒弟ティナナ,Apprentice Tinana
+ゲノスの球体,Genos' Sphere
+ストレイール,Strayel
+魔獣メレンゲ,Pirate Merenge
+ＣＭ用人間１,Human For CM 1
+ＣＭ用人間２,Human For CM 2
+ＣＭ用人間３,Human For CM 3
+ＣＭ用人間４,Human For CM 4
+ＣＭ用人間５,Human For CM 5
+ＣＭ用人間６,Human For CM 6
+海賊ドレーク,Pirate Drake
+魔女ペネロペ,Witch Penelope
+ヒースフィム,Heathfim
+ローネニウス,Lonenius
+リンジャハル,Linjahar
+レビュール北,Reviewle North
+パーティ会場,Party Venue
+不死なる異形,Immortal Hexabeast
+クルミンクス,Trail Minx
+ジア・ロック,Dia Rock
+増殖する異形,Multiplying Hexabeast
+ゲノス・アイ,Genos Eye
+邪蒼鎧テスト,Blue Armor Test
+戦神の箱＋５,War God's Box +5
+戦神の箱＋３,War God's Box +3
+豪雷将のヒゲ,Thunder General Stache
+アオザイの服,Ao Dai Clothes
+死剣将の背光,Death General's Light
+水引のピアス,Paper Decor Earrings
+覚醒の鬼神石,Uber Demon Stone
+泡雪のぼうし,Light Snow Hat
+お正月レンズ,New Year's Lens
+泡雪のブーツ,Light Snow Boots
+軍神のゆびわ,War Goddess Ring
+神智のゆびわ,Divine Wisdom Ring
+眠るコウリン,Sleeping Kourin
+純白のナスビ,Pure White Eggplant
+石版のかけら,Tablet Fragment
+神具・破理扇,Divine Artifact/Broken Fan
+竜黄色のツノ,Dragon Yellow Horn
+アジールの書,Azir's Book
+アオザイ衣装,Ao Dai Outfit
+アルイヴェナ,Alivena
+渾身斬り・改,Cutting Edge+
 モンスター26,Monster 26
 モンスター27,Monster 27
 モンスター28,Monster 28
@@ -24002,6 +24368,28 @@ Pの　経験値,EXP
 アランツリ,Alantri
 滅浄の大光,Purging Pulse
 ルビン宙橋,Rubin Bridge
+芯層への扉,Door to Core
+中枢交差路,Core Crossroads
+魔眼の中枢,Eye of Evil's Core
+高台の遺跡,Hilltop Ruins
+ヴァージョ,Varjo
+ジュミール,Jumir
+星獣ウラス,Star Beast Urasu
+神官ネーガ,Priest Nega
+町娘メアリ,Town Gal Mary
+界律の結界,Ward of the World
+異形複製体,Hexabeast Duplicate
+獣生む異形,Beast-born Hexabeast
+練武の鋼殻,Training Shell
+パリッピー,Paripi
+覚醒の鬼石,Super Demon Stone
+鮭の寒干し,Freeze-Dried Salmon
+領界３印章,Realm 3 Stamp
+想いの結晶,Thought Crystal
+翠緑の鉱石,Green Ore
+紫紺の鉱石,Purple Ore
+造成地の土,Created Land Soil
+始源の歌姫,First Diva
 SPアイテム,Skill Point Items
 (アナザー),(Another)
 短剣(片手),dagger
@@ -28299,6 +28687,24 @@ SPアイテム,Skill Point Items
 天の箱舟,Starflight Express
 ジア燃石,Diatite
 通話端末,call terminal
+谷合の森,Veil of the Vale
+雪原の町,Snowfield Town
+イヴェナ,Ivena
+ガジュマ,Gajuma
+ズロセロ,Zurosero
+レガンセ,Leganse
+ガラテア,Galatea
+リマソン,Remason
+カミリア,Camilia
+アリセル,Arisel
+エレーネ,Erene
+ママダス,Mamadas
+ロヴォス,Rovos
+リンジャ,Linja
+流星呼び,Meteor Call
+マグマ球,Magma Ball
+雅な衝立,Elegant Screen
+謎の光球,Mysterious Light Sphere
 PCベビー,PC's Baby
 ×を描く,Draw an X
 鎌(両手),scythe
@@ -31018,6 +31424,16 @@ PCベビー,PC's Baby
 氷毒弾,toxic ice shard
 爆破弾,bombshell
 光滅弾,purifying pellet
+機関部,Engine
+中枢前,Core
+来光場,Place of Arrival
+テッテ,Tette
+ポルテ,Porte
+核納器,Core Receptacle
+ヴェル,Vel
+ロアル,Roaru
+宿屋前,Inn
+シイラ,Dolphinfish
 兵士A,Soldier A
 兵士B,Soldier B
 兵士C,Soldier C
@@ -31257,6 +31673,9 @@ PCベビー,PC's Baby
 神化,deification
 短冊,paper strip
 井戸,well
+芯層,Core
+塔前,Tower
+南口,South Exit
 駅,train station
 泉,fountain
 館,mansion
@@ -31274,423 +31693,4 @@ PCベビー,PC's Baby
 棍,rod
 扇,fan
 弓,bow
-受け継がれしチカラ,Inherited Power
-大空の向こう側で,Beyond the Vast Sky
-声なきことづけ,Words Without a Voice
-夢のドレスを君に,A Dream Dress For You
-その翼は未来へと羽ばたく,Wings Soar to the Future
-ナイトたちの血戦２０２４,Knights Bloody Battle 2024
-配達！異世界のお客さま,Delivery! Otherworld Buyer
-とある天使の罪と罰,Sins of a Certain Angel
-死へと導く獣の伝承,Beast That Leads to Death
-悠久の時を超えて,Beyond the Bounds of Time
-美女たちの聖戦２０２４,Beauties Battle 2024
-薬師の天使は手を借りたい,An Apothecary Angel's Aid
-スカーレット★レジェンド,Scarlet★Legend
-ツリーは白銀に消ゆ３,Tree's Disappearance 3
-新春★登竜門を突破せよ！,New Year★Success Awaits!
-理不尽な研究に捧ぐ,Devoted to Absurd Research
-勇者の歴史書,Hero's History Book
-疑惑の同居人,Suspicious Roommate
-マザー・ヘレナの部屋,Mother Helena's Room
-芯層,Core
-表層・ルビン宙橋,Surface - Rubin Bridge
-表層・サフィア宙橋,Surface - Saphia Bridge
-表層・エメラーダ宙橋,Surface - Emerada Bridge
-中層・エメラーダ宙橋,Middle - Emerada Bridge
-中層・ルビン宙橋,Middle - Rubin Bridge
-中層・サフィア宙橋,Middle - Saphia Bridge
-芯層・エメラーダ宙橋,Core - Emerada Bridge
-芯層・ルビン宙橋,Core - Rubin Bridge
-芯層・サフィア宙橋,Core - Saphia Bridge
-念晶錬磨場・初級,Telecrystal Refinery - Beginner
-闘技演習場１,Training Ground 1
-ジア燃石生産場１,Diatite Production Plant 1
-表層・通話端末,Surface - Call Terminal
-中層・通話端末,Middle - Call Terminal
-念晶錬磨場・中級,Telecrystal Refinery - Intermediate
-闘技演習場２,Training Ground 2
-ジア燃石生産場２,Diatite Production Plant 2
-芯層・通話端末,Core - Call Terminal
-念晶錬磨場・上級,Telecrystal Refinery - Advanced
-闘技演習場３,Training Ground 3
-ルビン宙橋への扉,Door to Rubin Bridge
-発着場への扉,Door to Landing
-機関部への扉,Door to Engine
-芯層への扉,Door to Core
-大光の管制室への扉,Door to Pulse Control Room
-中枢前への扉,Door to Core
-中枢へ向かう通路への扉,Door to Passage to Core
-機関部,Engine
-中枢交差路,Core Crossroads
-中枢へ向かう通路,Passage to Core
-中枢前,Core
-魔眼の中枢,Eye of Evil's Core
-最終帰還地点,Final Return Point
-来光場,Place of Arrival
-エメラーダ宙橋への扉,Door to Emerada Bridge
-サフィア宙橋への扉,Door to Saphia Bridge
 搬,Service Entrance
-闘技演習場４,Training Ground 4
-滝見の吊り橋,Fallsview Bridge
-谷合の森,Veil of the Vale
-高台の遺跡,Hilltop Ruins
-レビュール街道北-谷合の森,Reviewle Highway North - Veil of the Vale
-セレドット山道-滝見の吊り橋,Celedot Mountain Pass - Fallsview Bridge
-リンジャハル海岸-高台の遺跡,Linjahar Coast - Hilltop Ruins
-雪原の町,Snowfield Town
-イヴェナ,Ivena
-テッテ,Tette
-ガジュマ,Gajuma
-ズロセロ,Zurosero
-レガンセ,Leganse
-ヴァージョ,Varjo
-ガラテア,Galatea
-ジア・クトＸＸ,Dia Kut XX
-ジア・クトＸＹ,Dia Kut XY
-メルド・ゲノス,Meldo Genos
-ルーベ・ゲノス,Rubay Genos
-ポルテ,Porte
-核納器,Core Receptacle
-壊れたユーライザの光輪,Yuliza's Broken Halo
-ジア・ネブラのブロック,Dia Nebula's Block
-ジア・クト艦,Dia Kut Ship
-リマソン,Remason
-カミリア,Camilia
-ジュミール,Jumir
-徒弟ティナナ,Apprentice Tinana
-星獣イジュツィ,Star Beast Ijutsi
-星獣ウラス,Star Beast Urasu
-ゲノスの球体,Genos' Sphere
-タウン案内係ポポコ,Town Guide Popoko
-ゲノス前室の扉,Genos Chamber Door
-ストレイール,Strayel
-魔獣メレンゲ,Pirate Merenge
-会場案内係ファリネ,Venue Guide Farine
-ヴェル,Vel
-神官ネーガ,Priest Nega
-香水師パパーペ,Perfumer Papape
-おまじない師プポペ,Charmer Pupope
-ＣＭ用プクリポ１,Pukulipo For CM 1
-ＣＭ用プクリポ２,Pukulipo For CM 2
-ＣＭ用プクリポ３,Pukulipo For CM 3
-ＣＭ用プクリポ４,Pukulipo For CM 4
-ＣＭ用ウェディ１,Weddie For CM 1
-ＣＭ用ウェディ２,Weddie For CM 2
-ＣＭ用ウェディ３,Weddie For CM 3
-ＣＭ用ウェディ４,Weddie For CM 4
-ＣＭ用ドワーフ１,Dwarf For CM 1
-ＣＭ用ドワーフ２,Dwarf For CM 2
-ＣＭ用ドワーフ３,Dwarf For CM 3
-ＣＭ用ドワーフ４,Dwarf For CM 4
-ＣＭ用エルフ１,Elf For CM 1
-ＣＭ用エルフ２,Elf For CM 2
-ＣＭ用エルフ３,Elf For CM 3
-ＣＭ用エルフ４,Elf For CM 4
-ＣＭ用オーガ１,Ogre For CM 1
-ＣＭ用オーガ２,Ogre For CM 2
-ＣＭ用オーガ３,Ogre For CM 3
-ＣＭ用オーガ４,Ogre For CM 4
-ＣＭ用人間１,Human For CM 1
-ＣＭ用人間２,Human For CM 2
-ＣＭ用人間３,Human For CM 3
-ＣＭ用人間４,Human For CM 4
-ＣＭ用人間５,Human For CM 5
-ＣＭ用人間６,Human For CM 6
-村人ウィリアム,Villager William
-町娘メアリ,Town Gal Mary
-海賊ドレーク,Pirate Drake
-魔女ペネロペ,Witch Penelope
-騒演王ベイオウルフ,Chaotic King Beowulf
-アリセル,Arisel
-ロアル,Roaru
-エレーネ,Erene
-ママダス,Mamadas
-ミニマドハンド,Mini Muddy Hand
-ヒースフィム,Heathfim
-ローネニウス,Lonenius
-ロヴォス,Rovos
-宿屋前,Inn
-リンジャハル,Linjahar
-塔前,Tower
-南口,South Exit
-レビュール北,Reviewle North
-リンジャ,Linja
-パーティ会場,Party Venue
-界律の結界,Ward of the World
-ユーライザ神の光輪,Yuliza's Halo
-ラルゥの研究室,Larue's Laboratory
-レド・ゲノスとうめい,Ledo Genos Transparent
-ゴールデンリーフ,Golden Leaf
-不死なる異形,Immortal Hexabeast
-ギガデーモン(コイン),Pruslas (Coin)
-異形複製体,Hexabeast Duplicate
-混沌竜ランブルス,Rumbles, Dragon of Chaos
-ギガデンデロベー,Giga Dendelobe
-ギガモーモリーナ,Giga Sanguilina
-クルミンクス,Trail Minx
-ジア・ロック,Dia Rock
-獣生む異形,Beast-born Hexabeast
-いにしえの廃棄物,Ancient Waste
-ブルークリスタル,Blue Crystal
-ジア・メルド・ゲノス,Dia Meldo Genos
-ラダ・ガートフェイク,Lada Gart Fake
-ハクオウフェイク,Hakuo Fake
-アシュレイフェイク,Ashley Fake
-増殖する異形,Multiplying Hexabeast
-レオーネフェイク,Leone Fake
-ユーライザフェイク,Yuliza Fake
-練武の鋼殻,Training Shell
-ヘルバトラー(コイン),Barbatos (Coin)
-ゲノス・アイ,Genos Eye
-パリッピー,Paripi
-メルド結晶の壁,Meldo Crystal Wall
-ドルタムシールド,Doltam Shield
-邪蒼鎧テスト,Blue Armor Test
-ネブラ用とうめい,Transparent for Nebula
-流星呼び,Meteor Call
-とうめいイレイザー,Transparent Eraser
-マグマ球,Magma Ball
-マグマカプセル,Magma Capsule
-戦神の箱＋５,War God's Box +5
-戦神の箱＋３,War God's Box +3
-豪雷将のヒゲ,Thunder General Stache
-リィンカネ印章,Reincarnate Stamp
-レトロなサングラス,Retro Sunglasses
-アオザイの服,Ao Dai Clothes
-ボイス付き手紙,Letter with Voice
-雪の結晶プリズム,Snowflake Prism
-死剣将の背光,Death General's Light
-しぐさ書・パンフ２,Emote "Pamphlet 2"
-しぐさ書・この葉がくれ,Emote "Hide in Leaves"
-しぐさ書・ギフト,Emote "Gift"
-リィンカネ便せん,Reincarnate Paper
-ふわふわコウリン,Fluffy Kourin
-荘厳な竜のはかま,Majestic Dragon Hakama
-ＤＱＸショップ印章,DQX Shop Stamp
-天星の軌跡・金,Path of the Star Gold
-マーシャルピアス,Field Marshal's Earring
-クイーン交換券２０２４,Queen Ticket 2024
-荘厳な竜のふりそで,Majestic Dragon Kimono
-しぐさ書・たてごと,Emote "Harp"
-ナイト交換券２０２４,Knight Ticket 2024
-天星の軌跡・銀,Path of the Star Silver
-プチ帝国三将軍カード,Frail Triumgorate Card
-アラモンドＺプリズム,Alamond Z Prism
-ブーストピアスの破片,Boost Earrings Shard
-レメディピアス,Remedy Earrings
-天星の軌跡・銅,Path of the Star Bronze
-オーガＴＲＩプリズム,Ogre TRI Prism
-邪竜王チケット,Evil Dragonlord Ticket
-水引のピアス,Paper Decor Earrings
-フラウスウィップ,Fraws Whip
-戦神の箱＋４・改,War God's Box +4 v2
-神都のオルゴール,Holy City Music Box
-アオザイのくつ,Ao Dai Shoes
-王国軍司令部の緑大扉,Royal Army Green Door L
-覚醒の鬼石,Super Demon Stone
-天星郷の翼プリズム,Firmament Wings Prism
-ダイナーヘアドレス,Diner Headdress
-ダイナートップス,Diner Top
-ダイナーズボン,Diner Trousers
-戦神の箱＋３・改,War God's Box +3 v2
-覚醒の鬼神石,Uber Demon Stone
-クマチャンキャップ,Bear-chan Cap
-サイレスヘッド,Gryphon Head
-さそりグローブ,Scorpion Gloves
-クマチャンコート,Bear-chan Coat
-審判の天使服上,Angel of Judgment Shirt
-フラウスロッド,Fraws Rod
-フラウススピア,Fraws Spear
-しぐさ書・ラブリーティ,Emote "Lovely Tea"
-しぐさ書・天灯青,Emote "Blue Lantern"
-フラウスブレード,Fraws Blade
-ダイナースニーカー,Diner Sneakers
-鋼殻のトロフィー,Steel Shell Trophy
-クマチャンミトン,Bear-chan Mittens
-フラウススティック,Fraws Wand
-クマチャンブーツ,Bear-chan Boots
-神都の庭オルゴール,Holy City Music Box (G)
-ダイナースカート,Diner Skirt
-審判の天使服下,Angel of Judgment Pants
-しぐさ書・天灯緑,Emote "Green Lantern"
-しぐさ書・天灯桃,Emote "Pink Lantern"
-おシャケなポーチ,Salmon Pouch
-クリスマスベアぐるみ,Christmas Bear Plushie
-フラウスショット,Fraws Bow
-ダイナーシューズ,Diner Shoes
-しぐさ書・天灯黄,Emote "Yellow Lantern"
-夢のアクセサリー箱４,Dream Accessory Box 4
-マーブルステッキ,Marble Wand
-フラウスファン,Fraws Fan
-審判の天使リスト,Angel of Judgment Bands
-しぐさ書・天灯白,Emote "White Lantern"
-審判の天使のくつ,Angel of Judgment Shoes
-壁かけパッケージ,Wall Hanging Package
-雅な衝立,Elegant Screen
-もこ耳ニット帽,Fluffy Ears Knit Hat
-鮭の寒干し,Freeze-Dried Salmon
-大王イカのズボン,King Squid Pants
-天使のタペストリー,Angel Tapestry
-ライオンアーム,Lion Armguards
-第１２回レクタリス像,12th Lectalis Statue
-フラウスサイズ,Fraws Scythe
-プチドラゴンカード,Frail Green Dragon Card
-第１２回メレアーデ像,12th Mereade Statue
-ねこ耳ニット帽,Cat Ears Knit Hat
-第１２回セラフィ像,12th Seraphi Statue
-スカーレットグラス,Scarlet Glasses
-カジノ祭５ポーカー金,CasinoFest 5 Poker Gold
-カジノ祭５ポーカー銀,CasinoFest 5 Poker Slvr
-第１２回アンルシア像,12th Anlucia Statue
-カジノ祭５ポーカー銅,CasinoFest 5 Poker Brnz
-第１２回エルドナ神像,12th Eldona Statue
-カジノ祭５スロット金,CasinoFest 5 Slots Gold
-カジノ祭５スロット銀,CasinoFest 5 Slots Slvr
-カジノ祭５スロット銅,CasinoFest 5 Slots Brnz
-第１２回ヴァレリア像,12th Valeria Statue
-第１２回ユーライザ像,12th Yuliza Statue
-第１２回ピコ像,12th Pico Statue
-カジノ祭５ルーレット金,CasinoFest 5 Roul. Gold
-特別番組視聴券,Special Program Ticket
-ウェルカムギフト３印章,Welcome Gift 3 Stamp
-エックス君バトル印章,Mr. X Battle Stamp
-泡雪のぼうし,Light Snow Hat
-フォーリオン２印章,Fourion 2 Stamp
-泡雪のコート上,Light Snow Coat Top
-領界３印章,Realm 3 Stamp
-お正月レンズ,New Year's Lens
-暗殺鳥のしっぽ,Assassin Bird Tail
-ソルシエールハット,Sorciere's Hat
-ソルシエールの服上,Sorciere's Top
-カジノ祭５ルーレット銀,CasinoFest 5 Roul. Slvr
-ソルシエールの服下,Sorciere's Bottoms
-ソルシエールグラブ,Sorciere's Gloves
-ソルシエールブーツ,Sorciere's Boots
-エルドナ神のリボン,Eldona's Ribbon
-エルドナ神の装束上,Eldona's Dress Top
-エルドナ神の装束下,Eldona's Dress Bottom
-泡雪のコート下,Light Snow Coat Bottom
-エルドナ神のぞうり,Eldona's Sandals
-エルドナ神の紐飾り,Eldona's String Decor
-泡雪のてぶくろ,Light Snow Mittens
-カジノ祭５ルーレット銅,CasinoFest 5 Roul. Brnz
-わだつみのかんむり,Sea God Crown
-泡雪のブーツ,Light Snow Boots
-わだつみのころも上,Sea God Robe Top
-戦神の箱＋５・改,War God's Box +5 v2
-カジノ祭５ビンゴ金,CasinoFest 5 Bingo Gold
-カジノ祭５ビンゴ銀,CasinoFest 5 Bingo Slvr
-カジノ祭５ビンゴ銅,CasinoFest 5 Bingo Brnz
-わだつみのころも下,Sea God Robe Bottom
-わだつみの竜手,Sea God Dragon Hands
-わだつみの竜足,Sea God Dragon Feet
-レクタリスの光輪,Lectalis' Halo
-レクタリスのころも,Lectalis' Robe
-レクタリスのうでわ,Lectalis' Bangles
-レクタリスのくつ,Lectalis' Shoes
-レクタリスの花飾り,Lectalis' Floral Decor
-軍神のゆびわ,War Goddess Ring
-神智のゆびわ,Divine Wisdom Ring
-神々のゆびわの破片,Ring of the Gods Shard
-スラライトステッキ,Slimelight Stick
-シイラ,Dolphinfish
-ふわふわホホジロ,Fluffy Shark
-結界の守護者コイン,Ward Guardian Coin
-結界の守護者カード,Ward Guardian Card
-結界の守護者練習札,Ward Guardian Tag
-結界の守護者メダル,Ward Guardian Medal
-第３０回ＧＰトロフィ金,30th GP Gold Trophy
-第３０回ＧＰトロフィ銀,30th GP Silver Trophy
-第３０回ＧＰトロフィ銅,30th GP Bronze Trophy
-第３０回ＧＰトロフィ鋼,30th GP Steel Trophy
-第１１回パドレ像,11th Padre Statue
-第１１回ヒューザ像,11th Hyuza Statue
-第１１回ギルガラン像,11th Gilgaran Statue
-第１１回ラウル像,11th Raul Statue
-第１１回ナジーン像,11th Nazine Statue
-第１１回プクラス像,11th Pukulas Statue
-第１１回ナドラガ神像,11th Nadraga Statue
-第１１回ファラス像,11th Faras Statue
-第１２回レクタリス像庭,12th Lectalis Statue(G)
-第１２回メレアーデ像庭,12th Mereade Statue (G)
-第１２回セラフィ像庭,12th Seraphi Statue (G)
-第１２回アンルシア像庭,12th Anlucia Statue (G)
-第１２回エルドナ神像庭,12th Eldona Statue (G)
-第１２回ヴァレリア像庭,12th Valeria Statue (G)
-第１２回ユーライザ像庭,12th Yuliza Statue (G)
-第１２回ピコ像庭,12th Pico Statue (G)
-第１１回パドレ像庭,11th Padre Statue (G)
-第１１回ヒューザ像庭,11th Hyuza Statue (G)
-第１１回ギルガラン像庭,11th Gilgaran Statue(G)
-第１１回ラウル像庭,11th Raul Statue (G)
-第１１回ナジーン像庭,11th Nazine Statue (G)
-第１１回プクラス像庭,11th Pukulas Statue (G)
-第１１回ナドラガ神像庭,11th Nadraga Statue (G)
-第１１回ファラス像庭,11th Faras Statue (G)
-ギュッとウサギぐるみ,Rabbit Arm Doll Plush
-王国軍司令部の木製扉,Royal Army Wooden Door
-王国軍司令部の緑扉,Royal Army Green Door
-王国軍司令部の紫大扉,Royal Army Purple Door
-王国軍司令部打ち込み台,Royal Army Strike Stand
-王国軍司令部の武器,Royal Army Weapon
-王国軍司令部の剣,Royal Army Sword
-王国軍司令部の防具,Royal Army Armor
-王国軍司令部の盾,Royal Army Shield
-壁かけ王国軍司令部の旗,Royal Army Flag
-王国軍司令部の吊り飾り,Royal Army Decoration
-強靭なホネの束,Strong Bones Bundle
-謎の光球,Mysterious Light Sphere
-メルヒオール特製ジャム,Melchior's Special Jam
-ツヤツヤくるみ,Shiny Walnut
-くるみのカップケーキ,Walnut Cupcake
-眠るコウリン,Sleeping Kourin
-プリプリぎんなん,Plump Gingko Nut
-純白のナスビ,Pure White Eggplant
-元気なコウリン,Lively Kourin
-家出したスランジ,Runaway Slanjey
-家出したスラルド,Runaway Slardo
-家出したスープル,Runaway Slimon
-石版のかけら,Tablet Fragment
-神具・破理扇,Divine Artifact/Broken Fan
-テッテ専用コーデギフト,Glamour Gift for Tette
-ショッパーバッグ,Shopping Bag
-想いの結晶,Thought Crystal
-レクタリスの姿絵,Lectalis Portrait
-竜黄色のツノ,Dragon Yellow Horn
-翠緑の鉱石,Green Ore
-紫紺の鉱石,Purple Ore
-うつろいの試薬,Reagent of Change
-シュガーポット,Sugar Pot
-ダイナー衣装券,Diner Outfit Ticket
-プレミアムな金箔,Premium Gold Leaf
-アオザイ衣装券,Ao Dai Outfit Ticket
-スカーレットコート,Scarlet Coating
-赤いマドハン泥,Red Muddy Hand Mud
-造成地の土,Created Land Soil
-天使の資料カード,Angel's Reference Card
-アシュレイの書,Ashley's Book
-アジールの書,Azir's Book
-アルヴァンの書,Alvan's Book
-ソルシエールの服セット,Sorciere's Outfit
-泡雪のコートセット,Light Snow Outfit
-わだつみのころもセット,Sea God Outfit
-レクタリスセット,Lectalis Outfit
-エルドナ神の装束セット,Eldona's Outfit
-わだつみのころもせっと,Sea God Outfit
-アオザイ衣装,Ao Dai Outfit
-アルイヴェナ,Alivena
-始源の歌姫,First Diva
-ドワーフ三闘士,Dwarven Triad
-さすらいの詩人,Wandering Poet
-敵の弱点属性がわかる,View Enemy Weaknesses
-オノむそう・改,Axes of Evil+
-敵を倒すとためる,Tension On Enemy Defeat
-真・オノむそう・改,Axes of True Evil+
-攻撃時5%移動アップ,Movement Up Attack 5%
-氷結らんげき・改,Crushed Ice+
-ガード時80%でためる,Tension On Parry 80%
-行動時20%バイシオン,Oomph On Action 20%
-渾身斬り・改,Cutting Edge+
-行動時ブレードガード,Greatsword Guard On Action
-全身全霊斬り・改,Unbridled Blade+
