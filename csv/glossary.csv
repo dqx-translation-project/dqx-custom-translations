@@ -24459,6 +24459,7 @@ Pの　経験値,EXP
 始源の歌姫,First Diva
 モモンガ族,Squirril
 バントリユ,Bantryu
+スクアーロ,Squalo
 SPアイテム,Skill Point Items
 (アナザー),(Another)
 短剣(片手),dagger
@@ -28786,6 +28787,8 @@ SPアイテム,Skill Point Items
 パウダー,Powder
 ファラオ,Pharaoh
 リーリナ,Lilina
+パパーペ,Papape
+ドレーク,Drake
 PCベビー,PC's Baby
 ×を描く,Draw an X
 鎌(両手),scythe
@@ -31518,6 +31521,10 @@ PCベビー,PC's Baby
 宿屋前,Inn
 シイラ,Dolphinfish
 魔瘴石,Miasmite
+トニー,Tony
+ベニー,Benny
+プポペ,Pupope
+メアリ,Mary
 兵士A,Soldier A
 兵士B,Soldier B
 兵士C,Soldier C
@@ -31760,6 +31767,7 @@ PCベビー,PC's Baby
 芯層,Core
 塔前,Tower
 南口,South Exit
+エマ,Emma
 駅,train station
 泉,fountain
 館,mansion
@@ -31778,11 +31786,3 @@ PCベビー,PC's Baby
 扇,fan
 弓,bow
 搬,Service Entrance
-エマ,Emma
-トニー,Tony
-ベニー,Benny
-スクアーロ,Squalo
-パパーペ,Papape
-プポペ,Pupope
-メアリ,Mary
-ドレーク,Drake
