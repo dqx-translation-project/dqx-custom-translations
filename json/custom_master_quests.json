@@ -9,7 +9,7 @@
     "パーティメンバー全員　一度も死んではならない。": "All party members must not die once."
   },
   "4": {
-    "常闇の聖戦で　海冥主メイヴを倒せ！": "Defeat Sea Lord Meiv in the Holy Dark War!"
+    "常闇の聖戦で　海冥主メイヴを倒せ！": "Defeat Sea Lord Meiv!"
   },
   "5": {
     "強戦士の書で　呪術師マリーン強を倒せ！": "Defeat Apex Monstrous Malynn in Book of Bosses!"
@@ -24,7 +24,7 @@
     "アストルティア防衛軍で　１回防衛せよ！": "Defend once in Astoltia Defense Force!"
   },
   "9": {
-    "邪神の宮殿の四獄で　１回討伐せよ！": "Beat 4th Prison in Evil God Palace once!"
+    "邪神の宮殿の四獄で　１回討伐せよ！": "Beat 4th Prison in Dark Deity's Palace once!"
   },
   "10": {
     "魔法の迷宮で　スライムジェネラルを倒せ！": "Defeat Shogum in the Magic Maze!"
@@ -51,13 +51,13 @@
     "ピラミッドの第六の霊廟を　クリアせよ！": "Clear the Pyramids's 6th Tomb!"
   },
   "18": {
-    "邪神の宮殿の一獄で　１回討伐せよ！": "Beat 1st Prison in Evil God Palace once!"
+    "邪神の宮殿の一獄で　１回討伐せよ！": "Beat 1st Prison in Dark Deity's Palace once!"
   },
   "19": {
     "魔法の迷宮で　バラモスを倒せ！": "Defeat Baramos in the Magic Maze!"
   },
   "20": {
-    "戦士　４人のパーティで挑むこと。": "Must challenge with a party of 4 Wwarriors."
+    "戦士　４人のパーティで挑むこと。": "Must challenge with a party of 4 Warriors."
   },
   "21": {
     "強戦士の書で　ウルベア魔神兵強を倒せ！": "Defeat Apex Urbea Aztech in Book of Bosses!"
@@ -75,7 +75,7 @@
     "天地雷鳴士をパーティに　ひとり入れること。": "Must have a Druid in the party."
   },
   "26": {
-    "強戦士の書で　悪夢の右手強を倒せ！": "Defeat Apex Nightmare Right Hand in Book of Bosses!"
+    "強戦士の書で　悪夢の右手強を倒せ！": "Defeat Apex Right Incubus in Book of Bosses!"
   },
   "27": {
     "踊り子をパーティに　ひとり入れること。": "Must have a Dancer in the party."
@@ -84,7 +84,7 @@
     "１分５０秒を　制限時間とする。": "Time limit of 1 minute and 50 seconds."
   },
   "29": {
-    "邪神の宮殿の三獄で　１回討伐せよ！": "Beat 3rd Prison in Evil God Palace once!"
+    "邪神の宮殿の三獄で　１回討伐せよ！": "Beat 3rd Prison in Dark Deity's Palace once!"
   },
   "30": {
     "魔法の迷宮で　アトラスを倒せ！": "Defeat Atlas in the Magic Maze!"
@@ -123,7 +123,7 @@
     "魔法戦士　４人のパーティで挑むこと。": "Must challenge with a party of 4 Armamentalists."
   },
   "42": {
-    "強戦士の書で　悪夢の右手強を倒せ！": "Defeat Apex Nightmare R. Hand in Book of Bosses!"
+    "強戦士の書で　悪夢の右手強を倒せ！": "Defeat Apex Right Incubus in Book of Bosses!"
   },
   "43": {
     "レンジャーをパーティに　ひとり入れること。": "Must have a Ranger in the party."
@@ -174,7 +174,7 @@
     "２分５０秒を制限時間とする。": "Time limit of 2 minutes and 50 seconds."
   },
   "59": {
-    "邪神の宮殿の二獄で　１回討伐せよ！": "Beat 2nd Prison in Evil God Palace once!"
+    "邪神の宮殿の二獄で　１回討伐せよ！": "Beat 2nd Prison in Dark Deity's Palace once!"
   },
   "60": {
     "魔法の迷宮で　Sキラーマシンを倒せ！": "Defeat Trauminator in the Magic Maze!"
@@ -189,7 +189,7 @@
     "魔法の迷宮で　バズズを倒せ！": "Defeat Pazuzu in the Magic Maze!"
   },
   "64": {
-    "常闇の聖戦で　常闇の竜レグナードを倒せ！": "Defeat Everdark Dragon Regnad in the Holy Dark War!"
+    "常闇の聖戦で　常闇の竜レグナードを倒せ！": "Defeat Everdark Dragon Regnad!"
   },
   "65": {
     "３分を制限時間とする。": "Time limit of 3 minutes."
