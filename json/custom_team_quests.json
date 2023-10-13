@@ -33,7 +33,7 @@
     "バトルロードで　4回　勝利する。": "Win 4 times at Battle Road."
   },
   "12": {
-    "魔法の迷宮で出現する　バズズを　1匹討伐する。": "Defeat 1 Pazuzu in the Magic Maze."
+    "魔法の迷宮で出現する　バズズを　1匹討伐する。": "Defeat 1 Pazuzu in the\nMagic Maze."
   },
   "13": {
     "レンダーシア大陸の　ロヴォス高地にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Rovos Highlands in\nLendersia."
@@ -54,7 +54,7 @@
     "デュランダルを　20匹討伐する。": "Defeat 20 A3G15s."
   },
   "19": {
-    "魔法の迷宮で出現する　タロット魔人を　1匹討伐する。": "Defeat 1 Tarot Genie in the Magic Maze."
+    "魔法の迷宮で出現する　タロット魔人を　1匹討伐する。": "Defeat 1 Tarot Genie in the\nMagic Maze."
   },
   "20": {
     "ジェリーマンを　20匹討伐する。": "Defeat 20 Admirers."
@@ -102,7 +102,7 @@
     "エルダーフレイムを　20匹討伐する。": "Defeat 20 Elder Flames."
   },
   "35": {
-    "魔法の迷宮で出現する　悪霊の神々強を　1匹討伐する。": "Defeat 1 Apex Evil Trinity in the Magic Maze."
+    "魔法の迷宮で出現する　悪霊の神々強を　1匹討伐する。": "Defeat 1 Apex Evil Trinity in the\nMagic Maze."
   },
   "36": {
     "エメラルドーンを　20匹討伐する。": "Defeat 20 Emeraldons."
@@ -123,7 +123,7 @@
     "氷の領界の　とこしえの氷原にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Eternal Ice Field in the\nIce Realm."
   },
   "42": {
-    "魔法の迷宮で出現する　ドン・モグーラを　1匹討伐する。": "Defeat 1 Don Mole in the Magic Maze."
+    "魔法の迷宮で出現する　ドン・モグーラを　1匹討伐する。": "Defeat 1 Don Mole in the\nMagic Maze."
   },
   "43": {
     "レンダーシア大陸の　ねじれたる異形の大地にいる\nモンスターを 50匹討伐する。": "Defeat 50 monsters in the Twisted Deformed Earth in\nLendersia."
@@ -162,7 +162,7 @@
     "釣りで　魚を　15匹　釣り上げる。": "Catch 15 fish."
   },
   "55": {
-    "魔法の迷宮で出現する　グラコス強を　1匹討伐する。": "Defeat 1 Apex Gracos in the Magic Maze."
+    "魔法の迷宮で出現する　グラコス強を　1匹討伐する。": "Defeat 1 Apex Gracos in in the\nMagic Maze."
   },
   "56": {
     "キラービーを　20匹討伐する。": "Defeat 20 Scornets."
@@ -189,7 +189,7 @@
     "ピラミッドの　第二霊廟で　1回　勝利する。": "Clear the Pyramid's 2nd Tomb once."
   },
   "64": {
-    "魔法の迷宮で出現する　アトラスを　1匹討伐する。": "Defeat 1 Atlas in the Magic Maze."
+    "魔法の迷宮で出現する　アトラスを　1匹討伐する。": "Defeat 1 Atlas in in the\nMagic Maze."
   },
   "65": {
     "プクランド大陸のオルフェア地方東にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Orphea Region East in\nPukuland."
@@ -210,7 +210,7 @@
     "釣りで　魚を　10匹　釣り上げる。": "Catch 10 fish."
   },
   "71": {
-    "魔法の迷宮で出現する　輪王ザルトラを　1匹討伐する。": "Defeat 1 Ring King Zaltra in the Magic Maze."
+    "魔法の迷宮で出現する　輪王ザルトラを　1匹討伐する。": "Defeat 1 Ring King Zaltra in the\nMagic Maze."
   },
   "71": {
     "ガネーシャエビルを　20匹討伐する。": "Defeat 20 Evil Ganeshes."
@@ -228,7 +228,7 @@
     "カーディナルナイトを　20匹討伐する。": "Defeat 20 Cardinal Knights."
   },
   "76": {
-    "魔法の迷宮で出現する　死神スライダークを　1匹討伐する。": "Defeat 1 Nemeslime in the Magic Maze."
+    "魔法の迷宮で出現する　死神スライダークを　1匹討伐する。": "Defeat 1 Nemeslime in the\nMagic Maze."
   },
   "77": {
     "マージスターを　20匹討伐する。": "Defeat 20 Trickstars."
@@ -267,7 +267,7 @@
     "水の領界の　ガイオス古海にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Gaios Old Sea in the\nWater Realm."
   },
   "89": {
-    "魔法の迷宮で出現する　キラーマジンガ強を　1匹討伐する。": "Defeat 1 Uberkilling Machine in the Magic Maze."
+    "魔法の迷宮で出現する　キラーマジンガ強を　1匹討伐する。": "Defeat 1 Uberkilling Machine in the\nMagic Maze."
   },
   "90": {
     "ゲリュオンを　20匹討伐する。": "Defeat 20 Draguars."
@@ -291,16 +291,16 @@
     "炎の領界の　業炎の聖塔にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Fire Tower in the\nFire Realm."
   },
   "97": {
-    "魔法の迷宮で出現する　キラーマジンガ強を　1匹討伐する。": "Defeat 1 Apex Uberkilling Machine in\nthe Magic Maze."
+    "魔法の迷宮で出現する　キラーマジンガ強を　1匹討伐する。": "Defeat 1 Apex Uberkilling Machine in the\nMagic Maze."
   },
   "98": {
-    "魔法の迷宮で出現する　ドラゴンガイア強を　1匹討伐する。": "Defeat 1 Apex Gaia Dragon in\nthe Magic Maze."
+    "魔法の迷宮で出現する　ドラゴンガイア強を　1匹討伐する。": "Defeat 1 Apex Gaia Dragon in the\nMagic Maze."
   },
   "99": {
     "セレド強ボスを　1回討伐する。": "Defeat any Celed Strong Boss once."
   },
   "100": {
-    "魔法の迷宮で出現する　キングヒドラ強を　1匹討伐する。": "Defeat 1 King Hydra in\nthe Magic Maze."
+    "魔法の迷宮で出現する　キングヒドラ強を　1匹討伐する。": "Defeat 1 King Hydra in the\nMagic Maze."
   },
   "101": {
     "ナイトキャットを　20匹討伐する。": "Defeat 20 Night Cats."
@@ -324,7 +324,7 @@
     "クリスタルハンドを　20匹討伐する。": "Defeat 20 Crystal Hands."
   },
   "108": {
-    "魔法の迷宮で出現する　ベリアルを　1匹討伐する。": "Defeat 1 Belial in\nthe Magic Maze."
+    "魔法の迷宮で出現する　ベリアルを　1匹討伐する。": "Defeat 1 Belial in the\nMagic Maze."
   },
   "109": {
     "ドワチャッカ大陸のエゼソル峡谷にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Ezesol Canyon in\nDwachakka."
@@ -339,7 +339,7 @@
     "クリスタルハンドを　20匹討伐する。": "Defeat 20 Hypothermions."
   },
   "113": {
-    "魔法の迷宮で出現する　ゲルニック将軍を　1匹討伐する。": "Defeat 1 Hootingham-Gore in\nthe Magic Maze."
+    "魔法の迷宮で出現する　ゲルニック将軍を　1匹討伐する。": "Defeat 1 Hootingham-Gore in the\nMagic Maze."
   },
   "114": {
     "まだらイチョウを　20匹討伐する。": "Defeat 20 Bud Brothers."
@@ -418,5 +418,20 @@
   },
   "139": {
     "いにしえのゼルメアを　4回　クリアする。": "Clear Ancient Zelmea 4 times."
+  },
+  "140": {
+    "プークプックを　20匹討伐する。": "Defeat 20 Satyrs."
+  },
+  "141": {
+    "魔法の迷宮で出現する　ドラゴンガイアを　1匹討伐する。": "Defeat 1 Gaia Dragon in the\nMagic Maze."
+  },
+  "142": {
+    "ドワチャッカ大陸のカルデア洞穴にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Chaldea Cave in\nDwachakka."
+  },
+  "143": {
+    "エレメント系のモンスターを　70匹討伐する。": "Defeat 70 Element-type monsters."
+  },
+  "144": {
+    "魔法の迷宮を　8回クリアする。": "Clear the Magic Maze 8 times."
   }
 }
