@@ -219,7 +219,7 @@
     "水系のモンスターを　50匹討伐する。": "Defeat 50 Water-type monsters."
   },
   "73": {
-    "依頼書クエストを　4回クリアする。": "Clear 4 request form quests."
+    "依頼書クエストを　４回クリアする。": "Clear 4 request form quests."
   },
   "74": {
     "プクランド大陸の風車の丘にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Windmill Way in\nPukuland."
@@ -408,7 +408,7 @@
     "あくま系のモンスターを　90匹討伐する。": "Defeat 90 Demon-type monsters."
   },
   "136": {
-    "依頼書クエストを　3回クリアする。": "Clear 3 request form quests."
+    "依頼書クエストを　３回クリアする。": "Clear 3 request form quests."
   },
   "137": {
     "メタルブラザーズを　1匹討伐する。": "Defeat 1 Metal Medley."
@@ -451,5 +451,23 @@
   },
   "150": {
     "ピラミッドの　第一霊廟で　1回　勝利する。": "Clear the Pyramid's 1st Tomb once."
+  },
+  "151": {
+    "スマイルロックを　20匹討伐する。": "Defeat 20 Grinades."
+  },
+  "152": {
+    "スマイルロックを　20匹討伐する。": "Defeat 20 Great Trolls."
+  },
+  "153": {
+    "ウェナ諸島のジュレー島上層にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters on Upper Jule Island\nin the Wena Islands."
+  },
+  "154": {
+    "物質系のモンスターを　80匹討伐する。": "Defeat 80 Material-type monsters."
+  },
+  "155": {
+    "氷の領界の　	氷晶の聖塔にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Ice Tower in the\nIce Realm."
+  },
+  "156": {
+    "魔法の迷宮で出現する　	輪王ザルトラを　1匹討伐する。": "Defeat 1 Ring King Zaltra in the\nMagic Maze."
   }
 }
