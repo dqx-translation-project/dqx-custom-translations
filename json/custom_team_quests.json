@@ -132,7 +132,7 @@
     "常闇の聖戦で ダークキングを 1匹討伐する。": "Defeat 1 Dark King Slime in the Everdark War."
   },
   "45": {
-    "依頼書クエストを 1回クリアする。": "Clear 1 request form quest."
+    "依頼書クエストを　1回クリアする。": "Clear 1 request form quest."
   },
   "46": {
     "虫系のモンスターを　70匹討伐する。": "Defeat 70 Insect-type monsters."
@@ -408,7 +408,7 @@
     "あくま系のモンスターを　90匹討伐する。": "Defeat 90 Demon-type monsters."
   },
   "136": {
-    "依頼書クエストを　３回クリアする。": "Clear 3 request form quests."
+    "依頼書クエストを　3回クリアする。": "Clear 3 request form quests."
   },
   "137": {
     "メタルブラザーズを　1匹討伐する。": "Defeat 1 Metal Medley."
@@ -456,7 +456,7 @@
     "スマイルロックを　20匹討伐する。": "Defeat 20 Grinades."
   },
   "152": {
-    "スマイルロックを　20匹討伐する。": "Defeat 20 Great Trolls."
+    "トロルキングを　20匹討伐する。": "Defeat 20 Great Trolls."
   },
   "153": {
     "ウェナ諸島のジュレー島上層にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters on Upper Jule Island\nin the Wena Islands."
@@ -469,5 +469,14 @@
   },
   "156": {
     "魔法の迷宮で出現する　輪王ザルトラを　1匹討伐する。": "Defeat 1 Ring King Zaltra in the\nMagic Maze."
+  },
+  "157": {
+    "物質系のモンスターを　70匹討伐する。": "Defeat 70 Material-type monsters."
+  },
+  "158": {
+    "物質系のモンスターを　60匹討伐する。": "Defeat 60 Material-type monsters."
+  },
+  "159": {
+    "物質系のモンスターを　50匹討伐する。": "Defeat 50 Material-type monsters."
   }
 }
