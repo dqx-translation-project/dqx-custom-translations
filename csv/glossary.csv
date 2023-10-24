@@ -24464,6 +24464,7 @@ Pの　経験値,EXP
 スクアーロ,Squalo
 リィンカネ,Re[in]carnation
 白銀の死神,Silver Slayer
+キャンドル,candle
 SPアイテム,Skill Point Items
 (アナザー),(Another)
 短剣(片手),dagger
@@ -31775,6 +31776,7 @@ PCベビー,PC's Baby
 塔前,Tower
 南口,South Exit
 印章,stamp
+神具,divine artifact
 駅,train station
 泉,fountain
 館,mansion
@@ -31792,5 +31794,3 @@ PCベビー,PC's Baby
 棍,rod
 扇,fan
 弓,bow
-キャンドル,candle
-神具,divine artifact
