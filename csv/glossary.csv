@@ -12756,7 +12756,7 @@ Mサイズお城5 壁,M. Size Castle 5 Wall
 極辛炎獣ラーベ,Hot Flame Beast Rabe
 紅蓮鳥トワイラ,Red Lotus Bird Twyla
 マイラー三銃士,The Three Simpateers
-陰果の罪業・核,Sin of Yin/Yang Core
+陰果の罪業・核,Sin of Yin & Yang Core
 影魔レイミリア,Shadow Demon Remilia
 秘宝の空挺兵長,Treasure Dark Prince
 起源鎧デルメゼ,Origin Armor Delmeze
@@ -17767,7 +17767,7 @@ DQ3僧侶　ゾーマ,DQ3 Priest, Zoma
 星の大樹広場,Starry Tree Plaza
 ローヌ樹林帯,Rhone Forest Belt
 闇の溢る世界,World of Darkness
-月世界・王宮,Moon Royal Palace
+月世界・王宮,The Moon's Royal Palace
 崩れゆく虚室,Crumbling Chamber
 楽園へ至る間,The Way to Utopia
 不死の魔王城,Demon King Castle
@@ -19055,7 +19055,7 @@ DQ3僧侶　ゾーマ,DQ3 Priest, Zoma
 残された希望,Remaining Hope
 必殺のサラダ,Surefire Salad
 カギ師の小箱,Keymaker's Box
-戦士たちの門,Warriors' Gate
+戦士たちの門,The Gate of Warriors
 時を巡る命題,Thesis of Time
 理想の鍛錬法,Ideal Training
 妖精の古道具,Fairy Antiques
@@ -21350,7 +21350,7 @@ Pの　経験値,EXP
 バザックス,Tyrannoceratops
 キングレオ,Marquis de Leon
 密林の守人,Forest Guardian
-陰果の罪業,Sin of Yin/Yang
+陰果の罪業,Sin of Yin & Yang
 冥府の君主,Underworld King
 イチゴ爆弾,Strawberry Bomb
 滅びの幻影,Phantom of Ruin
@@ -21860,7 +21860,7 @@ Pの　経験値,EXP
 魔獣の菜園,Beast's Garden
 守護鬼の間,Demon Guardian
 神話の遺跡,Mystical Ruins
-月世界の都,Moon's Capital
+月世界の都,The Moon's Capital
 魔炎鳥の巣,Darkflame's Nest
 赤熱の荒野,Red Hot Desert
 烈火の渓谷,Valley of Fire
@@ -24769,7 +24769,7 @@ SPアイテム,Skill Point Items
 異界校舎,Underworld school building
 空の原点,Sky's Origin
 樹天の里,Treetop Town
-滅神の獄,God's Prison
+滅神の獄,The Annihilator's Prison
 黄昏の園,Twilit Field
 呪いの泉,Cursed Spring
 星明の宮,Starlight Shrine
@@ -25021,7 +25021,7 @@ SPアイテム,Skill Point Items
 知の盟主,Wisdom Lord
 輝き帝王,Light Ruler
 ラカ神父,Father Raka
-魔封剣姫,Seal Maiden
+魔封剣姫,Prison Princess
 薄明の花,Dusk Flower
 ハハホフ,Ha-Ha-Ho-Hu
 ヒヘヘヒ,Hi-He-He-Hi
@@ -25349,7 +25349,7 @@ SPアイテム,Skill Point Items
 爪牙の陣,Sap Circle
 風泣き岬,Windy Cape
 太古の泉,Old Spring
-漆黒の間,Black Room
+漆黒の間,The Black Room
 神代の間,God's Hall
 真実の間,Truth Hall
 ゼドラ洞,Zedra Cave
@@ -25564,7 +25564,7 @@ SPアイテム,Skill Point Items
 みやげ屋,Souvenirs
 女神の絵,"Goddess"
 此岸の絵,"Coastal"
-釜デコ屋,Pot Decor
+釜デコ屋,Pot Decor Shop
 コイン屋,Coin Shop
 ヤシの木,palm tree
 ２階・西,2F - West
@@ -31521,7 +31521,7 @@ PCベビー,PC's Baby
 来光場,Place of Arrival
 テッテ,Tette
 ポルテ,Porte
-核納器,Core Receptacle
+核納器,Core Container
 ヴェル,Vel
 ロアル,Roaru
 宿屋前,Inn
@@ -31794,3 +31794,71 @@ PCベビー,PC's Baby
 棍,rod
 扇,fan
 弓,bow
+チカラ自慢をねじ伏せろ！,Show Me What You're Made Of!
+そなえの場の宿屋の丸机,Place of Preparation Desk
+そなえの場の宿屋のイス,Place of Preparation Chair
+真夜中プリズラン,Midnight Jailrun
+プリズラン,Jailrun
+マイハウス,My House
+マイガーデン,My Garden
+プラコン,Private Concierge
+シナリオ,story
+ドルボードレース,Dolboard race
+撃破玉, Attack Orb
+援軍玉,Reinforcement Orbs
+閃手,player
+部の設備利用券,Club Facility Ticket
+裁縫部,Sewing Club
+調理部,Cooking Club
+ツボ錬金部,Pot Alchemy Club
+ランプ錬金部,Lamp Alchemy Club
+木工部,Woodworking Club
+道具鍛冶部,Toolsmithing Club
+武器鍛冶部,Weaponsmithing Club
+防具鍛冶部,Armorsmithing Club
+裁縫部員,Sewing Club member
+調理部員,Cooking Club member
+ツボ錬金部員,Pot Alchemy Club member
+ランプ錬金部員,Lamp Alchemy Club member
+木工部員,Woodworking Club member
+道具鍛冶部員,Toolsmithing Club member
+武器鍛冶部員,Weaponsmithing Club member
+防具鍛冶部員,Armorsmithing Club member
+部活強化週間,Club Upgrade Week
+部活ポイント,Club Points
+アストルティアラリー,Astoltia Rally
+マジカル★カーニバル,Magical Carnival
+ふっかつのじゅもん,Spell of Restoration
+ユーシャ,Luminary
+ユーシャさま,Luminary
+ジョロッチ,Stickle
+オシッチ,Tickle
+悠久の金庫,Time Capsule
+庭具,garden furniture
+家具,furniture
+家具庭具,furniture and garden furniture
+ぬいぐるみ,plushie
+ウェルカムハウス,Welcome House
+『他の人の家へ』,"To Other House"
+住宅村,residences
+『だれでもＯＫ』,"Anyone is OK"
+『マイタウンへの出入り』,"Allowed to Visit"
+『カスタム衣装の登録』,"Register Outfit"
+コーデ券,glamour ticket
+おしゃれカタログ,Fashion Catalog
+さいほう,sewing
+知の祝祭,Wisdom Festival
+元の種族,original race
+仮装メイク,disguise makeup
+仮装メイク術,disguise makeup
+仮装メイク術の効果,disguise makeup effect
+仮装メイク術の有効期間,disguise duration
+ピュアジュエル,Pure Jewel
+大富豪決定戦,Tycoon Playoffs
+大富豪協会,Tycoon Club
+段位戦,Ranked Match
+段位戦ポイント,Rank Points
+トランプポイント,Card Points
+お知らせ広場,Notification Square
+七不思議,Seven Wonders
+輝晶効果,Shine
