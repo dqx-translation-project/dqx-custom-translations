@@ -267,7 +267,7 @@
     "水の領界の　ガイオス古海にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Gaios Old Sea in the\nWater Realm."
   },
   "89": {
-    "魔法の迷宮で出現する　キラーマジンガ強を　1匹討伐する。": "Defeat 1 Uberkilling Machine in the\nMagic Maze."
+    "職人作業を　2回　成功させる。": "Successfully craft 2 times."
   },
   "90": {
     "ゲリュオンを　20匹討伐する。": "Defeat 20 Draguars."
@@ -468,7 +468,7 @@
     "氷の領界の　氷晶の聖塔にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Ice Tower in the\nIce Realm."
   },
   "156": {
-    "魔法の迷宮で出現する　輪王ザルトラを　1匹討伐する。": "Defeat 1 Ring King Zaltra in the\nMagic Maze."
+    "魔法の迷宮で出現する　ギュメイ将軍を　1匹討伐する。": "Defeat 1 Goresby-Purrvis in the\nMagic Maze."
   },
   "157": {
     "物質系のモンスターを　70匹討伐する。": "Defeat 70 Material-type monsters."
@@ -562,5 +562,8 @@
   },
   "187": {
     "闇の領界の　冥闇の聖塔にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Dark Tower in the\nDark Realm."
+  },
+  "188": {
+    "ヴェリナードの強ボスを　1回討伐する。": "Defeat any Verinard Strong Boss once."
   }
 }
