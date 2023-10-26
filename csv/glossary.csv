@@ -198,6 +198,8 @@
 スカーレット★レジェンド,Scarlet Legend
 新春★登竜門を突破せよ！,New Year Success Awaits!
 ダイナースカートイショウ,Diner Skirt Outfit
+チカラ自慢をねじ伏せろ！,Show Me What You're Made Of!
+『マイタウンへの出入り』,"Allowed to Visit"
 セレドット山道-資料室 前,Celedot Mountain Pass - Archives
 ローヌ樹林帯-黄葉商店 前,Rhone Forest Belt - Leaf Shop
 レビュール街道南-井戸 前,Reviewle Highway South - Well
@@ -1914,6 +1916,10 @@ Reジューンプライドの憂鬱,Re: June Bride's Gloom
 エルドナ神の装束セット,Eldona's Outfit
 モンスターバトルロード,Monster Battle Road
 ダイナーズボンイショウ,Diner Trousers Outfit
+そなえの場の宿屋の丸机,Place of Preparation Desk
+そなえの場の宿屋のイス,Place of Preparation Chair
+『カスタム衣装の登録』,"Register Outfit"
+仮装メイク術の有効期間,disguise duration
 リャナ荒涼地帯-灯台 前,Lyana Desolate Area - Lighthouse
 ビーチで大公演！？ 2017,Beach Performance!? 2017
 なぞ解きオブジェクト02,Mystery Solving Object 2
@@ -3801,6 +3807,8 @@ Reジューンプライドの憂鬱,Re: June Bride's Gloom
 第７回スライムレース,7th Slime Race Bronze
 くるみのカップケーキ,Walnut Cupcake
 ダイナースカート衣装,Diner Skirt Outfit
+アストルティアラリー,Astoltia Rally
+マジカル★カーニバル,Magical Carnival
 キュララな夏休み 2017,Kyurara Summer Holiday '17
 Re白きヴェールの乙女,Re: Maid of the White Veil
 Reツリーは白銀に消ゆ,Tree's Disappearance Again
@@ -7987,6 +7995,8 @@ DQ1勇者たいまつあり,DQ1 Hero With Torch
 真・オノむそう・改,Axes of True Evil+
 バトエンファイター,Batoen Fighter
 ダイナーズボン衣装,Diner Trousers Outfit
+ふっかつのじゅもん,Spell of Restoration
+仮装メイク術の効果,disguise makeup effect
 Re星降る夜の大乱闘,Re: Starry Night Scuffle
 デフェル荒野-墓 前,Defel Desert - Tomb
 夏宵メモワール 2017,Summer Memoirs 2017
@@ -12311,6 +12321,13 @@ DQ3賢者女　ゾーマ,DQ3 Sage (F), Zoma
 レクタリスセット,Lectalis' Outfit
 氷結らんげき・改,Crushed Ice+
 全身全霊斬り・改,Unbridled Blade+
+真夜中プリズラン,Midnight Jailrun
+ドルボードレース,Dolboard race
+ウェルカムハウス,Welcome House
+『他の人の家へ』,"To Other House"
+『だれでもＯＫ』,"Anyone is OK"
+おしゃれカタログ,Fashion Catalog
+トランプポイント,Card Points
 GPトロフィー黄銀,Yellow GP Silver Trophy
 GPトロフィー黄銅,Yellow GP Bronze Trophy
 GPトロフィー白銀,White GP Silver Trophy
@@ -17116,6 +17133,10 @@ DQ3僧侶　ゾーマ,DQ3 Priest, Zoma
 オノむそう・改,Axes of Evil+
 学園直通ホーム,school direct platform
 スタンプリスト,stamp list
+部の設備利用券,Club Facility Ticket
+ランプ錬金部員,Lamp Alchemy Club member
+ピュアジュエル,Pure Jewel
+段位戦ポイント,Rank Points
 バズズ(コイン),Pazuzu (Coin)
 宝箱ゾーマCS用,Zoma Box CS
 ハンマー(片手),hammer
@@ -21030,6 +21051,18 @@ DQ3僧侶　ゾーマ,DQ3 Priest, Zoma
 バトルロード,Battle Road
 記者リーリナ,Reporter Lilina
 ロトゼタシア,Erdrea
+マイガーデン,My Garden
+ランプ錬金部,Lamp Alchemy Club
+ツボ錬金部員,Pot Alchemy Club member
+道具鍛冶部員,Toolsmithing Club member
+武器鍛冶部員,Weaponsmithing Club member
+防具鍛冶部員,Armorsmithing Club member
+部活強化週間,Club Upgrade Week
+部活ポイント,Club Points
+ユーシャさま,Luminary
+仮装メイク術,disguise makeup
+大富豪決定戦,Tycoon Playoffs
+お知らせ広場,Notification Square
 モンスター26,Monster 26
 モンスター27,Monster 27
 モンスター28,Monster 28
@@ -24465,6 +24498,17 @@ Pの　経験値,EXP
 リィンカネ,Re[in]carnation
 白銀の死神,Silver Slayer
 キャンドル,candle
+プリズラン,Jailrun
+マイハウス,My House
+ツボ錬金部,Pot Alchemy Club
+道具鍛冶部,Toolsmithing Club
+武器鍛冶部,Weaponsmithing Club
+防具鍛冶部,Armorsmithing Club
+ジョロッチ,Stickle
+悠久の金庫,Time Capsule
+ぬいぐるみ,plushie
+仮装メイク,disguise makeup
+大富豪協会,Tycoon Club
 SPアイテム,Skill Point Items
 (アナザー),(Another)
 短剣(片手),dagger
@@ -28795,6 +28839,20 @@ SPアイテム,Skill Point Items
 パパーペ,Papape
 ドレーク,Drake
 神化の儀,deification ritual
+プラコン,Private Concierge
+シナリオ,story
+裁縫部員,Sewing Club member
+調理部員,Cooking Club member
+木工部員,Woodworking Club member
+ユーシャ,Luminary
+オシッチ,Tickle
+家具庭具,furniture and garden furniture
+コーデ券,glamour ticket
+さいほう,sewing
+知の祝祭,Wisdom Festival
+元の種族,original race
+七不思議,Seven Wonders
+輝晶効果,Shine
 PCベビー,PC's Baby
 ×を描く,Draw an X
 鎌(両手),scythe
@@ -31533,6 +31591,13 @@ PCベビー,PC's Baby
 メアリ,Mary
 搬入口,service entrance
 ゲノス,Genos
+撃破玉, Attack Orb
+援軍玉,Reinforcement Orbs
+裁縫部,Sewing Club
+調理部,Cooking Club
+木工部,Woodworking Club
+住宅村,residences
+段位戦,Ranked Match
 兵士A,Soldier A
 兵士B,Soldier B
 兵士C,Soldier C
@@ -31777,6 +31842,9 @@ PCベビー,PC's Baby
 南口,South Exit
 印章,stamp
 神具,divine artifact
+閃手,player
+庭具,garden furniture
+家具,furniture
 駅,train station
 泉,fountain
 館,mansion
@@ -31794,71 +31862,3 @@ PCベビー,PC's Baby
 棍,rod
 扇,fan
 弓,bow
-チカラ自慢をねじ伏せろ！,Show Me What You're Made Of!
-そなえの場の宿屋の丸机,Place of Preparation Desk
-そなえの場の宿屋のイス,Place of Preparation Chair
-真夜中プリズラン,Midnight Jailrun
-プリズラン,Jailrun
-マイハウス,My House
-マイガーデン,My Garden
-プラコン,Private Concierge
-シナリオ,story
-ドルボードレース,Dolboard race
-撃破玉, Attack Orb
-援軍玉,Reinforcement Orbs
-閃手,player
-部の設備利用券,Club Facility Ticket
-裁縫部,Sewing Club
-調理部,Cooking Club
-ツボ錬金部,Pot Alchemy Club
-ランプ錬金部,Lamp Alchemy Club
-木工部,Woodworking Club
-道具鍛冶部,Toolsmithing Club
-武器鍛冶部,Weaponsmithing Club
-防具鍛冶部,Armorsmithing Club
-裁縫部員,Sewing Club member
-調理部員,Cooking Club member
-ツボ錬金部員,Pot Alchemy Club member
-ランプ錬金部員,Lamp Alchemy Club member
-木工部員,Woodworking Club member
-道具鍛冶部員,Toolsmithing Club member
-武器鍛冶部員,Weaponsmithing Club member
-防具鍛冶部員,Armorsmithing Club member
-部活強化週間,Club Upgrade Week
-部活ポイント,Club Points
-アストルティアラリー,Astoltia Rally
-マジカル★カーニバル,Magical Carnival
-ふっかつのじゅもん,Spell of Restoration
-ユーシャ,Luminary
-ユーシャさま,Luminary
-ジョロッチ,Stickle
-オシッチ,Tickle
-悠久の金庫,Time Capsule
-庭具,garden furniture
-家具,furniture
-家具庭具,furniture and garden furniture
-ぬいぐるみ,plushie
-ウェルカムハウス,Welcome House
-『他の人の家へ』,"To Other House"
-住宅村,residences
-『だれでもＯＫ』,"Anyone is OK"
-『マイタウンへの出入り』,"Allowed to Visit"
-『カスタム衣装の登録』,"Register Outfit"
-コーデ券,glamour ticket
-おしゃれカタログ,Fashion Catalog
-さいほう,sewing
-知の祝祭,Wisdom Festival
-元の種族,original race
-仮装メイク,disguise makeup
-仮装メイク術,disguise makeup
-仮装メイク術の効果,disguise makeup effect
-仮装メイク術の有効期間,disguise duration
-ピュアジュエル,Pure Jewel
-大富豪決定戦,Tycoon Playoffs
-大富豪協会,Tycoon Club
-段位戦,Ranked Match
-段位戦ポイント,Rank Points
-トランプポイント,Card Points
-お知らせ広場,Notification Square
-七不思議,Seven Wonders
-輝晶効果,Shine
