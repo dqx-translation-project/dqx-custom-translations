@@ -354,7 +354,7 @@
     "嵐の領界の　翠嵐の聖塔にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Storm Tower in the\nStorm Realm."
   },
   "119": {
-    "いにしえのゼルメアを　1回 クリアする。": "Clear Ancient Zelmea once."
+    "いにしえのゼルメアを　1回　クリアする。": "Clear Ancient Zelmea 1 time."
   },
   "120": {
     "ゴールドオークを　20匹討伐する。": "Defeat 20 Orc Chieftains."
@@ -781,5 +781,56 @@
   },
   "261": {
     "プクランド大陸のポポラパの洞くつにいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Popolapa Cave in\nPukuland."
+  },
+  "262": {
+    "ダークパンサーを　20匹討伐する。": "Defeat 20 Winged Sabrecats."
+  },
+  "263": {
+    "ブルベリーノを　20匹討伐する。": "Defeat 20 Foebergines."
+  },
+  "264": {
+    "プクランド大陸のポーポラ地方にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Popola Region in\nPukuland."
+  },
+  "265": {
+    "プクランド大陸のフェルアバの洞くつにいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Felaba Cave in\nPukuland."
+  },
+  "266": {
+    "デザートガルバを　20匹討伐する。": "Defeat 20 Desert Sootbonces."
+  },
+  "267": {
+    "ぼうれい剣士を　20匹討伐する。": "Defeat 20 Phantom Fencers."
+  },
+  "268": {
+    "くろカビこぞうを　20匹討伐する。": "Defeat 20 Fromage Grays."
+  },
+  "269": {
+    "レンダーシア大陸の　デフェル荒野にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Defel Desert in\nLendersia."
+  },
+  "270": {
+    "ドワチャッカ大陸のカルデア山道にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Chaldea Mountain Road in\nDwachakka."
+  },
+  "271": {
+    "イエローシックルを　20匹討伐する。": "Defeat 20 Armour Mantises."
+  },
+  "272": {
+    "エルトナ大陸の夢幻の森にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Dream Forest in\nEltona."
+  },
+  "273": {
+    "オーグリード大陸のベコン渓谷にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Becon Valley in\nOgreed."
+  },
+  "274": {
+    "たまねぎマンを　20匹討伐する。": "Defeat 20 Loathsome Leeks."
+  },
+  "275": {
+    "パンプキッズを　20匹討伐する。": "Defeat 20 Pumpkids."
+  },
+  "276": {
+    "オーグリード大陸のナグアの洞くつにいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Nagua Caves in\nOgreed."
+  },
+  "277": {
+    "ウッディアイを　20匹討伐する。": "Defeat 20 Direlogs."
+  },
+  "278": {
+    "エルトナ大陸の落陽の草原にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Sunset Meadow in\nEltona."
   }
 }
