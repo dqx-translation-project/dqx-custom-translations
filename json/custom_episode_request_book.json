@@ -21,12 +21,18 @@
     "バルディア山岳地帯にいるモンスターを　２０匹討伐する。": "Defeat 20 monsters in the Valdia\nMountain Region."
   },
   "8": {
-    "その日 自分がまだ水やりをしていない畑に\n３回水やりをする。": "In a single day, water a field you have\nnot yet watered 3 times."
+    "その日　自分がまだ水やりをしていない畑に\n３回水やりをする。": "In a single day, water a field you have\nnot yet watered 3 times."
   },
   "9": {
     "いにしえゼルメアを １回クリアする。": "Clear Zelmea once."
   },
   "10": {
-    "大富豪の 段位戦 決定戦 なかま対戦のいずれかを\n１回プレイする。": "Play 1 Ranked, Playoffs, or Party Battle\nTycoon match."
+    "大富豪の　段位戦　決定戦　なかま対戦のいずれかを\n１回プレイする。": "Play 1 Ranked, Playoffs, or Party Battle\nTycoon match."
+  },
+  "11": {
+    "魔界で水系のモンスターを　２０匹討伐する。": "Defeat 20 Water-type monsters\nin the Demon World."
+  },
+  "12": {
+    "心層の迷宮を　１回クリアする。": "Clear the Heart Maze once."
   }
 }
