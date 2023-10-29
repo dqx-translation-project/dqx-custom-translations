@@ -306,7 +306,7 @@
     "氷の領界の　カーレルの氷雪洞にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Carrel Ice Cave in the\nIce Realm."
   },
   "103": {
-    "レンダーシア大陸の　スレア海岸にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters on the Surea Coast in\nLendersia."
+    "レンダーシア大陸の　スレア海岸にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters on Surea Coast in\nLendersia."
   },
   "104": {
     "植物系のモンスターを　50匹討伐する。": "Defeat 50 Plant-type monsters."
@@ -423,7 +423,7 @@
     "魔法の迷宮で出現する　ドラゴンガイアを　1匹討伐する。": "Defeat Gaia Dragon 1 time in the\nMagic Maze."
   },
   "142": {
-    "ドワチャッカ大陸のカルデア洞穴にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Chaldea Cave in\nDwachakka."
+    "ドワチャッカ大陸のカルデア洞穴にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Chaldea Cave in\nDwachakka."
   },
   "143": {
     "エレメント系のモンスターを　70匹討伐する。": "Defeat 70 Element-type monsters."
@@ -853,5 +853,20 @@
   },
   "285": {
     "ウィッチネイルを　20匹討伐する。": "Defeat 20 Witch's Nails."
+  },
+  "286": {
+    "ベロニャーゴを　20匹討伐する。": "Defeat 20 Terror Tabbies."
+  },
+  "287": {
+    "ソードフライヤーを　20匹討伐する。": "Defeat 20 Goregoyles."
+  },
+  "288": {
+    "モコフルを　20匹討伐する。": "Defeat 20 Fluff Puffs."
+  },
+  "289": {
+    "レンダーシア大陸の　リンジャハル海岸にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters on Linjahar Coast in\nLendersia."
+  },
+  "290": {
+    "フレイムを　20匹討伐する。": "Defeat 20 Dancing Flames."
   }
 }

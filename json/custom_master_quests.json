@@ -69,7 +69,7 @@
     "万魔の塔の二の災壇で　１回クリアせよ！": "Clear Banma Tower's 2nd Platform once!"
   },
   "24": {
-    "魔法の迷宮で　ベリアル強を倒せ！": "Defeat Belial in the Magic Maze!"
+    "魔法の迷宮で　ベリアル強を倒せ！": "Defeat Apex Belial in the Magic Maze!"
   },
   "25": {
     "天地雷鳴士をパーティに　ひとり入れること。": "Must have a Druid in the party."
@@ -141,7 +141,7 @@
     "万魔の塔の四の災壇で　１回クリアせよ！": "Clear Banma Tower's 4th Platform once!"
   },
   "48": {
-    "魔法の迷宮で　ベリアルを倒せ！": "Defeat Apex Belial in the Magic Maze!"
+    "踊り子　４人のパーティで挑むこと。": "Must challenge with a party of 4 Dancers."
   },
   "49": {
     "魔法の迷宮で　ドラゴンガイアを倒せ！": "Defeat Gaia Dragon in the Magic Maze!"
@@ -223,8 +223,5 @@
   },
   "75": {
     "魔法の迷宮で　ドラゴンガイア強を倒せ！": "Defeat Gaia Dragon in the Magic Maze!"
-  },
-  "76": {
-    "踊り子　４人のパーティで挑むこと。": "Must challenge with a party of 4 Dancers."
   }
 }
