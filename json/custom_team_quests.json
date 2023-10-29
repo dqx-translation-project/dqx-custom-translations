@@ -212,9 +212,6 @@
   "71": {
     "魔法の迷宮で出現する　輪王ザルトラを　1匹討伐する。": "Defeat Ring King Zaltra 1 time in the\nMagic Maze."
   },
-  "71": {
-    "ガネーシャエビルを　20匹討伐する。": "Defeat 20 Evil Ganeshes."
-  },
   "72": {
     "水系のモンスターを　50匹討伐する。": "Defeat 50 Water-type monsters."
   },
@@ -727,5 +724,62 @@
   },
   "242": {
     "バトルロードで　1回　勝利する。": "Win 1 time at Battle Road."
+  },
+  "243": {
+    "キングリザードを　4匹討伐する。": "Defeat 4 Liege Lizards."
+  },
+  "244": {
+    "イエティを　20匹討伐する。": "Defeat 20 Powie Yowies."
+  },
+  "245": {
+    "ガートラントの強ボスを　1回討伐する。": "Defeat any Gartlant Strong Boss once."
+  },
+  "246": {
+    "オーグリード大陸のランドンフットにいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Landonfoot in\nOgreed."
+  },
+  "247": {
+    "邪神の宮殿で　1回　勝利する。": "Win 1 time in the Evil God Palace."
+  },
+  "248": {
+    "ベンガルクーンを　20匹討伐する。": "Defeat 20 Purrestidigitators."
+  },
+  "249": {
+    "モヒカントを　20匹討伐する。": "Defeat 20 Mohawkers."
+  },
+  "250": {
+    "プクランド大陸のミュルエルの森にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Muruel Forest in\nPukuland."
+  },
+  "251": {
+    "じめじめバブルを　20匹討伐する。": "Defeat 20 Dank Bubble Slimes."
+  },
+  "252": {
+    "炎の領界の　烈火の渓谷にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Valley of Fire in the\nFire Realm."
+  },
+  "253": {
+    "アラハギーロ強ボスを　1回討伐する。": "Defeat any Al-Ahagiro Strong Boss once."
+  },
+  "254": {
+    "ガネーシャエビルを　20匹討伐する。": "Defeat 20 Evil Ganeshes."
+  },
+  "255": {
+    "ほねコウモリを　20匹討伐する。": "Defeat 20 Bat Skeletons."
+  },
+  "256": {
+    "コサックシープを　20匹討伐する。": "Defeat 20 Pan Pipers."
+  },
+  "257": {
+    "ウェナ諸島のジュレー島下層にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Lower Jule Island in the\nWena Islands."
+  },
+  "258": {
+    "プクランド大陸のプクレット地方にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Pukulet Region in\nPukuland."
+  },
+  "259": {
+    "さんぞくウルフを　20匹討伐する。": "Defeat 20 Ruff Ruffians."
+  },
+  "260": {
+    "レンダーシア大陸の　ナシームの洞くつにいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Naseem Cave in\nLendersia."
+  },
+  "261": {
+    "プクランド大陸のポポラパの洞くつにいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Popolapa Cave in\nPukuland."
   }
 }
