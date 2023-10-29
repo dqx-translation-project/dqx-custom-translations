@@ -3,7 +3,7 @@
     "源世庫パニガルムを　１回クリアする。": "Clear Panigalm once."
   },
   "2": {
-    "輝きの草原にいるモンスターを　２０匹討伐する。": "Defeat 20 monsters in the Shining Meadow."
+    "輝きの草原にいるモンスターを　２０匹討伐する。": "Defeat 20 monsters in the\nShining Meadow."
   },
   "3": {
     "釣りで魚を　３匹釣り上げる。": "Catch 3 fish."
@@ -13,5 +13,23 @@
   },
   "5": {
     "バトルトリニティの　練習試合か　対抗戦で\n１回報酬を獲得する。": "Win 1 time in a Battle Trinity\nPractice Match or Competitive Match."
+  },
+  "6": {
+    "天星郷で鳥系のモンスターを　２０匹討伐する。": "Defeat 20 Bird-type monsters\nin the Firmament."
+  },
+  "7": {
+    "豊穣の密林にいるモンスターを　２０匹討伐する。": "Defeat 20 monsters in the\nForest of Fertility."
+  },
+  "8": {
+    "夢現篇の最後の敵を　１匹討伐する。": "Defeat the final boss of the Dream\nWorld story once."
+  },
+  "9": {
+    "天星郷でスライム系のモンスターを　２０匹討伐する。": "Defeat 20 Slime-type monsters\nin the Firmament."
+  },
+  "10": {
+    "豊穣の密林の　北東の浮島で\nモンスターを　７匹討伐する。": "Defeat 7 monsters on the Northwest Floating\nIsle in the Forest of Fertility."
+  },
+  "11": {
+    "輝きの草原の　南東の浮島で\nキラキラを　３回採集する。": "Collect 3 shiny spots on the Southeast Floating\nIsle in the Shining Meadow."
   }
 }
