@@ -126,7 +126,7 @@
     "魔法の迷宮で出現する　ドン・モグーラを　1匹討伐する。": "Defeat Don Mole 1 time in the\nMagic Maze."
   },
   "43": {
-    "レンダーシア大陸の　ねじれたる異形の大地にいる\nモンスターを 50匹討伐する。": "Defeat 50 monsters in the Twisted Deformed Earth in\nLendersia."
+    "レンダーシア大陸の　ねじれたる異形の大地にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Twisted Deformed Earth in\nLendersia."
   },
   "44": {
     "常闇の聖戦で ダークキングを 1匹討伐する。": "Defeat Dark King Slime 1 time in the\nEverdark War."
@@ -150,7 +150,7 @@
     "グリンバングルを　20匹討伐する。": "Defeat 20 Snotbonces."
   },
   "51": {
-    "プクランド大陸のオルフェア地方西にいる\nモンスターを 50匹討伐する。": "Defeat 50 monsters in Orphea Region West in\nPukuland."
+    "プクランド大陸のオルフェア地方西にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Orphea Region West in\nPukuland."
   },
   "52": {
     "職人作業を　8回　成功させる。": "Successfully craft 8 times."
@@ -282,7 +282,7 @@
     "ジェイドフレアを　20匹討伐する。": "Defeat 20 Jade Flares."
   },
   "95": {
-    "レンダーシア大陸の　セレドット山道にいる\nモンスターを 50匹討伐する。": "Defeat 50 monsters in Celedot Mountain Pass in\nLendersia."
+    "レンダーシア大陸の　セレドット山道にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Celedot Mountain Pass in\nLendersia."
   },
   "96": {
     "炎の領界の　業炎の聖塔にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Fire Tower in the\nFire Realm."
@@ -832,5 +832,14 @@
   },
   "278": {
     "エルトナ大陸の落陽の草原にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Sunset Meadow in\nEltona."
+  },
+  "279": {
+    "コトブキーノを　20匹討伐する。": "Defeat 20 Kotobukinos."
+  },
+  "280": {
+    "まおうのつかいを　20匹討伐する。": "Defeat 20 Demon-at-arms."
+  },
+  "281": {
+    "エルトナ大陸のキリカ草原にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Kirika Steppe in\nEltona."
   }
 }
