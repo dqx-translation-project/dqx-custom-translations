@@ -117,7 +117,7 @@
     "好みの外装にカスタマイズ": "Customize the exterior."
   },
   "40": {
-    "屋根ウラに持ち物をしまう": "Store items in house storage."
+    "屋根ウラに持ち物をしまう": "Store items."
   },
   "41": {
     "コンシェルジュを雇う": "Hire a concierge."
@@ -135,7 +135,7 @@
     "遊び方のヒント": "How to Play"
   },
   "46": {
-    "アストルティア王族名鑑": "Astoltia Royalty Directory"
+    "アストルティア王族名鑑": "Astoltia Royal Directory"
   },
   "47": {
     "ひみつのダイアリー": "My Secret Diary"
@@ -147,7 +147,7 @@
     "知り合った　ほかの冒険者と\nパーティを組んで　一緒に\nレベルを上げたり　冒険がしたい！\nそんなときは　どうするといい？": "I want to form a party with other adventurers\nto increase my level! What should I do?"
   },
   "50": {
-    "なかまにさそう": "Invite them to your party."
+    "なかまにさそう": "Invite them to a party."
   },
   "51": {
     "じっと見つめる": "Stare at them."
@@ -159,7 +159,7 @@
     "ほかの冒険者と　パーティを組んで\n楽しく過ごすことが　できた！\n相手の人と　また　一緒に遊ぶために\nお別れする前に　やっておくと　いいことは？": "I had a lot of fun partying with other\nadventurers! What is something I should do\nbefore saying goodbye?"
   },
   "54": {
-    "熱い視線を送る": "Gaze at them passionately."
+    "熱い視線を送る": "Gaze at them firmly."
   },
   "55": {
     "フレンドにさそう": "Add them as a friend."
@@ -171,7 +171,7 @@
     "冒険者の酒場で　サポート仲間として\nフレンドを　紹介してもらうと受けられる\nうれしい特典は　次のうち　どれ？": "You can hire support party members at the\nAdventurer's Tavern. What is a benefit of\nhiring one of your friends?"
   },
   "58": {
-    "厚くお礼を言われる": "You'll be thanked profusely."
+    "厚くお礼を言われる": "Be thanked profusely."
   },
   "59": {
     "紹介料が半分になる": "Hiring cost is halved."
@@ -219,7 +219,7 @@
     "モンスターが　自分の周りに\n爆発が起きる呪文を　となえようとしている！\nこんなとき　ダメージを受けずにすむ方法は？": "A monster is about to cast a spell that will\ncause an explosion all around them! How can\nI avoid taking damage?"
   },
   "74": {
-    "モンスターから離れる": "Move away from the monster."
+    "モンスターから離れる": "Move away from them."
   },
   "75": {
     "けんめいに祈る": "Pray vigorously."
@@ -286,5 +286,59 @@
   },
   "96": {
     "何か別のことを考える": "Think about something else."
+  },
+  "97": {
+    "レベルも上がったし　装備を新調したい！\nそんな時に　町の　お店よりも\nお買い得な装備が　買える\n旅人のための　売り買いの場の名前は？": "I've leveled up, and I want better equipment!\nThere is a place I can buy and sell equipment,\noften at better prices than shops. What\nis this place called?"
+  }
+  "98": {
+    "ひとりで遊びたいけど\n戦いに参加してくれる　仲間がほしい！\nそんな時に　役に立つのが　冒険者の○○だ！\nさて　○○に入る言葉とは？": "I want to play alone, but I also want support\nfrom other companions! That's where the\nAdventurer's X comes into play. What is X?"
+  },
+  "99": {
+    "酒場": "Tavern"
+  },
+  "100": {
+    "勇気": "Courage"
+  },
+  "101": {
+    "青春": "Youth"
+  },
+  "102": {
+    "冒険者を　サポートしてくれる\n旅のコンシェルジュは　世界宿屋協会が\n各町に派遣している　心強い味方だ。\nさて　町の　どこにいる？": "The World Association of Innkeepers dispatches\nconcierges to each town to support\nadventurers. Where in a town can you find\nthem?"
+  },
+  "103": {
+    "あなたの後ろ……": "Behind you..."
+  },
+  "104": {
+    "おはなしを進めている途中で　おはなしの内容や\nやるべきことを　忘れてしまった！\nそんな時に役に立つ　メインコマンドの\n『せんれき』にあるコマンドは？": "I'm in the middle of progressing the story,\nand forgot what to do! Which command under\n\"Records\" can I use for a refresher?"
+  },
+  "105": {
+    "これまでのおはなし": "The Story So Far"
+  },
+  "106": {
+    "おしゃれカタログ": "Fashion Catalog"
+  },
+  "107": {
+    "入手済み宝箱リスト": "Treasure List"
+  },
+  "108": {
+    "復讐リスト": "Bounty List"
+  },
+  "109": {
+    "町の入り口では　モンスター討伐隊の隊員が\nウデの立つ冒険者を待っているぞ！\n隊員から受けられる　日替わりで\n依頼内容が変わる　クエストの名前は？": "At town entrances are Monster Strike Force\nmembers waiting for adventurers to lend a\nhand! What are these quests that you can\naccept from these members called?"
+  },
+  "110": {
+    "日替わり討伐クエスト": "Daily Subjugation"
+  },
+  "111": {
+    "週替わり討伐クエスト": "Weekly Subjugation"
+  },
+  "112": {
+    "月替わり討伐クエスト": "Monthly Subjugation"
+  },
+  "113": {
+    "身替わり討伐クエスト": "Impersonator Subjugation"
+  },
+  "114": {
+    "おかわり討伐クエスト": "Repeatable Subjugation"
   }
 }
