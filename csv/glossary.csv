@@ -49,6 +49,8 @@
 アスフェルド学園女性用夏服,Asfeld Summer Uniform (F)
 アスフェルド学園男性用水着,Asfeld Swimwear (M)
 アスフェルド学園女性用水着,Asfeld Swimwear (F)
+『ついてクンをひっこめる』,"Remove Pet"
+『おうちでついてクン設定』,"House Pet Settings"
 5000年の旅路 遥かなる故郷へ,5000 Year Journey to a Faraway Hometown
 ワルド水源-湖上の休息所 前,Wald Headwaters - Lake Retreat
 プログラマー検証ステージ1,Programmer Verification Stage 1
@@ -3810,6 +3812,7 @@ Reジューンプライドの憂鬱,Re: June Bride's Gloom
 ダイナースカート衣装,Diner Skirt Outfit
 アストルティアラリー,Astoltia Rally
 マジカル★カーニバル,Magical Carnival
+『ついてクンを選ぶ』,"Choose Pet"
 キュララな夏休み 2017,Kyurara Summer Holiday '17
 Re白きヴェールの乙女,Re: Maid of the White Veil
 Reツリーは白銀に消ゆ,Tree's Disappearance Again
@@ -24525,6 +24528,7 @@ Pの　経験値,EXP
 メタル迷宮,Metal Maze
 元気タイム,Bonus Time
 ドルゴール,Dol Radio
+ついてクン,Pet
 SPアイテム,Skill Point Items
 (アナザー),(Another)
 短剣(片手),dagger
@@ -31884,7 +31888,3 @@ PCベビー,PC's Baby
 棍,rod
 扇,fan
 弓,bow
-ついてクン,Pet
-『ついてクンを選ぶ』,"Choose Pet"
-『ついてクンをひっこめる』,"Remove Pet"
-『おうちでついてクン設定』,"House Pet Settings"
