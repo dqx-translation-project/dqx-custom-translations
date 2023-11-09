@@ -129,7 +129,7 @@
     "レンダーシア大陸の　ねじれたる異形の大地にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Twisted Deformed Earth in\nLendersia."
   },
   "44": {
-    "常闇の聖戦で ダークキングを 1匹討伐する。": "Defeat Dark King Slime 1 time in the\nEverdark War."
+    "常闇の聖戦で　ダークキングを　1匹討伐する。": "Defeat Dark King Slime 1 time."
   },
   "45": {
     "依頼書クエストを　1回クリアする。": "Clear 1 request form quest."
@@ -1182,7 +1182,7 @@
     "ドラキーマを　20匹討伐する。": "Defeat 20 Drackymas."
   },
   "395": {
-    "おばけトマトを　20匹討伐する。": "Defeat 20 Haunted Tomatos."
+    "おばけトマトを　20匹討伐する。": "Defeat 20 Haunted Tomatoes."
   },
   "396": {
     "デスケルトを　20匹討伐する。": "Defeat 20 Celtic Fauns."
@@ -1198,5 +1198,12 @@
   },
   "400": {
     "はめつの使者を　20匹討伐する。": "Defeat 20 Archbashops."
+  },
+  "401": {
+    "悪鬼丸を　20匹討伐する。": "Defeat 20 Bad Mummies."
+  },
+  "402": {
+    "アズランの強ボスを　1回討伐する。": "Defeat any Azlan Strong Boss once."
   }
+  
 }
