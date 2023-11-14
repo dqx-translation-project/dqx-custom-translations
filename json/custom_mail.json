@@ -177,7 +177,7 @@
     "アストルティアの皆様　ごきげんよう！\n毎度おなじみ　ふくびきマンでございます。この時期だけの　特別なイベントに\nご招待～！　ぜひ　港町レンドア南にいる\nワタクシのもとへ　いらしてくださいね。\n心より　お待ちしておりま～す！": "Hello everyone in Astoltia! I'm the\nLottery Man, as always. I would like to\ninvite you to a special event only for\nthis season! Please come and visit me\nin South Port Lendor. We look forward\nto seeing you soon!"
   },
   "60": {
-    "わたくしは『デスマスター』の　デズリン。このたび　新たに　弟子をとろうと思い至りふさわしい才能をもった　あなたに\n声をかけました。レベル５０以上の職業で\nグレン領東　南東にある井戸の中の\nわたくしの家に　いらしてくださいな。\nあなたの才能　開花させてさしあげます！": "I am Deathlin, the \"Death Master\".\nI have decided to take on a new\ndisciple and have called on you becuase\nyou have the right talents. Please come\nto my home inside the well southeast of\nGlen East with a vocation of level 50 ormore. I will let your talents blossom!"
+    "わたくしは『デスマスター』の　デズリン。このたび　新たに　弟子をとろうと思い至りふさわしい才能をもった　あなたに\n声をかけました。レベル５０以上の職業で\nグレン領東　南東にある井戸の中の\nわたくしの家に　いらしてくださいな。\nあなたの才能　開花させてさしあげます！": "I am Deathlin, the \"Death Master\".\nI have decided to take on a new\ndisciple and have called on you because\nyou have the right talents. Please come\nto my home inside the well southeast of\nGlen East with a vocation of level 50 ormore. I will let your talents blossom!"
   },
   "61": {
     "『速報☆イケメン盗賊　ガタラに現る！』\n　　　　　　　　　　　　　　　　　　　　アストルティア通信社の　リーリナです☆\nなんと！　ロトゼタシアから　岳都ガタラにイケメンの　盗賊が　やって来ましたっ！\nツンツンな　青い髪が　チャーミングっ！\n気になる方は　早めに　会いにいきましょ！": "Breaking news☆Handsome thief in Gatara!\nLilina here from Astoltia News!\nA handsome thief from Erdrea has arrivedin Mount Gatara! His tousled blue hair\nis very charming! If you are interested,go see him as soon as possible!"
@@ -1144,5 +1144,11 @@
   },
   "383": {
     "こんにちは。私はママよ。この手紙　ちゃんと届い…": ""
+  },
+  "384": {
+    "超常現象の研究家　ティノイです。\nなんと　例の悪霊が　また現れたと\nチササが言うのです。お願いです。ふたたびお宝探しを　してもらえないでしょうか！？このままでは　怖くてトイレに行けません！ガタラの上層にある　採掘ギルドで\n待ってます。": "It's me, Tino, the\nsupernatural researcher. Chisasa\ntells me that spirit is back again.\nCould you please help us with the\ntreasure again?! I'm too scared to\neven go to the bathroom! I'll be\nwaiting at the Mining Guild in\nupper Gatara!"
+  },
+  "385": {
+    "超常現象の研究家　ティノイです。なんと　例の悪…": ""
   }
 }
