@@ -75,7 +75,7 @@
     "水の領界の　オーフィーヌ海底にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Orfine Undersea in the\nWater Realm."
   },
   "26": {
-    "邪神の宮殿で　2回　勝利する。": "Win 2 times in the Evil God Palace."
+    "邪神の宮殿で　2回　勝利する。": "Win 2 times in the Dark Deity's Palace."
   },
   "27": {
     "職人作業を　6回　成功させる。": "Successfully craft 6 times."
@@ -738,7 +738,7 @@
     "オーグリード大陸のランドンフットにいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Landonfoot in\nOgreed."
   },
   "247": {
-    "邪神の宮殿で　1回　勝利する。": "Win 1 time in the Evil God Palace."
+    "邪神の宮殿で　1回　勝利する。": "Win 1 time in the Dark Deity's Palace."
   },
   "248": {
     "ベンガルクーンを　20匹討伐する。": "Defeat 20 Purrestidigitators."
@@ -1231,5 +1231,17 @@
   },
   "411": {
     "スライムマデュラを　20匹討伐する。": "Defeat 20 Darkonium Slimes."
+  },
+  "412": {
+    "どれいへいしを　20匹討伐する。": "Defeat 20 Undentured Servants."
+  },
+  "413": {
+    "ホロゴーストを　20匹討伐する。": "Defeat 20 Silhouettes."
+  },
+  "414": {
+    "ドワチャッカ大陸のボロヌスの穴にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Boronus Hole in\nDwachakka."
+  },
+  "415": {
+    "邪神の宮殿で　4回　勝利する。": "Win 4 times in the Dark Deity's Palace."
   }
 }
