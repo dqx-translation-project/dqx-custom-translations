@@ -708,7 +708,7 @@
     "釣りで　魚を　12匹　釣り上げる。": "Catch 12 fish."
   },
   "237": {
-    "魔法の迷宮で出現する　伝説の三悪魔を　1匹討伐する。": "Defeat 3 Legend Evils 1 time in the\nMagic Maze."
+    "魔法の迷宮で出現する　伝説の三悪魔を　1匹討伐する。": "Defeat the 3 Legend Evils 1 time in the\nMagic Maze."
   },
   "238": {
     "はぐれメタルを　2匹討伐する。": "Defeat 2 Liquid Metal Slimes."
@@ -1276,5 +1276,8 @@
   },
   "426": {
     "魔法の迷宮で出現する　キラーマジンガを　1匹討伐する。": "Defeat Uberkilling Machine 1 time in the\nMagic Maze."
+  },
+  "427": {
+    "魔法の迷宮で出現する　幻界の四諸侯を　1匹討伐する。": "Defeat the 4 Dread Fiends 1 time in the\nMagic Maze."
   }
 }
