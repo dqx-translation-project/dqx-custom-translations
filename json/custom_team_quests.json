@@ -249,7 +249,7 @@
     "プクランド大陸のメギラザの洞くつにいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Megilaza Cave in\nPukuland."
   },
   "84": {
-    "氷の領界の　白霜の流氷野にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Frosty Ice Field in the\nIce Realm."
+    "氷の領界の　白霜の流氷野にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Frosty Floes in the\nIce Realm."
   },
   "85": {
     "ドルマージュを　20匹討伐する。": "Defeat 20 Zamtasms."
@@ -1384,5 +1384,8 @@
   },
   "462": {
     "ヒートギズモを　20匹討伐する。": "Defeat 20 Hell Ninos."
+  },
+  "463": {
+    "オルフェアの強ボスを　1回討伐する。": "Defeat any Orphea Strong Boss once."
   }
 }
