@@ -48,7 +48,7 @@
     "いにしえのゼルメアを　１回クリアせよ！": "Clear Ancient Zelmea once!"
   },
   "17": {
-    "ピラミッドの第六の霊廟を　クリアせよ！": "Clear the Pyramids's 6th Tomb!"
+    "ピラミッドの第六の霊廟を　クリアせよ！": "Clear the Pyramid's 6th Tomb!"
   },
   "18": {
     "邪神の宮殿の一獄で　１回討伐せよ！": "Beat 1st Prison in Dark Deity's Palace once!"
@@ -63,7 +63,7 @@
     "強戦士の書で　ウルベア魔神兵強を倒せ！": "Defeat Apex Urbea Aztech in Book of Bosses!"
   },
   "22": {
-    "ピラミッドの第九の霊廟を　クリアせよ！": "Clear the Pyramids's 9th Tomb!"
+    "ピラミッドの第九の霊廟を　クリアせよ！": "Clear the Pyramid's 9th Tomb!"
   },
   "23": {
     "万魔の塔の二の災壇で　１回クリアせよ！": "Clear Banma Tower's 2nd Platform once!"
@@ -132,7 +132,7 @@
     "１分５０秒を　制限時間とする。": "Time limit of 1 minute and 50 seconds."
   },
   "45": {
-    "ピラミッドの第七の霊廟を　クリアせよ！": "Clear the Pyramids's 7th Tomb!"
+    "ピラミッドの第七の霊廟を　クリアせよ！": "Clear the Pyramid's 7th Tomb!"
   },
   "46": {
     "７分を制限時間とする。": "Time limit of 7 minutes."
@@ -168,7 +168,7 @@
     "強戦士の書を用いた獲得限定とする。": "Must acquire using the Book of Bosses!"
   },
   "57": {
-    "ピラミッドの第二の霊廟を　クリアせよ！": "Clear the Pyramids's 2nd Tomb!"
+    "ピラミッドの第二の霊廟を　クリアせよ！": "Clear the Pyramid's 2nd Tomb!"
   },
   "58": {
     "２分５０秒を制限時間とする。": "Time limit of 2 minutes and 50 seconds."
@@ -198,7 +198,7 @@
     "イエローオーブを４個集めよ！": "Collect 4 Yellow Orbs!"
   },
   "67": {
-    "ピラミッドの第八の霊廟を　クリアせよ！": "Clear the Pyramids's 8th Tomb!"
+    "ピラミッドの第八の霊廟を　クリアせよ！": "Clear the Pyramid's 8th Tomb!"
   },
   "68": {
     "武闘家をパーティに　ひとり入れること。": "Must have a Martial Artist in the party."
@@ -210,7 +210,7 @@
     "パープルオーブを４個集めよ！": "Collect 4 Purple Orbs!"
   },
   "71": {
-    "ピラミッドの第五の霊廟を　クリアせよ！": "Clear the Pyramids's 5th Tomb!"
+    "ピラミッドの第五の霊廟を　クリアせよ！": "Clear the Pyramid's 5th Tomb!"
   },
   "72": {
     "グリーンオーブを４個集めよ！": "Collect 4 Green Orbs!"
@@ -271,5 +271,11 @@
   },
   "91": {
     "盗賊をパーティに　ふたり入れること。": "Must have 2 Thieves in the party."
+  },
+  "92": {
+    "同盟バトルで　真・災厄の王を倒せ！": "Defeat the True King of Calamity!"
+  },
+  "93": {
+    "ピラミッドの第四の霊廟を　クリアせよ！": "Clear the Pyramid's 4th Tomb!"
   }
 }
