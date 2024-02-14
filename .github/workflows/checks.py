@@ -15,7 +15,8 @@ def check_glossary():
         ja_list.append(ja)
 
     if duplicates := [k for k, v in Counter(ja_list).items() if v > 1]:
-        sys.exit(f"Duplicates found in glossary. Culprits:\n{duplicates}")
+        print(f"❌  Duplicates found in glossary. Culprits:\n{duplicates}")
+        sys.exit(1)
 
     print("✔️  Glossary is good!")
 
@@ -27,7 +28,8 @@ def check_jsons():
             try:
                 json.loads(f.read())
             except:
-                sys.exit(f"{file} did not pass JSON validation.")
+                print(f"❌  {file} did not pass JSON validation.")
+                sys.exit(1)
         print(f"✔️  {file} is good!")
 
 

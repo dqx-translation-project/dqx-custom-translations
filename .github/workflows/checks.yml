@@ -1,14 +1,6 @@
 ---
   on:
     pull_request:
-      branches:
-        - "!main"
-      paths:
-        - "csv/glossary.csv"
-        - "json/**"
-    push:
-      branches:
-        - "!main"
       paths:
         - "csv/glossary.csv"
         - "json/**"
@@ -32,4 +24,4 @@
           uses: stefanzweifel/git-auto-commit-action@v4
           with:
             file_pattern: 'csv/glossary.csv'
-  
+            commit_message: 'Re-committing sorted glossary'
