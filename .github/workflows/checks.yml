@@ -1,14 +1,10 @@
 ---
   on:
     pull_request:
-      branches:
-        - "!main"
       paths:
         - "csv/glossary.csv"
         - "json/**"
     push:
-      branches:
-        - "!main"
       paths:
         - "csv/glossary.csv"
         - "json/**"
