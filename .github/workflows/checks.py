@@ -1,22 +1,8 @@
 from collections import Counter
-import deepl
 import json
 import os
-import requests
+import sys
 
-
-def notify_exception(message: str):
-    print(message)
-    if os.environ["DISCORD_WEBHOOK_URL"]:
-        data = {
-            "content": message,
-            "username": "dqx-custom-translations"
-        }
-        requests.post(
-            url=os.environ["DISCORD_WEBHOOK_URL"],
-            data=data
-        )
-    raise Exception(message)
 
 
 def check_glossary():
@@ -28,9 +14,8 @@ def check_glossary():
         ja = line.split(",")[0]
         ja_list.append(ja)
 
-    duplicates = [k for k, v in Counter(ja_list).items() if v > 1]
-    if duplicates:
-        notify_exception(f"Duplicates found in glossary. Culprits: {duplicates}")
+    if duplicates := [k for k, v in Counter(ja_list).items() if v > 1]:
+        sys.exit(f"Duplicates found in glossary. Culprits:\n{duplicates}")
 
     print("✔️  Glossary is good!")
 
@@ -42,7 +27,7 @@ def check_jsons():
             try:
                 json.loads(f.read())
             except:
-                notify_exception(f"File {file} did not pass JSON validation.")
+                sys.exit(f"{file} did not pass JSON validation.")
         print(f"✔️  {file} is good!")
 
 
