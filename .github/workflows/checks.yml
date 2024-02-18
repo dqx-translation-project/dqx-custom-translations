@@ -1,9 +1,6 @@
 ---
   on:
     pull_request:
-      paths:
-        - "csv/**"
-        - "json/**"
   
   jobs:
     run-checks:
