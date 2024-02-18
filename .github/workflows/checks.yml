@@ -2,7 +2,7 @@
   on:
     pull_request:
       paths:
-        - "csv/glossary.csv"
+        - "csv/**"
         - "json/**"
   
   jobs:
@@ -12,6 +12,8 @@
       steps:
         - name: Checkout repository
           uses: actions/checkout@v3
+          with:
+            token: ${{ secrets.SVC_ACCT_PAT }}
         - name: Install Python
           uses: actions/setup-python@v1
           with:
