@@ -111,10 +111,10 @@
     "まもの使いをパーティに　ひとり入れること。": "Must have a Monster Master in the party."
   },
   "38": {
-    "強戦士の書で　やるきのジャーミィを倒せ！": "Defeat Jacked Jamii in Book of Bosses!"
+    "強戦士の書で　やるきのジャーミィを倒せ！": "Defeat Jacked Jammy in Book of Bosses!"
   },
   "39": {
-    "３分２０秒を　制限時間とする。": "Time limit of 3 minutes and 20 seconds."
+    "３分２０秒を制限時間とする。": "Time limit of 3 minutes and 20 seconds."
   },
   "40": {
     "魔法の迷宮で　キングヒドラを倒せ！": "Defeat King Hydra in the Magic Maze!"
@@ -286,5 +286,8 @@
   },
   "96": {
     "魔法の迷宮で　バラモス強を倒せ！": "Defeat Apex Baramos in the Magic Maze!"
+  },
+  "97": {
+    "スーパースターをパーティに　ひとり入れること。": "Must have a Superstar in the party."
   }
 }
