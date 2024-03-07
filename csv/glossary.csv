@@ -8001,6 +8001,7 @@ DQ1勇者たいまつあり,DQ1 Hero With Torch
 サロン・フェリシア,Salon Felicia
 キャット・バルバド,Purrseidon
 アルカナ・セラピア,Arcana Serapia
+果ての大地ゼニアス,Zeniath
 Re星降る夜の大乱闘,Re: Starry Night Scuffle
 デフェル荒野-墓 前,Defel Desert - Tomb
 夏宵メモワール 2017,Summer Memoirs 2017
@@ -17154,6 +17155,7 @@ DQ3僧侶　ゾーマ,DQ3 Priest, Zoma
 チャレンジャー,challenger
 精神エネルギー,psychic energy
 高機能錬金食品,Efficient Alchemy Food
+アマラーク王国,Amarak Kingdom
 バズズ(コイン),Pazuzu (Coin)
 宝箱ゾーマCS用,Zoma Box CS
 ハンマー(片手),hammer
@@ -21095,6 +21097,7 @@ DQ3僧侶　ゾーマ,DQ3 Priest, Zoma
 レギルラッゾ,Legirrazzo
 スコルパイド,Scorpide
 ジェルザーク,Gelzark
+ムニエかの町,Munieka
 モンスター26,Monster 26
 モンスター27,Monster 27
 モンスター28,Monster 28
@@ -24565,6 +24568,9 @@ Pの　経験値,EXP
 勇気の石塔,Pillar of Courage
 ガルドドン,Gardodon
 ローガスト,Logast
+エドアルド,Edwardo
+国王リズク,King Rizk
+イルシーム,Ilseem
 SPアイテム,Skill Point Items
 (アナザー),(Another)
 短剣(片手),dagger
@@ -28946,6 +28952,8 @@ SPアイテム,Skill Point Items
 真新しい,brand new
 セラピア,Serapia
 デルメゼ,Delmeze
+ドロテア,Mudara
+ゼニアス,Zeniath
 PCベビー,PC's Baby
 ×を描く,Draw an X
 鎌(両手),scythe
@@ -31949,6 +31957,7 @@ PCベビー,PC's Baby
 極致,perfection
 写真,photo
 封筒,envelope
+創失,unmaking
 駅,train station
 泉,fountain
 館,mansion
@@ -31964,12 +31973,3 @@ PCベビー,PC's Baby
 棍,rod
 扇,fan
 弓,bow
-ドロテア,Mudara
-エドアルド,Edwardo
-ムニエかの町,Munieka
-果ての大地ゼニアス,Zeniath
-ゼニアス,Zeniath
-アマラーク王国,Amarak Kingdom
-国王リズク,King Rizk
-イルシーム,Ilseem
-創失,unmaking
