@@ -1,17 +1,66 @@
 {
   "1": {
-    "ペダルを踏んでから\n左へ糸を移動させます": ""
+    "ペダルを踏んでから\n左へ糸を移動させます": "Push the pedal, then\nthread to the left."
   },
   "2": {
-    "手前に打ってから\nペダルを踏んでください": ""
+    "手前に打ってから\nペダルを踏んでください": "After strumming,\npush the pedal."
   },
   "3": {
-    "右へ糸を移動させてから\n手前に打ってください": ""
+    "右へ糸を移動させてから\n手前に打ってください": "Thread right, and\nthen strum."
   },
   "4": {
-    "左へ　続けて　右へ\n糸を移動させてください": ""
+    "左へ　続けて　右へ\n糸を移動させてください": "Please thread right\nand then left."
   },
   "5": {
-    "ああ……　すみません\n時間切れで　失敗です": ""
+    "ああ……　すみません\n時間切れで　失敗です": "Ah...sorry, but you\nran out of time."
   }
+  "6": {
+    "ペダルを踏んでから\n右へ糸を移動させます": "Push the pedal, then\nthread to the right."
+  },
+  "7": {
+    "ペダルを踏んで　手前に\nそして右へ糸を移動です": "Pedal and strum,\nthen thread right."
+  },
+  "8": {
+    "右へ糸を移動させ\nペダルを踏み　糸を右へ": "Thread right, pedal,\nthen thread right."
+  },
+  "9": {
+    "右と左に　糸を移動させ\nペダルを踏んでください": "Thread right and\nleft, then pedal."
+  },
+  "10": {
+    "おつかれさまです！\nこれで　完成しましたよ": "Great job! It's\ndone!"
+  },
+  "11": {
+    "左と右に　糸を移動させ\nペダルを踏んでください": "Thread left and\nright, then pedal."
+  },
+  "12": {
+    "手前に打って　糸を右へ\nそしてペダルを踏みます": "Strum, thread right,\nthen use the pedal."
+  },
+  "13": {
+    "右へ糸を移動させて\n手前に打って": "Thread right, then\nstrum the front."
+  },
+  "14": {
+    "左へ糸を移動してから\nすぐに　右へ移動させて": "Thread left, and\nthen right."
+  },
+  "15": {
+    "ペダルを踏んでから\n右へ糸を移動させて": "Push the pedal, then\nthread to the right."
+  },
+  "16": {
+    "手前に打ってから\nペダルを踏んで": "Strum the front,\nthen push the pedal."
+  },
+  "17": {
+    "糸を右へ　ペダルを踏み\nもう一度 糸を右へ！": "Thread right, pedal,\nthen right again!"
+  },
+  "18": {
+    "左へ糸を移動　右へ移動\n最後に　手前に打つんだ": "Thread left, right,\nthen strum."
+  },
+  "19": {
+    "ペダルを踏んで　手前に\n最後は　右へ糸を移動！": "Pedal, then strum,\nthen thread right!"
+  },
+  "20": {
+    "手前に打って　糸を右へ\n最後にペダルを踏んで！": "Strum, thread right,\nthen use the pedal!"
+  },
+  "21": {
+    "えーっと　読めない……\n上から順に　３つかな！": "Can't read this...\nIn order, I guess?!"
+  }
+  
 }
