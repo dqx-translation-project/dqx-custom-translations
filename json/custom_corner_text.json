@@ -9,7 +9,7 @@
     "右へ糸を移動させてから\n手前に打ってください": "Thread right, and\nthen strum."
   },
   "4": {
-    "左へ　続けて　右へ\n糸を移動させてください": "Please thread right\nand then left."
+    "左へ　続けて　右へ\n糸を移動させてください": "Please thread left\nand then right."
   },
   "5": {
     "ああ……　すみません\n時間切れで　失敗です": "Ah...sorry, but you\nran out of time."
@@ -60,6 +60,21 @@
     "手前に打って　糸を右へ\n最後にペダルを踏んで！": "Strum, thread right,\nthen use the pedal!"
   },
   "21": {
-    "えーっと　読めない……\n上から順に　３つかな！": "Can't read this...\nIn order, I guess?!"
+    "えーっと　読めない……\n上から順に　３つかな！": "I can't read this...\nIn order, I guess!?"
+  },
+  "22": {
+    "みんなはボクが守ります\n陣の上に　立って！": "I'll protect you!\nStay in my circle!"
+  },
+  "22": {
+    "奮い立て　英雄たちよ！\n勇気のバラッド！": "Stand tall, champions!\nBrave Ballad!"
+  },
+  "23": {
+    "再生の詩を届けますわ！\nどうか耐え抜いて……！": "My song of renewal!\nPlease stay strong!"
+  },
+  "24": {
+    "ここからは雪原か……\n古傷が　痛まんといいが": "A snowfield...? I hope\nold wounds won't ache."
+  },
+  "25": {
+    "魂の燭台を探さねば。\n……行くぞ": "We must find your\nCandelabra. Come on."
   }
 }
