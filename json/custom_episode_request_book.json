@@ -9,7 +9,7 @@
     "職人ギルド依頼で　３回納品する。": "Deliver 3 crafting guild requests."
   },
   "4": {
-    "銃士ナスビスを　１匹討伐する。": "Defeat 1 Musketeer Bergus."
+    "銃士ナスビスを　１匹討伐する。": "Defeat Musketeer Bergus once."
   },
   "5": {
     "バトエンの　大会　フリー対戦　なかま対戦のいずれかを\n１回プレイする。": "Play 1 Batoen Free Match or\nParty Battle."
@@ -70,5 +70,11 @@
   },
   "24": {
     "破界篇の最後の敵を　１匹討伐する。": "Defeat the final boss of the\nBreaking World story once."
+  },
+  "25": {
+    "ベルヴァインの森西にいるモンスターを　２０匹討伐する。": "Defeat 20 monsters in Belvain\nForest West."
+  },
+  "26": {
+    "魔界で物質系のモンスターを　２０匹討伐する。": "Defeat 20 Material-type monsters\nin the Demon World."
   }
 }
