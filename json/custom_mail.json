@@ -522,7 +522,7 @@
     "ウリスさまが　ふくびきで\n幸運を　つかまれましたので\n幸運のおすそ分けとして\n旅のコンシェルジュから\nスペシャルふくびき券　１１枚を\nお届けいたします。": "As Mr. Ulis has found good luck in\nlotteries, Travel Concierge is pleased\nto send you 11 SP Lottery Tickets to\nshare his good fortune."
   },
   "175": {
-    "お久しぶりです　トートです。\n風のウワサで　職業レベルが\n６６以上になったと　聞きました！\nじつはボク　そんな　クリスさんに\nお話ししたいことがあるんです！\nジュレットの町の　井戸の中にある\nかばん工房まで　来てもらえませんか？": "Long time no see, Tote here. I heard\nfrom a rumor on the wind that your\nvocation level has reached 66 or\nhigher! Actually, I have something I\nwould like to talk to you about,\n<pnplacehold>! Could you please come to\nthe bag workshop located inside the\nwell in Julet Town?"
+    "お久しぶりです　トートです。\n風のウワサで　職業レベルが\n６６以上になったと　聞きました！\nじつはボク　そんな　<pnplacehold>さんに\nお話ししたいことがあるんです！\nジュレットの町の　井戸の中にある\nかばん工房まで　来てもらえませんか？": "It's me, Tote. It's been awhile.\nI've heard rumors that you've reached atleast level 66 in one of your vocations!To be honest, there's something I need\nto talk to you about! Do you think you\ncould come to the Bag Workshop in\nJulet's well?"
   },
   "176": {
     "円盤の騎士　クリス卿よ。\nそなたのおかげで　われらが王国……\nいや　この世界全体を　救うことができた。わが国民を代表し　改めて礼を言うぞ。\nそなたの名は　これからも　永遠に\nこの　ムーンキャロットの地に\n語り継がれてゆくであろう……。": "<pnplacehold>, knight of the saucer. It\nis thanks to you that we have been able\nto save our kingdom, and indeed, the\nentire world. On behalf of my people, I\nthank you once again. Your name will be\nforever remembered in the land of Moon\nCarrot."
@@ -534,13 +534,13 @@
     "アラハギーロ王国の　東の海で\n正体不明の　遺跡島が発見されました。\n世界宿屋協会では　調査のため\n遺跡島の探索支援を開始致します。\nご興味のある冒険者の方は　遺跡島まで\nお越しください。ただし　レベルが\n９０以上の方に　限らせていただきます。": "An unidentified relic island has been\ndiscovered in the eastern sea of the\nKingdom of Al-Ahagiro. The World\nAssociation of Innkeepers has begun to\nsupport the search for the Ruins.\nInterested adventurers are invited to\nvisit the Ruins. However, only those\nwith a level of 90 or above will be\naccepted."
   },
   "179": {
-    "果たし状　　　　　　　クリス殿\n我が名は　天地雷鳴士　アサヒ。\n八卦により選ばれた　そなたに\n天地雷鳴士の　奇跡のみわざを見せよう。\nこれより　レベル５０以上の職業で\n王都カミハルムイ北　木工ギルドの\n南の橋に来い。": "Letter of challenge to <pnplacehold>.\nMy name is Druid Asahi, chosen by\nBagua, I will show you the miraculous\nwork of the druid. From now on, come to\nthe bridge south of Royal City\nKamiharmui North Woodwork Guild in a\nvocation above level 50."
+    "果たし状　　　　　　　<pnplacehold>殿\n我が名は　天地雷鳴士　アサヒ。\n八卦により選ばれた　そなたに\n天地雷鳴士の　奇跡のみわざを見せよう。\nこれより　レベル５０以上の職業で\n王都カミハルムイ北　木工ギルドの\n南の橋に来い。": "A challenge to <pnplacehold>\nMy name is Asahi, a Druid. Chosen by theeight trigrams, I will show to you what\na Druid is capable of. Come to the\nbridge near the Woodworking Guild in\nKamiharmui as a vocation level 50 or\nhigher."
   },
   "180": {
     "ほまれ高き冒険者よ。ワシの名は総帥Ｍ。\nこのたび　ワシは　有志を集めて\nアストルティア防衛軍を　結成した。\n我々の暮らす　この世界に訪れた危機を\nそなたのチカラで　救ってもらいたい。\nヴェリナード王国　城下町の酒場に開いた\n防衛軍本部にて　待っているぞ。": "My name is General M. I have gathered\ntogether a group of volunteers to form\nthe Astoltia Defense Force. I ask you\nto use your powers to save our world\nfrom the crisis that has come upon it.\nI will be waiting for you at the\nDefense Force Headquarters that I have\nopened in the tavern of Verinard\nKingdom Castle Town."
   },
   "181": {
-    "お久しぶりです　トートです。\n風のウワサによると　職業レベルが\n７５以上に　なったとか。\nそこで　クリスさんに　ご相談が。\nまた　ジュレットの町の　井戸の中にある\nかばん工房まで　来てもらえませんか？": "Long time no see, Tote here. According\nto rumors on the wind, your vocation\nlevel has been raised above 75. So, I\nhave a favor to ask of you,\n<pnplacehold>. Can you come to the bag\nworkshop located inside the well in\nJulet Town again?"
+    "お久しぶりです　トートです。\n風のウワサによると　職業レベルが\n７５以上に　なったとか。\nそこで　<pnplacehold>さんに　ご相談が。\nまた　ジュレットの町の　井戸の中にある\nかばん工房まで　来てもらえませんか？": "It's me, Tote. It's been awhile.\nI've heard rumors that you've reached atleast level 75 in one of your vocations!I have a favor I need to ask. Do you\nthink you could come to the Bag Workshopin Julet's well?"
   },
   "182": {
     "キーエンブレムを　１つ以上持っている\n将来有望な　冒険者の諸君よ！\n君たちの　その輝かしいチカラを　\nバトエンファイトで　振るう気はないか？\n興味がある者は　港町レンドア北の宿屋\nレジェンズ本部まで　ぜひ来てくれたまえ！バトエン復興組織レジェンズ会長　レジェス": "To all promising adventurers who have\nat least one Key Emblem! Are you\ninterested in wielding your brilliance\nin a Batoen fight? If you are\ninterested, please come to the Legends\nHeadquarters at the North Port Lendor\nInn!"
@@ -891,7 +891,7 @@
     "ほまれ高き冒険者よ。ワシの名は総帥Ｍ。このたび…": ""
   },
   "298": {
-    "果たし状　　　　　　　クリス殿我が名は　天地雷…": ""
+    "果たし状　　　　　　　<pnplacehold>殿我が名は　天地雷…": ""
   },
   "299": {
     "このお手紙が　見えている人に大事な　お知らせッ…": ""
@@ -1216,11 +1216,5 @@
   },
   "407": {
     "おっ疲れちゃ～ん！　無事に　第１１回アストルテ…": ""
-  },
-  "408": {
-    "果たし状　　　　　　　<pnplacehold>殿\n我が名は　天地雷鳴士　アサヒ。\n八卦により選ばれた　そなたに\n天地雷鳴士の　奇跡のみわざを見せよう。\nこれより　レベル５０以上の職業で\n王都カミハルムイ北　木工ギルドの\n南の橋に来い。": "A challenge to <pnplacehold>\nMy name is Asahi, a Druid. Chosen by theeight trigrams, I will show to you what\na Druid is capable of. Come to the\nbridge near the Woodworking Guild in\nKamiharmui as a vocation level 50 or\nhigher."
-  },
-  "409": {
-    "果たし状　　　　　　　<pnplacehold>殿我が名は　天地…": "A challenge to <pnplacehold>..."
   }
 }
