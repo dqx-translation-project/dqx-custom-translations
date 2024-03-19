@@ -1197,7 +1197,7 @@
     "やあ　バージョン６完結の　立役者さん。……キミ…": ""
   },
   "401": {
-    "バージョン６完結！　めでてえな！\nまだまだ　冒険は続けるんだろ？\n俺も一緒に行きてえなぁ……けど\nレオーネを置いてけねえ。今度こそ\n兄貴っぽいことを　してやらないとな。\n俺らのぶんまで　冒険を楽しんでくれ！\n　　　　　　　　初代勇者　アシュレイより": "Version 6 is complete! Congratulations!\nYou're still going on adventures, aren'tyou? I wish I could go with you...but I\ncan't leave Leone behind. I'll have to\nact like a big brother this time. Enjoy\nyour adventures as much as we do!\n             From the first hero, Ashley"
+    "バージョン６完結！　めでてえな！\nまだまだ　冒険は続けるんだろ？\n俺も一緒に行きてえなぁ……けど\nレオーネを置いてけねえ。今度こそ\n兄貴っぽいことを　してやらないとな。\n俺らのぶんまで　冒険を楽しんでくれ！\n　　　　　　　　初代勇者　アシュレイより": "Version 6 is complete! Congratulations!\nYou're still going on adventures, aren'tyou? I wish I could go with you...but I\ncan't leave Leone behind. I'll have to\nact like a big brother this time. Enjoy\nyour adventures as much as we do!\n             From the first Hero, Ashley"
   },
   "402": {
     "バージョン６完結！　めでてえな！まだまだ　冒険…": ""
@@ -1216,5 +1216,11 @@
   },
   "407": {
     "おっ疲れちゃ～ん！　無事に　第１１回アストルテ…": ""
+  },
+  "408": {
+    "果たし状　　　　　　　<pnplacehold>殿\n我が名は　天地雷鳴士　アサヒ。\n八卦により選ばれた　そなたに\n天地雷鳴士の　奇跡のみわざを見せよう。\nこれより　レベル５０以上の職業で\n王都カミハルムイ北　木工ギルドの\n南の橋に来い。": "A challenge to <pnplacehold>\nMy name is Asahi, a Druid. Chosen by theeight trigrams, I will show to you what\na Druid is capable of. Come to the\nbridge near the Woodworking Guild in\nKamiharmui as a vocation level 50 or\nhigher."
+  },
+  "409": {
+    "果たし状　　　　　　　<pnplacehold>殿我が名は　天地…": "A challenge to <pnplacehold>..."
   }
 }
