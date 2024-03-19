@@ -105,7 +105,7 @@
     "こんにちは！　偶然　迷いこんだ\n星の大樹広場での　白銀の星夜祭\nとっても楽しかったわ！　この手紙と\nいっしょに送ったプレゼントは\nあなたに　楽しさの　おすそわけ。\nいつか　私の宿屋にも　泊まりにきてね。\nせいいっぱい　おもてなしするから！": "Hi! I just wandered into the Starry\nTree Plaza by chance and had a very\nenjoyable Starry Night Festival! The\npresent I sent with this letter is my\nway of sharing the fun with you. Please\ncome stay at my inn sometime. I'll show\nyou the best hospitality!"
   },
   "36": {
-    "クリスさまが　ふくびきで\n幸運を　つかまれましたので\n幸運のおすそ分けとして\n旅のコンシェルジュから\nスペシャルふくびき券　３枚を\nお届けいたします。": "Since <pnplacehold> has obtained good\nfortune through the lottery, as a\nsharing of luck, the Travel Concierge\nhas sent 3 Special Lottery Tickets."
+    "<pnplacehold>さまが　ふくびきで\n幸運を　つかまれましたので\n幸運のおすそ分けとして\n旅のコンシェルジュから\nスペシャルふくびき券　３枚を\nお届けいたします。": "Since <pnplacehold> has obtained good\nfortune through the lottery, as a\nsharing of luck, the Travel Concierge\nhas sent 3 Special Lottery Tickets."
   },
   "37": {
     "アストルティアの皆さま。この時期だけの \n特別なイベントへの　ご招待です。 \n風の町アズラン　オルフェアの町 \nグレン城下町　ジュレットの町 \n岳都ガタラの　どこかにいる \n私を探しだして　ハッピーバレンタイン！ \nと　声をおかけください！": "Dear Astoltians. You are invited to a\nspecial event just for this season. I'm\nsomewhere in Azlan, Orphea, Glen, Julet\nand Gatara, so come find me and Happy\nValentine's Day!"
@@ -432,10 +432,10 @@
     "ワガハイの名は　騎士レモンハルト。\n『気高き戦いは　知識の上に成り立つ』\nこれが　わが家に代々伝わる家訓だ。\nもしキミが　超一流の冒険者と自負するならワガハイの考案した　クイズバトルに\n挑戦してもらいたいぞ。\n港町レンドアの北にて　挑戦者を待つ！": "My name is Lemonheart the Knight, and\n\"noble warfare is based on knowledge\"\nis a family motto that has been passed\ndown in my family for generations. If\nyou are a top-notch adventurer, I would\nlike to challenge you to a quiz battle\nof my own devising. We await the\nchallenger in the north of Port Town\nLendor!"
   },
   "145": {
-    "こんにちは　まもの使いのカレヴァンです。長らく閉鎖されていた　モンスター格闘場をようやく　再開できることになりました。\nクリスさんが　ウデ試しをさせたい\n仲間モンスターを　３匹以上お連れでしたらぜひ　アラハギーロのモンスター格闘場にてモンスターバトルロードに　挑戦ください！": "Hello, I'm Kalevan, the Monster Master.\nWe're finally able to reopen the MonsterArena after being closed for so long.\nIf <pnplacehold> bring three or more companion\nmonsters that you want to test their\nskills with, come to the Monster Battle\nRoad at the Monster Arena in Al-Ahagiro!"
+    "こんにちは　まもの使いのカレヴァンです。長らく閉鎖されていた　モンスター格闘場をようやく　再開できることになりました。\n<pnplacehold>さんが　ウデ試しをさせたい\n仲間モンスターを　３匹以上お連れでしたらぜひ　アラハギーロのモンスター格闘場にてモンスターバトルロードに　挑戦ください！": "Hello, I'm Kalevan, the Monster Master.\nWe're finally able to reopen the MonsterArena after being closed for so long.\nIf <pnplacehold> bring three or more companion\nmonsters that you want to test their\nskills with, come to the Monster Battle\nRoad at the Monster Arena in Al-Ahagiro!"
   },
   "146": {
-    "突然の　お手紙　失礼いたします！\nクリスどのの　おチカラを見込んで\nどうか　お頼みしたいことが　ございます。港町レンドア南の　酒場にある\nモンスター討伐隊本部にて　首を長くして\nお待ちしているであります。\n　　　　モンスター討伐隊記録係　オットー": "I apologize for the suddenness of this\nletter! I have a favor to ask of you,\n<pnplacehold>, and I will be waiting\nfor you at the Monster Strike Force\nHeadquarters in the tavern in South\nPort Lendor.\nOtto, Monster Strike Force Recorder"
+    "突然の　お手紙　失礼いたします！\n<pnplacehold>どのの　おチカラを見込んで\nどうか　お頼みしたいことが　ございます。港町レンドア南の　酒場にある\nモンスター討伐隊本部にて　首を長くして\nお待ちしているであります。\n　　　　モンスター討伐隊記録係　オットー": "I apologize for the suddenness of this\nletter! I have a favor to ask of you,\n<pnplacehold>, and I will be waiting\nfor you at the Monster Strike Force\nHeadquarters in the tavern in South\nPort Lendor.\nOtto, Monster Strike Force Recorder"
   },
   "147": {
     "屈強なる　冒険者たちへ！ \n凍える季節　お前さんたちを　妖精の祭典 \n『白銀の星夜祭』へ　招待してやろう。 \nグレン城下町 　ジュレットの町 \n風の町アズラン　岳都ガタラ \nオルフェアの町の　どこかにいる \n赤い帽子の　オレに　声をかけてくれ！": "To all mighty adventurers! I invite you\nto the \"Starry Night Festival\", a fairy\nfestival in the freezing season. I'm\nsomewhere in Glen, Julet, Azlan,\nGatara, and Orphea wearing a red hat,\nso come and speak to me!"
@@ -525,7 +525,7 @@
     "お久しぶりです　トートです。\n風のウワサで　職業レベルが\n６６以上になったと　聞きました！\nじつはボク　そんな　<pnplacehold>さんに\nお話ししたいことがあるんです！\nジュレットの町の　井戸の中にある\nかばん工房まで　来てもらえませんか？": "It's me, Tote. It's been awhile.\nI've heard rumors that you've reached atleast level 66 in one of your vocations!To be honest, there's something I need\nto talk to you about! Do you think you\ncould come to the Bag Workshop in\nJulet's well?"
   },
   "176": {
-    "円盤の騎士　クリス卿よ。\nそなたのおかげで　われらが王国……\nいや　この世界全体を　救うことができた。わが国民を代表し　改めて礼を言うぞ。\nそなたの名は　これからも　永遠に\nこの　ムーンキャロットの地に\n語り継がれてゆくであろう……。": "<pnplacehold>, knight of the saucer. It\nis thanks to you that we have been able\nto save our kingdom, and indeed, the\nentire world. On behalf of my people, I\nthank you once again. Your name will be\nforever remembered in the land of Moon\nCarrot."
+    "円盤の騎士　<pnplacehold>卿よ。\nそなたのおかげで　われらが王国……\nいや　この世界全体を　救うことができた。わが国民を代表し　改めて礼を言うぞ。\nそなたの名は　これからも　永遠に\nこの　ムーンキャロットの地に\n語り継がれてゆくであろう……。": "<pnplacehold>, knight of the saucer. It\nis thanks to you that we have been able\nto save our kingdom, and indeed, the\nentire world. On behalf of my people, I\nthank you once again. Your name will be\nforever remembered in the land of Moon\nCarrot."
   },
   "177": {
     "レース屋集団『ターボアクセル』が主催する時間制限付きの　激熱イベント\nドルボードレースのご案内だよ。\n今日から　オーグリード大陸でのレースが\n開放されるから　ぜひ来ておくれ！\nグレン領東の　グレン城下町の\n入り口あたりで　常時　受け付けているよ。": "Race Shop Group, \"Turbo Axel\", is\nhosting a time-limited, heated event\ncalled the Dolboard Race. Starting\ntoday, races will be held on the\ncontinent of Ogreed, so be sure to come!We are accepting entries at the entranceto Glen Castle Town in Glen East."
@@ -558,7 +558,7 @@
     "突然の手紙　失礼する。\nアスフェルド学園のバウンズという者だ。\n貴君の活躍のうわさは　聞かせてもらった。ぜひとも　貴君に　頼みたいことがある。\nまずは　グランゼドーラ王国に向かい\n船舶管理局にいる　デミカに会ってほしい。そこで　くわしい話を　聞いてくれたまえ。": "Excuse the abruptness of this letter. I\nam Baunze from Asfeld Academy. I have\nheard about your success. I have a\nfavor to ask of you. First, I would\nlike you to go to Gran Zedora Kingdom\nand meet Demika at the Ship Bureau.\nThere, you will hear more about me."
   },
   "187": {
-    "クリス様\n先日クリス様宛てに　お預かりした\n不思議な　お届け物が　発見されました。\nご都合のよい時で　かまいませんので\n郵便局まで　お引き取りを　お願いします。": "Dear <pnplacehold>,\nWe have discovered a mysterious package\naddressed to you the other day. Please\npick it up at the post office at your\nearliest convenience."
+    "<pnplacehold>様\n先日<pnplacehold>様宛てに　お預かりした\n不思議な　お届け物が　発見されました。\nご都合のよい時で　かまいませんので\n郵便局まで　お引き取りを　お願いします。": "Dear <pnplacehold>,\nWe have discovered a mysterious package\naddressed to you the other day. Please\npick it up at the post office at your\nearliest convenience."
   },
   "188": {
     "旅人たちよ。私は　釣り老師ハルモス。\n多くの種類の魚を　釣ったものにたいして\n私から　新たな褒美を　用意した。\n今後も　釣り道に　精を出してもらいたい。くわしい話が　聞きたいのであれば\n港町レンドアの南　私のところに来てくれ。釣りを極めたい者を　心待ちにしておるぞ。": "Travelers. I am Old Fish Master Harmos,\nand I have prepared a new reward for\nthose who have caught many kinds of\nfish. I hope you will continue your\nfishing adventures. If you want to hear\nmore about it, come to me south of Port\nTown Lendor. I look forward to hearing\nfrom those who want to master the art\nof fishing."
@@ -567,19 +567,19 @@
     "新しくデフェル荒野に　派遣されました\nシスター・トニアと　申します。\n西にそびえる　巨塔の前にいるのですが\n塔の中から　けたたましい　さけび声が\n聞こえてくるのです。確認したいのですが\n非力な私では門が開かず　困っております。冒険者の皆様　どうかお助けくださいませ。": "I am Sister Tonia, newly dispatched to\nDefel Wilderness. I'm in front of the\ngiant tower towering to the west, and\nI'm hearing a rasping scream coming\nfrom inside the tower. I would like to\ncheck it out, but I am powerless to\nopen the gate, and I am at a loss.\nPlease, adventurers, help us."
   },
   "190": {
-    "ありがとうございます　クリスさん！あなたのおかげで　私達は　試練を乗り越え新たな一歩を踏み出すことができましたわ。メッシ様ったら　グッとたくましくなられて私　もうメロメロですの……。\nこれからも　いっそう　ラブラブな夫婦を目指してまいります。応援よろしくですわ。": "Thank you very much <pnplacehold>!\nThanks to you, we were able to overcome\nthe trial and take a new step forward.\nWe will continue to be a loving\ncouple. I look forward to your\ncontinued support."
+    "ありがとうございます　<pnplacehold>さん！あなたのおかげで　私達は　試練を乗り越え新たな一歩を踏み出すことができましたわ。メッシ様ったら　グッとたくましくなられて私　もうメロメロですの……。\nこれからも　いっそう　ラブラブな夫婦を目指してまいります。応援よろしくですわ。": "Thank you very much <pnplacehold>!\nThanks to you, we were able to overcome\nthe trial and take a new step forward.\nWe will continue to be a loving\ncouple. I look forward to your\ncontinued support."
   },
   "191": {
-    "親愛なる盟友　クリスよ。\nグランゼドーラ国王　アリオスである。\nアストルティア全土に　平和が訪れた今\nとある計画を　実行に移そうと思う。\n手間をかけるが　グランゼドーラ城の\n玉座の間まで　来てもらえぬだろうか？\nそれでは　待っておるぞ。": "Dear Ally <pnplacehold>. I am Alios,\nking of Gran Zedora. Now that peace has\ncome to all of Astoltia, I would like\nto put a plan into action. It will take\nsome time, but could you please come to\nthe throne room of Gran Zedora Castle?\nI will be waiting for you."
+    "親愛なる盟友　<pnplacehold>よ。\nグランゼドーラ国王　アリオスである。\nアストルティア全土に　平和が訪れた今\nとある計画を　実行に移そうと思う。\n手間をかけるが　グランゼドーラ城の\n玉座の間まで　来てもらえぬだろうか？\nそれでは　待っておるぞ。": "Dear Ally <pnplacehold>. I am Alios,\nking of Gran Zedora. Now that peace has\ncome to all of Astoltia, I would like\nto put a plan into action. It will take\nsome time, but could you please come to\nthe throne room of Gran Zedora Castle?\nI will be waiting for you."
   },
   "192": {
-    "親愛なる盟友　クリスへ。\nグランゼドーラ国王　アリオスである。\nアストルティアに訪れた　平和を祝う\nとある計画のため　そなたは　その日までに五大陸　１０ヶ国のキーエンブレムを集め\nスタンプカードの光るマスを　埋めるのだ！達成されねば　計画は進まぬと　心せよ。": "Dear Ally <pnplacehold>. I am Alios,\nking of Gran Zedora. To celebrate the\npeace that has come to Astoltia, collectkey emblems from 10 countries on the 5\ncontinents to fill in the glowing\nsquares on your stamp cards! Accomplish\nthis or the plan will never go forward."
+    "親愛なる盟友　<pnplacehold>へ。\nグランゼドーラ国王　アリオスである。\nアストルティアに訪れた　平和を祝う\nとある計画のため　そなたは　その日までに五大陸　１０ヶ国のキーエンブレムを集め\nスタンプカードの光るマスを　埋めるのだ！達成されねば　計画は進まぬと　心せよ。": "Dear Ally <pnplacehold>. I am Alios,\nking of Gran Zedora. To celebrate the\npeace that has come to Astoltia, collectkey emblems from 10 countries on the 5\ncontinents to fill in the glowing\nsquares on your stamp cards! Accomplish\nthis or the plan will never go forward."
   },
   "193": {
-    "感謝を捧げるぜ　クリス！ \nお前さんのおかげで　星夜祭の夜空を \n奇跡の星々で　満たすことができた。 \n星は　子供たちの願いをかなえ \nそして　お前さんにも　奇跡を起こした。 \n旅のコンシェルジュのもとに　届いている \n特別なプレゼントを　受け取ってくれ。": "We give you our thanks, <pnplacehold>!\nThanks to you, we were able to fill the\nnight sky of Starry Night Festival with\nmiracle stars. The stars fulfilled the\nwishes of the children and did wonders\nfor you too. Please accept a special\npresent from the Travel Concierge."
+    "感謝を捧げるぜ　<pnplacehold>！ \nお前さんのおかげで　星夜祭の夜空を \n奇跡の星々で　満たすことができた。 \n星は　子供たちの願いをかなえ \nそして　お前さんにも　奇跡を起こした。 \n旅のコンシェルジュのもとに　届いている \n特別なプレゼントを　受け取ってくれ。": "We give you our thanks, <pnplacehold>!\nThanks to you, we were able to fill the\nnight sky of Starry Night Festival with\nmiracle stars. The stars fulfilled the\nwishes of the children and did wonders\nfor you too. Please accept a special\npresent from the Travel Concierge."
   },
   "194": {
-    "たたた　たいへんです！\nまた　あの魔物たちが　広場に現れて\n今度は　子供たちへのプレゼントが\n奪われてしまったんです！\nクリスさん　どうか　もう一度\n星の大樹広場へ　来ていただけませんか？": "Oh no, it's terrible! The monsters have\nappeared in the plaza again, and this\ntime they have stolen the presents for\nthe children! <pnplacehold>, can you\nplease come to Starry Tree Plaza again?"
+    "たたた　たいへんです！\nまた　あの魔物たちが　広場に現れて\n今度は　子供たちへのプレゼントが\n奪われてしまったんです！\n<pnplacehold>さん　どうか　もう一度\n星の大樹広場へ　来ていただけませんか？": "Oh no, it's terrible! The monsters have\nappeared in the plaza again, and this\ntime they have stolen the presents for\nthe children! <pnplacehold>, can you\nplease come to Starry Tree Plaza again?"
   },
   "195": {
     "１０周年　おめでとう！　弟！\nこの　すばらしい時を　一緒に迎えられて\n私は　世界一　幸せな姉だよ～。\n弟。いつも　本当にありがとう。\nこれからも　たくさん　冒険しようねっ。\nずっと　ずっと……　大好き！\n　　　　　　　　　　　　<snplacehold>より": "Happy 10th anniversary, brother! I am\nthe happiest sister in the world to be\nable to share this wonderful time with\nyou! Thank you so much for everything.\nLet's have many adventures in the\nfuture. I will always love you!\n                      From <snplacehold>"
@@ -762,7 +762,7 @@
     "アストルティアの　冒険者たちへ。わが王国……そ…": ""
   },
   "255": {
-    "円盤の騎士　クリス卿よ。そなたのおかげで　われ…": ""
+    "円盤の騎士　<pnplacehold>卿よ。そなたのおかげで　われ…": ""
   },
   "256": {
     "皆さまのおかげで　無事に　第８回アストルティア…": ""
@@ -948,7 +948,7 @@
     "ボクは　困ったちゃんな女の子に協力させられてる…": ""
   },
   "318": {
-    "クリス様先日クリス様宛てに　お預かりした不思議…": ""
+    "<pnplacehold>様先日<pnplacehold>様宛てに　お預かりした不思議…": ""
   },
   "319": {
     "全国の旅人さん　こんにちは！突然のお手紙　ごめ…": ""
@@ -1014,19 +1014,19 @@
     "はじめまして。ボクは　妖精図書館という場所で管…": ""
   },
   "340": {
-    "ありがとうございます　クリスさん！あなたのおか…": ""
+    "ありがとうございます　<pnplacehold>さん！あなたのおか…": ""
   },
   "341": {
-    "親愛なる盟友　クリスよ。グランゼドーラ国王　ア…": ""
+    "親愛なる盟友　<pnplacehold>よ。グランゼドーラ国王　ア…": ""
   },
   "342": {
-    "感謝を捧げるぜ　クリス！ お前さんのおかげで　…": ""
+    "感謝を捧げるぜ　<pnplacehold>！ お前さんのおかげで　…": ""
   },
   "343": {
     "ワガハイの名は　騎士レモンハルト。『気高き戦い…": ""
   },
   "344": {
-    "親愛なる盟友　クリスへ。グランゼドーラ国王　ア…": ""
+    "親愛なる盟友　<pnplacehold>へ。グランゼドーラ国王　ア…": ""
   },
   "345": {
     "皆さまのおかげで　無事に　第３回アストルティア…": ""
@@ -1122,7 +1122,7 @@
     "拝啓　木々の緑が目にまぶしい今日この頃。突然の…": ""
   },
   "376": {
-    "突然の　お手紙　失礼いたします！クリスどのの　…": ""
+    "突然の　お手紙　失礼いたします！<pnplacehold>どのの　…": ""
   },
   "377": {
     "全国の旅人さん　こんにちは！突然のお手紙　失礼…": ""
