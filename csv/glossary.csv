@@ -24872,6 +24872,7 @@ Pの　経験値,EXP
 ムニエカ前,Munieka
 ラティーフ,Lateef
 看板・ほし,Sign - Star
+ドラゴラム,Puff
 SPアイテム,Skill Point Items
 (アナザー),(Another)
 短剣(片手),dagger
@@ -29376,6 +29377,8 @@ SPアイテム,Skill Point Items
 スランク,Slank
 イレブン,Eleven
 アルコル,Alcor
+フクロウ,owl
+ゼネシア,Zenethia
 PCベビー,PC's Baby
 ×を描く,Draw an X
 鎌(両手),scythe
@@ -32192,6 +32195,7 @@ PCベビー,PC's Baby
 リュバ,Lyuba
 大祭壇,Great Altar
 ダイヤ,Diamond
+竜術士,Dragomancer
 CT短縮,Charge Time Reduction
 兵士A,Soldier A
 兵士B,Soldier B
@@ -32446,7 +32450,6 @@ CT短縮,Charge Time Reduction
 金槌,Gold Hammer
 リオ,Leo
 回復,Recovery
-竜術,DGM
 ロナ,Rona
 駅,train station
 泉,fountain
