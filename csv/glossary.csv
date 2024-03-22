@@ -201,6 +201,9 @@
 ダイナースカートイショウ,Diner Skirt Outfit
 チカラ自慢をねじ伏せろ！,Show Me What You're Made Of!
 『マイタウンへの出入り』,"Allowed to Visit"
+かばんを持てない者たちへ,To Those With Full Bags
+バシルーラ屋は店終い！？,Bazoom Girls Are Closing?!
+旅のお供に　超便利ツール,Useful Tool For Travelers
 セレドット山道-資料室 前,Celedot Mountain Pass - Archives
 ローヌ樹林帯-黄葉商店 前,Rhone Forest Belt - Leaf Shop
 レビュール街道南-井戸 前,Reviewle Highway South - Well
@@ -1921,6 +1924,9 @@ Reジューンプライドの憂鬱,Re: June Bride's Gloom
 仮装メイク術の有効期間,disguise duration
 バトルロードフィーバー,Battle Road Fever
 しぐさ書・木の葉がくれ,Emote "Hidden Leaf"
+来たるべき日　決別の時,Time Has Come For Goodbyes
+バカンウグレ遺跡の彫像,Bakanugure Ruins Sculpture
+７ｍｖエックス君竜術士,7mv X Dragomancer
 リャナ荒涼地帯-灯台 前,Lyana Desolate Area - Lighthouse
 ビーチで大公演！？ 2017,Beach Performance!? 2017
 なぞ解きオブジェクト02,Mystery Solving Object 2
@@ -3810,6 +3816,20 @@ Reジューンプライドの憂鬱,Re: June Bride's Gloom
 アストルティアラリー,Astoltia Rally
 マジカル★カーニバル,Magical Carnival
 『ついてクンを選ぶ』,"Choose Pet"
+妖しい輝きを目指して,Aim For a Suspicious Shine
+果ての大地の簡易地図,Simple Map of Land's End
+火のついていない燭台,Unlit Candlestick
+ランジェのペンダント,Ranje's Pendant
+バシッルーラストーン,Bazoom Stone
+ゼニスの封宮・大祭壇,Zenith Palace - Great Altar
+裏格闘場・闘いの広間,Underground Arena - Monstrous Pit
+異界アスタルジア深部,Otherworld Astalgia Depths
+レクスルクスの研究室,Lexlux Laboratory
+経験値の古文書・竜術,Experience Scroll (DGM)
+タイムマスターコイン,The Time Being Coin
+タイムマスターカード,The Time Being Card
+タイムマスター練習札,The Time Being Tag
+タイムマスターメダル,The Time Being Medal
 キュララな夏休み 2017,Kyurara Summer Holiday '17
 Re白きヴェールの乙女,Re: Maid of the White Veil
 Reツリーは白銀に消ゆ,Tree's Disappearance Again
@@ -8002,6 +8022,37 @@ DQ1勇者たいまつあり,DQ1 Hero With Torch
 キャット・バルバド,Purrseidon
 アルカナ・セラピア,Arcana Serapia
 果ての大地ゼニアス,Zeniath
+竜と生きるは竜術士,A Dragomancer's Life
+いざ　ドラゴラム！,Now, Puff!
+ぶんぶんパニック！,Buzz Panic!
+やさしさに包まれて,Wrapped In Kindness
+７ｍｖウェディー女,7mv Weddie Woman
+まがまがしいキノコ,Ominous Mushroom
+永眠のフクロウ魔人,Owl of Eternal Sleep
+歓迎会用テーブル１,Table for Welcome Party 1
+歓迎会用テーブル２,Table for Welcome Party 2
+アズ・フーラズーラ,Azu Hula Zula
+めざましハンドベル,Alarm Clock Bell
+エターナルガーデン,Eternal Garden
+異界獣ヘイズシナー,Otherworldly Beast Haze Sinner
+実装テストアトラス,Implementation Test Atlas
+青鮮の根絶将コンネ,Fresh Eradication General Cornelia
+異界獣ヘイズバット,Otherworldly Beast Haze Bat
+みならいあくま・祖,Ancestor Winkster
+メガトンブラザーズ,Megaton Brothers
+青の巨人ブルメル強,Apex Blue Giant Blumel
+赤の巨人レドノフ強,Apex Red Giant Rednov
+緑の巨人グリモア強,Apex Green Giant Greemor
+ダークキング変異体,Variant Dark King Slime
+異界獣ヘイズバイオ,Otherworldly Beast Haze Bio
+お掃除マシン・白式,White Cleaning Machine
+ヘイズバットの分身,Avatar of Haze Bat
+異界獣ヘイズナイト,Otherworldly Beast Haze Knight
+異界獣ヘイズキング,Otherworldly Beast Haze King
+メタキンボスメダル,Metal King Boss Medal
+アスタルジアの欠片,Astalgia Shard
+アスタルジアの護符,Amulet of Astalgia
+エレメントブースト,In the Element
 Re星降る夜の大乱闘,Re: Starry Night Scuffle
 デフェル荒野-墓 前,Defel Desert - Tomb
 夏宵メモワール 2017,Summer Memoirs 2017
@@ -8031,6 +8082,8 @@ Re星降る夜の大乱闘,Re: Starry Night Scuffle
 ２階-サウスルーム,South Room 2F
 １階-サウスルーム,South Room 1F
 ３階-ＶＩＰルーム,VIP Room 3F
+蘇生時 早詠みの杖,Faster Caster Savior
+武闘家ヤーン分身C,Martial Artist Yarn Copy C
 神具解放の審問宮,Sanctuary of Divine Relics
 銀の木工刀小の本,Silver Slick S Book
 光の木工刀小の本,Light Slick S Book
@@ -12338,6 +12391,47 @@ DQ3賢者女　ゾーマ,DQ3 Sage (F), Zoma
 カジノレイド祭り,Casino Raid Festival
 家具＆庭具おきば,furniture storage
 グレイナル叙事詩,Epic of Greygnarl
+バシっ娘を継ぐ石,The Bazoom Girl's Stone
+不器用な魔法使い,The Incompetent Mage
+奇門遁甲の式・参,3rd Divination Ceremony
+人形師のアトリエ,Doll Maker's Workshop
+バカンウグレ遺跡,Bakanugure Ruins
+アマラーク城下町,Amalark Castle Town
+エドアルドの部屋,Eduardo's Room
+７ｍｖドワーフ男,7mv Dwarf Man
+エドアルドの木槌,Eduardo's Mallet
+主神グランゼニス,God Gran Zenith
+守護天使のお守り,Guardian Angel Amulet
+バシっ娘シンリィ,Bazoom Girl Shinry
+預かり所イウマド,Storage Iwmad
+虚竜王グリーデル,Griedel, Dragon King of the Void
+魔物管理人ロミナ,Monster Manager Romina
+郵便局員サユサラ,Postman Sayusara
+魚交換員ピペッタ,Fish Exchange Pipetta
+シスター・ミアナ,Sister Miana
+異界アスタルジア,Otherworld Astalgia
+プリズンイーグル,Prison Eagle
+ブラッドエイプス,Blood Apes
+ブラッディ・ゼア,Bloody Zea
+ノーライフロード,No Life Lord
+スカラベテンツク,Scarab Slugger
+魔改造クリムゾン,Modified Crimson
+ガチャコッコ・祖,Ancestor Clockwork Cuckoo
+ぐんたいガニ・祖,Ancestor Crabid
+ズッキーニャ・祖,Ancestor Cruelcumber
+スライムベス・祖,Ancestor She-Slime
+タホドラキー・祖,Ancestor Drackmage
+もみじこぞう・祖,Ancestor Leafy Larrikin
+どくやずきん・祖,Ancestor Bodkin Fletcher
+おばけキノコ・祖,Ancestor Funghoul
+ひとくいばこ・祖,Ancestor Cannibox
+たまねぎスライム,Onion Slime
+レグナード変異体,Variant Regnad
+宵と暁の伝承の本,Lore of Dawn and Twilight
+ドゥラ院長のメモ,Director Dura's Note
+参の式修了の陽符,Yang III Completion Charm
+行動時10%で血吸い,Siphon On Action 10%
+セイクリッドボウ,Sacred Shot
 GPトロフィー黄銀,Yellow GP Silver Trophy
 GPトロフィー黄銅,Yellow GP Bronze Trophy
 GPトロフィー白銀,White GP Silver Trophy
@@ -12387,6 +12481,7 @@ GPトロフィー朱鉄,GP Steel Trophy Red
 ２階-女王の部屋,2F - Queen's Room
 氷床_クルヴィダ,Ice Sheet Kuruvida
 西の塔-地下１階,West Tower B1F
+魔王アトラス1200,Demon King Atlas 1200
 ネジガラミの根,Nejigarami root
 エルボブ像黒白,Black/White Eltona Bobtail Statue
 エルボブ像白黒,White/Black Eltona Bobtail Statue
@@ -17156,6 +17251,70 @@ DQ3僧侶　ゾーマ,DQ3 Priest, Zoma
 精神エネルギー,psychic energy
 高機能錬金食品,Efficient Alchemy Food
 アマラーク王国,Amarak Kingdom
+それぞれの覚悟,Each One's Resolve
+竜と契約せし者,One Who Made a Dragon Pact
+ウォルドの聖簾,Wold
+レストリア平野,Restoria Plains
+アマラーク地方,Amalark Region
+レストリア地方,Restoria Region
+ラランブラ山道,Larambla Mountain Pass
+シュタール鉱野,Stahl Minefield
+エドアルドの家,Eduardo's House
+ハディン採石場,Hadine Quarry
+７ｍｖオーガ女,7mv Ogre Woman
+７ｍｖエルフ男,7mv Elf Man
+眠りのフクロウ,Sleeping Owl
+取引商ララモラ,Trader Laramora
+道具屋ポッケイ,Item Shop Pokkei
+預かり所ラティ,Storage Rati
+嘆きのロベール,Lamenting Robere
+大長老バルシラ,Great Elder Balsilla
+預かり所マルゴ,Storage Margo
+道具屋ミケーレ,Item Shop Michele
+宿屋ラティーフ,Innkeep Lateef
+道具屋カルアス,Item Shop Caluas
+取引商ヤークト,Trader Yakuto
+竜術士ランジェ,Dragomancer Ranje
+シャムディーン,Shamudeen
+アラクサンデル,Alaxander
+案内係ノーミア,Guide Normia
+預かり所セララ,Storage Serara
+道具屋ポップパ,Item Shop Poppupa
+取引商サナーン,Trader Sanaan
+道具屋ボルタラ,Item Shop Voltara
+便せん屋シロギ,Paper Shop Shirogi
+ゼニートのイス,Zenito Chair
+預かり所リュバ,Storage Lyuba
+ルーミリアの家,Rumilia's House
+ラランブラ洞穴,Larambla Cave
+ドリアンデッド,Dorian Dead
+タイムマスター,The Time Being
+ウパソルジャー,Wooper Trooper
+じんめんちょう,Batterfly
+デザートモデル,Dune Stalker
+くろがねの巨人,Darksteel Giant
+リターナーモア,Returner Mower
+ビビッドヘッド,Marbled Moai
+クシャラミ・陽,Kamashki - Yang
+バルバルー・陽,Blamara - Yang
+ダースリカント,Ursa Mega
+おおきづち・祖,Ancestor Hammerhood
+ブラウニー・祖,Ancestor Brownie
+メタルーキング,Rookie Metal King Slime
+ねこまどう・祖,Ancestor Meowgician
+リリパット・祖,Ancestor Bodkin Archer
+たまねぎキング,Onion King Slime
+まいしんベリー,Strawbergine
+最果ての修道院,Furthest Monastery
+アナザーハート,Another Heart
+旅立ちのこころ,Heart of Departure
+へんげのかばん,Mod Bag
+サンプル・ツメ,Sample - Claw
+サンプル・トゲ,Sample - Thorn
+サンプル・鉱石,Sample - Ore
+ドラゴラム強化,Puff! Boost
+さいほう素材屋,Sewing Material Shop
+ナラジアの背景,Narasia
 バズズ(コイン),Pazuzu (Coin)
 宝箱ゾーマCS用,Zoma Box CS
 ハンマー(片手),hammer
@@ -21099,6 +21258,68 @@ DQ3僧侶　ゾーマ,DQ3 Priest, Zoma
 ムニエかの町,Munieka
 花開きの聖祭,Blooming Festival
 バドスポシト,Badspot
+ウォルド地方,Wold Region
+姉神封印神殿,Goddess Seal Temple
+聖湖ゼニート,Sacred Lake Zenito
+ヤドリギ広場,Mistletoe Plaza
+ゼニスの封宮,Zenith Palace
+ムニエカ地方,Munieka Region
+はじまりの地,Land of Beginnings
+ムニエカの町,Munieka
+作業場・跡地,Workshop - Ruins
+アマラーク城,Amalark Castle
+川辺の休憩所,Riverside Rest Area
+タービア草原,Turbia Meadows
+イルシーム邸,Ilseem Mansion
+女神ゼネシア,Goddess Zenethia
+創失ＮＰＣ１,Unmaking NPC 1
+創失ＮＰＣ２,Unmaking NPC 2
+７ｍｖプク男,7mv Puku Man
+宿屋スィーテ,Innkeep Suitei
+チュピちゃん,Chupi
+ちいさな花束,Small Bouquet
+水くみバケツ,Water Bucket
+呪魔バルシラ,Cursed Balsilla
+宿屋ジョスリ,Innkeep Josri
+取引商ロビサ,Trader Lovisa
+ジャドアーン,Jadoaan
+アーティファ,Artifa
+謎のバケモノ,Mystery Monster
+過去竜術士Ａ,Past Dragomancer A
+新米竜術士Ａ,Novice Dragomancer A
+バルバードル,Barbadol
+ユーリンチー,Yulinchi
+紹介人オレイ,Introducer Olay
+ゼニートの机,Zenito Desk
+ラランブラ前,Larambla
+シュタール前,Stahl
+異界前線基地,Otherworld Outpost
+フーラズーラ,Hula Zula
+やまびこの陣,Echoing Circle
+なぞの黒騎士,Mystery Black Knight
+時間巻き戻し,Time Rewinding
+プチドラゴン,Frail Green Dragon
+カカロン・陽,Klashmi - Yang
+ドメディ・陽,Damninui - Yang
+タホバルキー,Jumbo Drackmage
+がいこつ・祖,Ancestor Skeleton
+スライム・祖,Ancestor Slime
+ドラキー・祖,Ancestor Dracky
+モーモン・祖,Ancestor Teeny Sanguini
+マタンゴ・祖,Ancestor Morphean Mushroom
+テンツク・祖,Ancestor Slugger
+メイヴ変異体,Variant Meiv
+テストの魔人,Test Genie
+青の上錬金石,Sapphire Gem
+ゼニアス印章,Zeniath Stamp
+こころの結晶,Heart Crystal
+うつろいの布,Changing Cloth
+イナズマ山椒,Lightning Pepper
+精霊の泉の水,Spring of Spirits Water
+アブない毒矢,Perilous Poisoned Arrow
+ゆらめく妖花,Flickering Flower
+マッドブレス,Muddled Breath
+ドガンタロス,Kacrashle
 モンスター26,Monster 26
 モンスター27,Monster 27
 モンスター28,Monster 28
@@ -21157,6 +21378,11 @@ DQ3僧侶　ゾーマ,DQ3 Priest, Zoma
 ぬいぐるみ9,Plushie 9
 ２階-研究室,2F - Laboratory
 Pの　経験値,EXP
+過去竜術士B,Past Dragomancer B
+過去竜術士C,Past Dragomancer C
+新米竜術士B,Novice Dragomancer B
+新米竜術士C,Novice Dragomancer C
+アトラス1200,Atlas 1200
 超木工刀小,Super Slick S
 研究開発室,Research and Development room
 特別監視室,special surveillance room
@@ -24574,6 +24800,78 @@ Pの　経験値,EXP
 アヴェルサ,Aversa
 ジェイムズ,James
 ジョリーン,Jolyne
+竜術士の謎,Dragomancer's Mystery
+使者の霊堂,Tomb of the Messenger
+悪夢の霊堂,Tomb of Nightmares
+闇夜の霊堂,Tomb of Darkness
+峠のほこら,Mountain Pass Shrine
+大樹の鳥籠,Big Tree Birdcage
+メネト地方,Menet Region
+バカン山道,Bakan Mountain Pass
+本部テント,Headquarters Tent
+竜のすみか,Dragon's Den
+竜術士の家,Dragomancer's House
+守護天使像,Guardian Angel Statue
+植物のタネ,Plant Seeds
+星封の結晶,Star Seal Crystal
+ガンダット,Gandat
+ドナディア,Donadia
+リズクの母,Rizk's Mother
+リズクの父,Rizk's Father
+美しい人形,Beautiful Doll
+ディッチャ,Ditcha
+夢見の香炉,Dream Incense
+豪華な花束,Extravagant Bouquet
+ケルジャブ,Kerjab
+鳥籠の番人,Bird Cage Keeper
+夕飯セット,Dinner Set
+チャーベン,Chaben
+ファティナ,Fatina
+バヒージャ,Bahija
+ザーフィラ,Zafira
+マアムーン,Maamoon
+ガンナーム,Gannam
+イズハール,Izhar
+ウィダード,Ouidaad
+スィーリン,Suileen
+ライハーナ,Raihana
+イーハーブ,Ihaab
+ディジュラ,Dijura
+ダウワース,Dauwaas
+ブルハーン,Bruhaan
+ナーディラ,Nadira
+星のくさび,Star Wedge
+入門志望者,Beginner Candidate
+リューチョ,Ryucho
+老木の霊魂,Old Tree Spirit
+ハナキュウ,Hanakyu
+ニャンニャ,Meownya
+宿屋オドモ,Innkeep Odomo
+神官ナテラ,Priest Natera
+シューマー,Schumer
+神官ホズキ,Priest Hozuki
+精霊の泉前,Spring of Spirits
+結晶の森前,Crystalline Forest
+町長の家前,Mayor's House
+剛腕の巨将,Strong Giant General
+ダメアップ,Damage Up
+絶牙の獣将,White Fang Beast General
+覇道の竜将,Dominant Dragon General
+なぞの魔狼,Mystery Wolf
+ひとくいが,Betterfly
+ベスキング,King She-Slime
+グリズリー,Ursa Major
+りゅう兵士,Mandrake Mangler
+パインガー,Petulant Pineapple
+ティラピア,Tilapia
+交呪の魔針,Exchange Curse Needle
+竜術士の石,Dragomancer Stone
+巨竜の霊粉,Dragon Dust
+ドガンテル,Kacrash
+火球ブレス,Breath Blast
+ムニエカ前,Munieka
+ラティーフ,Lateef
+看板・ほし,Sign - Star
 SPアイテム,Skill Point Items
 (アナザー),(Another)
 短剣(片手),dagger
@@ -28963,6 +29261,118 @@ SPアイテム,Skill Point Items
 ベテラン,veteran
 リサーチ,research
 プリンス,prince
+宵の回廊,Twilight Passage
+宵の霊堂,Tomb of Twilight
+宵の神殿,Temple of Twilight
+メネト村,Menet Village
+結晶の森,Crystalline Forest
+精霊の泉,Spring of Spirits
+農園の町,Farm Town
+ヤドリギ,Mistletoe
+憩いの地,Resting Place
+ナイヤイ,Naiyai
+ジロタン,Jirotan
+マルクゥ,Maruku
+デイゴロ,Deigoro
+ハーリス,Harris
+ニーダル,Nidal
+アーミナ,Amina
+サナーキ,Sanaki
+アドハム,Adham
+シャムス,Shamus
+ハシーブ,Hasib
+ラーシド,Rashib
+トープス,Topes
+ロナ長老,Elder Rona
+ジュッテ,Jutte
+ペピノラ,Pepinola
+パパッタ,Papatta
+ママーレ,Mamare
+ミミッタ,Mimitta
+ムムッタ,Mumutta
+メメッタ,Memetta
+クロッケ,Kurokke
+オネット,Onette
+バンボラ,Banbora
+ツェルト,Zelto
+セアトロ,Seatro
+ペリウス,Perius
+オルーサ,Orusa
+フランツ,Frantz
+リュシュ,Ryushu
+コラソン,Corason
+アネシス,Anesis
+ヘルック,Helluk
+デニッサ,Denissa
+ザニスン,Zanison
+ロイーデ,Royde
+骨付き肉,Boned Meat
+ルクリマ,Lucrima
+ニニッサ,Ninissa
+ゴバイオ,Gobaio
+ノダグン,Nodagun
+ターイウ,Taiuu
+ハナーン,Hanaan
+サミーフ,Sameef
+ザーヒル,Zahir
+ファウズ,Fauz
+ルワイダ,Ruwaida
+ワキール,Wakir
+ハキーマ,Hakeema
+ディーマ,Deema
+ギヤース,Gyaas
+ミンナト,Minnato
+スハイル,Suhairu
+ビルーラ,Birula
+クタイバ,Kutaiba
+ラーギブ,Rahgib
+ニザーム,Nizaam
+セルヴィ,Selvi
+バトラル,Batral
+ルーイン,Ruine
+ランジェ,Ranje
+シーロア,Shiroa
+バウギス,Baugis
+ゴラード,Gollard
+ロクメン,Rokumen
+ルアーイ,Ruai
+ソライマ,Soraima
+シトリン,Citrine
+フウマギ,Fuumagi
+指名限定,Naming Limit
+ワルぼう,Scruffy
+シャマム,Shamam
+マクワリ,Makuwari
+ルリーザ,Luliza
+スラまる,Slime Circle
+ジメーバ,Jimeba
+オトナシ,Otonashi
+ペリッツ,Peritz
+アデフィ,Adefi
+休憩所前,Rest Area
+大砲・東,East Cannon
+大砲・西,West Cannon
+紅蓮の竜,Crimson Dragon
+漆黒の竜,Jet Black Dragon
+ドガント,Crashle
+パリピー,Parippi
+オオトリ,Ootori
+スィーテ,Suitei
+ララモラ,Laramora
+ポッケイ,Pokkei
+シンリィ,Shinry
+バルシラ,Balsilla
+ジョスリ,Josri
+ミケーレ,Michele
+イウマド,Iwmad
+カルアス,Caluas
+ヤークト,Yakuto
+ノーミア,Normia
+ポップパ,Poppupa
+サナーン,Sanaan
+ボルタラ,Voltara
+サユサラ,Sayusara
+ピペッタ,Pipetta
 PCベビー,PC's Baby
 ×を描く,Draw an X
 鎌(両手),scythe
@@ -31722,6 +32132,64 @@ PCベビー,PC's Baby
 想望華,Yearning Flower
 マルス,Mars
 トルケ,Torq
+磁光石,Magnetic Light Stone
+ナヒド,Nahid
+ラーナ,Lanna
+スフヤ,Sufuya
+イダウ,Idau
+ムーサ,Musa
+ダラム,Daram
+ティセ,Tise
+コリダ,Corrida
+カドモ,Kadomo
+カーコ,Kaako
+クーコ,Kuuko
+リオネ,Lionei
+ダンセ,Danse
+カネレ,Kanere
+ニルダ,Nilda
+ペルケ,Perke
+ククロ,Kukuro
+ノキオ,Nokio
+ロイザ,Loiza
+チョボ,Chobo
+ラルゥ,Larue
+カマル,Kamal
+ヌール,Nuuru
+ガニー,Gunny
+ユスラ,Yusula
+ヒンド,Hindo
+ウンム,Unmu
+ムナー,Munah
+マウザ,Mauza
+ギナー,Ginner
+ヤザン,Yazan
+マルド,Mardo
+アスパ,Aspa
+タツミ,Tatsumi
+ネレア,Nerea
+岩屋前,Grotto
+聖簾前,Sacred Screen
+風車前,Windmill
+火山前,Volcano
+ドガン,Crash
+ルミィ,Lumi
+マルゴ,Margo
+ホズキ,Hozuki
+リズク,Rizk
+ラティ,Rati
+ロビサ,Lovisa
+オドモ,Odomo
+セララ,Serara
+ナテラ,Natera
+オレイ,Olay
+ロミナ,Romina
+シロギ,Shirogi
+ミアナ,Miana
+リュバ,Lyuba
+大祭壇,Great Altar
+ダイヤ,Diamond
+CT短縮,Charge Time Reduction
 兵士A,Soldier A
 兵士B,Soldier B
 兵士C,Soldier C
@@ -31969,6 +32437,14 @@ PCベビー,PC's Baby
 写真,photo
 封筒,envelope
 創失,unmaking
+深部,Depths
+ラキ,Raki
+半鐘,Fire Bell
+金槌,Gold Hammer
+リオ,Leo
+回復,Recovery
+竜術,DGM
+ロナ,Rona
 駅,train station
 泉,fountain
 館,mansion
@@ -31984,479 +32460,3 @@ PCベビー,PC's Baby
 棍,rod
 扇,fan
 弓,bow
-かばんを持てない者たちへ,To Those With Full Bags
-バシルーラ屋は店終い！？,Bazoom Girls Are Closing?!
-バシっ娘を継ぐ石,The Bazoom Girl's Stone
-竜と生きるは竜術士,A Dragomancer's Life
-不器用な魔法使い,The Incompetent Mage
-竜術士の謎,Dragomancer's Mystery
-それぞれの覚悟,Each One's Resolve
-いざ　ドラゴラム！,Now, Puff!
-来たるべき日　決別の時,Time Has Come For Goodbyes
-竜と契約せし者,One Who Made a Dragon Pact
-ぶんぶんパニック！,Buzz Panic!
-やさしさに包まれて,Wrapped In Kindness
-奇門遁甲の式・参,3rd Divination Ceremony
-妖しい輝きを目指して,Aim For a Suspicious Shine
-旅のお供に　超便利ツール,Useful Tool For Travelers
-使者の霊堂,Tomb of the Messenger
-悪夢の霊堂,Tomb of Nightmares
-宵の回廊,Twilight Passage
-闇夜の霊堂,Tomb of Darkness
-ウォルド地方,Wold Region
-ウォルドの聖簾,Wold
-姉神封印神殿,Goddess Seal Temple
-峠のほこら,Mountain Pass Shrine
-聖湖ゼニート,Sacred Lake Zenito
-宵の霊堂,Tomb of Twilight
-宵の神殿,Temple of Twilight
-メネト村,Menet Village
-ヤドリギ広場,Mistletoe Plaza
-レストリア平野,Restoria Plains
-大樹の鳥籠,Big Tree Birdcage
-ゼニスの封宮,Zenith Palace
-ムニエカ地方,Munieka Region
-メネト地方,Menet Region
-アマラーク地方,Amalark Region
-レストリア地方,Restoria Region
-バカン山道,Bakan Mountain Pass
-はじまりの地,Land of Beginnings
-ラランブラ山道,Larambla Mountain Pass
-結晶の森,Crystalline Forest
-精霊の泉,Spring of Spirits
-シュタール鉱野,Stahl Minefield
-ムニエカの町,Munieka
-エドアルドの家,Eduardo's House
-人形師のアトリエ,Doll Maker's Workshop
-本部テント,Headquarters Tent
-バカンウグレ遺跡,Bakanugure Ruins
-作業場・跡地,Workshop - Ruins
-ハディン採石場,Hadine Quarry
-アマラーク城下町,Amalark Castle Town
-アマラーク城,Amalark Castle
-川辺の休憩所,Riverside Rest Area
-タービア草原,Turbia Meadows
-農園の町,Farm Town
-エドアルドの部屋,Eduardo's Room
-ヤドリギ,Mistletoe
-深部,Depths
-イルシーム邸,Ilseem Mansion
-竜のすみか,Dragon's Den
-竜術士の家,Dragomancer's House
-憩いの地,Resting Place
-守護天使像,Guardian Angel Statue
-磁光石,Magnetic Light Stone
-女神ゼネシア,Goddess Zenethia
-創失ＮＰＣ１,Unmaking NPC 1
-創失ＮＰＣ２,Unmaking NPC 2
-植物のタネ,Plant Seeds
-バカンウグレ遺跡の彫像,Bakanugure Ruins Sculpture
-果ての大地の簡易地図,Simple Map of Land's End
-星封の結晶,Star Seal Crystal
-ガンダット,Gandat
-ドナディア,Donadia
-ナイヤイ,Naiyai
-ジロタン,Jirotan
-マルクゥ,Maruku
-デイゴロ,Deigoro
-７ｍｖオーガ女,7mv Ogre Woman
-７ｍｖウェディー女,7mv Weddie Woman
-７ｍｖプク男,7mv Puku Man
-７ｍｖエルフ男,7mv Elf Man
-７ｍｖドワーフ男,7mv Dwarf Man
-ラキ,Raki
-リズクの母,Rizk's Mother
-リズクの父,Rizk's Father
-ハーリス,Harris
-ナヒド,Nahid
-ニーダル,Nidal
-アーミナ,Amina
-ラーナ,Lanna
-スフヤ,Sufuya
-サナーキ,Sanaki
-イダウ,Idau
-ムーサ,Musa
-ダラム,Daram
-アドハム,Adham
-シャムス,Shamus
-ハシーブ,Hasib
-ラーシド,Rashib
-まがまがしいキノコ,Ominous Mushroom
-トープス,Topes
-眠りのフクロウ,Sleeping Owl
-永眠のフクロウ魔人,Owl of Eternal Sleep
-ティセ,Tise
-ロナ長老,Elder Rona
-宿屋スィーテ,Innkeep Suitei
-取引商ララモラ,Trader Laramora
-道具屋ポッケイ,Item Shop Pokkei
-預かり所ラティ,Storage Rati
-コリダ,Corrida
-ジュッテ,Jutte
-カドモ,Kadomo
-ペピノラ,Pepinola
-パパッタ,Papatta
-ママーレ,Mamare
-ミミッタ,Mimitta
-ムムッタ,Mumutta
-メメッタ,Memetta
-カーコ,Kaako
-クーコ,Kuuko
-クロッケ,Kurokke
-嘆きのロベール,Lamenting Robere
-チュピちゃん,Chupi
-美しい人形,Beautiful Doll
-オネット,Onette
-リオネ,Lionei
-バンボラ,Banbora
-ツェルト,Zelto
-ダンセ,Danse
-カネレ,Kanere
-セアトロ,Seatro
-ペリウス,Perius
-オルーサ,Orusa
-ニルダ,Nilda
-フランツ,Frantz
-ペルケ,Perke
-ククロ,Kukuro
-リュシュ,Ryushu
-ノキオ,Nokio
-コラソン,Corason
-ディッチャ,Ditcha
-アネシス,Anesis
-ヘルック,Helluk
-夢見の香炉,Dream Incense
-ちいさな花束,Small Bouquet
-豪華な花束,Extravagant Bouquet
-歓迎会用テーブル１,Table for Welcome Party 1
-歓迎会用テーブル２,Table for Welcome Party 2
-エドアルドの木槌,Eduardo's Mallet
-主神グランゼニス,God Gran Zenith
-ロイザ,Loiza
-デニッサ,Denissa
-ザニスン,Zanison
-ロイーデ,Royde
-ケルジャブ,Kerjab
-鳥籠の番人,Bird Cage Keeper
-水くみバケツ,Water Bucket
-守護天使のお守り,Guardian Angel Amulet
-夕飯セット,Dinner Set
-骨付き肉,Boned Meat
-火のついていない燭台,Unlit Candlestick
-ルクリマ,Lucrima
-ニニッサ,Ninissa
-チョボ,Chobo
-ゴバイオ,Gobaio
-ノダグン,Nodagun
-７ｍｖエックス君竜術士,7mv X Dragomancer
-アズ・フーラズーラ,Azu Hula Zula
-バシっ娘シンリィ,Bazoom Girl Shinry
-ラルゥ,Larue
-チャーベン,Chaben
-大長老バルシラ,Great Elder Balsilla
-呪魔バルシラ,Cursed Balsilla
-宿屋ジョスリ,Innkeep Josri
-預かり所マルゴ,Storage Margo
-道具屋ミケーレ,Item Shop Michele
-取引商ロビサ,Trader Lovisa
-宿屋ラティーフ,Innkeep Lateef
-預かり所イウマド,Storage Iwmad
-道具屋カルアス,Item Shop Caluas
-取引商ヤークト,Trader Yakuto
-ターイウ,Taiuu
-ファティナ,Fatina
-バヒージャ,Bahija
-カマル,Kamal
-ヌール,Nuuru
-ジャドアーン,Jadoaan
-ハナーン,Hanaan
-ガニー,Gunny
-ユスラ,Yusula
-アーティファ,Artifa
-サミーフ,Sameef
-ザーヒル,Zahir
-ザーフィラ,Zafira
-ヒンド,Hindo
-ファウズ,Fauz
-マアムーン,Maamoon
-ルワイダ,Ruwaida
-ワキール,Wakir
-ウンム,Unmu
-ムナー,Munah
-マウザ,Mauza
-ハキーマ,Hakeema
-ギナー,Ginner
-ディーマ,Deema
-ガンナーム,Gannam
-イズハール,Izhar
-ウィダード,Ouidaad
-スィーリン,Suileen
-ギヤース,Gyaas
-ライハーナ,Raihana
-イーハーブ,Ihaab
-ディジュラ,Dijura
-ミンナト,Minnato
-スハイル,Suhairu
-ヤザン,Yazan
-ダウワース,Dauwaas
-ビルーラ,Birula
-クタイバ,Kutaiba
-ラーギブ,Rahgib
-ブルハーン,Bruhaan
-ナーディラ,Nadira
-マルド,Mardo
-ニザーム,Nizaam
-星のくさび,Star Wedge
-セルヴィ,Selvi
-バトラル,Batral
-謎のバケモノ,Mystery Monster
-アスパ,Aspa
-ルーイン,Ruine
-ランジェ,Ranje
-シーロア,Shiroa
-虚竜王グリーデル,Griedel, Dragon King of the Void
-過去竜術士Ａ,Past Dragomancer A
-過去竜術士B,Past Dragomancer B
-過去竜術士C,Past Dragomancer C
-入門志望者,Beginner Candidate
-新米竜術士Ａ,Novice Dragomancer A
-新米竜術士B,Novice Dragomancer B
-新米竜術士C,Novice Dragomancer C
-竜術士ランジェ,Dragomancer Ranje
-バウギス,Baugis
-リューチョ,Ryucho
-タツミ,Tatsumi
-ゴラード,Gollard
-ランジェのペンダント,Ranje's Pendant
-ロクメン,Rokumen
-ルアーイ,Ruai
-ソライマ,Soraima
-シャムディーン,Shamudeen
-バルバードル,Barbadol
-シトリン,Citrine
-半鐘,Fire Bell
-金槌,Gold Hammer
-老木の霊魂,Old Tree Spirit
-ハナキュウ,Hanakyu
-フウマギ,Fuumagi
-めざましハンドベル,Alarm Clock Bell
-アラクサンデル,Alaxander
-指名限定,Naming Limit
-ユーリンチー,Yulinchi
-ニャンニャ,Meownya
-ワルぼう,Scruffy
-宿屋オドモ,Innkeep Odomo
-案内係ノーミア,Guide Normia
-預かり所セララ,Storage Serara
-道具屋ポップパ,Item Shop Poppupa
-取引商サナーン,Trader Sanaan
-神官ナテラ,Priest Natera
-紹介人オレイ,Introducer Olay
-魔物管理人ロミナ,Monster Manager Romina
-道具屋ボルタラ,Item Shop Voltara
-便せん屋シロギ,Paper Shop Shirogi
-郵便局員サユサラ,Postman Sayusara
-魚交換員ピペッタ,Fish Exchange Pipetta
-シスター・ミアナ,Sister Miana
-シャマム,Shamam
-マクワリ,Makuwari
-ゼニートの机,Zenito Desk
-ゼニートのイス,Zenito Chair
-ルリーザ,Luliza
-シューマー,Schumer
-スラまる,Slime Circle
-ジメーバ,Jimeba
-オトナシ,Otonashi
-ペリッツ,Peritz
-神官ホズキ,Priest Hozuki
-預かり所リュバ,Storage Lyuba
-ネレア,Nerea
-リオ,Leo
-アデフィ,Adefi
-バシッルーラストーン,Bazoom Stone
-休憩所前,Rest Area
-ラランブラ前,Larambla
-シュタール前,Stahl
-岩屋前,Grotto
-聖簾前,Sacred Screen
-風車前,Windmill
-精霊の泉前,Spring of Spirits
-結晶の森前,Crystalline Forest
-町長の家前,Mayor's House
-火山前,Volcano
-ゼニスの封宮・大祭壇,Zenith Palace - Great Altar
-エターナルガーデン,Eternal Garden
-裏格闘場・闘いの広間,Underground Arena - Monstrous Pit
-ルーミリアの家,Rumilia's House
-異界アスタルジア深部,Otherworld Astalgia Depths
-異界アスタルジア,Otherworld Astalgia
-異界前線基地,Otherworld Outpost
-ラランブラ洞穴,Larambla Cave
-レクスルクスの研究室,Lexlux Laboratory
-フーラズーラ,Hula Zula
-プリズンイーグル,Prison Eagle
-剛腕の巨将,Strong Giant General
-ドリアンデッド,Dorian Dead
-異界獣ヘイズシナー,Otherworldly Beast Haze Sinner
-ダメアップ,Damage Up
-絶牙の獣将,White Fang Beast General
-アトラス1200,Atlas 1200
-ブラッドエイプス,Blood Apes
-やまびこの陣,Echoing Circle
-ブラッディ・ゼア,Bloody Zea
-覇道の竜将,Dominant Dragon General
-実装テストアトラス,Implementation Test Atlas
-なぞの魔狼,Mystery Wolf
-なぞの黒騎士,Mystery Black Knight
-時間巻き戻し,Time Rewinding
-タイムマスター,The Time Being
-プチドラゴン,Frail Green Dragon
-青鮮の根絶将コンネ,Fresh Eradication General Cornelia
-ウパソルジャー,Wooper Trooper
-ひとくいが,Betterfly
-じんめんちょう,Batterfly
-ノーライフロード,No Life Lord
-ベスキング,King She-Slime
-デザートモデル,Dune Stalker
-スカラベテンツク,Scarab Slugger
-くろがねの巨人,Darksteel Giant
-異界獣ヘイズバット,Otherworldly Beast Haze Bat
-リターナーモア,Returner Mower
-ビビッドヘッド,Marbled Moai
-グリズリー,Ursa Major
-カカロン・陽,Klashmi - Yang
-クシャラミ・陽,Kamashki - Yang
-バルバルー・陽,Blamara - Yang
-ドメディ・陽,Damninui - Yang
-ダースリカント,Ursa Mega
-魔改造クリムゾン,Modified Crimson
-タホバルキー,Jumbo Drackmage
-りゅう兵士,Mandrake Mangler
-おおきづち・祖,Ancestor Hammerhood
-ブラウニー・祖,Ancestor Brownie
-がいこつ・祖,Ancestor Skeleton
-ガチャコッコ・祖,Ancestor Clockwork Cuckoo
-CT短縮,Charge Time Reduction
-回復,Recovery
-メタルーキング,Rookie Metal King Slime
-ぐんたいガニ・祖,Ancestor Crabid
-ズッキーニャ・祖,Ancestor Cruelcumber
-スライム・祖,Ancestor Slime
-スライムベス・祖,Ancestor She-Slime
-ドラキー・祖,Ancestor Dracky
-タホドラキー・祖,Ancestor Drackmage
-ねこまどう・祖,Ancestor Meowgician
-みならいあくま・祖,Ancestor Winkster
-モーモン・祖,Ancestor Teeny Sanguini
-メガトンブラザーズ,Megaton Brothers
-もみじこぞう・祖,Ancestor Leafy Larrikin
-リリパット・祖,Ancestor Bodkin Archer
-どくやずきん・祖,Ancestor Bodkin Fletcher
-おばけキノコ・祖,Ancestor Funghoul
-マタンゴ・祖,Ancestor Morphean Mushroom
-テンツク・祖,Ancestor Slugger
-ひとくいばこ・祖,Ancestor Cannibox
-たまねぎキング,Onion King Slime
-まいしんベリー,Strawbergine
-パインガー,Petulant Pineapple
-たまねぎスライム,Onion Slime
-大砲・東,East Cannon
-大砲・西,West Cannon
-紅蓮の竜,Crimson Dragon
-青の巨人ブルメル強,Apex Blue Giant Blumel
-漆黒の竜,Jet Black Dragon
-赤の巨人レドノフ強,Apex Red Giant Rednov
-緑の巨人グリモア強,Apex Green Giant Greemor
-レグナード変異体,Variant Regnad
-ダークキング変異体,Variant Dark King Slime
-メイヴ変異体,Variant Meiv
-異界獣ヘイズバイオ,Otherworldly Beast Haze Bio
-お掃除マシン・白式,White Cleaning Machine
-ヘイズバットの分身,Avatar of Haze Bat
-異界獣ヘイズナイト,Otherworldly Beast Haze Knight
-異界獣ヘイズキング,Otherworldly Beast Haze King
-テストの魔人,Test Genie
-魔王アトラス1200,Demon King Atlas 1200
-最果ての修道院,Furthest Monastery
-アナザーハート,Another Heart
-青の上錬金石,Sapphire Gem
-経験値の古文書・竜術,Experience Scroll (DGM)
-メタキンボスメダル,Metal King Boss Medal
-ティラピア,Tilapia
-タイムマスターコイン,The Time Being Coin
-タイムマスターカード,The Time Being Card
-ゼニアス印章,Zeniath Stamp
-タイムマスター練習札,The Time Being Tag
-タイムマスターメダル,The Time Being Medal
-こころの結晶,Heart Crystal
-アスタルジアの欠片,Astalgia Shard
-旅立ちのこころ,Heart of Departure
-うつろいの布,Changing Cloth
-へんげのかばん,Mod Bag
-イナズマ山椒,Lightning Pepper
-宵と暁の伝承の本,Lore of Dawn and Twilight
-精霊の泉の水,Spring of Spirits Water
-サンプル・ツメ,Sample - Claw
-サンプル・トゲ,Sample - Thorn
-サンプル・鉱石,Sample - Ore
-ドゥラ院長のメモ,Director Dura's Note
-交呪の魔針,Exchange Curse Needle
-竜術士の石,Dragomancer Stone
-巨竜の霊粉,Dragon Dust
-アブない毒矢,Perilous Poisoned Arrow
-ゆらめく妖花,Flickering Flower
-アスタルジアの護符,Amulet of Astalgia
-参の式修了の陽符,Yang III Completion Charm
-竜術,DGM
-蘇生時 早詠みの杖,Faster Caster Savior
-行動時10%で血吸い,Siphon On Action 10%
-ドラゴラム強化,Puff! Boost
-セイクリッドボウ,Sacred Shot
-ドガン,Crash
-ドガント,Crashle
-ドガンテル,Kacrash
-マッドブレス,Muddled Breath
-火球ブレス,Breath Blast
-エレメントブースト,In the Element
-ドガンタロス,Kacrashle
-ルミィ,Lumi
-パリピー,Parippi
-オオトリ,Ootori
-ムニエカ前,Munieka
-マルゴ,Margo
-ホズキ,Hozuki
-リズク,Rizk
-ロナ,Rona
-スィーテ,Suitei
-ララモラ,Laramora
-ポッケイ,Pokkei
-ラティ,Rati
-シンリィ,Shinry
-バルシラ,Balsilla
-ジョスリ,Josri
-ミケーレ,Michele
-ロビサ,Lovisa
-ラティーフ,Lateef
-イウマド,Iwmad
-カルアス,Caluas
-ヤークト,Yakuto
-オドモ,Odomo
-ノーミア,Normia
-セララ,Serara
-ポップパ,Poppupa
-サナーン,Sanaan
-ナテラ,Natera
-オレイ,Olay
-ロミナ,Romina
-ボルタラ,Voltara
-シロギ,Shirogi
-サユサラ,Sayusara
-ピペッタ,Pipetta
-ミアナ,Miana
-リュバ,Lyuba
-大祭壇,Great Altar
-さいほう素材屋,Sewing Material Shop
-ダイヤ,Diamond
-看板・ほし,Sign - Star
-武闘家ヤーン分身C,Martial Artist Yarn Copy C
-ナラジアの背景,Narasia
