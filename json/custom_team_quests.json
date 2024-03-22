@@ -6,10 +6,10 @@
     "プヨンターゲットを　20匹討伐する。": "Defeat 20 Healium Balloons."
   },
   "3": {
-    "レンダーシア大陸の　魔女の森にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Witchwood in\nLendersia."
+    "レンダーシア大陸の　魔女の森にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Witchwood in\nLendersia."
   },
   "4": {
-    "モンスターを　50匹討伐する。": "Defeat 50 monsters."
+    "モンスターを　40匹討伐する。": "Defeat 40 monsters."
   },
   "5": {
     "落ちているアイテムを　30個拾う。": "Pick up 30 items off the ground."
@@ -24,7 +24,7 @@
     "魔法の迷宮を　12回クリアする。": "Clear the Magic Maze 12 times."
   },
   "9": {
-    "オーグリード大陸のグレン領東にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Glen East in\nOgreed."
+    "オーグリード大陸のグレン領東にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Glen East in\nOgreed."
   },
   "10": {
     "メギドロイドを　20匹討伐する。": "Defeat 20 Mechidroids."
@@ -36,7 +36,7 @@
     "魔法の迷宮で出現する　バズズを　1匹討伐する。": "Defeat Pazuzu 1 time in the\nMagic Maze."
   },
   "13": {
-    "レンダーシア大陸の　ロヴォス高地にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Rovos Highlands in\nLendersia."
+    "レンダーシア大陸の　ロヴォス高地にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Rovos Highlands in\nLendersia."
   },
   "14": {
     "落ちているアイテムを　10個拾う。": "Pick up 10 items off the ground."
@@ -69,10 +69,10 @@
     "釣りで　魚を　8匹　釣り上げる。": "Catch 8 fish."
   },
   "24": {
-    "レンダーシア大陸の　アラハギーロ地方にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Al-Ahagiro Region in\nLendersia."
+    "レンダーシア大陸の　アラハギーロ地方にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Al-Ahagiro Region in\nLendersia."
   },
   "25": {
-    "水の領界の　オーフィーヌ海底にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Orfine Undersea in the\nWater Realm."
+    "水の領界の　オーフィーヌ海底にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Orfine Undersea in the\nWater Realm."
   },
   "26": {
     "邪神の宮殿で　2回　勝利する。": "Win 2 times in the Dark Deity's Palace."
@@ -90,7 +90,7 @@
     "タップペンギーを　20匹討伐する。": "Defeat 20 Pogoin' Penguins."
   },
   "31": {
-    "レンダーシア大陸の　メルサンディ穀倉帯にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Melsandy Granary Belt in\nLendersia."
+    "レンダーシア大陸の　メルサンディ穀倉帯にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Melsandy Granary Belt in\nLendersia."
   },
   "32": {
     "落ちているアイテムを　20個拾う。": "Pick up 20 items off the ground."
@@ -120,13 +120,13 @@
     "ピラミッドの　第八霊廟で　1回　勝利する。": "Clear the Pyramid's 8th Tomb once."
   },
   "41": {
-    "氷の領界の　とこしえの氷原にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Eternal Ice Field in the\nIce Realm."
+    "氷の領界の　とこしえの氷原にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Eternal Ice Field in the\nIce Realm."
   },
   "42": {
     "魔法の迷宮で出現する　ドン・モグーラを　1匹討伐する。": "Defeat Don Mole 1 time in the\nMagic Maze."
   },
   "43": {
-    "レンダーシア大陸の　ねじれたる異形の大地にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Twisted Deformed Earth in\nLendersia."
+    "レンダーシア大陸の　ねじれたる異形の大地にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Twisted Deformed Earth in\nLendersia."
   },
   "44": {
     "常闇の聖戦で　ダークキングを　1匹討伐する。": "Defeat Dark King Slime 1 time."
@@ -146,11 +146,11 @@
   "49": {
     "シルバーマントを　20匹討伐する。": "Defeat 20 Silver Capes."
   },
-  "50": {
+  "40": {
     "グリンバングルを　20匹討伐する。": "Defeat 20 Snotbonces."
   },
   "51": {
-    "プクランド大陸のオルフェア地方西にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Orphea Region West in\nPukuland."
+    "プクランド大陸のオルフェア地方西にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Orphea Region West in\nPukuland."
   },
   "52": {
     "職人作業を　8回　成功させる。": "Successfully craft 8 times."
@@ -192,7 +192,7 @@
     "魔法の迷宮で出現する　アトラスを　1匹討伐する。": "Defeat Atlas 1 time in the\nMagic Maze."
   },
   "65": {
-    "プクランド大陸のオルフェア地方東にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Orphea Region East in\nPukuland."
+    "プクランド大陸のオルフェア地方東にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Orphea Region East in\nPukuland."
   },
   "66": {
     "鳥系のモンスターを　80匹討伐する。": "Defeat 80 Bird-type monsters."
@@ -213,13 +213,13 @@
     "魔法の迷宮で出現する　輪王ザルトラを　1匹討伐する。": "Defeat Ring King Zaltra 1 time in the\nMagic Maze."
   },
   "72": {
-    "水系のモンスターを　50匹討伐する。": "Defeat 50 Water-type monsters."
+    "水系のモンスターを　40匹討伐する。": "Defeat 40 Water-type monsters."
   },
   "73": {
     "依頼書クエストを　4回クリアする。": "Clear 4 request form quests."
   },
   "74": {
-    "プクランド大陸の風車の丘にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Windmill Way in\nPukuland."
+    "プクランド大陸の風車の丘にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Windmill Way in\nPukuland."
   },
   "75": {
     "カーディナルナイトを　20匹討伐する。": "Defeat 20 Cardinal Knights."
@@ -234,7 +234,7 @@
     "マジックアーマーを　20匹討伐する。": "Defeat 20 Charmours."
   },
   "79": {
-    "ウェナ諸島の猫島にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters on Cat Island in the\nWena Islands."
+    "ウェナ諸島の猫島にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters on Cat Island in the\nWena Islands."
   },
   "80": {
     "チーム全体で　職人作業中に大成功を　4回達成する。": "Get a Perfection 4 times while crafting as a team."
@@ -246,10 +246,10 @@
     "釣りで　魚を　5匹　釣り上げる。": "Catch 5 fish."
   },
   "83": {
-    "プクランド大陸のメギラザの洞くつにいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Megilaza Cave in\nPukuland."
+    "プクランド大陸のメギラザの洞くつにいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Megilaza Cave in\nPukuland."
   },
   "84": {
-    "氷の領界の　白霜の流氷野にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Frosty Floes in the\nIce Realm."
+    "氷の領界の　白霜の流氷野にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Frosty Floes in the\nIce Realm."
   },
   "85": {
     "ドルマージュを　20匹討伐する。": "Defeat 20 Zamtasms."
@@ -261,7 +261,7 @@
     "かげのきしを　20匹討伐する。": "Defeat 20 Dark Skeletons."
   },
   "88": {
-    "水の領界の　ガイオス古海にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Gaios Old Sea in the\nWater Realm."
+    "水の領界の　ガイオス古海にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Gaios Old Sea in the\nWater Realm."
   },
   "89": {
     "職人作業を　2回　成功させる。": "Successfully craft 2 times."
@@ -282,10 +282,10 @@
     "ジェイドフレアを　20匹討伐する。": "Defeat 20 Jade Flares."
   },
   "95": {
-    "レンダーシア大陸の　セレドット山道にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Celedot Mountain Pass in\nLendersia."
+    "レンダーシア大陸の　セレドット山道にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Celedot Mountain Pass in\nLendersia."
   },
   "96": {
-    "炎の領界の　業炎の聖塔にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Fire Tower in the\nFire Realm."
+    "炎の領界の　業炎の聖塔にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Fire Tower in the\nFire Realm."
   },
   "97": {
     "魔法の迷宮で出現する　キラーマジンガ強を　1匹討伐する。": "Defeat Apex Uberkilling Machine 1 time in the\nMagic Maze."
@@ -303,13 +303,13 @@
     "ナイトキャットを　20匹討伐する。": "Defeat 20 Night Cats."
   },
   "102": {
-    "氷の領界の　カーレルの氷雪洞にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Carrel Ice Cave in the\nIce Realm."
+    "氷の領界の　カーレルの氷雪洞にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Carrel Ice Cave in the\nIce Realm."
   },
   "103": {
-    "レンダーシア大陸の　スレア海岸にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters on Surea Coast in\nLendersia."
+    "レンダーシア大陸の　スレア海岸にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters on Surea Coast in\nLendersia."
   },
   "104": {
-    "植物系のモンスターを　50匹討伐する。": "Defeat 50 Plant-type monsters."
+    "植物系のモンスターを　40匹討伐する。": "Defeat 40 Plant-type monsters."
   },
   "105": {
     "ベヒードスを　20匹討伐する。": "Defeat 20 Drakulurches."
@@ -324,13 +324,13 @@
     "魔法の迷宮で出現する　ベリアルを　1匹討伐する。": "Defeat Belial 1 time in the\nMagic Maze."
   },
   "109": {
-    "ドワチャッカ大陸のエゼソル峡谷にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Ezesol Canyon in\nDwachakka."
+    "ドワチャッカ大陸のエゼソル峡谷にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Ezesol Canyon in\nDwachakka."
   },
   "110": {
     "怪人系のモンスターを　90匹討伐する。": "Defeat 90 Humanoid-type monsters."
   },
   "111": {
-    "プクランド大陸のオルッパ地下洞くつにいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Orppa Underground Cave in\nPukuland."
+    "プクランド大陸のオルッパ地下洞くつにいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Orppa Underground Cave in\nPukuland."
   },
   "112": {
     "シャドーサタンを　20匹討伐する。": "Defeat 20 Hypothermions."
@@ -345,13 +345,13 @@
     "エビルソーサラーを　20匹討伐する。": "Defeat 20 Evil Sorcerers."
   },
   "116": {
-    "エルトナ大陸のスイゼン湿原にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Suizen Marsh in\nEltona."
+    "エルトナ大陸のスイゼン湿原にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Suizen Marsh in\nEltona."
   },
   "117": {
     "イーブルフライを　20匹討伐する。": "Defeat 20 Cutterflies."
   },
   "118": {
-    "嵐の領界の　翠嵐の聖塔にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Storm Tower in the\nStorm Realm."
+    "嵐の領界の　翠嵐の聖塔にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Storm Tower in the\nStorm Realm."
   },
   "119": {
     "いにしえのゼルメアを　1回　クリアする。": "Clear Ancient Zelmea 1 time."
@@ -360,13 +360,13 @@
     "ゴールドオークを　20匹討伐する。": "Defeat 20 Orc Chieftains."
   },
   "121": {
-    "レンダーシア大陸の　古き神の遺跡にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Historic Ruins in\nLendersia."
+    "レンダーシア大陸の　古き神の遺跡にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Historic Ruins in\nLendersia."
   },
   "122": {
-    "エレメント系のモンスターを　50匹討伐する。": "Defeat 50 Element-type monsters."
+    "エレメント系のモンスターを　40匹討伐する。": "Defeat 40 Element-type monsters."
   },
   "123": {
-    "闇の領界の　影の谷にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Dark Vale in the\nDark Realm."
+    "闇の領界の　影の谷にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Dark Vale in the\nDark Realm."
   },
   "124": {
     "ほのおのせんしを　20匹討伐する。": "Defeat 20 Flamethrowers."
@@ -381,7 +381,7 @@
     "クリムゾングレイブを　20匹討伐する。": "Defeat 20 Crimson Glaives."
   },
   "128": {
-    "レンダーシア大陸の　ドラクロン山地にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Draklon Mountains in\nLendersia."
+    "レンダーシア大陸の　ドラクロン山地にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Draklon Mountains in\nLendersia."
   },
   "129": {
     "鳥系のモンスターを　90匹討伐する。": "Defeat 90 Bird-type monsters."
@@ -390,7 +390,7 @@
     "アンゴラモーアを　20匹討伐する。": "Defeat 20 Angola Fauns."
   },
   "131": {
-    "嵐の領界の　天ツ風の原にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Heavenly Field in the\nStorm Realm."
+    "嵐の領界の　天ツ風の原にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Heavenly Field in the\nStorm Realm."
   },
   "132": {
     "ピラミッドの　第四霊廟で　1回　勝利する。": "Clear the Pyramid's 4th Tomb once."
@@ -423,7 +423,7 @@
     "魔法の迷宮で出現する　ドラゴンガイアを　1匹討伐する。": "Defeat Gaia Dragon 1 time in the\nMagic Maze."
   },
   "142": {
-    "ドワチャッカ大陸のカルデア洞穴にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Chaldea Cave in\nDwachakka."
+    "ドワチャッカ大陸のカルデア洞穴にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Chaldea Cave in\nDwachakka."
   },
   "143": {
     "エレメント系のモンスターを　70匹討伐する。": "Defeat 70 Element-type monsters."
@@ -441,12 +441,12 @@
     "メタルライダーを　20匹討伐する。": "Defeat 20 Metal Slime Knights."
   },
   "148": {
-    "エルトナ大陸のモリナラ地下洞にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Molinara Underground in\nEltona."
+    "エルトナ大陸のモリナラ地下洞にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Molinara Underground in\nEltona."
   },
   "149": {
-    "レンダーシア大陸の　リャナ荒涼地帯にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Lyana Desolate Area in\nLendersia."
+    "レンダーシア大陸の　リャナ荒涼地帯にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Lyana Desolate Area in\nLendersia."
   },
-  "150": {
+  "140": {
     "ピラミッドの　第一霊廟で　1回　勝利する。": "Clear the Pyramid's 1st Tomb once."
   },
   "151": {
@@ -456,13 +456,13 @@
     "トロルキングを　20匹討伐する。": "Defeat 20 Great Trolls."
   },
   "153": {
-    "ウェナ諸島のジュレー島上層にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters on Upper Jule Island in the\nWena Islands."
+    "ウェナ諸島のジュレー島上層にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters on Upper Jule Island in the\nWena Islands."
   },
   "154": {
     "物質系のモンスターを　80匹討伐する。": "Defeat 80 Material-type monsters."
   },
   "155": {
-    "氷の領界の　氷晶の聖塔にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Ice Tower in the\nIce Realm."
+    "氷の領界の　氷晶の聖塔にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Ice Tower in the\nIce Realm."
   },
   "156": {
     "魔法の迷宮で出現する　ギュメイ将軍を　1匹討伐する。": "Defeat Goresby-Purrvis 1 time in the\nMagic Maze."
@@ -474,7 +474,7 @@
     "物質系のモンスターを　60匹討伐する。": "Defeat 60 Material-type monsters."
   },
   "159": {
-    "物質系のモンスターを　50匹討伐する。": "Defeat 50 Material-type monsters."
+    "物質系のモンスターを　40匹討伐する。": "Defeat 40 Material-type monsters."
   },
   "160": {
     "メタルブラザーズを　2匹討伐する。": "Defeat 2 Metal Medleys."
@@ -483,10 +483,10 @@
     "ずしおうまるを　20匹討伐する。": "Defeat 20 Sintaurs."
   },
   "162": {
-    "エルトナ大陸のカミハルムイ領南にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Kamiharmui South in\nEltona."
+    "エルトナ大陸のカミハルムイ領南にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Kamiharmui South in\nEltona."
   },
   "163": {
-    "あくま系のモンスターを　50匹討伐する。": "Defeat 50 Demon-type monsters."
+    "あくま系のモンスターを　40匹討伐する。": "Defeat 40 Demon-type monsters."
   },
   "164": {
     "ぶちスライムを　20匹討伐する。": "Defeat 20 Mottle Slimes."
@@ -498,7 +498,7 @@
     "じごくのよろいを　20匹討伐する。": "Defeat 20 Infernal Armours."
   },
   "167": {
-    "レンダーシア大陸の　レビュール街道北にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Reviewle Highway North in\nLendersia."
+    "レンダーシア大陸の　レビュール街道北にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Reviewle Highway North in\nLendersia."
   },
   "168": {
     "植物系のモンスターを　60匹討伐する。": "Defeat 60 Plant-type monsters."
@@ -510,7 +510,7 @@
     "バッファロンを　20匹討伐する。": "Defeat 20 Buffalogres."
   },
   "171": {
-    "ドラゴン系のモンスターを　50匹討伐する。": "Defeat 50 Dragon-type monsters."
+    "ドラゴン系のモンスターを　40匹討伐する。": "Defeat 40 Dragon-type monsters."
   },
   "172": {
     "じごくのたまねぎを　20匹討伐する。": "Defeat 20 Brimstone Bulbs."
@@ -522,13 +522,13 @@
     "ダークプラネットを　20匹討伐する。": "Defeat 20 Dark Planets."
   },
   "175": {
-    "オーグリード大陸のザマ峠にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Zama Pass in\nOgreed."
+    "オーグリード大陸のザマ峠にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Zama Pass in\nOgreed."
   },
   "176": {
-    "ウェナ諸島の地底湖の洞くつにいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Underground Lake Cave in the\nWena Islands."
+    "ウェナ諸島の地底湖の洞くつにいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Underground Lake Cave in the\nWena Islands."
   },
   "177": {
-    "水の領界の　天水の聖塔にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Water Tower in the\nWater Realm."
+    "水の領界の　天水の聖塔にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Water Tower in the\nWater Realm."
   },
   "178": {
     "アストルティア防衛軍で　防衛か討伐を　1回　達成する。": "Achieve a Defense or Subjugation 1 time in the\nAstoltia Defense Force."
@@ -549,7 +549,7 @@
     "魔法の迷宮で出現する　暗黒の魔人を　1匹討伐する。": "Defeat Ruin 1 time in the\nMagic Maze."
   },
   "184": {
-    "エルトナ大陸の久遠の森にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Forest of Eternity in\nEltona."
+    "エルトナ大陸の久遠の森にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Forest of Eternity in\nEltona."
   },
   "185": {
     "スライム系のモンスターを　90匹討伐する。": "Defeat 90 Slime-type monsters."
@@ -558,7 +558,7 @@
     "スモールグールを　20匹討伐する。": "Defeat 20 Drooling Ghouls."
   },
   "187": {
-    "闇の領界の　冥闇の聖塔にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Dark Tower in the\nDark Realm."
+    "闇の領界の　冥闇の聖塔にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Dark Tower in the\nDark Realm."
   },
   "188": {
     "ヴェリナードの強ボスを　1回討伐する。": "Defeat any Verinard Strong Boss once."
@@ -567,13 +567,13 @@
     "メイジキメラを　20匹討伐する。": "Defeat 20 Hocus Chimaeras."
   },
   "190": {
-    "ウェナ諸島のヴェリナード領北にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Verinard North in the\nWena Islands."
+    "ウェナ諸島のヴェリナード領北にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Verinard North in the\nWena Islands."
   },
   "191": {
-    "レンダーシア大陸の　ラゼアの風穴にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Lazea Wind Cave in\nLendersia."
+    "レンダーシア大陸の　ラゼアの風穴にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Lazea Wind Cave in\nLendersia."
   },
   "192": {
-    "水の領界の　オーフィーヌの海にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Orfine Sea in the\nWater Realm."
+    "水の領界の　オーフィーヌの海にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Orfine Sea in the\nWater Realm."
   },
   "193": {
     "バアラックを　20匹討伐する。": "Defeat 20 Pickeerers."
@@ -582,16 +582,16 @@
     "せつげんりゅうを　20匹討伐する。": "Defeat 20 Tundragsters."
   },
   "195": {
-    "エルトナ大陸のイナミノ街道にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Inamino Highway in\nEltona."
+    "エルトナ大陸のイナミノ街道にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Inamino Highway in\nEltona."
   },
   "196": {
-    "ゾンビ系のモンスターを　50匹討伐する。": "Defeat 50 Zombie-type monsters."
+    "ゾンビ系のモンスターを　40匹討伐する。": "Defeat 40 Zombie-type monsters."
   },
   "197": {
     "ベロベロを　20匹討伐する。": "Defeat 20 Frolickers."
   },
   "198": {
-    "嵐の領界の　ムストの町にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Town of Must in the\nStorm Realm."
+    "嵐の領界の　ムストの町にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Town of Must in the\nStorm Realm."
   },
   "199": {
     "霊廟内での　バトルに　1回　勝利する。": "Win 1 battle inside a Pyramid's Tomb."
@@ -621,7 +621,7 @@
     "植物系のモンスターを　80匹討伐する。": "Defeat 80 Plant-type monsters."
   },
   "208": {
-    "けもの系のモンスターを　50匹討伐する。": "Defeat 50 Beast-type monsters."
+    "けもの系のモンスターを　40匹討伐する。": "Defeat 40 Beast-type monsters."
   },
   "209": {
     "けもの系のモンスターを　60匹討伐する。": "Defeat 60 Beast-type monsters."
@@ -633,7 +633,7 @@
     "けもの系のモンスターを　90匹討伐する。": "Defeat 90 Beast-type monsters."
   },
   "212": {
-    "虫系のモンスターを　50匹討伐する。": "Defeat 50 Insect-type monsters."
+    "虫系のモンスターを　40匹討伐する。": "Defeat 40 Insect-type monsters."
   },
   "213": {
     "虫系のモンスターを　60匹討伐する。": "Defeat 60 Insect-type monsters."
@@ -654,7 +654,7 @@
     "ゾンビ系のモンスターを　90匹討伐する。": "Defeat 90 Zombie-type monsters."
   },
   "219": {
-    "マシン系のモンスターを　50匹討伐する。": "Defeat 50 Machine-type monsters."
+    "マシン系のモンスターを　40匹討伐する。": "Defeat 40 Machine-type monsters."
   },
   "220": {
     "マシン系のモンスターを　60匹討伐する。": "Defeat 60 Machine-type monsters."
@@ -663,7 +663,7 @@
     "マシン系のモンスターを　70匹討伐する。": "Defeat 70 Machine-type monsters."
   },
   "222": {
-    "鳥系のモンスターを　50匹討伐する。": "Defeat 50 Bird-type monsters."
+    "鳥系のモンスターを　40匹討伐する。": "Defeat 40 Bird-type monsters."
   },
   "223": {
     "鳥系のモンスターを　60匹討伐する。": "Defeat 60 Bird-type monsters."
@@ -672,13 +672,13 @@
     "鳥系のモンスターを　70匹討伐する。": "Defeat 70 Bird-type monsters."
   },
   "225": {
-    "怪人系のモンスターを　50匹討伐する。": "Defeat 50 Humanoid-type monsters."
+    "怪人系のモンスターを　40匹討伐する。": "Defeat 40 Humanoid-type monsters."
   },
   "226": {
     "怪人系のモンスターを　80匹討伐する。": "Defeat 80 Humanoid-type monsters."
   },
   "227": {
-    "スライム系のモンスターを　50匹討伐する。": "Defeat 50 Slime-type monsters."
+    "スライム系のモンスターを　40匹討伐する。": "Defeat 40 Slime-type monsters."
   },
   "228": {
     "スライム系のモンスターを　70匹討伐する。": "Defeat 70 Slime-type monsters."
@@ -717,7 +717,7 @@
     "メッサーラを　20匹討伐する。": "Defeat 20 Samiginas."
   },
   "240": {
-    "レンダーシア大陸の　ワルド水源にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Wald Headwaters in\nLendersia."
+    "レンダーシア大陸の　ワルド水源にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Wald Headwaters in\nLendersia."
   },
   "241": {
     "ベビーニュートを　20匹討伐する。": "Defeat 20 Sizzards."
@@ -735,7 +735,7 @@
     "ガートラントの強ボスを　1回討伐する。": "Defeat any Gartlant Strong Boss once."
   },
   "246": {
-    "オーグリード大陸のランドンフットにいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Landonfoot in\nOgreed."
+    "オーグリード大陸のランドンフットにいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Landonfoot in\nOgreed."
   },
   "247": {
     "邪神の宮殿で　1回　勝利する。": "Win 1 time in the Dark Deity's Palace."
@@ -746,14 +746,14 @@
   "249": {
     "モヒカントを　20匹討伐する。": "Defeat 20 Mohawkers."
   },
-  "250": {
-    "プクランド大陸のミュルエルの森にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Muruel Forest in\nPukuland."
+  "240": {
+    "プクランド大陸のミュルエルの森にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Muruel Forest in\nPukuland."
   },
   "251": {
     "じめじめバブルを　20匹討伐する。": "Defeat 20 Dank Bubble Slimes."
   },
   "252": {
-    "炎の領界の　烈火の渓谷にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Valley of Fire in the\nFire Realm."
+    "炎の領界の　烈火の渓谷にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Valley of Fire in the\nFire Realm."
   },
   "253": {
     "アラハギーロ強ボスを　1回討伐する。": "Defeat any Al-Ahagiro Strong Boss once."
@@ -768,19 +768,19 @@
     "コサックシープを　20匹討伐する。": "Defeat 20 Pan Pipers."
   },
   "257": {
-    "ウェナ諸島のジュレー島下層にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Lower Jule Island in the\nWena Islands."
+    "ウェナ諸島のジュレー島下層にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Lower Jule Island in the\nWena Islands."
   },
   "258": {
-    "プクランド大陸のプクレット地方にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Pukulet Region in\nPukuland."
+    "プクランド大陸のプクレット地方にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Pukulet Region in\nPukuland."
   },
   "259": {
     "さんぞくウルフを　20匹討伐する。": "Defeat 20 Ruff Ruffians."
   },
   "260": {
-    "レンダーシア大陸の　ナシームの洞くつにいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Naseem Cave in\nLendersia."
+    "レンダーシア大陸の　ナシームの洞くつにいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Naseem Cave in\nLendersia."
   },
   "261": {
-    "プクランド大陸のポポラパの洞くつにいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Popolapa Cave in\nPukuland."
+    "プクランド大陸のポポラパの洞くつにいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Popolapa Cave in\nPukuland."
   },
   "262": {
     "ダークパンサーを　20匹討伐する。": "Defeat 20 Winged Sabrecats."
@@ -789,10 +789,10 @@
     "ブルベリーノを　20匹討伐する。": "Defeat 20 Foebergines."
   },
   "264": {
-    "プクランド大陸のポーポラ地方にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Popola Region in\nPukuland."
+    "プクランド大陸のポーポラ地方にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Popola Region in\nPukuland."
   },
   "265": {
-    "プクランド大陸のフェルアバの洞くつにいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Felaba Cave in\nPukuland."
+    "プクランド大陸のフェルアバの洞くつにいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Felaba Cave in\nPukuland."
   },
   "266": {
     "デザートガルバを　20匹討伐する。": "Defeat 20 Desert Sootbonces."
@@ -804,19 +804,19 @@
     "くろカビこぞうを　20匹討伐する。": "Defeat 20 Fromage Grays."
   },
   "269": {
-    "レンダーシア大陸の　デフェル荒野にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Defel Desert in\nLendersia."
+    "レンダーシア大陸の　デフェル荒野にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Defel Desert in\nLendersia."
   },
   "270": {
-    "ドワチャッカ大陸のカルデア山道にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Chaldea Mountain Road in\nDwachakka."
+    "ドワチャッカ大陸のカルデア山道にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Chaldea Mountain Road in\nDwachakka."
   },
   "271": {
     "イエローシックルを　20匹討伐する。": "Defeat 20 Armour Mantises."
   },
   "272": {
-    "エルトナ大陸の夢幻の森にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Dream Forest in\nEltona."
+    "エルトナ大陸の夢幻の森にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Dream Forest in\nEltona."
   },
   "273": {
-    "オーグリード大陸のベコン渓谷にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Becon Valley in\nOgreed."
+    "オーグリード大陸のベコン渓谷にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Becon Valley in\nOgreed."
   },
   "274": {
     "たまねぎマンを　20匹討伐する。": "Defeat 20 Loathsome Leeks."
@@ -825,13 +825,13 @@
     "パンプキッズを　20匹討伐する。": "Defeat 20 Pumpkids."
   },
   "276": {
-    "オーグリード大陸のナグアの洞くつにいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Nagua Caves in\nOgreed."
+    "オーグリード大陸のナグアの洞くつにいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Nagua Caves in\nOgreed."
   },
   "277": {
     "ウッディアイを　20匹討伐する。": "Defeat 20 Direlogs."
   },
   "278": {
-    "エルトナ大陸の落陽の草原にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Sunset Meadow in\nEltona."
+    "エルトナ大陸の落陽の草原にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Sunset Meadow in\nEltona."
   },
   "279": {
     "コトブキーノを　20匹討伐する。": "Defeat 20 Kotobukinos."
@@ -840,7 +840,7 @@
     "まおうのつかいを　20匹討伐する。": "Defeat 20 Demon-at-arms."
   },
   "281": {
-    "エルトナ大陸のキリカ草原にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Kirika Steppe in\nEltona."
+    "エルトナ大陸のキリカ草原にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Kirika Steppe in\nEltona."
   },
   "282": {
     "魔法の迷宮で出現する　アトラス強を　1匹討伐する。": "Defeat Apex Atlas 1 time in the\nMagic Maze."
@@ -864,7 +864,7 @@
     "モコフルを　20匹討伐する。": "Defeat 20 Fluff Puffs."
   },
   "289": {
-    "レンダーシア大陸の　リンジャハル海岸にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters on Linjahar Coast in\nLendersia."
+    "レンダーシア大陸の　リンジャハル海岸にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters on Linjahar Coast in\nLendersia."
   },
   "290": {
     "フレイムを　20匹討伐する。": "Defeat 20 Dancing Flames."
@@ -873,7 +873,7 @@
     "まいまいテイルを　20匹討伐する。": "Defeat 20 Snaily Tails."
   },
   "292": {
-    "嵐の領界の　迅雷の丘にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters on Thunder Hill in the\nStorm Realm."
+    "嵐の領界の　迅雷の丘にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters on Thunder Hill in the\nStorm Realm."
   },
   "293": {
     "ベビーマジシャンを　20匹討伐する。": "Defeat 20 Blinksters."
@@ -882,7 +882,7 @@
     "カミハルムイの強ボスを　1回討伐する。": "Defeat any Kamiharmui Strong Boss once."
   },
   "295": {
-    "ウェナ諸島のレーナム緑野にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Lenam Fields in the\nWena Islands."
+    "ウェナ諸島のレーナム緑野にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Lenam Fields in the\nWena Islands."
   },
   "296": {
     "チーム全体で　職人作業中に大成功を　2回達成する。": "Get a Perfection 2 times while crafting as a team."
@@ -897,16 +897,16 @@
     "ブラックチャックを　20匹討伐する。": "Defeat 20 Dark Brownies."
   },
   "300": {
-    "炎の領界の　煉獄の谷にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Hell's Valley in the\nFire Realm."
+    "炎の領界の　煉獄の谷にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Hell's Valley in the\nFire Realm."
   },
   "301": {
     "マジックフライを　20匹討伐する。": "Defeat 20 Splutterflies."
   },
   "302": {
-    "オーグリード大陸のグレン領西にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Glen West in\nOgreed."
+    "オーグリード大陸のグレン領西にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Glen West in\nOgreed."
   },
   "303": {
-    "レンダーシア大陸の　謎の地下水路にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Underground Waterway in\nLendersia."
+    "レンダーシア大陸の　謎の地下水路にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Underground Waterway in\nLendersia."
   },
   "304": {
     "デスマエストロを　20匹討伐する。": "Defeat 20 Frightening Conductors."
@@ -921,7 +921,7 @@
     "ヒイラギどうじを　20匹討伐する。": "Defeat 20 Holly Olivers."
   },
   "308": {
-    "オーグリード大陸のガートラント領にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Gartlant Territory in\nOgreed."
+    "オーグリード大陸のガートラント領にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Gartlant Territory in\nOgreed."
   },
   "309": {
     "アロエおにを　20匹討伐する。": "Defeat 20 Aloehahas."
@@ -933,22 +933,22 @@
     "アモデウスを　20匹討伐する。": "Defeat 20 Amodeus."
   },
   "312": {
-    "レンダーシア大陸の　リンジャの塔にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Linja Tower in\nLendersia."
+    "レンダーシア大陸の　リンジャの塔にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Linja Tower in\nLendersia."
   },
   "313": {
-    "ウェナ諸島のミューズ海岸にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters on Muse Coast in the\nWena Islands."
+    "ウェナ諸島のミューズ海岸にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters on Muse Coast in the\nWena Islands."
   },
   "314": {
-    "闇の領界の　闇の辺獄にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Dark Edge in the\nDark Realm."
+    "闇の領界の　闇の辺獄にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Dark Edge in the\nDark Realm."
   },
   "315": {
     "ベホイミスライムを　20匹討伐する。": "Defeat 20 Medislimes."
   },
   "316": {
-    "エルトナ大陸の呪われた大地にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Cursed Land in\nEltona."
+    "エルトナ大陸の呪われた大地にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Cursed Land in\nEltona."
   },
   "317": {
-    "オーグリード大陸のギルザッド地方にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Gilzad Region in\nOgreed."
+    "オーグリード大陸のギルザッド地方にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Gilzad Region in\nOgreed."
   },
   "318": {
     "キャットフライを　20匹討伐する。": "Defeat 20 Vampire Cats."
@@ -960,16 +960,16 @@
     "悪夢の右手強を　1回討伐する。": "Defeat Apex Right Incubus once."
   },
   "321": {
-    "オーグリード大陸のランドン山脈にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Landon Mountains in\nOgreed."
+    "オーグリード大陸のランドン山脈にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Landon Mountains in\nOgreed."
   },
   "322": {
-    "レンダーシア大陸の　海風の洞くつにいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Seabreeze Cave in\nLendersia."
+    "レンダーシア大陸の　海風の洞くつにいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Seabreeze Cave in\nLendersia."
   },
   "323": {
     "ピクシーを　20匹討伐する。": "Defeat 20 Picksies."
   },
   "324": {
-    "レンダーシア大陸の　ジャイラ密林にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Jyra Jungle in\nLendersia."
+    "レンダーシア大陸の　ジャイラ密林にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Jyra Jungle in\nLendersia."
   },
   "325": {
     "メトロゴーストを　20匹討伐する。": "Defeat 20 Fightgeists."
@@ -981,13 +981,13 @@
     "ミステリピラーを　20匹討伐する。": "Defeat 20 Cavorting Columns."
   },
   "328": {
-    "ウェナ諸島のブーナー熱帯雨林にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Booner Rainforest in the\nWena Islands."
+    "ウェナ諸島のブーナー熱帯雨林にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Booner Rainforest in the\nWena Islands."
   },
   "329": {
-    "エルトナ大陸の捨てられた城にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Abandoned Castle in\nEltona."
+    "エルトナ大陸の捨てられた城にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Abandoned Castle in\nEltona."
   },
   "330": {
-    "プクランド大陸のメギストリス領にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Megistris Territory in\nPukuland."
+    "プクランド大陸のメギストリス領にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Megistris Territory in\nPukuland."
   },
   "331": {
     "亡者のひとだまを　20匹討伐する。": "Defeat 20 Dead Man's Souls."
@@ -996,25 +996,25 @@
     "メギストリスの強ボスを　1回討伐する。": "Defeat any Megistris Strong Boss once."
   },
   "333": {
-    "ドワチャッカ大陸のガタラ原野にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Gatara Fields in\nDwachakka."
+    "ドワチャッカ大陸のガタラ原野にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Gatara Fields in\nDwachakka."
   },
   "334": {
     "グレイトライドンを　20匹討伐する。": "Defeat 20 Night Riders."
   },
   "335": {
-    "ドワチャッカ大陸のラニアッカ断層帯にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Raniakka Fault Zone in\nDwachakka."
+    "ドワチャッカ大陸のラニアッカ断層帯にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Raniakka Fault Zone in\nDwachakka."
   },
   "336": {
-    "ウェナ諸島のヴァース大山林にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Verse Mountain Forest in the\nWena Islands."
+    "ウェナ諸島のヴァース大山林にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Verse Mountain Forest in the\nWena Islands."
   },
   "337": {
-    "ドワチャッカ大陸のゴブル砂漠東にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Goble Desert East in\nDwachakka."
+    "ドワチャッカ大陸のゴブル砂漠東にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Goble Desert East in\nDwachakka."
   },
   "338": {
-    "炎の領界の　赤熱の荒野にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Red Hot Desert in the\nFire Realm."
+    "炎の領界の　赤熱の荒野にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Red Hot Desert in the\nFire Realm."
   },
   "339": {
-    "ドワチャッカ大陸のモガリム街道にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Mogarim Highway in\nDwachakka."
+    "ドワチャッカ大陸のモガリム街道にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Mogarim Highway in\nDwachakka."
   },
   "340": {
     "ひとつめピエロを　20匹討伐する。": "Defeat 20 Jinksters."
@@ -1029,13 +1029,13 @@
     "サンダーシャウトを　20匹討伐する。": "Defeat 20 Hellbound Hair-Raisers."
   },
   "344": {
-    "嵐の領界の　神獣の森にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Stormbough in the\nStorm Realm."
+    "嵐の領界の　神獣の森にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Stormbough in the\nStorm Realm."
   },
   "345": {
     "キラーデーモンを　20匹討伐する。": "Defeat 20 Demon Stewards."
   },
   "346": {
-    "ドワチャッカ大陸のデマトード高地にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Dematode Highlands in\nDwachakka."
+    "ドワチャッカ大陸のデマトード高地にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Dematode Highlands in\nDwachakka."
   },
   "347": {
     "こんぶ大将を　20匹討伐する。": "Defeat 20 Caterwaulins."
@@ -1044,34 +1044,34 @@
     "ケツァルコアトルスを　20匹討伐する。": "Defeat 20 Quetzalcoatlus."
   },
   "349": {
-    "レンダーシア大陸の　コニウェア平原にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Coniware Plain in\nLendersia."
+    "レンダーシア大陸の　コニウェア平原にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Coniware Plain in\nLendersia."
   },
-  "350": {
+  "340": {
     "じごくのもんばんを　20匹討伐する。": "Defeat 20 Grim Keepers."
   },
   "351": {
-    "エルトナ大陸のカミハルムイ領北にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Kamiharmui North in\nEltona."
+    "エルトナ大陸のカミハルムイ領北にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Kamiharmui North in\nEltona."
   },
   "352": {
-    "エルトナ大陸のスイの塔にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Sui Tower in\nEltona."
+    "エルトナ大陸のスイの塔にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Sui Tower in\nEltona."
   },
   "353": {
-    "ドワチャッカ大陸のグルグ地下道にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Gulug Underpass in\nDwachakka."
+    "ドワチャッカ大陸のグルグ地下道にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Gulug Underpass in\nDwachakka."
   },
   "354": {
-    "プクランド大陸のプペラトンネルにいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Pupella Tunnel in\nPukuland."
+    "プクランド大陸のプペラトンネルにいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Pupella Tunnel in\nPukuland."
   },
   "355": {
-    "レンダーシア大陸の　モンセロ温泉峡にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Moncello Spring Gorge in\nLendersia."
+    "レンダーシア大陸の　モンセロ温泉峡にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Moncello Spring Gorge in\nLendersia."
   },
   "356": {
-    "ウェナ諸島のコルット地方にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Colt Region in the\nWena Islands."
+    "ウェナ諸島のコルット地方にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Colt Region in the\nWena Islands."
   },
   "357": {
     "シードッグを　20匹討伐する。": "Defeat 20 Sea Dogs."
   },
   "358": {
-    "エルトナ大陸のモリナラ大森林にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Molinara Forest in\nEltona."
+    "エルトナ大陸のモリナラ大森林にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Molinara Forest in\nEltona."
   },
   "359": {
     "メタルスライムを　4匹討伐する。": "Defeat 4 Metal Slimes."
@@ -1080,7 +1080,7 @@
     "ドルワームの強ボスを　1回討伐する。": "Defeat any Dolworm Strong Boss once."
   },
   "361": {
-    "プクランド大陸のリンクル地方にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Wrinkle Region in\nPukuland."
+    "プクランド大陸のリンクル地方にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Wrinkle Region in\nPukuland."
   },
   "362": {
     "ビッグフェイスを　20匹討伐する。": "Defeat 20 Gum Shields."
@@ -1089,7 +1089,7 @@
     "じんめんじゅを　20匹討伐する。": "Defeat 20 Treefaces."
   },
   "364": {
-    "オーグリード大陸のオルセコ高地にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Orseco Highlands in\nOgreed."
+    "オーグリード大陸のオルセコ高地にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Orseco Highlands in\nOgreed."
   },
   "365": {
     "ケダモンを　20匹討伐する。": "Defeat 20 Feralbeasts."
@@ -1098,43 +1098,43 @@
     "くさった死体を　20匹討伐する。": "Defeat 20 Walking Corpses."
   },
   "367": {
-    "ウェナ諸島のキュララナ海岸にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters on Kyurarana Coast in the\nWena Islands."
+    "ウェナ諸島のキュララナ海岸にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters on Kyurarana Coast in the\nWena Islands."
   },
   "368": {
-    "炎の領界の　フェザリアス山にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters on Featherias Mountain in the\nFire Realm."
+    "炎の領界の　フェザリアス山にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters on Featherias Mountain in the\nFire Realm."
   },
   "369": {
-    "ウェナ諸島のジュレリア地下廃坑にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Juleria Underground Mine in the\nWena Islands."
+    "ウェナ諸島のジュレリア地下廃坑にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Juleria Underground Mine in the\nWena Islands."
   },
   "370": {
-    "ドワチャッカ大陸のウルベア地下遺跡にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Urbea Underground Ruins in\nDwachakka."
+    "ドワチャッカ大陸のウルベア地下遺跡にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Urbea Underground Ruins in\nDwachakka."
   },
   "371": {
-    "プクランド大陸のエピステーサ丘陵にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters on Epistesa Hills in\nPukuland."
+    "プクランド大陸のエピステーサ丘陵にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters on Epistesa Hills in\nPukuland."
   },
   "372": {
-    "レンダーシア大陸の　グランゼドーラ領にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Gran Zedora Territory in\nLendersia."
+    "レンダーシア大陸の　グランゼドーラ領にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Gran Zedora Territory in\nLendersia."
   },
   "373": {
-    "レンダーシア大陸の　魔幻宮殿にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Demon Palace in\nLendersia."
+    "レンダーシア大陸の　魔幻宮殿にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Demon Palace in\nLendersia."
   },
   "374": {
-    "オーグリード大陸のゲルト海峡にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Gert Strait in\nOgreed."
+    "オーグリード大陸のゲルト海峡にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Gert Strait in\nOgreed."
   },
   "375": {
-    "レンダーシア大陸の　ローヌ樹林帯にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Rhone Forest Belt in\nLendersia."
+    "レンダーシア大陸の　ローヌ樹林帯にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Rhone Forest Belt in\nLendersia."
   },
   "376": {
-    "ドワチャッカ大陸のカルサドラ火山にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Calsadora Volcano in\nDwachakka."
+    "ドワチャッカ大陸のカルサドラ火山にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Calsadora Volcano in\nDwachakka."
   },
   "377": {
-    "エルトナ大陸のツスクル平野にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Tsusukul Plains in\nEltona."
+    "エルトナ大陸のツスクル平野にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Tsusukul Plains in\nEltona."
   },
   "378": {
-    "エルトナ大陸のアズラン地方にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Azlan Region in\nEltona."
+    "エルトナ大陸のアズラン地方にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Azlan Region in\nEltona."
   },
   "379": {
-    "落ちているアイテムを　50個拾う。": "Pick up 50 items off the ground."
+    "落ちているアイテムを　40個拾う。": "Pick up 40 items off the ground."
   },
   "380": {
     "チーム全体で　職人作業中に大成功を　8回達成する。": "Get a Perfection 8 times while crafting as a team."
@@ -1149,7 +1149,7 @@
     "キングリザードを　20匹討伐する。": "Defeat 20 Liege Lizards."
   },
   "384": {
-    "レンダーシア大陸の　ゼドラ洞にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Zedra Cave in\nLendersia."
+    "レンダーシア大陸の　ゼドラ洞にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Zedra Cave in\nLendersia."
   },
   "385": {
     "きせいじゅを　20匹討伐する。": "Defeat 20 Tree Sages."
@@ -1158,7 +1158,7 @@
     "キラーファングを　20匹討伐する。": "Defeat 20 Killer Fangs."
   },
   "387": {
-    "レンダーシア大陸の　レビュール街道南にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Reviewle Highway South in\nLendersia."
+    "レンダーシア大陸の　レビュール街道南にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Reviewle Highway South in\nLendersia."
   },
   "388": {
     "強モードボス　守護者強を　1回討伐する。": "Defeat any Apex Guardian Strong Boss once."
@@ -1170,7 +1170,7 @@
     "スターレミングを　20匹討伐する。": "Defeat 20 Star Lemmings."
   },
   "391": {
-    "オーグリード大陸のランドン山脈山頂付近にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters on the Landon Mountains Summit in\nOgreed."
+    "オーグリード大陸のランドン山脈山頂付近にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters on the Landon Mountains Summit in\nOgreed."
   },
   "392": {
     "こうていタップを　20匹討伐する。": "Defeat 20 Emperor Tappers."
@@ -1209,7 +1209,7 @@
     "しりょうのきしを　20匹討伐する。": "Defeat 20 Skeleton Soldiers."
   },
   "404": {
-    "ウェナ諸島の詩歌の遺跡にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Poetry Ruins in the\nWena Islands."
+    "ウェナ諸島の詩歌の遺跡にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Poetry Ruins in the\nWena Islands."
   },
   "405": {
     "セルゲイナスを　20匹討伐する。": "Defeat 20 Bilhaws."
@@ -1239,7 +1239,7 @@
     "ホロゴーストを　20匹討伐する。": "Defeat 20 Silhouettes."
   },
   "414": {
-    "ドワチャッカ大陸のボロヌスの穴にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Boronus Hole in\nDwachakka."
+    "ドワチャッカ大陸のボロヌスの穴にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Boronus Hole in\nDwachakka."
   },
   "415": {
     "邪神の宮殿で　4回　勝利する。": "Win 4 times in the Dark Deity's Palace."
@@ -1266,7 +1266,7 @@
     "エビルトレントを　20匹討伐する。": "Defeat 20 Evil Tree-ents."
   },
   "423": {
-    "プクランド大陸の賢者の隠れ家にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Sage's Lair in\nPukuland."
+    "プクランド大陸の賢者の隠れ家にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Sage's Lair in\nPukuland."
   },
   "424": {
     "レジェンドホースを　20匹討伐する。": "Defeat 20 Godsteeds."
@@ -1293,7 +1293,7 @@
     "やつざきアニマルを　20匹討伐する。": "Defeat 20 Bullions."
   },
   "432": {
-    "プクランド大陸のペシュヤ地下空洞にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Peshuya Underground Cave in\nPukuland."
+    "プクランド大陸のペシュヤ地下空洞にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Peshuya Underground Cave in\nPukuland."
   },
   "433": {
     "魔法の迷宮で出現する　Ｓキラーマシンを　1匹討伐する。": "Defeat Trauminator 1 time in the\nMagic Maze."
@@ -1346,7 +1346,7 @@
   "449": {
     "バロンナイトを　20匹討伐する。": "Defeat 20 Visor Kaisers."
   },
-  "450": {
+  "440": {
     "メタルスライムを　16匹討伐する。": "Defeat 16 Metal Slimes."
   },
   "451": {
@@ -1365,7 +1365,7 @@
     "サウルスロードを　20匹討伐する。": "Defeat 20 Terrorceratops."
   },
   "456": {
-    "ドワチャッカ大陸のラニ大洞穴にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Lani Caves in\nDwachakka."
+    "ドワチャッカ大陸のラニ大洞穴にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Lani Caves in\nDwachakka."
   },
   "457": {
     "霊廟内での　バトルに　4回　勝利する。": "Win 4 battles inside a Pyramid's Tomb."
@@ -1374,7 +1374,7 @@
     "エルダードラゴンを　20匹討伐する。": "Defeat 20 Elder Dragons."
   },
   "459": {
-    "ドワチャッカ大陸の砂岩の洞くつにいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Sandstone Cave in\nDwachakka."
+    "ドワチャッカ大陸の砂岩の洞くつにいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Sandstone Cave in\nDwachakka."
   },
   "460": {
     "ヒョウモンダークを　20匹討伐する。": "Defeat 20 Dark Octopots."
@@ -1434,7 +1434,7 @@
     "大魔獣イーギュアを　1回討伐する。": "Defeat Giga Rapscallion once."
   },
   "479": {
-    "ウェナ諸島の浜辺の洞くつにいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Beach Cave in the\nWena Islands."
+    "ウェナ諸島の浜辺の洞くつにいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Beach Cave in the\nWena Islands."
   },
   "480": {
     "メカバーンを　20匹討伐する。": "Defeat 20 Mechan-o'-Wyrms."
@@ -1443,13 +1443,13 @@
     "タタリ御前を　20匹討伐する。": "Defeat 20 Cursed Crooners."
   },
   "482": {
-    "ウェナ諸島の海のとける洞くつにいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Sea Melting Cave\nin the Wena Islands."
+    "ウェナ諸島の海のとける洞くつにいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Sea Melting Cave\nin the Wena Islands."
   },
   "483": {
     "ポムポムボムを　20匹討伐する。": "Defeat 20 Discombombulators."
   },
   "484": {
-    "ウェナ諸島のヴェリナード領南にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Verinard South\nin the Wena Islands."
+    "ウェナ諸島のヴェリナード領南にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Verinard South\nin the Wena Islands."
   },
   "485": {
     "フォレスドンを　20匹討伐する。": "Defeat 20 Forest Peckerels."
@@ -1496,35 +1496,35 @@
   "499": {
     "魔法の迷宮で出現する　悪霊の神々を　1匹討伐する。": "Defeat the Evil Trinity 1 time in the\nMagic Maze."
   },
-  "500": {
+  "400": {
     "ピラミッドの　第五霊廟で　1回　勝利する。": "Clear the Pyramid's 5th Tomb once."
   },
-  "501": {
+  "401": {
     "トロルを　20匹討伐する。": "Defeat 20 Trolls."
   },
-  "502": {
+  "402": {
     "メタルブラザーズを　4匹討伐する。": "Defeat 4 Metal Medleys."
   },
-  "503": {
+  "403": {
     "バトルロードで　2回　勝利する。": "Win 2 times at Battle Road."
   },
-  "504": {
+  "404": {
     "リザードファッツを　20匹討伐する。": "Defeat 20 Frou-Frous."
   },
-  "505": {
+  "405": {
     "ホースデビルを　20匹討伐する。": "Defeat 20 Gamigins."
   },
-  "506": {
+  "406": {
     "レッドオーガを　20匹討伐する。": "Defeat 20 Red Horns."
   },
-  "507": {
+  "407": {
     "アバランチャーを　20匹討伐する。": "Defeat 20 Hyperboareans."
   },
-  "508": {
+  "408": {
     "邪神の宮殿で　3回　勝利する。": "Win 3 times in the Dark Deity's Palace."
   },
-  "509": {
-    "ウェナ諸島の知恵の眠る遺跡にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in the Sleeping Wisdom\nRuins in the Wena Islands."
+  "409": {
+    "ウェナ諸島の知恵の眠る遺跡にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Sleeping Wisdom\nRuins in the Wena Islands."
   },
   "510": {
     "魔法の迷宮で出現する　ベリアル強を　1匹討伐する。": "Defeat Apex Belial 1 time in the\nMagic Maze."
@@ -1533,7 +1533,7 @@
     "ダースギズモを　20匹討伐する。": "Defeat 20 Evil Clouds."
   },
   "512": {
-    "オーグリード大陸のダズの岩穴にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Daz Grotto\nin Ogreed."
+    "オーグリード大陸のダズの岩穴にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Daz Grotto\nin Ogreed."
   },
   "513": {
     "ライノソルジャーを　20匹討伐する。": "Defeat 20 Rhinoceraxes."
@@ -1542,7 +1542,7 @@
     "ぬかどこスライムを　20匹討伐する。": "Defeat 20 Mouldy Slimes."
   },
   "515": {
-    "ウェナ諸島のラーディス王島にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters on King Ladis Island\nin the Wena Islands."
+    "ウェナ諸島のラーディス王島にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters on King Ladis Island\nin the Wena Islands."
   },
   "516": {
     "ひとくいサーベルを　20匹討伐する。": "Defeat 20 Erazor Blades."
@@ -1632,12 +1632,15 @@
     "ホタテワラビーを　20匹討伐する。": "Defeat 20 Scallop Wallabies."
   },
   "545": {
-    "ドワチャッカ大陸のゴブル砂漠西にいる\nモンスターを　50匹討伐する。": "Defeat 50 monsters in Goble Desert West in\nDwachakka."
+    "ドワチャッカ大陸のゴブル砂漠西にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Goble Desert West in\nDwachakka."
   },
   "546": {
     "聖守護者の闘戦記で　冥骸魔レギルラッゾと\n獣魔ローガストを　1回討伐する。": "Defeat Legirrazzo and Logast 1 time in the\nHoly Guardians Battle."
   },
   "547": {
     "ブランマトックを　20匹討伐する。": "Defeat 20 Picky Moles."
+  },
+  "548": {
+    "からくりだいみょうを　20匹討伐する。": "Defeat 20 Bamboogiemen."
   }
 }
