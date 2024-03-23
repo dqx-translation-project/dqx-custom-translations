@@ -52,6 +52,7 @@
 『ついてクンをひっこめる』,"Remove Pet"
 『おうちでついてクン設定』,"House Pet Settings"
 清き風吹き　草木は芽吹く～,Pure winds blown and trees grown, budding green as the breeze is thrown
+未来への扉とまどろみの少女,The Door to the Future & the Slumbering Girl
 5000年の旅路 遥かなる故郷へ,5000 Year Journey to a Faraway Hometown
 ワルド水源-湖上の休息所 前,Wald Headwaters - Lake Retreat
 プログラマー検証ステージ1,Programmer Verification Stage 1
@@ -3820,7 +3821,7 @@ Reジューンプライドの憂鬱,Re: June Bride's Gloom
 果ての大地の簡易地図,Simple Map of Land's End
 火のついていない燭台,Unlit Candlestick
 ランジェのペンダント,Ranje's Pendant
-バシッルーラストーン,Bazoom Stone
+バシッルーラストーン,Bazoomstone
 ゼニスの封宮・大祭壇,Zenith Palace - Great Altar
 裏格闘場・闘いの広間,Underground Arena - Monstrous Pit
 異界アスタルジア深部,Otherworld Astalgia Depths
@@ -19478,7 +19479,7 @@ DQ3僧侶　ゾーマ,DQ3 Priest, Zoma
 賢者の執務室,Sage's office
 マティルの村,Matil Village
 ユマテル通り,Umatel Street
-やぐらエリア,scaffold area
+やぐらエリア,fort area
 根源のほこら,Source Shrine
 ガニャポン屋,Ganyapon Shop
 黄金の試練場,Golden Trial
@@ -22194,8 +22195,8 @@ Pの　経験値,EXP
 闘士の鐘楼,Fighter's Bell
 施療院屋上,clinic rooftop
 当主の部屋,master bedroom
-南のやぐら,South Scaffold
-北のやぐら,North Scaffold
+南のやぐら,South Fort
+北のやぐら,North Fort
 景品交換所,Prize Exchange
 滅びの大橋,Bridge of Destruction
 享楽の間道,Path of Amusement
@@ -26220,7 +26221,7 @@ SPアイテム,Skill Point Items
 深度１５,Depth 15
 深度１６,Depth 16
 雲上湖前,Cloudtop Lake
-やぐら前,scaffold
+やぐら前,fort
 プクリポ,Pukulipo
 エフ短剣,F Dagger
 六角ぼう,Hexapole
@@ -29393,6 +29394,7 @@ PCベビー,PC's Baby
 副素材B,Sub-Material B
 副素材C,Sub-Material C
 副素材D,Sub-Material D
+やぐら,fort
 道祖神,Traveler's Guardian
 管理棟,administration building
 生産棟,manufacturing building
@@ -32449,7 +32451,7 @@ CT短縮,Charge Time Reduction
 半鐘,Fire Bell
 金槌,Gold Hammer
 リオ,Leo
-回復,Recovery
+回復,recovery
 ロナ,Rona
 駅,train station
 泉,fountain
