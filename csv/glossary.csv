@@ -52,6 +52,7 @@
 『ついてクンをひっこめる』,"Remove Pet"
 『おうちでついてクン設定』,"House Pet Settings"
 清き風吹き　草木は芽吹く～,Pure winds blown and trees grown, budding green as the breeze is thrown
+未来への扉とまどろみの少女,The Door to the Future & the Slumbering Girl
 5000年の旅路 遥かなる故郷へ,5000 Year Journey to a Faraway Hometown
 ワルド水源-湖上の休息所 前,Wald Headwaters - Lake Retreat
 プログラマー検証ステージ1,Programmer Verification Stage 1
@@ -26221,7 +26222,6 @@ SPアイテム,Skill Point Items
 深度１６,Depth 16
 雲上湖前,Cloudtop Lake
 やぐら前,fort
-やぐら,fort
 プクリポ,Pukulipo
 エフ短剣,F Dagger
 六角ぼう,Hexapole
@@ -29394,6 +29394,7 @@ PCベビー,PC's Baby
 副素材B,Sub-Material B
 副素材C,Sub-Material C
 副素材D,Sub-Material D
+やぐら,fort
 道祖神,Traveler's Guardian
 管理棟,administration building
 生産棟,manufacturing building
@@ -32467,4 +32468,3 @@ CT短縮,Charge Time Reduction
 棍,rod
 扇,fan
 弓,bow
-未来への扉とまどろみの少女,The Door to the Future & the Slumbering Girl
