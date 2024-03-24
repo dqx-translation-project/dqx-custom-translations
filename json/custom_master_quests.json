@@ -298,5 +298,8 @@
   },
   "100": {
     "魔法使いをパーティに　ひとり入れること。": "Must have a Mage in the party."
+  },
+  "101": {
+    "戦士をパーティに　ふたり入れること。": "Must have 2 Warriors in the party."
   }
 }
