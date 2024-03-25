@@ -12397,7 +12397,7 @@ DQ3賢者女　ゾーマ,DQ3 Sage (F), Zoma
 奇門遁甲の式・参,3rd Divination Ceremony
 人形師のアトリエ,Doll Maker's Workshop
 バカンウグレ遺跡,Bakanugure Ruins
-アマラーク城下町,Amalark Castle Town
+アマラーク城下町,Amarak Castle Town
 エドアルドの部屋,Eduardo's Room
 ７ｍｖドワーフ男,7mv Dwarf Man
 エドアルドの木槌,Eduardo's Mallet
@@ -17256,7 +17256,7 @@ DQ3僧侶　ゾーマ,DQ3 Priest, Zoma
 竜と契約せし者,One Who Made a Dragon Pact
 ウォルドの聖簾,Wold
 レストリア平野,Restoria Plains
-アマラーク地方,Amalark Region
+アマラーク地方,Amarak Region
 レストリア地方,Restoria Region
 ラランブラ山道,Larambla Mountain Pass
 シュタール鉱野,Stahl Minefield
@@ -21268,7 +21268,7 @@ DQ3僧侶　ゾーマ,DQ3 Priest, Zoma
 はじまりの地,Land of Beginnings
 ムニエカの町,Munieka
 作業場・跡地,Workshop - Ruins
-アマラーク城,Amalark Castle
+アマラーク城,Amarak Castle
 川辺の休憩所,Riverside Rest Area
 タービア草原,Turbia Meadows
 イルシーム邸,Ilseem Mansion
@@ -24879,6 +24879,8 @@ Pの　経験値,EXP
 ドラゴラム,Puff
 ぼっちゃま,young master
 エッちゃん,Estie
+レストリア,Restoria
+アマラーク,Amarak
 SPアイテム,Skill Point Items
 (アナザー),(Another)
 短剣(片手),dagger
@@ -29385,6 +29387,8 @@ SPアイテム,Skill Point Items
 フクロウ,owl
 ゼネシア,Zenethia
 ピッケル,pickaxe
+ムニエカ,Munieka
+ウォルド,Wold
 PCベビー,PC's Baby
 ×を描く,Draw an X
 鎌(両手),scythe
@@ -32203,6 +32207,7 @@ PCベビー,PC's Baby
 大祭壇,Great Altar
 ダイヤ,Diamond
 竜術士,Dragomancer
+メネト,Menet
 CT短縮,Charge Time Reduction
 兵士A,Soldier A
 兵士B,Soldier B
