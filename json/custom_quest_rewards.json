@@ -21,7 +21,7 @@
     "どうぐかばんに つかうものを": "Item Bag Can Hold Up to"
   },
   "8": {
-    "　４０種類 入れられるようになる": "  40 Different Kinds of Items"
+    "　４０種類 入れられるようになる": "  40 Unique Items"
   },
   "9": {
     "魔法の迷宮に行けるようになる": "Can Go to the Magic Maze"
@@ -126,7 +126,7 @@
     "遺跡の便せんが購入可能になる": "Can Buy Ruins Paper"
   },
   "43": {
-    "　５０種類 入れられるようになる": "  50 Different Kinds of Items"
+    "　５０種類 入れられるようになる": "  50 Unique Items"
   },
   "44": {
     "盗賊のターバン　グローブ": "Thief Turban, Gloves"
@@ -273,16 +273,16 @@
     "そうびぶくろに装備品を１７５個": "Equipment Bag Can Hold 175"
   },
   "92": {
-    "　６０種類 入れられるようになる": "  60 Different Kinds of Items"
+    "　６０種類 入れられるようになる": "  60 Unique Items"
   },
   "93": {
-    "　７０種類 入れられるようになる": "  70 Different Kinds of Items"
+    "　７０種類 入れられるようになる": "  70 Unique Items"
   },
   "94": {
-    "　８０種類 入れられるようになる": "  80 Different Kinds of Items"
+    "　８０種類 入れられるようになる": "  80 Unique Items"
   },
   "95": {
-    "　９０種類入れられるように": "  90 Different Kinds of Items"
+    "　９０種類入れられるように": "  90 Unique Items"
   },
   "96": {
     "ユーライザの髪型が増える": "New Hairstyle for Yuliza"
@@ -802,5 +802,17 @@
   },
   "268": {
     "しぐさ「大成功」": "Emote \"Perfection\""
+  },
+  "269": {
+    "そうびぶくろに装備品を２００個": "Equipment Bag Can Hold 200"
+  },
+  "270": {
+    "　１００種類入れられるように　他": "  100 Unique Items, etc."
+  },
+  "271": {
+    "竜術士に転職可能になる": "Unlock Dragomancer Vocation"
+  },
+  "272": {
+    "バシッルーラストーンが": "Bazoomstone"
   }
 }
