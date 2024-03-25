@@ -24879,6 +24879,8 @@ Pの　経験値,EXP
 ドラゴラム,Puff
 ぼっちゃま,young master
 エッちゃん,Estie
+レストリア,Restoria
+アマラーク,Amarak
 SPアイテム,Skill Point Items
 (アナザー),(Another)
 短剣(片手),dagger
@@ -29385,6 +29387,8 @@ SPアイテム,Skill Point Items
 フクロウ,owl
 ゼネシア,Zenethia
 ピッケル,pickaxe
+ムニエカ,Munieka
+ウォルド,Wold
 PCベビー,PC's Baby
 ×を描く,Draw an X
 鎌(両手),scythe
@@ -32203,6 +32207,7 @@ PCベビー,PC's Baby
 大祭壇,Great Altar
 ダイヤ,Diamond
 竜術士,Dragomancer
+メネト,Menet
 CT短縮,Charge Time Reduction
 兵士A,Soldier A
 兵士B,Soldier B
@@ -32473,8 +32478,3 @@ CT短縮,Charge Time Reduction
 棍,rod
 扇,fan
 弓,bow
-レストリア,Restoria
-アマラーク,Amarak
-メネト,Menet
-ムニエカ,Munieka
-ウォルド,Wold
