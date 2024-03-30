@@ -48,7 +48,7 @@
     "手前に打ってから\nペダルを踏んで": "Strum the front,\nthen push the pedal."
   },
   "17": {
-    "糸を右へ　ペダルを踏み\nもう一度 糸を右へ！": "Thread right, pedal,\nthen right again!"
+    "糸を右へ　ペダルを踏み\nもう一度　糸を右へ！": "Thread right, pedal,\nthen right again!"
   },
   "18": {
     "左へ糸を移動　右へ移動\n最後に　手前に打つんだ": "Thread left, right,\nthen strum."
@@ -211,5 +211,74 @@
   },
   "70": {
     "どうだか。話ができる\n相手とは　限らねえぜ。": "I don't know. I guess\nwe'll find out."
+  },
+  "71": {
+    "恐ろしい場所……": "What a terrible\nplace..."
+  },
+  "72": {
+    "ですが　ひるんでは\nいられません": "But we can't afford\nto hesitate."
+  },
+  "73": {
+    "結晶化してしまった皆を\n戻すためにも": "To return everyone\nback to normal..."
+  },
+  "74": {
+    "気を引きしめて\n塔へと　進みましょう": "Let's make our way\nto the tower."
+  },
+  "75": {
+    "気を引きしめて\n塔へと　進みましょう": "We're finally inside.\nBe careful..."
+  },
+  "76": {
+    "孤島の修道院の地下から\n時見の泉に行けるわ": "The Timeseer Spring is\nunder that monastery."
+  },
+  "77": {
+    "私が５０００年の間\n眠っていた場所よ": "The place I slept\nfor 5000 years!"
+  },
+  "78": {
+    "目覚めた時　あなたが\n迎えにきてくれて……": "When I woke up, you\nwere there for me..."
+  },
+  "79": {
+    "約束を守ってくれたのが\n本当にうれしかった": "I was so happy you\nkept your promise."
+  },
+  "80": {
+    "さあ　もうすぐだよ\nこの先が　女神の神座だ": "Just up ahead is\nthe Goddess' Shrine."
+  },
+  "81": {
+    "神々以外の立ち入りは\n禁じられてるけど": "Only gods are allowed\nentry, though."
+  },
+  "82": {
+    "きみだけは　特別だよ\n失礼のないようにね": "You're an exception.\nBe respectful, okay?"
+  },
+  "83": {
+    "母さまに呼ばれるなんて\nただ者じゃないのだわ": "You must be special if\nMother is calling you."
+  },
+  "84": {
+    "母さまに呼ばれるなんて\nただ者じゃないのだわ": "The power of creation\nis to the northwest."
+  },
+  "85": {
+    "足元に気をつけて進もう\n特に　底なし谷は……": "Watch your step around\nthis valley..."
+  },
+  "86": {
+    "でもエルドナ。きみには\n来てほしくなかった": "But Eldona, I didn't\nwant you to come."
+  },
+  "87": {
+    "心配ご無用よ　レクタ\n私　お役に立つのだわ！": "Don't worry, Lecta.\nI can help!"
+  },
+  "88": {
+    "創生のチカラは\n北の方角に集まってる": "The power of creation\nis to the north."
+  },
+  "89": {
+    "ナドラガの眷属たちか\n手ごわそうだけど……": "Nadraga's minions\nseem tough..."
+  },
+  "90": {
+    "きみと一緒なら\n大丈夫　信じているよ": "Everything'll be fine\nwith you beside me."
+  },
+  "91": {
+    "ペダルを踏んでから\n左へ糸を移動させて": "Push the pedal, then\nthread to the left."
+  },
+  "92": {
+    "ああっ。時間切れだ……": "Ahh...you ran out\nof time..."
+  },
+  "93": {
+    "やった……完成したよ！": "Yes! We did it!"
   }
 }
