@@ -225,7 +225,7 @@
     "気を引きしめて\n塔へと　進みましょう": "Let's make our way\nto the tower."
   },
   "75": {
-    "気を引きしめて\n塔へと　進みましょう": "We're finally inside.\nBe careful..."
+    "この島　どうやら雲で\nできているみたいですね": "It's an island made\nof clouds..."
   },
   "76": {
     "孤島の修道院の地下から\n時見の泉に行けるわ": "The Timeseer Spring is\nunder that monastery."
@@ -322,5 +322,116 @@
   },
   "107": {
     "ううっ……暗くて\nオバケが出そう……": "Eee... It's dark and\nghosts might appear..."
+  },
+  "108": {
+    "この部屋……\n見覚えがありますね": "This room...it looks\nfamiliar, doesn't it?"
+  },
+  "109": {
+    "今　行われているのは\n貴人の葬儀でしょうか？": "Is this a funeral of\nsomeone important?"
+  },
+  "110": {
+    "心域に　作り変えられて\nいるようですね……": "It seems the heartland\nis changing..."
+  },
+  "110": {
+    "あっ！　見てください\n絵画が飾ってあります": "Oh, look! The\npaintings on the wall!"
+  },
+  "111": {
+    "お姉様　神剣を修復する\n装置は　どちらに？": "Helvel, where can we\nrepair the sword?"
+  },
+  "112": {
+    "中心核の間の奥だ\n資材倉庫にしまってある": "It's past here in\nthe back room."
+  },
+  "113": {
+    "いよいよ　塔の内部です\n危険も　あるでしょうが": "I'm sure the tower\nis dangerous inside."
+  },
+  "114": {
+    "何が起きても　絶対に\nあなたは　私が守ります": "I'll protect you, no\nmatter what happens."
+  },
+  "115": {
+    "ふかふかで　なんとも\n不思議な　感触だねえ": "It's quite soft and\nrather mysterious!"
+  },
+  "116": {
+    "見てください　ここにも\n女神像がありますよ": "Look, there's also a\nGoddess statue here."
+  },
+  "117": {
+    "本当に　時間を\nさかのぼってるようだな": "It really feels like\ngoing back in time."
+  },
+  "118": {
+    "まだ　準備ができてねえ\n時間を　かせいでくれ！": "I'm not quite ready!\nI need more time!"
+  },
+  "119": {
+    "まだ　準備ができてねえ\n時間を　かせいでくれ！": "I'm not quite ready!\nI need more time!"
+  },
+  "120": {
+    "奴らに押し切られる前に\n神剣を振るいましょう！": "Use the divine sword!\nWe'll be overwhelmed!"
+  },
+  "121": {
+    "ダメだ。一撃で壊すには\n神剣のチカラが足りねえ": "We can't! It doesn't\nhave enough power!"
+  },
+  "122": {
+    "ここが踏ん張りどころだ\n頼むぜ　勇者と盟友！": "Stand firm! Countin'\non ya, Hero and ally!"
+  },
+  "123": {
+    "回復は\nまかせてください。": "I'll take care of\nyour recovery."
+  },
+  "124": {
+    "よっしゃ！\nいくぜ！": "Oh yeah!\nHere I go!"
+  },
+  "125": {
+    "ガッハッハッ！\nいっちょあがり！": "Gahaha!\nNothin' to it!"
+  },
+  "126": {
+    "さあ　いくよ！": "Okay, here I go!"
+  },
+  "127": {
+    "へへんっ\nどんなもんだい！": "Heh heh!\nNotta problem!"
+  },
+  "128": {
+    "よ……よし　いくぞ！": "O...okay! Here I go!"
+  },
+  "129": {
+    "や　やったあ！\n成功だあ！": "Y...yeah!\nI did it!"
+  },
+  "130": {
+    "ほかのみんなも　順調に\n進んでるはずだよね……": "I hope the others are\nprogressing smoothly."
+  },
+  "131": {
+    "心配無用だ。殺したって\n死なねえような連中だし": "No worries. Dyin'\nwon't kill 'em!"
+  },
+  "132": {
+    "兄者　言い方ってもんが\nあるだろ。まったく……": "Geez, there's ways to\nsay certain things..."
+  },
+  "133": {
+    "敵の気配すらない……\nまるで遺跡か廃墟ですね": "It's deserted. There's\nnot a single enemy..."
+  },
+  "134": {
+    "人ごみは　苦手なんでね\nありがたいというものさ": "I'm thankful. I'm not\nso good in a crowd."
+  },
+  "135": {
+    "この中で　お前が一番\n肝がすわっているようだ": "You seem to be the\nmost composed here."
+  },
+  "136": {
+    "フフ……": "Heh heh..."
+  },
+  "137": {
+    "　フフ……": "Heh heh..."
+  },
+  "138": {
+    "この先は管制室ですね\n緊張してきました……": "The control room is\nahead. I'm nervous..."
+  },
+  "139": {
+    "緊張？　私は場違いにも\nおなかが空いてきました": "Nervous? My stomach is\nstarting to growl..."
+  },
+  "140": {
+    "ニガユリ草を使った\nあの草餅が恋しい……": "I'm craving Bitter-\nlily rice cake..."
+  },
+  "141": {
+    "苦さの王様とも言われる\nあのニガユリ草ですか？": "Bitterlily Grass? The\nking of bitterness?"
+  },
+  "142": {
+    "なんと！　それは\nぜひ食べてみたいです！": "Wow! I really want\nto eat one!"
+  },
+  "143": {
+    "この戦いが終わったら\n皆で食べましょう……": "Once this is over, we\ncan all eat them..."
   }
 }
