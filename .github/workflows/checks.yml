@@ -17,10 +17,10 @@
             python-version: '3.11'
         - name: Run check script
           run: python .github/workflows/checks.py
-        - name: Sort glossary file
-          run: python .github/workflows/sort_glossary.py
+        - name: Glossary updates
+          run: python .github/workflows/glossary.py
         - name: Commit pending glossary changes back to branch
           uses: stefanzweifel/git-auto-commit-action@v4
           with:
-            file_pattern: 'csv/glossary.csv'
-            commit_message: 'Re-committing sorted glossary'
+            file_pattern: 'csv/*.csv'
+            commit_message: 'Committing new glossary changes'
