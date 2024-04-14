@@ -23,4 +23,4 @@
           uses: stefanzweifel/git-auto-commit-action@v4
           with:
             file_pattern: 'csv/*.csv'
-            commit_message: 'Re-committing sorted glossary'
+            commit_message: 'Committing new glossary changes'
