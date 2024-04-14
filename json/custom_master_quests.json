@@ -304,5 +304,17 @@
   },
   "102": {
     "占い師　４人のパーティで挑むこと。": "Must challenge with a party of 4 Fortune Tellers."
+  },
+  "103": {
+    "３分２０秒を　制限時間とする。": "Time limit of 3 minutes and 20 seconds."
+  },
+  "104": {
+    "５分２０秒を　制限時間とする。": "Time limit of 5 minutes and 20 seconds."
+  },
+  "105": {
+    "２分５０秒を　制限時間とする。": "Time limit of 2 minutes and 50 seconds."
+  },
+  "106": {
+    "３分を　制限時間とする。": "Time limit of 3 minutes."
   }
 }
