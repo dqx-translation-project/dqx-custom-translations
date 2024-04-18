@@ -1,8 +1,9 @@
+import sys
 
 
 def read_glossary():
     with open("csv/glossary.csv", "r", encoding="utf-8") as f:
-        data = f.read()
+        data = f.read().rstrip()
     
     return data.split("\n")
 
@@ -25,8 +26,12 @@ def build_hiragana_glossary():
     
     new_list = []
     for record in data:
-        ja = record.split(",", 1)[0]
-        en = record.split(",", 1)[1]
+        try:
+            ja = record.split(",", 1)[0]
+            en = record.split(",", 1)[1]
+        except IndexError:
+            print(f"Did not find a value for {ja}.")
+            sys.exit(1)
 
         ordinal = ord(ja[0])
 
