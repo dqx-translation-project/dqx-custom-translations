@@ -162,7 +162,7 @@
     "時間切れだ　お疲れさん\nさぁ　結果はどうだ？": "Time's up. Good work.\nHow'd you make out?"
   },
   "54": {
-    "さーて　大魔王サマの\nお手並み拝見といこうか": "Let's have a look how\nyou did, shall we?"
+    "さーて　大魔王サマの\nお手並み拝見といこうか": "Let's have a look how\nyou do, shall we?"
   },
   "55": {
     "はじまりの地に来てから\n感じてたんだけどね……": "Since we arrived here,\nI've been feeling..."
@@ -433,5 +433,8 @@
   },
   "143": {
     "この戦いが終わったら\n皆で食べましょう……": "Once this is over, we\ncan all eat them..."
+  },
+  "144": {
+    "ここまでは想定通り！\nまだ疲れちゃいないだろ": "So far so good! Not\ntired yet, are ya?"
   }
 }
