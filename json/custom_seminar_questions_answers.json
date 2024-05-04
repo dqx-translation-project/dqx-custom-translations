@@ -57,7 +57,7 @@
     "新しい町に入ったら\n『クエストが紹介された』と通知が出た！\nクエストの紹介は　クエストリストを\n開いてから　どうすることで読める？": "When entering a new town, you may see a\n\"New quests can be accepted!\" notification.\nHow can you view them in the Quest List?"
   },
   "20": {
-    "カメラを左右に動かす": "Move the camera left/right."
+    "カメラを左右に動かす": "Move the camera around."
   },
   "21": {
     "クエストリストを閉じる": "Open the Quest List."
@@ -78,7 +78,7 @@
     "お値段３割増し": "It's 30% more expensive."
   },
   "27": {
-    "錬金効果が３個ついている": "It has 3 alchemy effects attached."
+    "錬金効果が３個ついている": "It has 3 alchemy effects."
   },
   "28": {
     "３倍かっこいい": "It's 3 times as cool!"
@@ -198,7 +198,7 @@
     "ミルクを一杯たのむ": "A glass of milk, please?"
   },
   "67": {
-    "レベル２０以上になって　港町レンドア北に行くと\n他の冒険者たちとの　パーティで挑む\nとある　ふしぎな迷宮に　行けるようになるぞ。\nこの　迷宮の名前は？": "Starting at level 20, you can enter a\nmysterious maze from Port Town Lendor with\nother adventurers. What is this maze called?"
+    "レベル２０以上になって　港町レンドア北に行くと\n他の冒険者たちとの　パーティで挑む\nとある　ふしぎな迷宮に　行けるようになるぞ。\nこの　迷宮の名前は？": "Starting at level 20, you can enter a\nmysterious maze from Port Lendor with\nother adventurers. What is this maze called?"
   },
   "68": {
     "モガレの洞くつ": "Mogare Cave"
@@ -243,7 +243,7 @@
     "戦闘中に　モンスターが\n仲間の僧侶に　怒りを向けた！\nそんな時の　モンスターが取る行動は？": "During battle, a monster gets angry at the\npriest! What will the monster do now?"
   },
   "82": {
-    "あらゆる文句をつけてくる": "Complain about everything."
+    "あらゆる文句をつけてくる": "Complain and complain."
   },
   "83": {
     "怒りで顔をまっ赤にする": "Turn red with anger."
@@ -252,7 +252,7 @@
     "僧侶を狙って攻撃してくる": "Attack the priest."
   },
   "85": {
-    "後で日記にしたためる": "Write in their diary later."
+    "後で日記にしたためる": "Write in their diary."
   },
   "86": {
     "戦闘中に　ゆっくり時間をかけて\nコマンドを選択した時に\n起きることは　次のうち　どれ？": "During battle, what happens if you take your\ntime with selecting a command?"
@@ -261,7 +261,7 @@
     "背中がかゆくなる": "You get embarassed."
   },
   "88": {
-    "次のコマンドがはやく出る": "The next command comes faster."
+    "次のコマンドがはやく出る": "Next action comes faster."
   },
   "89": {
     "おだやかな気持ちになる": "You become calm."
@@ -285,7 +285,7 @@
     "みずからの選択を悔やむ": "Regret your decision."
   },
   "96": {
-    "何か別のことを考える": "Think about something else."
+    "何か別のことを考える": "Think of something else."
   },
   "97": {
     "レベルも上がったし　装備を新調したい！\nそんな時に　町の　お店よりも\nお買い得な装備が　買える\n旅人のための　売り買いの場の名前は？": "I've leveled up, and I want better equipment!\nThere is a place I can buy and sell equipment,\noften at better prices than shops. What\nis this place called?"
