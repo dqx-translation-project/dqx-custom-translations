@@ -1635,7 +1635,7 @@
     "ドワチャッカ大陸のゴブル砂漠西にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Goble Desert West in\nDwachakka."
   },
   "546": {
-    "聖守護者の闘戦記で　冥骸魔レギルラッゾと\n獣魔ローガストを　1回討伐する。": "Defeat Legirrazzo and Logast 1 time in the\nHoly Guardians Battle."
+    "聖守護者の闘戦記で　冥骸魔レギルラッゾと\n獣魔ローガストを　1回討伐する。": "Defeat Legirrazzo and Logast 1 time in the\nChronicles of the Sacred Sentinels."
   },
   "547": {
     "ブランマトックを　20匹討伐する。": "Defeat 20 Picky Moles."
@@ -1786,5 +1786,8 @@
   },
   "596": {
     "メタルドラゴンを　20匹討伐する。": "Defeat 20 Metal Dragons."
+  },
+  "597": {
+    "アックスドラゴンを　20匹討伐する。": "Defeat 20 Axesaurus."
   }
 }
