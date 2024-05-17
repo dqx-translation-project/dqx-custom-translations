@@ -21712,6 +21712,8 @@ DQ3僧侶　ゾーマ,DQ3 Priest, Zoma
 竜王のよろい,Dragonlord Armor
 ヴィヴィアン,Vivian
 ヒーライジャ,Healijah
+オースタイン,Ornstein
+グートリアス,Gootorias
 モンスター26,Monster 26
 モンスター27,Monster 27
 モンスター28,Monster 28
@@ -29829,6 +29831,8 @@ SPアイテム,Skill Point Items
 ジョセフ,Joseph
 聖守護者,Sacred Sentinel
 ジョール,Jorr
+シールケ,Schierke
+ボブマン,Bobman
 PCベビー,PC's Baby
 ×を描く,Draw an X
 鎌(両手),scythe
@@ -32653,6 +32657,7 @@ PCベビー,PC's Baby
 鹿の像,Deer Statue
 馬の像,Horse Statue
 ロイド,Lloyd
+リジー,Lizzy
 CT短縮,Charge Time Reduction
 兵士A,Soldier A
 兵士B,Soldier B
@@ -32924,8 +32929,3 @@ CT短縮,Charge Time Reduction
 棍,rod
 扇,fan
 弓,bow
-オースタイン,Ornstein
-グートリアス,Gootorias
-シールケ,Schierke
-リジー,Lizzy
-ボブマン,Bobman
