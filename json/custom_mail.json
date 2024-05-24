@@ -885,7 +885,7 @@
     "キーエンブレムを　１つ以上持っている将来有望な…": ""
   },
   "296": {
-    "お久しぶりです　トートです。風のウワサによると…": ""
+    "お久しぶりです　トートです。風のウワサによると…": "It's me, Tote. It's been..."
   },
   "297": {
     "ほまれ高き冒険者よ。ワシの名は総帥Ｍ。このたび…": ""
@@ -1113,7 +1113,7 @@
     "今年も　夏が終わってしまうのう。だが　お前さん…": ""
   },
   "373": {
-    "お久しぶりです　トートです。風のウワサで　職業…": ""
+    "お久しぶりです　トートです。風のウワサで　職業…": "It's me, Tote. It's been..."
   },
   "374": {
     "拝啓　木々の緑も雨に色付く　今日この頃。私ども…": ""
@@ -1285,5 +1285,11 @@
   },
   "430": {
     "アストルティアのみんなに　お願い！\n今　私たちが住む　妖精の国に\n大変なことが　起きちゃって\n話を聞いてくれる人を　探してるの。\n港町レンドア南で　待ってるわ！": "To everyone in Astoltia, please!\nSomething terrible has happened to our\nFairy Land and we're looking for\nsomeone to listen to us. I'll be\nwaiting for you in South Port Lendor!"
+  },
+  "431": {
+    "お元気ですか？\n風のウワサで　職業レベルが\n４６以上になったと　聞きました！\nじつはボク　そんな　<pnplacehold>さんに\nお願いしたいことがあって……。\nジュレットの町の　井戸の中にある\nかばん工房まで　来てもらえませんか？": "It's me, Tote. It's been awhile.\nI've heard rumors that you've reached atleast level 46 in one of your vocations!Actually, there's a favor I need to ask\nof you... Do you think you could come\nto the Bag Workshop in the well in\nJulet?"
+  },
+  "432": {
+    "お元気ですか？風のウワサで　職業レベルが４６以…": "It's me, Tote. It's been..."
   }
 }
