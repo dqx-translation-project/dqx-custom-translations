@@ -72,7 +72,7 @@
     "のろい状態で　相手の行動間隔を少し長くして\n勝利した。": "While cursed, lower an enemy's action\ninterval slightly, then win the battle."
   },
   "25": {
-    "ひとくいサーベルの　つうこんのいちげきを\nぼうぎょか　やいばのぼうぎょで　防いで\n勝利した。": "Guard against a Erazor Blade's desperate attack\nby using either Defend or Pincushion,\nthen win the battle."
+    "ひとくいサーベルの　つうこんのいちげきを\nぼうぎょか　やいばのぼうぎょで　防いで\n勝利した。": "Guard against an Erazor Blade's desperate attack\nby using either Defend or Pincushion,\nthen win the battle."
   },
   "26": {
     "メタスラの剣を　装備して\nメタルハンターと　メタルライダーを\n倒した。": "With a Metal Slime Sword equipped, defeat a\nHunter Mech and Metal Slime Knight."
@@ -130,6 +130,24 @@
   },
   "44": {
     "幻惑　呪文封印の状態で\nシルバーデビルを　倒した。": "While dazzled and spell sealed,\ndefeat a Silvapithecus."
+  },
+  "45": {
+    "アサシンブラッドを　HＰ２５％未満の状態で\nメラゾーマで倒した。": "Defeat a Hellbound Hunter using Kafrizz while\nat 25% HP or less."
+  },
+  "46": {
+    "れんごくちょうに　フォースブレイクを\n成功させた。": "Successfully use Fource Break on a\nHybird."
+  },
+  "47": {
+    "盾を装備していない　状態で\nミステリピラーの　足ばらいで転んだ。": "Without a shield equipped, get hit by a\nCavorting Column's Leg Sweep."
+  },
+  "48": {
+    "ホーリーライトで　めいふのばんにんを怒らせて\nザラキーマを受けて　生き残った。\n": "Use Divine Restitution on a Hellbound Heretic\nto anger it, then survive its Kathwack spell."
+  },
+  "49": {
+    "なげきムーンに　ミリオンスマイルと\nボケを成功させて　倒した。": "Successfully use Million Smile and Pratfall\non a Mourning Moon, then defeat it."
+  },
+  "50": {
+    "ストームフォースのかかった状態で\nライオネックを　倒した。": "Apply yourself with Gale Fource and\ndefeat a Hyperanemon."
   }
   
 }
