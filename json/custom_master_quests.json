@@ -322,5 +322,11 @@
   },
   "108": {
     "どうぐ使いをパーティに　ふたり入れること。": "Must have 2 Item Masters in the party."
+  },
+  "109": {
+    "まもの使いをパーティに　ふたり入れること。": "Must have 2 Monster Masters in the party."
+  },
+  "110": {
+    "僧侶をパーティに　ふたり入れること。": "Must have 2 Priests in the party."
   }
 }
