@@ -1,9 +1,7 @@
 ---
   on:
     pull_request:
-    # schedule:
-    #   - cron: '0 8 * * *'
-    # workflow_dispatch:
+    workflow_dispatch:
   
   jobs:
     check-and-generate:
@@ -17,6 +15,8 @@
       steps:
         - name: Checkout repository
           uses: actions/checkout@v4
+          with:
+            token: ${{ secrets.SVC_ACCT_PAT }}
 
         - name: Checkout dqx_translations repository
           uses: actions/checkout@v4
@@ -41,4 +41,4 @@
           uses: stefanzweifel/git-auto-commit-action@v5
           with:
             file_pattern: 'csv/*.csv'
-            commit_message: 'Committing generated glossary'
+            commit_message: '[skip ci] Committing generated glossary'
