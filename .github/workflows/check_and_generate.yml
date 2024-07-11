@@ -1,9 +1,9 @@
 ---
   on:
     pull_request:
-    schedule:
-      - cron: '0 8 * * *'
-    workflow_dispatch:
+    # schedule:
+    #   - cron: '0 8 * * *'
+    # workflow_dispatch:
   
   jobs:
     check-and-generate:
@@ -41,4 +41,4 @@
           uses: stefanzweifel/git-auto-commit-action@v5
           with:
             file_pattern: 'csv/*.csv'
-            commit_message: '[skip ci] Committing generated glossary'
+            commit_message: 'Committing generated glossary'
