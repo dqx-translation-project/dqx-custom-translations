@@ -12,10 +12,6 @@ python main.py
 
 Each new pull request will generate a new, generated glossary and commit it into the pull request.
 
-The action can also be manually triggered if a change has been merged upstream in the dqx_translation repository.
-
-This action is also triggered nightly to keep this process as automated as possible.
-
 ## explanation
 
 ### ignore.py
