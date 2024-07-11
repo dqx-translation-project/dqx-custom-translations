@@ -32,7 +32,10 @@
             python-version: '3.11'
 
         - name: Run check validations
-          run: python .github/workflows/checks.py
+          run: |
+            ls;
+            pwd;
+            python .github/workflows/checks.py
 
         - name: Generate glossary
           run: |
