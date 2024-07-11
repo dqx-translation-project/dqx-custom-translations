@@ -1,26 +1,46 @@
 ---
   on:
     pull_request:
+    schedule:
+      - cron: '0 8 * * *'
+    workflow_dispatch:
   
   jobs:
-    run-checks:
-      name: "Check if files are valid"
-      runs-on: "ubuntu-latest"
+    check-and-generate:
+      name: Check files and generate new glossary
+      runs-on: ubuntu-latest
+
+      # Give the default GITHUB_TOKEN write permissions to commit and push the changed files back to the repository.
+      permissions:
+        contents: write
+
       steps:
         - name: Checkout repository
-          uses: actions/checkout@v3
+          uses: actions/checkout@v4
           with:
             token: ${{ secrets.SVC_ACCT_PAT }}
+
+        - name: Checkout dqx_translations repository
+          uses: actions/checkout@v4
+          repository: 'dqx-translation-project/dqx_translations'
+          with:
+            token: ${{ secrets.SVC_ACCT_PAT }}
+
         - name: Install Python
           uses: actions/setup-python@v1
           with:
             python-version: '3.11'
-        - name: Run check script
+
+        - name: Run check validations
           run: python .github/workflows/checks.py
-        - name: Glossary updates
-          run: python .github/workflows/glossary.py
+
+        - name: Generate glossary
+          run: |
+            cd generate_glossary;
+            python main.py;
+
         - name: Commit pending glossary changes back to branch
-          uses: stefanzweifel/git-auto-commit-action@v4
+          uses: stefanzweifel/git-auto-commit-action@v5
           with:
             file_pattern: 'csv/*.csv'
-            commit_message: 'Committing new glossary changes'
+            commit_message: 'Committing updated glossary changes'
