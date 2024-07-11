@@ -17,14 +17,12 @@
       steps:
         - name: Checkout repository
           uses: actions/checkout@v4
-          with:
-            token: ${{ secrets.SVC_ACCT_PAT }}
 
         - name: Checkout dqx_translations repository
           uses: actions/checkout@v4
-          repository: 'dqx-translation-project/dqx_translations'
           with:
-            token: ${{ secrets.SVC_ACCT_PAT }}
+            repository: 'dqx-translation-project/dqx_translations'
+            path: 'dqx_translations'
 
         - name: Install Python
           uses: actions/setup-python@v1

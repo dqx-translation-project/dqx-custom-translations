@@ -1,3 +1,4 @@
+import os
 import shutil
 import re
 from lib import (
@@ -12,8 +13,9 @@ from override import OVERRIDE
 from player_names import PLAYER_NAMES
 
 
-# this path must be updated to your dqx_translations/json/_lang/en directory.
-dqx_translations_path = "./dqx_translations/json/_lang/en"
+# this path must be updated to your dqx_translations/json/_lang/en directory. this is defaulted
+# to where github actions expect it to be.
+dqx_translations_path = "../dqx_translations/json/_lang/en"
 
 # list of files that contain common DQX terms we want to capture in our glossary
 game_dictionary = merge_jsons([
@@ -34,8 +36,8 @@ game_dictionary = merge_jsons([
     f"{dqx_translations_path}/subPackage12Client.win32.json",
 ])
 
-glossary_path = ".\glossary.csv"
-delete_file_if_exists(glossary_path)
+glossary_name = "glossary.csv"
+delete_file_if_exists(glossary_name)
 
 for key, value in game_dictionary.items():
     # remove tags from string.
@@ -87,11 +89,14 @@ for key in PLAYER_NAMES:
         f.write(f"{key},{PLAYER_NAMES[key]}\n")
 
 # clean glossary up by removing duplicates, sorting and verifying format.
-remove_duplicates(glossary_path, "temp.csv")
-shutil.move("temp.csv", glossary_path)
-sort_glossary(glossary_path)
-verify_csv_format(glossary_path)
+remove_duplicates(glossary_name, "temp.csv")
+shutil.move("temp.csv", glossary_name)
+sort_glossary(glossary_name)
+verify_csv_format(glossary_name)
 
 # move glossary to csv directory
-shutil.move(glossary_path, "../csv/")
+if os.path.isfile(f"../csv/{glossary_name}"):
+    os.remove(f"../csv/{glossary_name}")
+
+shutil.move(glossary_name, "../csv/")
 print("Generated glossary moved to ../csv/glossary.csv")
