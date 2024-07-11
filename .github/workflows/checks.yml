@@ -22,8 +22,8 @@
 
         - name: Checkout dqx_translations repository
           uses: actions/checkout@v4
-          repository: 'dqx-translation-project/dqx_translations'
           with:
+            repository: 'dqx-translation-project/dqx_translations'
             token: ${{ secrets.SVC_ACCT_PAT }}
 
         - name: Install Python
