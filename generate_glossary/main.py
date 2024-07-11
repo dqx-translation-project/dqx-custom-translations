@@ -35,7 +35,7 @@ game_dictionary = merge_jsons([
     f"{dqx_translations_path}/subPackage12Client.win32.json",
 ])
 
-glossary_path = ".\glossary.csv"
+glossary_path = "./glossary.csv"
 delete_file_if_exists(glossary_path)
 
 for key, value in game_dictionary.items():
