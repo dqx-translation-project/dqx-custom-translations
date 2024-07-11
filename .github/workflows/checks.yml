@@ -34,8 +34,6 @@
 
         - name: Run check validations
           run: |
-            ls;
-            pwd;
             python .github/workflows/checks.py
 
         - name: Generate glossary

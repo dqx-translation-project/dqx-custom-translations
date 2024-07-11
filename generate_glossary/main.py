@@ -12,8 +12,9 @@ from override import OVERRIDE
 from player_names import PLAYER_NAMES
 
 
-# this path must be updated to your dqx_translations/json/_lang/en directory.
-dqx_translations_path = "./dqx_translations/json/_lang/en"
+# this path must be updated to your dqx_translations/json/_lang/en directory. this is defaulted
+# to where github actions expect it to be.
+dqx_translations_path = "../dqx_translations/json/_lang/en"
 
 # list of files that contain common DQX terms we want to capture in our glossary
 game_dictionary = merge_jsons([
