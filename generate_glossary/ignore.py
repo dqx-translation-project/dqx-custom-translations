@@ -47,7 +47,7 @@ IGNORE = {
     "詩人": "POE in Weblate",
     "真の": "T. in Weblate",
     "橋": "Capatalized 'Bridge' in Weblate",
-    "てて": "Tete in Weblate, common string of characters"
+    "てて": "Tete in Weblate, common string of characters",
     "天使": "ANG in Weblate",
     "タイ": "Red Snapper in Weblate, common string of characters",
     "掘る": "'Dig' in Weblate, regular word",
