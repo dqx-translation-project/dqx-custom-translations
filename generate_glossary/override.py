@@ -3592,19 +3592,18 @@ OVERRIDE = {
     "墓": "tomb",
     "球": "ball",
     "盾": "shield",
-    "鎌": "scythe"
-    "楯": "shield",
+    "鎌": "scythe",
     "駅": "train station",
     "泉": "fountain",
-    "深部": "depths"
-    "最深部": "depths"
+    "深部": "depths",
+    "最深部": "depths",
     "魔王": "Demon King",
-    "賢者": "sage"
-    "巫女": "maiden"
-    "成功": "success"
-    "モテモテ": "popular"
-    "石碑": "stone monument"
-    "階段": "stairs"
+    "賢者": "sage",
+    "巫女": "maiden",
+    "成功": "success",
+    "モテモテ": "popular",
+    "石碑": "stone monument",
+    "階段": "stairs",
     "聖堂": "shrine",
     "中央": "center",
     "階段": "stairs",
