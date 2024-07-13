@@ -3745,5 +3745,8 @@ OVERRIDE = {
     "デスマスター": "death master",
     "バトルマスター": "battlemaster",
     "両手剣": "greatsword",
-    "片手剣ー": "sword"
+    "片手剣ー": "sword",
+    "ギルド": "Guild",
+    "ガンバライオン": "Ganbalion",
+    "ポルるん": "Portie"
 }
