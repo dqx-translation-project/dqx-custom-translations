@@ -107,7 +107,6 @@ IGNORE = {
     "勇者": "HRO in Weblate, don't want abbreviated",
     "くら": "MAN in Weblate, too short a string",
     "逃走": "ESC in Weblate, don't want abbreviated",
-    "彼女": "Her in Weblate, too common a word",
     "ミス": "Miss in Weblate, too short a string",
     "ミイ": "MUM in Weblate, too short a string",
     "マリ": "SEA in Weblate, too short a string",
