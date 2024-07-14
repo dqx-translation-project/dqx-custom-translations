@@ -3745,8 +3745,12 @@ OVERRIDE = {
     "デスマスター": "death master",
     "バトルマスター": "battlemaster",
     "両手剣": "greatsword",
-    "片手剣ー": "sword",
+    "片手剣": "sword",
     "ギルド": "Guild",
     "ガンバライオン": "Ganbalion",
-    "ポルるん": "Portie"
+    "ポルるん": "Portie",
+    "マギエル": "Magiel",
+    "ゼニート": "Zenit",
+    "リムネル": "Rimnel",
+    "守護天使": "Guardian Angel"
 }
