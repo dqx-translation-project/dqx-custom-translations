@@ -137,5 +137,11 @@ IGNORE = {
     "追跡": "TRA in Weblate, don't want abbreviated",
     "パラ": "PLD in Weblate, don't want abbreviated",
     "の丘陵": "Hills of Weblate, fragment of a phrase that would look weird",
-    " 出口": "Exit in Weblate, normal word (space is intentional)" 
+    " 出口": "Exit in Weblate, normal word (space is intentional)",
+    "もち": "Mochi in Weblate, too short a string",
+    "パー": "Paper in Weblate, too short a string",
+    "グー": "Rock in Weblate, too short a string",
+    "やり": "Spear in Weblate, too short a string",
+    "あると": "Alto in Weblate, too common",
+    "うら": "Tails in Weblate, too short a string"
 }
