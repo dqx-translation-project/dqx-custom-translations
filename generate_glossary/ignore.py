@@ -144,5 +144,6 @@ IGNORE = {
     "やり": "Spear in Weblate, too short a string",
     "あると": "Alto in Weblate, too common",
     "うら": "Tails in Weblate, too short a string",
-    "ごめんなさい": "Decline in Weblate, this is not the correct definition"
+    "ごめんなさい": "Decline in Weblate, this is not the correct definition",
+    "お願い": "Please! in Weblate, too common a phrase"
 }
