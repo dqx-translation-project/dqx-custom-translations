@@ -277,5 +277,6 @@ PLAYER_NAMES = {
     "エケスリツケ": "Echsrick",
     "ベルベット": "Velvet",
     "ウィングナト": "Wingnutt",
-    "イリヤ": "Illya"
+    "イリヤ": "Illya",
+    "アジラフェル": "Aziraphale"
 }
