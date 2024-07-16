@@ -3752,5 +3752,6 @@ OVERRIDE = {
     "マギエル": "Magiel",
     "ゼニート": "Zenit",
     "リムネル": "Rimnel",
-    "守護天使": "Guardian Angel"
+    "守護天使": "Guardian Angel",
+    "エントランス": "entrance"
 }
