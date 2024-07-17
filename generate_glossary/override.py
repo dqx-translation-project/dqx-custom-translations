@@ -3753,5 +3753,7 @@ OVERRIDE = {
     "ゼニート": "Zenit",
     "リムネル": "Rimnel",
     "守護天使": "Guardian Angel",
-    "エントランス": "entrance"
+    "エントランス": "entrance",
+    "コッケン様": "Cuckoo",
+    "コッケン祭り": "Cuckoo Festival"
 }
