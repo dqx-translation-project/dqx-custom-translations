@@ -3755,5 +3755,7 @@ OVERRIDE = {
     "守護天使": "Guardian Angel",
     "エントランス": "entrance",
     "コッケン様": "Cuckoo",
-    "コッケン祭り": "Cuckoo Festival"
+    "コッケン祭り": "Cuckoo Festival",
+    "スイッチ": "switch",
+    "ターボアクセル": "Turbo Accel"
 }
