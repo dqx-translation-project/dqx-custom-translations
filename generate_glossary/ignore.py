@@ -150,5 +150,9 @@ IGNORE = {
     "いただきます": "Let's eat in Weblate, not always used this way",
     "みろ": "Miro in Weblate, too short a string",
     "ミロ": "Miro in Weblate, too short a string",
-    "の神殿": "'Temple of' in Weblate, shouldn't be used"
+    "の神殿": "'Temple of' in Weblate, shouldn't be used",
+    "タル":"Barrel in Weblate, too short a string",
+    "壊れた扉": "Broken Door in Weblate, common phrase",
+    "昇降機": "Elevator in Weblate, doesn't need to be capitalized",
+    "エレベーター": "Elevator in Weblate, doesn't need to be capitalized"
 }
