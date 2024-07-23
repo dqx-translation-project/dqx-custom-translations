@@ -279,5 +279,6 @@ PLAYER_NAMES = {
     "ウィングナト": "Wingnutt",
     "イリヤ": "Illya",
     "アジラフェル": "Aziraphale",
-    "ォータムズ": "Autumns"
+    "ォータムズ": "Autumns",
+    "ザックス": "Zack"
 }
