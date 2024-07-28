@@ -281,5 +281,6 @@ PLAYER_NAMES = {
     "アジラフェル": "Aziraphale",
     "ォータムズ": "Autumns",
     "ザックス": "Zack",
-    "フオーケ": "Fork"
+    "フオーケ": "Fork",
+    "カズリオン": "Kazrion"
 }
