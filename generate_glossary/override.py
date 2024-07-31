@@ -3757,5 +3757,6 @@ OVERRIDE = {
     "コッケン様": "Cuckoo",
     "コッケン祭り": "Cuckoo Festival",
     "スイッチ": "switch",
-    "ターボアクセル": "Turbo Accel"
+    "ターボアクセル": "Turbo Accel",
+    "イタ映え":"pinteresting"
 }
