@@ -3758,5 +3758,6 @@ OVERRIDE = {
     "コッケン祭り": "Cuckoo Festival",
     "スイッチ": "switch",
     "ターボアクセル": "Turbo Accel",
-    "イタ映え":"pinteresting"
+    "イタ映え":"pinteresting",
+    "ダーマ神官": "Abbey Priest"
 }
