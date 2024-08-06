@@ -155,5 +155,15 @@ IGNORE = {
     "壊れた扉": "Broken Door in Weblate, common phrase",
     "昇降機": "Elevator in Weblate, doesn't need to be capitalized",
     "エレベーター": "Elevator in Weblate, doesn't need to be capitalized",
-    "レイ": "Rei in Weblate, too short a string"
+    "レイ": "Rei in Weblate, too short a string",
+    "古": "Old in Weblate, doesn't need capitalization",
+    "本殿": "Shrine in Weblate, doesn't need captitalization",
+    "壁": "Wall in Weblate, doesn't need capitalization",
+    "フナ": "Carp in Weblate, too short a string",
+    "農夫": "FRM in Weblate, don't want to use abbreviation",
+    "室内": "Inside in Weblate, doesn't need capitalization",
+    "白猫": "White Cat in Weblate, doesn't need capitalization",
+    "下層": "Lower in Weblate, doesn't need captitalization",
+    "城門": "Castle Gate in Weblate, doesn't need capitalization",
+    "リラ": "Lira in Weblate, too short a string"
 }
