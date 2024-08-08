@@ -3759,5 +3759,6 @@ OVERRIDE = {
     "スイッチ": "switch",
     "ターボアクセル": "Turbo Accel",
     "イタ映え":"pinteresting",
-    "ダーマ神官": "Abbey Priest"
+    "ダーマ神官": "Abbey Priest",
+    "クエストスキップ": "Quest Skip"
 }
