@@ -3761,5 +3761,6 @@ OVERRIDE = {
     "イタ映え":"pinteresting",
     "ダーマ神官": "Abbey Priest",
     "クエストスキップ": "Quest Skip",
-    "魔族":"demon"
+    "魔族":"demon",
+    "サバイバルデスマッチ": "Survival Deathmatch"
 }
