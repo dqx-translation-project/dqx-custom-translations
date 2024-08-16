@@ -72,7 +72,7 @@
     "再生の詩を届けますわ！\nどうか耐え抜いて……！": "My song of renewal!\nPlease stay strong!"
   },
   "24": {
-    "ここからは雪原か……\n古傷が　痛まんといいが": "A snowfield...? I hope\nold wounds won't ache."
+    "ここからは雪原か……\n古傷が痛まんといいが": "A snowfield...? I hope\nold wounds won't ache."
   },
   "25": {
     "魂の燭台を探さねば。\n……行くぞ": "We must find your\nCandelabra. Come on."
@@ -495,6 +495,12 @@
     "きれいで　ふしぎな場所\n空の上……なのかしら？": "A beautiful place in\nthe sky...I think?"
   },
   "164": {
-    "ここから南側には\n魂の燭台はなかった": "There weren't any soul\ncandelabras south of here."
+    "ここから南側には\n魂の燭台はなかった": "Your candelabra wasn't\nto the south of here."
+  },
+  "165": {
+    "この建物の先は\nまだ探していない": "I've yet to explore\nbeyond here."
+  },
+  "166": {
+    "……行くぞ": "...Let's go."
   }
 }
