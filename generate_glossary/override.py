@@ -3762,5 +3762,7 @@ OVERRIDE = {
     "ダーマ神官": "Abbey Priest",
     "クエストスキップ": "Quest Skip",
     "魔族":"demon",
-    "サバイバルデスマッチ": "Survival Deathmatch"
+    "サバイバルデスマッチ": "Survival Deathmatch",
+    "鬼人国": "Demonkin's Domain",
+    "鬼人": "Demonkin"
 }
