@@ -166,5 +166,6 @@ IGNORE = {
     "下層": "Lower in Weblate, doesn't need captitalization",
     "城門": "Castle Gate in Weblate, doesn't need capitalization",
     "リラ": "Lira in Weblate, too short a string",
-    "魂の形": "Figure of a Spirit in Weblate, don't want to use this phrase"
+    "魂の形": "Figure of a Spirit in Weblate, don't want to use this phrase",
+    "見つけた！": "I Found It! in Weblate, too common a phrase"
 }
