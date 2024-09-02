@@ -278,5 +278,7 @@ PLAYER_NAMES = {
     "ザックス": "Zack",
     "フオーケ": "Fork",
     "カズリオン": "Kazrion",
-    "ホムイイ": "Matt"
+    "ホムイイ": "Matt",
+    "ランドリー": "Laundry",
+    "ゾルディウス": "Xordyus"
 }
