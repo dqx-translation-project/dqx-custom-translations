@@ -3764,5 +3764,8 @@ OVERRIDE = {
     "魔族":"demon",
     "サバイバルデスマッチ": "Survival Deathmatch",
     "鬼人国": "Demonkin's Domain",
-    "鬼人": "Demonkin"
+    "鬼人": "Demonkin",
+    "スープ": "soup",
+    "フロア": "floor",
+    "通話端末": "call terminal"
 }
