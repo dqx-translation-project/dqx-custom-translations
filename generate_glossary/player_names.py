@@ -281,5 +281,6 @@ PLAYER_NAMES = {
     "ホムイイ": "Matt",
     "ランドリー": "Laundry",
     "ゾーディアス": "Xordyus",
-    "デイセット": "Dayset"
+    "デイセット": "Dayset",
+    "アロン": "Aron"
 }
