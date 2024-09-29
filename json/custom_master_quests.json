@@ -24,13 +24,13 @@
     "アストルティア防衛軍で　１回防衛せよ！": "Defend once in Astoltia Defense Force!"
   },
   "9": {
-    "邪神の宮殿の四獄で　１回討伐せよ！": "Beat 4th Prison in Dark Deity's Palace once!"
+    "邪神の宮殿の四獄で　１回討伐せよ！": "Clear Prison IV in the Dark Deity's Palace!"
   },
   "10": {
     "魔法の迷宮で　スライムジェネラルを倒せ！": "Defeat Shogum in the Magic Maze!"
   },
   "11": {
-    "強戦士の書で　魔人エンラージャ強を倒せ！": "Defeat Apex Demon Enraja in Book of Bosses!"
+    "強戦士の書で　魔人エンラージャ強を倒せ！": "Defeat Apex Enraja in Book of Bosses!"
   },
   "12": {
     "魔法の迷宮で　バズズ強を倒せ！": "Defeat Apex Pazuzu in the Magic Maze!"
@@ -51,13 +51,13 @@
     "ピラミッドの第六の霊廟を　クリアせよ！": "Clear the Pyramid's 6th Tomb!"
   },
   "18": {
-    "邪神の宮殿の一獄で　１回討伐せよ！": "Beat 1st Prison in Dark Deity's Palace once!"
+    "邪神の宮殿の一獄で　１回討伐せよ！": "Clear Prison I in the Dark Deity's Palace!"
   },
   "19": {
     "魔法の迷宮で　バラモスを倒せ！": "Defeat Baramos in the Magic Maze!"
   },
   "20": {
-    "戦士　４人のパーティで挑むこと。": "Must challenge with a party of 4 Warriors."
+    "戦士　４人のパーティで挑むこと。": "Party must consist of 4 Warriors."
   },
   "21": {
     "強戦士の書で　ウルベア魔神兵強を倒せ！": "Defeat Apex Urbea Aztech in Book of Bosses!"
@@ -84,7 +84,7 @@
     "１分５０秒を　制限時間とする。": "Time limit of 1 minute and 50 seconds."
   },
   "29": {
-    "邪神の宮殿の三獄で　１回討伐せよ！": "Beat 3rd Prison in Dark Deity's Palace once!"
+    "邪神の宮殿の三獄で　１回討伐せよ！": "Clear Prison III in the Dark Deity's Palace!"
   },
   "30": {
     "魔法の迷宮で　アトラスを倒せ！": "Defeat Atlas in the Magic Maze!"
@@ -120,7 +120,7 @@
     "魔法の迷宮で　キングヒドラを倒せ！": "Defeat King Hydra in the Magic Maze!"
   },
   "41": {
-    "魔法戦士　４人のパーティで挑むこと。": "Must challenge with a party of 4 Armamentalists."
+    "魔法戦士　４人のパーティで挑むこと。": "Party must consist of 4 Armamentalists."
   },
   "42": {
     "強戦士の書で　悪夢の右手強を倒せ！": "Defeat Apex Right Incubus in Book of Bosses!"
@@ -141,7 +141,7 @@
     "万魔の塔の四の災壇で　１回クリアせよ！": "Clear Banma Tower's 4th Platform once!"
   },
   "48": {
-    "踊り子　４人のパーティで挑むこと。": "Must challenge with a party of 4 Dancers."
+    "踊り子　４人のパーティで挑むこと。": "Party must consist of 4 Dancers."
   },
   "49": {
     "魔法の迷宮で　ドラゴンガイアを倒せ！": "Defeat Gaia Dragon in the Magic Maze!"
@@ -153,10 +153,10 @@
     "強戦士の書で　ヘルバトラー強を倒せ！": "Defeat Apex Barbatos in Book of Bosses!"
   },
   "52": {
-    "賢者　４人のパーティで挑むこと。": "Must challenge with a party of 4 Sages."
+    "賢者　４人のパーティで挑むこと。": "Party must consist of 4 Sages."
   },
   "53": {
-    "パーティメンバー全員　どうぐの使用を禁ずる。": "All party members must not use items."
+    "パーティメンバー全員　どうぐの使用を禁ずる。": "No party members may use items."
   },
   "54": {
     "万魔の塔の五の災壇で　１回クリアせよ！": "Clear Banma Tower's 5th Platform once!"
@@ -165,7 +165,7 @@
     "魔法の迷宮で　暗黒の魔人を倒せ！": "Defeat Ruin in the Magic Maze!"
   },
   "56": {
-    "強戦士の書を用いた獲得限定とする。": "Must acquire using the Book of Bosses!"
+    "強戦士の書を用いた獲得限定とする。": "Must acquire using the Book of Bosses."
   },
   "57": {
     "ピラミッドの第二の霊廟を　クリアせよ！": "Clear the Pyramid's 2nd Tomb!"
@@ -174,7 +174,7 @@
     "２分５０秒を制限時間とする。": "Time limit of 2 minutes and 50 seconds."
   },
   "59": {
-    "邪神の宮殿の二獄で　１回討伐せよ！": "Beat 2nd Prison in Dark Deity's Palace once!"
+    "邪神の宮殿の二獄で　１回討伐せよ！": "Clear Prison II in the Dark Deity's Palace!"
   },
   "60": {
     "魔法の迷宮で　Sキラーマシンを倒せ！": "Defeat Trauminator in the Magic Maze!"
@@ -204,7 +204,7 @@
     "武闘家をパーティに　ひとり入れること。": "Must have a Martial Artist in the party."
   },
   "69": {
-    "武闘家　４人のパーティで挑むこと。": "Must challenge with a party of 4 Martial Artists."
+    "武闘家　４人のパーティで挑むこと。": "Party must consist of 4 Martial Artists."
   },
   "70": {
     "パープルオーブを４個集めよ！": "Collect 4 Purple Orbs!"
@@ -240,7 +240,7 @@
     "魔法戦士をパーティに　ひとり入れること。": "Must have an Armamentalist in the party."
   },
   "81": {
-    "パラディン　４人のパーティで挑むこと。": "Must challenge with a party of 4 Paladins."
+    "パラディン　４人のパーティで挑むこと。": "Party must consist of 4 Paladins."
   },
   "82": {
     "魔法の迷宮で　アトラス強を倒せ！": "Defeat Apex Atlas in the Magic Maze!"
@@ -252,7 +252,7 @@
     "ブルーオーブを４個集めよ！": "Collect 4 Blue Orbs!"
   },
   "85": {
-    "旅芸人　４人のパーティで挑むこと。": "Must challenge with a party of 4 Minstrels."
+    "旅芸人　４人のパーティで挑むこと。": "Party must consist of 4 Minstrels."
   },
   "86": {
     "踊り子をパーティに　ふたり入れること。": "Must have 2 Dancers in the party."
@@ -291,7 +291,7 @@
     "スーパースターをパーティに　ひとり入れること。": "Must have a Superstar in the party."
   },
   "98": {
-    "僧侶　４人のパーティで挑むこと。": "Must challenge with a party of 4 Priests."
+    "僧侶　４人のパーティで挑むこと。": "Party must consist of 4 Priests."
   },
   "99": {
     "強戦士の書で　怪蟲アラグネ強を倒せ！": "Defeat Apex Araniad in Book of Bosses!"
@@ -303,7 +303,7 @@
     "戦士をパーティに　ふたり入れること。": "Must have 2 Warriors in the party."
   },
   "102": {
-    "占い師　４人のパーティで挑むこと。": "Must challenge with a party of 4 Fortune Tellers."
+    "占い師　４人のパーティで挑むこと。": "Party must consist of 4 Fortune Tellers."
   },
   "103": {
     "３分２０秒を　制限時間とする。": "Time limit of 3 minutes and 20 seconds."
@@ -339,6 +339,15 @@
     "魔法の迷宮で　キラーマジンガを倒せ！": "Defeat Uberkilling Machine in the Magic Maze!"
   },
   "114": {
-    "バトルマスター　４人のパーティで挑むこと。": "Must challenge with a party of 4 Battlemasters."
+    "バトルマスター　４人のパーティで挑むこと。": "Party must consist of 4 Battlemasters."
+  },
+  "115": {
+    "魔剣士　４人のパーティで挑むこと。": "Party must consist of 4 Demon Swordsmen."
+  },
+  "116": {
+    "強戦士の書で　天魔クァバルナ強を倒せ！": "Defeat Apex Kukulkannibal in Book of Bosses!"
+  },
+  "117": {
+    "２分１０秒を　制限時間とする。": "Time limit of 2 minutes and 10 seconds."
   }
 }
