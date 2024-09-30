@@ -282,5 +282,7 @@ PLAYER_NAMES = {
     "ランドリー": "Laundry",
     "ゾーディアス": "Xordyus",
     "デイセット": "Dayset",
-    "アロン": "Aron"
+    "アロン": "Aron",
+    "オローリン": "Olorin",
+    "ガラドリエル": "Galadriel"
 }
