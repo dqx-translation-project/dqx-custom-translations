@@ -3791,5 +3791,8 @@ OVERRIDE = {
     "はどうスキル": "Darkness skill",
     "ほうげきスキル": "Ballistics skill",
     "てっぺきスキル": "Selflessness skill",
-    "ドラゴンスキル": "Dragomancy skill"
+    "ドラゴンスキル": "Dragomancy skill",
+    "甘党": "Sweet Tooth",
+    "辛党": "Nice Spice",
+    "スッパ党": "Sour Power"
 }
