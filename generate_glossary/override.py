@@ -3794,5 +3794,6 @@ OVERRIDE = {
     "ドラゴンスキル": "Dragomancy skill",
     "甘党": "Sweet Tooth",
     "辛党": "Nice Spice",
-    "スッパ党": "Sour Power"
+    "スッパ党": "Sour Power",
+    "ホルン": "horn"
 }
