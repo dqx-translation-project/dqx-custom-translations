@@ -167,5 +167,18 @@ IGNORE = {
     "城門": "Castle Gate in Weblate, doesn't need capitalization",
     "リラ": "Lira in Weblate, too short a string",
     "魂の形": "Figure of a Spirit in Weblate, don't want to use this phrase",
-    "見つけた！": "I Found It! in Weblate, too common a phrase"
+    "見つけた！": "I Found It! in Weblate, too common a phrase",
+    "神": "GOD in Weblate, should not be capitalized like this",
+    "棍": "rod in weblate, too small a word",
+    "ネジ": "Screw in weblate, shouldn't be capitalized",
+    "硯": "Ink in weblate, shouldn't be capitalized",
+    "受付": "Reception in weblate, shouldn't be capitalized",
+    "上り": "Ascent in Weblate, shouldn't be capitalized",
+    "怒り": "Anger in weblate, shouldn't be capitalized",
+    "馬車": "Wagon in weblate, shouldn't be capitalized",
+    "書斎": "Study in weblate, shouldn't be capitalized"
+    "神化": "DIV in weblate, too short",
+    "キツネ": "Fox in weblate, shouldn't be capitalized",
+    "ウサギ": "Rabbit in weblate, shouldn't be capitalized"
+    "の砂漠": "Desert of in weblate, don't use"
 }
