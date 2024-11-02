@@ -3795,5 +3795,8 @@ OVERRIDE = {
     "甘党": "Sweet Tooth",
     "辛党": "Nice Spice",
     "スッパ党": "Sour Power",
-    "ホルン": "horn"
+    "ホルン": "horn",
+    "盗賊": "thief",
+    "パラディン": "paladin",
+    "天地雷鳴士": "druid"
 }
