@@ -284,5 +284,6 @@ PLAYER_NAMES = {
     "デイセット": "Dayset",
     "アロン": "Aron",
     "オローリン": "Olorin",
-    "ガラドリエル": "Galadriel"
+    "ガラドリエル": "Galadriel",
+    "ルートヴィヒ": "Ludwig"
 }
