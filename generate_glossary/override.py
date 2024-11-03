@@ -3798,5 +3798,6 @@ OVERRIDE = {
     "ホルン": "horn",
     "盗賊": "thief",
     "パラディン": "paladin",
-    "天地雷鳴士": "druid"
+    "天地雷鳴士": "druid",
+    "ゼナベスティア": "Zenabestia"
 }
