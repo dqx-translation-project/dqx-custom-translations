@@ -795,7 +795,7 @@
     "プクランド大陸のフェルアバの洞くつにいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Felaba Cave in\nPukuland."
   },
   "266": {
-    "デザートガルバを　20匹討伐する。": "Defeat 20 Desert Sootbonces."
+    "デザートガルバを　20匹討伐する。": "Defeat 20 Sandbonces."
   },
   "267": {
     "ぼうれい剣士を　20匹討伐する。": "Defeat 20 Phantom Fencers."
@@ -888,7 +888,7 @@
     "チーム全体で　職人作業中に大成功を　2回達成する。": "Get a Perfection 2 times while crafting as a team."
   },
   "297": {
-    "デザートゴルバを　20匹討伐する。": "Defeat 20 Desert Smogbonnets."
+    "デザートゴルバを　20匹討伐する。": "Defeat 20 Dirtbonnets."
   },
   "298": {
     "ウィングデビルを　20匹討伐する。": "Defeat 20 Aggrosculptures."
@@ -1873,5 +1873,8 @@
   },
   "625": {
     "ベホイムスライムを　20匹討伐する。": "Defeat 20 Sootheslimes."
+  },
+  "626": {
+    "ガルバを　20匹討伐する。": "Defeat 20 Sootbonces."
   }
 }
