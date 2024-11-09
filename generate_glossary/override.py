@@ -3799,5 +3799,8 @@ OVERRIDE = {
     "盗賊": "thief",
     "パラディン": "paladin",
     "天地雷鳴士": "druid",
-    "ゼナベスティア": "Zenabestia"
+    "ゼナベスティア": "Zenabestia",
+    "コマンド": "command",
+    "ひっさつコマンド": "Special command",
+    "チャンスコマンド": "Chance command"
 }
