@@ -24,7 +24,7 @@ PLAYER_NAMES = {
     "ショーン": "Sean",
     "エリスタン": "Ellistan",
     "ジュール": "Jules",
-    "ゴールドゼフ": "Gold Zeph", 
+    "ゴールドゼフ": "Gold Zeph",
     "メロディー": "Melody",
     "エリー": "Ellie",
     "デビン": "Devin",
@@ -285,5 +285,6 @@ PLAYER_NAMES = {
     "アロン": "Aron",
     "オローリン": "Olorin",
     "ガラドリエル": "Galadriel",
-    "ルートヴィヒ": "Ludwig"
+    "ルートヴィヒ": "Ludwig",
+    "ネムヒー": "Nehmy"
 }
