@@ -286,5 +286,6 @@ PLAYER_NAMES = {
     "オローリン": "Olorin",
     "ガラドリエル": "Galadriel",
     "ルートヴィヒ": "Ludwig",
-    "ネムヒー": "Nemhy"
+    "ネムヒー": "Nemhy",
+    "マ－ル": "Marle"
 }
