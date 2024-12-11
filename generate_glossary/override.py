@@ -3802,5 +3802,10 @@ OVERRIDE = {
     "ゼナベスティア": "Zenabestia",
     "コマンド": "command",
     "ひっさつコマンド": "Special command",
-    "チャンスコマンド": "Chance command"
+    "チャンスコマンド": "Chance command",
+    "ガナン帝国": "Gittish Empire",
+    "しかし　持ち物が　いっぱいだった！": "But you're carrying too many things!",
+    "神殺しの心気": "Godslayer's Grit",
+    "三将軍": "Triumgorate",
+    "ピキー！": "Slurp!"
 }
