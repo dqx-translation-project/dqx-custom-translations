@@ -43,7 +43,7 @@ PLAYER_NAMES = {
     "クオード": "Quard",
     "ヴァレリア": "Valeria",
     "ヒストリカ": "Historica",
-    "イルーシャ": "Irusha",
+    "イルーシャ": "Illusia",
     "パドレ": "Padre",
     "ユーライザ": "Yuliza",
     "ラダ・ガート": "Lada Gart",
