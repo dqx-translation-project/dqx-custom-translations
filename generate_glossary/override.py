@@ -2418,7 +2418,7 @@ OVERRIDE = {
     "友情の光": "Friendshine",
     "副素材A": "Sub-Material A",
     "やぐら": "fort",
-    "大魔王": "Great Demon King",
+    "大魔王": "Demon Lord",
     "天奏士": "divine musician",
     "プク女": "Pukulipo woman",
     "占い師": "fortune teller",
