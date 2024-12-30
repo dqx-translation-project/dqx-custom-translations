@@ -181,5 +181,6 @@ IGNORE = {
     "キツネ": "Fox in weblate, shouldn't be capitalized",
     "ウサギ": "Rabbit in weblate, shouldn't be capitalized",
     "の砂漠": "Desert of in weblate, don't use",
-    "おもて": "Heads, too short a word"
+    "おもて": "Heads, too short a word",
+    "ドラゴン": "Green Dragon in weblate, no"
 }
