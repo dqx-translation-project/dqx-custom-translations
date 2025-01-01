@@ -288,5 +288,7 @@ PLAYER_NAMES = {
     "ルートヴィヒ": "Ludwig",
     "ネムヒー": "Nemhy",
     "マ－ル": "Marle",
-    "へリオス": "Helios"
+    "へリオス": "Helios",
+    "カノック": "Cannock",
+    "グリゴリ": "Grigory"
 }
