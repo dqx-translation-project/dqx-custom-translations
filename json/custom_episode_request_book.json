@@ -66,7 +66,7 @@
     "旧ネクロデア領にいるモンスターを　２０匹討伐する。": "Defeat 20 monsters in the Old\nNecrodea Area."
   },
   "23": {
-    "デスディオ暗黒荒原にいるモンスターを　２０匹討伐する。": "Defeat 20 monsters in the Desdio\nDark Wilderness."
+    "デスディオ暗黒荒原にいるモンスターを　２０匹討伐する。": "Defeat 20 monsters in the Deathdio\nDarklands."
   },
   "24": {
     "破界篇の最後の敵を　１匹討伐する。": "Defeat the final boss of the\nBreaking World story once."
@@ -97,5 +97,8 @@
   },
   "33": {
     "ジャリムバハ砂漠にいるモンスターを　２０匹討伐する。": "Defeat 20 monsters in the\nJyarimbaha Desert."
+  },
+  "34": {
+    "魔幻都市ゴーラ跡にいるモンスターを　２０匹討伐する。": "Defeat 20 monsters in the\nRuins of Gora."
   }
 }
