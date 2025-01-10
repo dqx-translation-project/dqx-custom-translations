@@ -83,12 +83,6 @@ for key in OVERRIDE:
     with open("glossary.csv", "a+") as f:
         f.write(f"{key},{OVERRIDE[key]}\n")
 
-# write custom player name strings into the glossary. this is temporary until functionality
-# exists in clarity to allow players to do this themselves.
-for key in PLAYER_NAMES:
-    with open("glossary.csv", "a+") as f:
-        f.write(f"{key},{PLAYER_NAMES[key]}\n")
-
 for key in NPC_NAMES:
     with open("glossary.csv", "a+") as f:
         f.write(f"{key},{NPC_NAMES[key]}\n")
