@@ -10,7 +10,6 @@ from lib import (
 )
 from ignore import IGNORE
 from override import OVERRIDE
-from player_names import PLAYER_NAMES
 from npc_names import NPC_NAMES
 
 
@@ -82,12 +81,6 @@ for key, value in game_dictionary.items():
 for key in OVERRIDE:
     with open("glossary.csv", "a+") as f:
         f.write(f"{key},{OVERRIDE[key]}\n")
-
-# write custom player name strings into the glossary. this is temporary until functionality
-# exists in clarity to allow players to do this themselves.
-for key in PLAYER_NAMES:
-    with open("glossary.csv", "a+") as f:
-        f.write(f"{key},{PLAYER_NAMES[key]}\n")
 
 for key in NPC_NAMES:
     with open("glossary.csv", "a+") as f:
