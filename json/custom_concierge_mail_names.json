@@ -1,0 +1,227 @@
+{
+  "1": {
+    "取引商チェポン": "Trader Chepon"
+  },
+  "2": {
+    "郵便局員ヒナゲシ": "Postman Hinageshi"
+  },
+  "3": {
+    "２階バルコニー扉": "2F Balcony Door"
+  },
+  "4": {
+    "２階テラス扉": "2F Terrace Door"
+  },
+  "5": {
+    "２階の裏扉": "2F Back Door"
+  },
+  "6": {
+    "住宅商エノク": "Realtor Enoch"
+  },
+  "7": {
+    "魔物管理人ミゲイル": "Monster Manager Miguel"
+  },
+  "8": {
+    "宿屋の娘": "Innkeeper's Daughter"
+  },
+  "9": {
+    "記念大王": "Commemorative King"
+  },
+  "10": {
+    "釣り師範": "Fish Master"
+  },
+  "11": {
+    "記者リーリナ": "Reporter Lilina"
+  },
+  "12": {
+    "大会係員": "Event Staff"
+  },
+  "13": {
+    "カジノ支配人": "Casino Manager"
+  },
+  "14": {
+    "謎のヒーロー": "Mysterious Hero"
+  },
+  "15": {
+    "世界宿屋協会": "World Innkeepers"
+  },
+  "16": {
+    "星獣": "Star Beast"
+  },
+  "17": {
+    "学園長": "Principal"
+  },
+  "18": {
+    "ウサギの王": "Rabbit King"
+  },
+  "19": {
+    "赤い帽子の人": "Man in the Red Hat"
+  },
+  "20": {
+    "ある占い師": "A Fortune Teller"
+  },
+  "21": {
+    "謎の人物": "Mysterious Person"
+  },
+  "22": {
+    "討伐隊記録係": "Strike Force"
+  },
+  "23": {
+    "ミキとラン": "Miki and Ran"
+  },
+  "24": {
+    "ふくびきマン": "Lottery Man"
+  },
+  "25": {
+    "キルル": "Kilulu"
+  },
+  "26": {
+    "ファラオ": "Pharaoh"
+  },
+  "27": {
+    "シャイラ": "Shyla"
+  },
+  "28": {
+    "クルッチ": "Ickle"
+  },
+  "29": {
+    "ハルモス": "Harmos"
+  },
+  "30": {
+    "シスター": "Sister"
+  },
+  "31": {
+    "パウダー": "Powder"
+  },
+  "32": {
+    "リレミトゲート": "Evac Gate"
+  },
+  "33": {
+    "弱体の魔陣": "Weakening Circle"
+  },
+  "34": {
+    "風来の魔陣": "Windy Circle"
+  },
+  "35": {
+    "火精の魔陣": "Fiery Circle"
+  },
+  "36": {
+    "鉄壁の魔陣": "Ironclad Circle"
+  },
+  "37": {
+    "眠りの魔陣": "Sleeping Circle"
+  },
+  "38": {
+    "ダメージ無効の陣": "Invulnerable Circle"
+  },
+  "39": {
+    "爆弾": "Bomb"
+  },
+  "40": {
+    "魔法陣": "Magic Circle"
+  },
+  "41": {
+    "ＤＱＸツール": "DQX App"
+  },
+  "42": {
+    "三闘士": "The Triad"
+  },
+  "43": {
+    "運営チーム": "Management"
+  },
+  "44": {
+    "開発チーム": "Dev. Team"
+  },
+  "45": {
+    "領界調查員": "Realm Survey"
+  },
+  "46": {
+    "ショップ": "Shop"
+  },
+  "47": {
+    "第１０回　クラブ内閃手ランキング": "10th Club Athlight Rankings"
+  },
+  "48": {
+    "第１１回　クラブ内閃手ランキング": "11th Club Athlight Rankings"
+  },
+  "49": {
+    "閃手名": "Name"
+  },
+  "50": {
+    "勝ち点": "Points"
+  },
+  "51": {
+    "第１０回　閃手ランキング": "10th Athlight Rankings"
+  },
+  "52": {
+    "第１１回　閃手ランキング": "11th Athlight Rankings"
+  },
+  "53": {
+    "第９回　クラブ内閃手ランキング": "9th Club Athlight Rankings"
+  },
+  "54": {
+    "第８回　クラブ内閃手ランキング": "8th Club Athlight Rankings"
+  },
+  "55": {
+    "第７回　クラブ内閃手ランキング": "7th Club Athlight Rankings"
+  },
+  "56": {
+    "第６回　クラブ内閃手ランキング": "6th Club Athlight Rankings"
+  },
+  "57": {
+    "第５回　クラブ内閃手ランキング": "5th Club Athlight Rankings"
+  },
+  "58": {
+    "第４回　クラブ内閃手ランキング": "4th Club Athlight Rankings"
+  },
+  "59": {
+    "第３回　クラブ内閃手ランキング": "3rd Club Athlight Rankings"
+  },
+  "60": {
+    "第２回　クラブ内閃手ランキング": "2nd Club Athlight Rankings"
+  },
+  "61": {
+    "第１回　クラブ内閃手ランキング": "1st Club Athlight Rankings"
+  },
+  "62": {
+    "第９回　閃手ランキング": "9th Athlight Rankings"
+  },
+  "63": {
+    "第８回　閃手ランキング": "8th Athlight Rankings"
+  },
+  "64": {
+    "第７回　閃手ランキング": "7th Athlight Rankings"
+  },
+  "65": {
+    "第６回　閃手ランキング": "6th Athlight Rankings"
+  },
+  "66": {
+    "第５回　閃手ランキング": "5th Athlight Rankings"
+  },
+  "67": {
+    "第４回　閃手ランキング": "4th Athlight Rankings"
+  },
+  "68": {
+    "第３回　閃手ランキング": "3rd Athlight Rankings"
+  },
+  "69": {
+    "第２回　閃手ランキング": "2nd Athlight Rankings"
+  },
+  "70": {
+    "第１回　閃手ランキング": "1st Athlight Rankings"
+  },
+  "71": {
+    "第１５回　段位戦": "Ranked Battle #15"
+  },
+  "72": {
+    "名前": "Name"
+  },
+  "73": {
+    "段位戦ポイント": "Ranked Points"
+  },
+  "74": {
+    "第７回　大富豪決定戦　ジャゴヌバ杯": "Tycoon Playoffs #7 Jagonuba Cup"
+  },
+  "75": {
+    "決定戦ポイント": "Playoffs Points"
+  }
+}
