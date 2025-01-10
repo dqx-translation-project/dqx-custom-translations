@@ -10,7 +10,6 @@ from lib import (
 )
 from ignore import IGNORE
 from override import OVERRIDE
-from player_names import PLAYER_NAMES
 from npc_names import NPC_NAMES
 
 
