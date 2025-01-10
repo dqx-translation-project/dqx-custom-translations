@@ -11,6 +11,7 @@ from lib import (
 from ignore import IGNORE
 from override import OVERRIDE
 from player_names import PLAYER_NAMES
+from npc_names import NPC_NAMES
 
 
 # this path must be updated to your dqx_translations/json/_lang/en directory. this is defaulted
@@ -64,7 +65,7 @@ for key, value in game_dictionary.items():
     if key.startswith("は　"):
         continue
     # some key strings might equal their value counterpart, specifically in subPackage128Client.
-    # this was to fix bazaar search functionality. ignore these if we see them. 
+    # this was to fix bazaar search functionality. ignore these if we see them.
     if key == value:
         continue
 
@@ -87,6 +88,10 @@ for key in OVERRIDE:
 for key in PLAYER_NAMES:
     with open("glossary.csv", "a+") as f:
         f.write(f"{key},{PLAYER_NAMES[key]}\n")
+
+for key in NPC_NAMES:
+    with open("glossary.csv", "a+") as f:
+        f.write(f"{key},{NPC_NAMES[key]}\n")
 
 # clean glossary up by removing duplicates, sorting and verifying format.
 remove_duplicates(glossary_name, "temp.csv")
