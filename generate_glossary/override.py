@@ -3807,5 +3807,6 @@ OVERRIDE = {
     "しかし　持ち物が　いっぱいだった！": "But you're carrying too many things!",
     "神殺しの心気": "Godslayer's Grit",
     "三将軍": "Triumgorate",
-    "ピキー！": "Slurp!"
+    "ピキー！": "Slurp!",
+    "疾風の騎士団": "Gale Knights"    
 }
