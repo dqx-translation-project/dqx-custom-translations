@@ -3805,6 +3805,5 @@ OVERRIDE = {
     "神殺しの心気": "Godslayer's Grit",
     "三将軍": "Triumgorate",
     "ピキー！": "Slurp!",
-    "疾風の騎士団": "Gale Knights",
-    "ユーラ": "Yula"
+    "疾風の騎士団": "Gale Knights"
 }
