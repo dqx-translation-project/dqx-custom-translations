@@ -54,7 +54,7 @@
     "試みの荒野の　西の浮島で\nキラキラを　３回採集する。": "Collect 3 shiny spots in the Wilderness of\nTrial's West Floating Isle."
   },
   "19": {
-    "フォーリオン造成地にいるモンスターを　２０匹討伐する。": "Defeat 20 monsters in the Fourion\nCreated Land."
+    "フォーリオン造成地にいるモンスターを　２０匹討伐する。": "Defeat 20 monsters in the Fourion\nWorksite."
   },
   "20": {
     "天涙の大水源の　スライム島で\nキラキラを　３回採集する。": "Collect 3 shiny spots on Slime Island\nin the Tears of Heaven."
@@ -97,5 +97,8 @@
   },
   "33": {
     "天涙の大水源にいるモンスターを　２０匹討伐する。": "Defeat 20 monsters in the\nTears of Heaven."
+  },
+  "34": {
+    "時の王者の悔恨にいるモンスターを　２０匹討伐する。": "Defeat 20 monsters in Sovereign's Sorrow."
   }
 }
