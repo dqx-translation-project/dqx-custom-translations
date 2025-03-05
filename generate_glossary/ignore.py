@@ -183,5 +183,7 @@ IGNORE = {
     "の砂漠": "Desert of in weblate, don't use",
     "おもて": "Heads, too short a word",
     "ドラゴン": "Green Dragon in weblate, no",
-    "ラッキー": "Drang in weblate, this is too common a word"
+    "ラッキー": "Drang in weblate, this is too common a word",
+    "ルン": "Rune in weblate, too short",
+    "ごきげん": "Cheery in weblate, doesn't actually mean this word"
 }
