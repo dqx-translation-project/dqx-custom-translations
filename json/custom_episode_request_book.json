@@ -1,6 +1,6 @@
 {
   "1": {
-    "魔界で鳥系のモンスターを　２０匹討伐する。": "Defeat 20 Bird-type monsters\nin the Demon World."
+    "魔界で鳥系のモンスターを　２０匹討伐する。": "Defeat 20 Bird monsters\nin the Demon World."
   },
   "2": {
     "万魔の塔のいずれかの災壇で　１回生還　または制覇する。": "Clear or survive any platform\nin Banma Tower."
@@ -15,7 +15,7 @@
     "バトエンの　大会　フリー対戦　なかま対戦のいずれかを\n１回プレイする。": "Play 1 Batoen Free Match or\nParty Battle."
   },
   "6": {
-    "魔界で虫系のモンスターを　２０匹討伐する。": "Defeat 20 Insect-type monsters\nin the Demon World."
+    "魔界で虫系のモンスターを　２０匹討伐する。": "Defeat 20 Insect monsters\nin the Demon World."
   },
   "7": {
     "バルディア山岳地帯にいるモンスターを　２０匹討伐する。": "Defeat 20 monsters in the Valdia\nMountain Region."
@@ -30,7 +30,7 @@
     "大富豪の　段位戦　決定戦　なかま対戦のいずれかを\n１回プレイする。": "Play 1 Ranked, Playoffs, or Party Battle\nTycoon match."
   },
   "11": {
-    "魔界で水系のモンスターを　２０匹討伐する。": "Defeat 20 Water-type monsters\nin the Demon World."
+    "魔界で水系のモンスターを　２０匹討伐する。": "Defeat 20 Aquatic monsters\nin the Demon World."
   },
   "12": {
     "心層の迷宮を　１回クリアする。": "Clear the Heart Maze once."
@@ -54,7 +54,7 @@
     "過去の幻影の打倒！": "Battle with the Bosses!"
   },
   "19": {
-    "魔界でスライム系のモンスターを　２０匹討伐する。": "Defeat 20 Slime-type monsters\nin the Demon World."
+    "魔界でスライム系のモンスターを　２０匹討伐する。": "Defeat 20 Slime monsters\nin the Demon World."
   },
   "20": {
     "魔界でスライム系討伐！": "Slay some Slimes!"
@@ -75,30 +75,33 @@
     "ベルヴァインの森西にいるモンスターを　２０匹討伐する。": "Defeat 20 monsters in Belvain\nForest West."
   },
   "26": {
-    "魔界で物質系のモンスターを　２０匹討伐する。": "Defeat 20 Material-type monsters\nin the Demon World."
+    "魔界で物質系のモンスターを　２０匹討伐する。": "Defeat 20 Material monsters\nin the Demon World."
   },
   "27": {
-    "魔界で怪人系のモンスターを　２０匹討伐する。": "Defeat 20 Humanoid-type monsters\nin the Demon World."
+    "魔界で怪人系のモンスターを　２０匹討伐する。": "Defeat 20 Humanoid monsters\nin the Demon World."
   },
   "28": {
     "魔法の迷宮を　１回クリアする。": "Clear the Magic Maze once."
   },
   "29": {
-    "魔界であくま系のモンスターを　２０匹討伐する。": "Defeat 20 Demon-type monsters\nin the Demon World."
+    "魔界であくま系のモンスターを　２０匹討伐する。": "Defeat 20 Demon monsters\nin the Demon World."
   },
   "30": {
-    "魔界でドラゴン系のモンスターを　２０匹討伐する。": "Defeat 20 Dragon-type monsters\nin the Demon World."
+    "魔界でドラゴン系のモンスターを　２０匹討伐する。": "Defeat 20 Dragon monsters\nin the Demon World."
   },
   "31": {
-    "魔界でゾンビ系のモンスターを　２０匹討伐する。": "Defeat 20 Zombie-type monsters\nin the Demon World."
+    "魔界でゾンビ系のモンスターを　２０匹討伐する。": "Defeat 20 Undead monsters\nin the Demon World."
   },
   "32": {
-    "魔界で植物系のモンスターを　２０匹討伐する。": "Defeat 20 Plant-type monsters\nin the Demon World."
+    "魔界で植物系のモンスターを　２０匹討伐する。": "Defeat 20 Plant monsters\nin the Demon World."
   },
   "33": {
     "ジャリムバハ砂漠にいるモンスターを　２０匹討伐する。": "Defeat 20 monsters in the\nJyarimbaha Desert."
   },
   "34": {
     "魔幻都市ゴーラ跡にいるモンスターを　２０匹討伐する。": "Defeat 20 monsters in the\nRuins of Gora."
+  },
+  "35": {
+    "ゲルヘナ幻野にいるモンスターを　２０匹討伐する。": "Defeat 20 monsters in Gerhena Field."
   }
 }
