@@ -45,7 +45,7 @@
     "職人作業を　4回　成功させる。": "Successfully craft 4 times."
   },
   "16": {
-    "水系のモンスターを　90匹討伐する。": "Defeat 90 Water-type monsters."
+    "水系のモンスターを　90匹討伐する。": "Defeat 90 Aquatic monsters."
   },
   "17": {
     "魔法の迷宮を　16回クリアする。": "Clear the Magic Maze 16 times."
@@ -63,7 +63,7 @@
     "ゲルバトロスを　20匹討伐する。": "Defeat 20 Gelbatross."
   },
   "22": {
-    "エレメント系のモンスターを　80匹討伐する。": "Defeat 80 Element-type monsters."
+    "エレメント系のモンスターを　80匹討伐する。": "Defeat 80 Elemental monsters."
   },
   "23": {
     "釣りで　魚を　8匹　釣り上げる。": "Catch 8 fish."
@@ -96,7 +96,7 @@
     "落ちているアイテムを　20個拾う。": "Pick up 20 items off the ground."
   },
   "33": {
-    "植物系のモンスターを　70匹討伐する。": "Defeat 70 Plant-type monsters."
+    "植物系のモンスターを　70匹討伐する。": "Defeat 70 Plant monsters."
   },
   "34": {
     "エルダーフレイムを　20匹討伐する。": "Defeat 20 Old Flames."
@@ -111,7 +111,7 @@
     "チーム全体で　職人作業中に大成功を　6回達成する。": "Get a Perfection 6 times while crafting as a team."
   },
   "38": {
-    "けもの系のモンスターを　70匹討伐する。": "Defeat 70 Beast-type monsters."
+    "けもの系のモンスターを　70匹討伐する。": "Defeat 70 Beast monsters."
   },
   "39": {
     "魔法の迷宮を　4回クリアする。": "Clear the Magic Maze 4 times."
@@ -120,7 +120,7 @@
     "ピラミッドの　第八霊廟で　1回　勝利する。": "Clear the Pyramid's 8th Tomb once."
   },
   "41": {
-    "氷の領界の　とこしえの氷原にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Eternal Ice Field in the\nIce Realm."
+    "氷の領界の　とこしえの氷原にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Permafrost Plains in the\nIce Realm."
   },
   "42": {
     "魔法の迷宮で出現する　ドン・モグーラを　1匹討伐する。": "Defeat Don Mole 1 time in the\nMagic Maze."
@@ -135,7 +135,7 @@
     "依頼書クエストを　1回クリアする。": "Clear 1 request form quest."
   },
   "46": {
-    "虫系のモンスターを　70匹討伐する。": "Defeat 70 Insect-type monsters."
+    "虫系のモンスターを　70匹討伐する。": "Defeat 70 Insect monsters."
   },
   "47": {
     "スライムベホマズンを　20匹討伐する。": "Defeat 20 King Cureslimes."
@@ -156,7 +156,7 @@
     "職人作業を　8回　成功させる。": "Successfully craft 8 times."
   },
   "53": {
-    "ゾンビ系のモンスターを　60匹討伐する。": "Defeat 60 Zombie-type monsters."
+    "ゾンビ系のモンスターを　60匹討伐する。": "Defeat 60 Undead monsters."
   },
   "54": {
     "釣りで　魚を　15匹　釣り上げる。": "Catch 15 fish."
@@ -174,13 +174,13 @@
     "落ちているアイテムを　40個拾う。": "Pick up 40 items off the ground."
   },
   "59": {
-    "マシン系のモンスターを　90匹討伐する。": "Defeat 90 Machine-type monsters."
+    "マシン系のモンスターを　90匹討伐する。": "Defeat 90 Machine monsters."
   },
   "60": {
     "職人作業を　10回　成功させる。": "Successfully craft 10 times."
   },
   "61": {
-    "マシン系のモンスターを　80匹討伐する。": "Defeat 80 Machine-type monsters."
+    "マシン系のモンスターを　80匹討伐する。": "Defeat 80 Machine monsters."
   },
   "62": {
     "デスマーキュリーを　20匹討伐する。": "Defeat 20 Mortcuries."
@@ -195,7 +195,7 @@
     "プクランド大陸のオルフェア地方東にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Orphea Region East in\nPukuland."
   },
   "66": {
-    "鳥系のモンスターを　80匹討伐する。": "Defeat 80 Bird-type monsters."
+    "鳥系のモンスターを　80匹討伐する。": "Defeat 80 Bird monsters."
   },
   "67": {
     "ダークキャンドルを　20匹討伐する。": "Defeat 20 Dark Candles."
@@ -213,7 +213,7 @@
     "魔法の迷宮で出現する　輪王ザルトラを　1匹討伐する。": "Defeat Ring King Zaltra 1 time in the\nMagic Maze."
   },
   "72": {
-    "水系のモンスターを　40匹討伐する。": "Defeat 40 Water-type monsters."
+    "水系のモンスターを　40匹討伐する。": "Defeat 40 Aquatic monsters."
   },
   "73": {
     "依頼書クエストを　4回クリアする。": "Clear 4 request form quests."
@@ -240,7 +240,7 @@
     "チーム全体で　職人作業中に大成功を　4回達成する。": "Get a Perfection 4 times while crafting as a team."
   },
   "81": {
-    "怪人系のモンスターを　60匹討伐する。": "Defeat 60 Humanoid-type monsters."
+    "怪人系のモンスターを　60匹討伐する。": "Defeat 60 Humanoid monsters."
   },
   "82": {
     "釣りで　魚を　5匹　釣り上げる。": "Catch 5 fish."
@@ -255,7 +255,7 @@
     "ドルマージュを　20匹討伐する。": "Defeat 20 Zamtasms."
   },
   "86": {
-    "スライム系のモンスターを　60匹討伐する。": "Defeat 60 Slime-type monsters."
+    "スライム系のモンスターを　60匹討伐する。": "Defeat 60 Slime monsters."
   },
   "87": {
     "かげのきしを　20匹討伐する。": "Defeat 20 Dark Skeletons."
@@ -309,7 +309,7 @@
     "レンダーシア大陸の　スレア海岸にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters on Surea Coast in\nLendersia."
   },
   "104": {
-    "植物系のモンスターを　40匹討伐する。": "Defeat 40 Plant-type monsters."
+    "植物系のモンスターを　40匹討伐する。": "Defeat 40 Plant monsters."
   },
   "105": {
     "ベヒードスを　20匹討伐する。": "Defeat 20 Drakulurches."
@@ -327,7 +327,7 @@
     "ドワチャッカ大陸のエゼソル峡谷にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Ezesol Canyon in\nDwachakka."
   },
   "110": {
-    "怪人系のモンスターを　90匹討伐する。": "Defeat 90 Humanoid-type monsters."
+    "怪人系のモンスターを　90匹討伐する。": "Defeat 90 Humanoid monsters."
   },
   "111": {
     "プクランド大陸のオルッパ地下洞くつにいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Orppa Underground Cave in\nPukuland."
@@ -363,7 +363,7 @@
     "レンダーシア大陸の　古き神の遺跡にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Historic Ruins in\nLendersia."
   },
   "122": {
-    "エレメント系のモンスターを　40匹討伐する。": "Defeat 40 Element-type monsters."
+    "エレメント系のモンスターを　40匹討伐する。": "Defeat 40 Elemental monsters."
   },
   "123": {
     "闇の領界の　影の谷にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Dark Vale in the\nDark Realm."
@@ -372,7 +372,7 @@
     "ほのおのせんしを　20匹討伐する。": "Defeat 20 Flamethrowers."
   },
   "125": {
-    "怪人系のモンスターを　70匹討伐する。": "Defeat 70 Humanoid-type monsters."
+    "怪人系のモンスターを　70匹討伐する。": "Defeat 70 Humanoid monsters."
   },
   "126": {
     "ボーンプリズナーを　20匹討伐する。": "Defeat 20 Marrow Escapees."
@@ -384,7 +384,7 @@
     "レンダーシア大陸の　ドラクロン山地にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Draklon Mountains in\nLendersia."
   },
   "129": {
-    "鳥系のモンスターを　90匹討伐する。": "Defeat 90 Bird-type monsters."
+    "鳥系のモンスターを　90匹討伐する。": "Defeat 90 Bird monsters."
   },
   "130": {
     "アンゴラモーアを　20匹討伐する。": "Defeat 20 Angola Fauns."
@@ -402,7 +402,7 @@
     "グレンの強ボスを　1回討伐する。": "Defeat any Glen Strong Boss once."
   },
   "135": {
-    "あくま系のモンスターを　90匹討伐する。": "Defeat 90 Demon-type monsters."
+    "あくま系のモンスターを　90匹討伐する。": "Defeat 90 Demon monsters."
   },
   "136": {
     "依頼書クエストを　3回クリアする。": "Clear 3 request form quests."
@@ -426,7 +426,7 @@
     "ドワチャッカ大陸のカルデア洞穴にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Chaldea Cave in\nDwachakka."
   },
   "143": {
-    "エレメント系のモンスターを　70匹討伐する。": "Defeat 70 Element-type monsters."
+    "エレメント系のモンスターを　70匹討伐する。": "Defeat 70 Elemental monsters."
   },
   "144": {
     "魔法の迷宮を　8回クリアする。": "Clear the Magic Maze 8 times."
@@ -459,7 +459,7 @@
     "ウェナ諸島のジュレー島上層にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters on Upper Jule Island in the\nWena Islands."
   },
   "154": {
-    "物質系のモンスターを　80匹討伐する。": "Defeat 80 Material-type monsters."
+    "物質系のモンスターを　80匹討伐する。": "Defeat 80 Material monsters."
   },
   "155": {
     "氷の領界の　氷晶の聖塔にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Ice Tower in the\nIce Realm."
@@ -468,13 +468,13 @@
     "魔法の迷宮で出現する　ギュメイ将軍を　1匹討伐する。": "Defeat Goresby-Purrvis 1 time in the\nMagic Maze."
   },
   "157": {
-    "物質系のモンスターを　70匹討伐する。": "Defeat 70 Material-type monsters."
+    "物質系のモンスターを　70匹討伐する。": "Defeat 70 Material monsters."
   },
   "158": {
-    "物質系のモンスターを　60匹討伐する。": "Defeat 60 Material-type monsters."
+    "物質系のモンスターを　60匹討伐する。": "Defeat 60 Material monsters."
   },
   "159": {
-    "物質系のモンスターを　40匹討伐する。": "Defeat 40 Material-type monsters."
+    "物質系のモンスターを　40匹討伐する。": "Defeat 40 Material monsters."
   },
   "160": {
     "メタルブラザーズを　2匹討伐する。": "Defeat 2 Metal Medleys."
@@ -486,7 +486,7 @@
     "エルトナ大陸のカミハルムイ領南にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Kamiharmui South in\nEltona."
   },
   "163": {
-    "あくま系のモンスターを　40匹討伐する。": "Defeat 40 Demon-type monsters."
+    "あくま系のモンスターを　40匹討伐する。": "Defeat 40 Demon monsters."
   },
   "164": {
     "ぶちスライムを　20匹討伐する。": "Defeat 20 Mottle Slimes."
@@ -501,7 +501,7 @@
     "レンダーシア大陸の　レビュール街道北にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Reviewle Highway North in\nLendersia."
   },
   "168": {
-    "植物系のモンスターを　60匹討伐する。": "Defeat 60 Plant-type monsters."
+    "植物系のモンスターを　60匹討伐する。": "Defeat 60 Plant monsters."
   },
   "169": {
     "バサラーナを　20匹討伐する。": "Defeat 20 Basaranas."
@@ -510,7 +510,7 @@
     "バッファロンを　20匹討伐する。": "Defeat 20 Buffalogres."
   },
   "171": {
-    "ドラゴン系のモンスターを　40匹討伐する。": "Defeat 40 Dragon-type monsters."
+    "ドラゴン系のモンスターを　40匹討伐する。": "Defeat 40 Dragon monsters."
   },
   "172": {
     "じごくのたまねぎを　20匹討伐する。": "Defeat 20 Brimstone Bulbs."
@@ -537,7 +537,7 @@
     "キングリザードを　16匹討伐する。": "Defeat 16 Liege Lizards."
   },
   "180": {
-    "植物系のモンスターを　90匹討伐する。": "Defeat 90 Plant-type monsters."
+    "植物系のモンスターを　90匹討伐する。": "Defeat 90 Plant monsters."
   },
   "181": {
     "アサシンエミューを　20匹討伐する。": "Defeat 20 Peckerels."
@@ -552,7 +552,7 @@
     "エルトナ大陸の久遠の森にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Forest of Eternity in\nEltona."
   },
   "185": {
-    "スライム系のモンスターを　90匹討伐する。": "Defeat 90 Slime-type monsters."
+    "スライム系のモンスターを　90匹討伐する。": "Defeat 90 Slime monsters."
   },
   "186": {
     "スモールグールを　20匹討伐する。": "Defeat 20 Drooling Ghouls."
@@ -585,7 +585,7 @@
     "エルトナ大陸のイナミノ街道にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Inamino Highway in\nEltona."
   },
   "196": {
-    "ゾンビ系のモンスターを　40匹討伐する。": "Defeat 40 Zombie-type monsters."
+    "ゾンビ系のモンスターを　40匹討伐する。": "Defeat 40 Undead monsters."
   },
   "197": {
     "ベロベロを　20匹討伐する。": "Defeat 20 Frolickers."
@@ -597,106 +597,106 @@
     "霊廟内での　バトルに　1回　勝利する。": "Win 1 battle inside a Pyramid's Tomb."
   },
   "200": {
-    "あくま系のモンスターを　60匹討伐する。": "Defeat 60 Demon-type monsters."
+    "あくま系のモンスターを　60匹討伐する。": "Defeat 60 Demon monsters."
   },
   "201": {
-    "あくま系のモンスターを　70匹討伐する。": "Defeat 70 Demon-type monsters."
+    "あくま系のモンスターを　70匹討伐する。": "Defeat 70 Demon monsters."
   },
   "202": {
-    "水系のモンスターを　60匹討伐する。": "Defeat 60 Water-type monsters."
+    "水系のモンスターを　60匹討伐する。": "Defeat 60 Aquatic monsters."
   },
   "203": {
-    "水系のモンスターを　70匹討伐する。": "Defeat 70 Water-type monsters."
+    "水系のモンスターを　70匹討伐する。": "Defeat 70 Aquatic monsters."
   },
   "204": {
-    "水系のモンスターを　80匹討伐する。": "Defeat 80 Water-type monsters."
+    "水系のモンスターを　80匹討伐する。": "Defeat 80 Aquatic monsters."
   },
   "205": {
-    "エレメント系のモンスターを　60匹討伐する。": "Defeat 60 Element-type monsters."
+    "エレメント系のモンスターを　60匹討伐する。": "Defeat 60 Elemental monsters."
   },
   "206": {
-    "エレメント系のモンスターを　90匹討伐する。": "Defeat 90 Element-type monsters."
+    "エレメント系のモンスターを　90匹討伐する。": "Defeat 90 Elemental monsters."
   },
   "207": {
-    "植物系のモンスターを　80匹討伐する。": "Defeat 80 Plant-type monsters."
+    "植物系のモンスターを　80匹討伐する。": "Defeat 80 Plant monsters."
   },
   "208": {
-    "けもの系のモンスターを　40匹討伐する。": "Defeat 40 Beast-type monsters."
+    "けもの系のモンスターを　40匹討伐する。": "Defeat 40 Beast monsters."
   },
   "209": {
-    "けもの系のモンスターを　60匹討伐する。": "Defeat 60 Beast-type monsters."
+    "けもの系のモンスターを　60匹討伐する。": "Defeat 60 Beast monsters."
   },
   "210": {
-    "けもの系のモンスターを　80匹討伐する。": "Defeat 80 Beast-type monsters."
+    "けもの系のモンスターを　80匹討伐する。": "Defeat 80 Beast monsters."
   },
   "211": {
-    "けもの系のモンスターを　90匹討伐する。": "Defeat 90 Beast-type monsters."
+    "けもの系のモンスターを　90匹討伐する。": "Defeat 90 Beast monsters."
   },
   "212": {
-    "虫系のモンスターを　40匹討伐する。": "Defeat 40 Insect-type monsters."
+    "虫系のモンスターを　40匹討伐する。": "Defeat 40 Insect monsters."
   },
   "213": {
-    "虫系のモンスターを　60匹討伐する。": "Defeat 60 Insect-type monsters."
+    "虫系のモンスターを　60匹討伐する。": "Defeat 60 Insect monsters."
   },
   "214": {
-    "虫系のモンスターを　80匹討伐する。": "Defeat 80 Insect-type monsters."
+    "虫系のモンスターを　80匹討伐する。": "Defeat 80 Insect monsters."
   },
   "215": {
-    "虫系のモンスターを　90匹討伐する。": "Defeat 90 Insect-type monsters."
+    "虫系のモンスターを　90匹討伐する。": "Defeat 90 Insect monsters."
   },
   "216": {
-    "ゾンビ系のモンスターを　70匹討伐する。": "Defeat 70 Zombie-type monsters."
+    "ゾンビ系のモンスターを　70匹討伐する。": "Defeat 70 Undead monsters."
   },
   "217": {
-    "ゾンビ系のモンスターを　80匹討伐する。": "Defeat 80 Zombie-type monsters."
+    "ゾンビ系のモンスターを　80匹討伐する。": "Defeat 80 Undead monsters."
   },
   "218": {
-    "ゾンビ系のモンスターを　90匹討伐する。": "Defeat 90 Zombie-type monsters."
+    "ゾンビ系のモンスターを　90匹討伐する。": "Defeat 90 Undead monsters."
   },
   "219": {
-    "マシン系のモンスターを　40匹討伐する。": "Defeat 40 Machine-type monsters."
+    "マシン系のモンスターを　40匹討伐する。": "Defeat 40 Machine monsters."
   },
   "220": {
-    "マシン系のモンスターを　60匹討伐する。": "Defeat 60 Machine-type monsters."
+    "マシン系のモンスターを　60匹討伐する。": "Defeat 60 Machine monsters."
   },
   "221": {
-    "マシン系のモンスターを　70匹討伐する。": "Defeat 70 Machine-type monsters."
+    "マシン系のモンスターを　70匹討伐する。": "Defeat 70 Machine monsters."
   },
   "222": {
-    "鳥系のモンスターを　40匹討伐する。": "Defeat 40 Bird-type monsters."
+    "鳥系のモンスターを　40匹討伐する。": "Defeat 40 Bird monsters."
   },
   "223": {
-    "鳥系のモンスターを　60匹討伐する。": "Defeat 60 Bird-type monsters."
+    "鳥系のモンスターを　60匹討伐する。": "Defeat 60 Bird monsters."
   },
   "224": {
-    "鳥系のモンスターを　70匹討伐する。": "Defeat 70 Bird-type monsters."
+    "鳥系のモンスターを　70匹討伐する。": "Defeat 70 Bird monsters."
   },
   "225": {
-    "怪人系のモンスターを　40匹討伐する。": "Defeat 40 Humanoid-type monsters."
+    "怪人系のモンスターを　40匹討伐する。": "Defeat 40 Humanoid monsters."
   },
   "226": {
-    "怪人系のモンスターを　80匹討伐する。": "Defeat 80 Humanoid-type monsters."
+    "怪人系のモンスターを　80匹討伐する。": "Defeat 80 Humanoid monsters."
   },
   "227": {
-    "スライム系のモンスターを　40匹討伐する。": "Defeat 40 Slime-type monsters."
+    "スライム系のモンスターを　40匹討伐する。": "Defeat 40 Slime monsters."
   },
   "228": {
-    "スライム系のモンスターを　70匹討伐する。": "Defeat 70 Slime-type monsters."
+    "スライム系のモンスターを　70匹討伐する。": "Defeat 70 Slime monsters."
   },
   "229": {
-    "スライム系のモンスターを　80匹討伐する。": "Defeat 80 Slime-type monsters."
+    "スライム系のモンスターを　80匹討伐する。": "Defeat 80 Slime monsters."
   },
   "230": {
-    "ドラゴン系のモンスターを　60匹討伐する。": "Defeat 60 Dragon-type monsters."
+    "ドラゴン系のモンスターを　60匹討伐する。": "Defeat 60 Dragon monsters."
   },
   "231": {
-    "ドラゴン系のモンスターを　70匹討伐する。": "Defeat 70 Dragon-type monsters."
+    "ドラゴン系のモンスターを　70匹討伐する。": "Defeat 70 Dragon monsters."
   },
   "232": {
-    "ドラゴン系のモンスターを　80匹討伐する。": "Defeat 80 Dragon-type monsters."
+    "ドラゴン系のモンスターを　80匹討伐する。": "Defeat 80 Dragon monsters."
   },
   "233": {
-    "ドラゴン系のモンスターを　90匹討伐する。": "Defeat 90 Dragon-type monsters."
+    "ドラゴン系のモンスターを　90匹討伐する。": "Defeat 90 Dragon monsters."
   },
   "234": {
     "バトルレックスを　20匹討伐する。": "Defeat 20 Hacksauruses."
@@ -1653,7 +1653,7 @@
     "ドワチャッカ大陸の最果ての地下遺跡にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Deepest Depths\nin Dwachakka."
   },
   "552": {
-    "虫系のモンスターを　50匹討伐する。": "Defeat 50 Insect-type monsters."
+    "虫系のモンスターを　50匹討伐する。": "Defeat 50 Insect monsters."
   },
   "553": {
     "マッシュスライムを　20匹討伐する。": "Defeat 20 Slimeshrooms."
@@ -1671,46 +1671,46 @@
     "ドワチャッカ大陸のモガレの洞くつにいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Mogare Cave\nin Dwachakka."
   },
   "558": {
-    "怪人系のモンスターを　50匹討伐する。": "Defeat 50 Humanoid-type monsters."
+    "怪人系のモンスターを　50匹討伐する。": "Defeat 50 Humanoid monsters."
   },
   "559": {
     "なげきムーンを　20匹討伐する。": "Defeat 20 Mourning Moons."
   },
   "560": {
-    "植物系のモンスターを　50匹討伐する。": "Defeat 50 Plant-type monsters."
+    "植物系のモンスターを　50匹討伐する。": "Defeat 50 Plant monsters."
   },
   "561": {
-    "スライム系のモンスターを　50匹討伐する。": "Defeat 50 Slime-type monsters."
+    "スライム系のモンスターを　50匹討伐する。": "Defeat 50 Slime monsters."
   },
   "562": {
-    "ドラゴン系のモンスターを　50匹討伐する。": "Defeat 50 Dragon-type monsters."
+    "ドラゴン系のモンスターを　50匹討伐する。": "Defeat 50 Dragon monsters."
   },
   "563": {
-    "物質系のモンスターを　50匹討伐する。": "Defeat 50 Material-type monsters."
+    "物質系のモンスターを　50匹討伐する。": "Defeat 50 Material monsters."
   },
   "564": {
-    "物質系のモンスターを　90匹討伐する。": "Defeat 90 Material-type monsters."
+    "物質系のモンスターを　90匹討伐する。": "Defeat 90 Material monsters."
   },
   "565": {
-    "あくま系のモンスターを　50匹討伐する。": "Defeat 50 Demon-type monsters."
+    "あくま系のモンスターを　50匹討伐する。": "Defeat 50 Demon monsters."
   },
   "566": {
-    "鳥系のモンスターを　50匹討伐する。": "Defeat 50 Bird-type monsters."
+    "鳥系のモンスターを　50匹討伐する。": "Defeat 50 Bird monsters."
   },
   "567": {
-    "ゾンビ系のモンスターを　50匹討伐する。": "Defeat 50 Zombie-type monsters."
+    "ゾンビ系のモンスターを　50匹討伐する。": "Defeat 50 Undead monsters."
   },
   "568": {
-    "けもの系のモンスターを　50匹討伐する。": "Defeat 50 Beast-type monsters."
+    "けもの系のモンスターを　50匹討伐する。": "Defeat 50 Beast monsters."
   },
   "569": {
-    "マシン系のモンスターを　50匹討伐する。": "Defeat 50 Machine-type monsters."
+    "マシン系のモンスターを　50匹討伐する。": "Defeat 50 Machine monsters."
   },
   "570": {
-    "エレメント系のモンスターを　50匹討伐する。": "Defeat 50 Element-type monsters."
+    "エレメント系のモンスターを　50匹討伐する。": "Defeat 50 Elemental monsters."
   },
   "571": {
-    "水系のモンスターを　50匹討伐する。": "Defeat 50 Water-type monsters."
+    "水系のモンスターを　50匹討伐する。": "Defeat 50 Aquatic monsters."
   },
   "572": {
     "ホークマンを　20匹討伐する。": "Defeat 20 Hawk Men."

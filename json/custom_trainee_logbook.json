@@ -15,7 +15,7 @@
     "バトルトリニティの　練習試合か　対抗戦で\n１回報酬を獲得する。": "Win 1 time in a Battle Trinity\nPractice Match or Competitive Match."
   },
   "6": {
-    "天星郷で鳥系のモンスターを　２０匹討伐する。": "Defeat 20 Bird-type monsters\nin the Firmament."
+    "天星郷で鳥系のモンスターを　２０匹討伐する。": "Defeat 20 Bird monsters\nin the Firmament."
   },
   "7": {
     "豊穣の密林にいるモンスターを　２０匹討伐する。": "Defeat 20 monsters in the\nForest of Fertility."
@@ -24,34 +24,34 @@
     "夢現篇の最後の敵を　１匹討伐する。": "Defeat the final boss of the Dream\nWorld story once."
   },
   "9": {
-    "天星郷でスライム系のモンスターを　２０匹討伐する。": "Defeat 20 Slime-type monsters\nin the Firmament."
+    "天星郷でスライム系のモンスターを　２０匹討伐する。": "Defeat 20 Slime monsters\nin the Firmament."
   },
   "10": {
-    "豊穣の密林の　北東の浮島で\nモンスターを　７匹討伐する。": "Defeat 7 monsters on the Northeast Floating\nIsle in the Forest of Fertility."
+    "豊穣の密林の　北東の浮島で\nモンスターを　７匹討伐する。": "Defeat 7 monsters on the Northeastward\nIsle in the Forest of Fertility."
   },
   "11": {
-    "輝きの草原の　南東の浮島で\nキラキラを　３回採集する。": "Collect 3 shiny spots in the Shining Meadow's\nSoutheast Floating Isle."
+    "輝きの草原の　南東の浮島で\nキラキラを　３回採集する。": "Collect 3 shiny spots in the Shining Meadow's\nSoutheastward Isle."
   },
   "12": {
-    "天星郷でけもの系のモンスターを　２０匹討伐する。": "Defeat 20 Beast-type monsters\nin the Firmament."
+    "天星郷でけもの系のモンスターを　２０匹討伐する。": "Defeat 20 Beast monsters\nin the Firmament."
   },
   "13": {
     "天涙の大水源の　スライム島で\nモンスターを　７匹討伐する。": "Defeat 7 monsters on Slime Island\nin the Tears of Heaven."
   },
   "14": {
-    "天星郷で虫系のモンスターを　２０匹討伐する。": "Defeat 20 Insect-type monsters\nin the Firmament."
+    "天星郷で虫系のモンスターを　２０匹討伐する。": "Defeat 20 Insect monsters\nin the Firmament."
   },
   "15": {
-    "豊穣の密林の　北東の浮島で\nキラキラを　３回採集する。": "Collect 3 shiny spots in the Forest of Fertility's\nNortheast Floating Isle."
+    "豊穣の密林の　北東の浮島で\nキラキラを　３回採集する。": "Collect 3 shiny spots in the Forest of Fertility's\nNortheastward Isle."
   },
   "16": {
     "神話篇の最後の敵を　１匹討伐する。": "Defeat the final boss of the Mythology\nstory once."
   },
   "17": {
-    "天星郷で物質系のモンスターを　２０匹討伐する。": "Defeat 20 Material-type monsters\nin the Firmament."
+    "天星郷で物質系のモンスターを　２０匹討伐する。": "Defeat 20 Material monsters\nin the Firmament."
   },
   "18": {
-    "試みの荒野の　西の浮島で\nキラキラを　３回採集する。": "Collect 3 shiny spots in the Wilderness of\nTrial's West Floating Isle."
+    "試みの荒野の　西の浮島で\nキラキラを　３回採集する。": "Collect 3 shiny spots in the Wilderness of\nTrial's Westward Isle."
   },
   "19": {
     "フォーリオン造成地にいるモンスターを　２０匹討伐する。": "Defeat 20 monsters in the Fourion\nWorksite."
@@ -63,42 +63,45 @@
     "ヴァリーブートキャンプで　１回最後まで生存する。": "Survive one time in Valley Boot Camp."
   },
   "22": {
-    "天星郷であくま系のモンスターを　２０匹討伐する。": "Defeat 20 Demon-type monsters\nin the Firmament."
+    "天星郷であくま系のモンスターを　２０匹討伐する。": "Defeat 20 Demon monsters\nin the Firmament."
   },
   "23": {
     "滅亡の砂漠にいるモンスターを　２０匹討伐する。": "Defeat 20 monsters in the\nDesert of Doom."
   },
   "24": {
-    "天星郷でドラゴン系のモンスターを　２０匹討伐する。": "Defeat 20 Dragon-type monsters\nin the Firmament."
+    "天星郷でドラゴン系のモンスターを　２０匹討伐する。": "Defeat 20 Dragon monsters\nin the Firmament."
   },
   "25": {
-    "天星郷で怪人系のモンスターを　２０匹討伐する。": "Defeat 20 Humanoid-type monsters\nin the Firmament."
+    "天星郷で怪人系のモンスターを　２０匹討伐する。": "Defeat 20 Humanoid monsters\nin the Firmament."
   },
   "26": {
-    "天星郷で水系のモンスターを　２０匹討伐する。": "Defeat 20 Water-type monsters\nin the Firmament."
+    "天星郷で水系のモンスターを　２０匹討伐する。": "Defeat 20 Aquatic monsters\nin the Firmament."
   },
   "27": {
-    "天星郷でマシン系のモンスターを　２０匹討伐する。": "Defeat 20 Machine-type monsters\nin the Firmament."
+    "天星郷でマシン系のモンスターを　２０匹討伐する。": "Defeat 20 Machine monsters\nin the Firmament."
   },
   "28": {
-    "天星郷でエレメント系のモンスターを　２０匹討伐する。": "Defeat 20 Element-type monsters\nin the Firmament."
+    "天星郷でエレメント系のモンスターを　２０匹討伐する。": "Defeat 20 Elemental monsters\nin the Firmament."
   },
   "29": {
-    "天星郷でゾンビ系のモンスターを　２０匹討伐する。": "Defeat 20 Zombie-type monsters\nin the Firmament."
+    "天星郷でゾンビ系のモンスターを　２０匹討伐する。": "Defeat 20 Undead monsters\nin the Firmament."
   },
   "30": {
-    "天星郷で植物系のモンスターを　２０匹討伐する。": "Defeat 20 Plant-type monsters\nin the Firmament."
+    "天星郷で植物系のモンスターを　２０匹討伐する。": "Defeat 20 Plant monsters\nin the Firmament."
   },
   "31": {
     "レモンスライムクイズを　１回クリアする。": "Clear the Lemon Slime Quiz once."
   },
   "32": {
-    "フォーリオン造成地の　北の浮島で\nキラキラを　３回採集する。": "Collect 3 shiny spots in the Fourion Worksite's\nNorth Floating Isle."
+    "フォーリオン造成地の　北の浮島で\nキラキラを　３回採集する。": "Collect 3 shiny spots in the Fourion Worksite's\nNorthward Isle."
   },
   "33": {
     "天涙の大水源にいるモンスターを　２０匹討伐する。": "Defeat 20 monsters in the\nTears of Heaven."
   },
   "34": {
     "時の王者の悔恨にいるモンスターを　２０匹討伐する。": "Defeat 20 monsters in Sovereign's Sorrow."
+  },
+  "35": {
+    "試みの荒野の　西の浮島で\nモンスターを　７匹討伐する。": "Defeat 7 monsters in the Wilderness of\nTrial's Westward Isle."
   }
 }
