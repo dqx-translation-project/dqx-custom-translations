@@ -3757,5 +3757,8 @@ OVERRIDE = {
     "神殺しの心気": "Godslayer's Grit",
     "三将軍": "Triumgorate",
     "ピキー！": "Slurp!",
-    "疾風の騎士団": "Gale Knights"
+    "疾風の騎士団": "Gale Knights",
+    "源世庫パニガルム": "Panigalm's Origin Vault",
+    "昏冥庫パニガルム": "Panigalm's Abyss Vault",
+    "オールマイティ": "almighty"
 }
