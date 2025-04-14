@@ -185,5 +185,7 @@ IGNORE = {
     "ドラゴン": "Green Dragon in weblate, no",
     "ラッキー": "Drang in weblate, this is too common a word",
     "ルン": "Rune in weblate, too short",
-    "ごきげん": "Cheery in weblate, doesn't actually mean this word"
+    "ごきげん": "Cheery in weblate, doesn't actually mean this word",
+    "酒場": "Tavern in weblate, don't want this capitalized",
+    "玉座": "Throne in weblate, don't want this capitalized"
 }
