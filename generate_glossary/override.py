@@ -3760,5 +3760,6 @@ OVERRIDE = {
     "疾風の騎士団": "Gale Knights",
     "源世庫パニガルム": "Panigalm's Origin Vault",
     "昏冥庫パニガルム": "Panigalm's Abyss Vault",
-    "オールマイティ": "almighty"
+    "オールマイティ": "almighty",
+    "戦禍の眷属": "Scourges of War"
 }
