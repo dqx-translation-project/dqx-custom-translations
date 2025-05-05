@@ -3761,5 +3761,7 @@ OVERRIDE = {
     "源世庫パニガルム": "Panigalm's Origin Vault",
     "昏冥庫パニガルム": "Panigalm's Abyss Vault",
     "オールマイティ": "almighty",
-    "戦禍の眷属": "Scourges of War"
+    "戦禍の眷属": "Scourges of War",
+    "メタリン": "Chromeo",
+    "ビップルーム": "VIP room"
 }
