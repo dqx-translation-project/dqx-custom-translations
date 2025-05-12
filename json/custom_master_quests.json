@@ -6,7 +6,7 @@
     "魔法使いをパーティに　ふたり入れること。": "Must have 2 Mages in the party."
   },
   "3": {
-    "パーティメンバー全員　一度も死んではならない。": "All party members must not die once."
+    "パーティメンバー全員　一度も死んではならない。": "Quest fails if even a single party member dies."
   },
   "4": {
     "常闇の聖戦で　海冥主メイヴを倒せ！": "Defeat Sea Lord Meiv!"
@@ -373,5 +373,14 @@
   },
   "125": {
     "強戦士の書で　覚醒プスゴンを倒せ！": "Defeat Pusgon Awakened in Book of Bosses!"
+  },
+  "126": {
+    "２分２０秒を制限時間とする。": "Time limit of 2 minutes and 20 seconds."
+  },
+  "127": {
+    "魔法使い　４人のパーティで挑むこと。": "Party must consist of 4 Mages."
+  },
+  "128": {
+    "強戦士の書で　悪魔長ジウギスを倒せ！": "Defeat Devil Chief Juegis in Book of Bosses!"
   }
 }
