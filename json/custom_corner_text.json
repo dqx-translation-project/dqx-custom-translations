@@ -615,7 +615,7 @@
     "あ～っと……このへんで\nお開きにしませんかね？": "Uh...maybe we should\ncall it a day?"
   },
   "204": {
-    "なんか　ここ……\n空気が悪いね……": "What's up with this\nplace? The air's bad..."
+    "なんか　ここ……\n空気が悪いね……": "The air here... Feels\nkinda heavy..."
   },
   "205": {
     "うん……よくないモノが\nたくさんいるみたい": "Yeah...seems like lots\nof bad things here."
@@ -664,5 +664,8 @@
   },
   "220": {
     "見せてやろうぜ　若者の\nチカラってやつをよ！": "Let's show 'em the\npower of youth!"
+  },
+  "221": {
+    "左と右に　糸を移動させ\n手前に打ってください": "Thread left and right,\nthen strum."
   }
 }
