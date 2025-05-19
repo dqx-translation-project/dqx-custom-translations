@@ -3763,5 +3763,6 @@ OVERRIDE = {
     "オールマイティ": "almighty",
     "戦禍の眷属": "Scourges of War",
     "メタリン": "Chromeo",
-    "ビップルーム": "VIP room"
+    "ビップルーム": "VIP room",
+    "キュロン人": "Kyuronian"
 }
