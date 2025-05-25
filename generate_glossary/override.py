@@ -3766,5 +3766,7 @@ OVERRIDE = {
     "ビップルーム": "VIP room",
     "キュロン人": "Kyuronian",
     "テキュノス": "Tekyunos",
-    "かまいたち": "Cyclown"
+    "かまいたち": "Cyclown",
+    "メルドの祝星": "Meldo Messiah",
+    "時の民": "Timeling"
 }
