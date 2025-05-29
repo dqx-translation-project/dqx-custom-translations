@@ -3761,5 +3761,6 @@ OVERRIDE = {
     "テキュノス": "Tekyunos",
     "かまいたち": "Cyclown",
     "メルドの祝星": "Meldo Messiah",
-    "時の民": "Timeling"
+    "時の民": "Timeling",
+    "機巧術": "mechanomancy"
 }
