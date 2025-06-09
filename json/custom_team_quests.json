@@ -30,7 +30,7 @@
     "メギドロイドを　20匹討伐する。": "Defeat 20 Mechidroids."
   },
   "11": {
-    "バトルロードで　4回　勝利する。": "Win 4 times at Battle Road."
+    "バトルロードで　4回　勝利する。": "Win in Battle Road 4 times."
   },
   "12": {
     "魔法の迷宮で出現する　バズズを　1匹討伐する。": "Defeat Pazuzu 1 time in the\nMagic Maze."
@@ -723,7 +723,7 @@
     "ベビーニュートを　20匹討伐する。": "Defeat 20 Sizzards."
   },
   "242": {
-    "バトルロードで　1回　勝利する。": "Win 1 time at Battle Road."
+    "バトルロードで　1回　勝利する。": "Win in Battle Road 1 time."
   },
   "243": {
     "キングリザードを　4匹討伐する。": "Defeat 4 Liege Lizards."
@@ -1506,7 +1506,7 @@
     "メタルブラザーズを　4匹討伐する。": "Defeat 4 Metal Medleys."
   },
   "503": {
-    "バトルロードで　2回　勝利する。": "Win 2 times at Battle Road."
+    "バトルロードで　2回　勝利する。": "Win in Battle Road 2 times."
   },
   "504": {
     "リザードファッツを　20匹討伐する。": "Defeat 20 Frou-Frous."
@@ -1740,7 +1740,7 @@
     "キングリザードを　12匹討伐する。": "Defeat 12 Liege Lizards."
   },
   "581": {
-    "バトルロードで　8回　勝利する。": "Win 8 times at Battle Road."
+    "バトルロードで　8回　勝利する。": "Win in Battle Road 8 times."
   },
   "582": {
     "ヌーデビルを　20匹討伐する。": "Defeat 20 Gnucifers."
@@ -1887,7 +1887,7 @@
     "ドラゴンキッズを　20匹討伐する。": "Defeat 20 Small Fries."
   },
   "630": {
-    "バトルロードで　6回　勝利する。": "Win 6 times at Battle Road."
+    "バトルロードで　6回　勝利する。": "Win in Battle Road 6 times."
   },
   "631": {
     "ブリザードマンを　20匹討伐する。": "Defeat 20 Blizzybodies."
@@ -1897,5 +1897,8 @@
   },
   "633": {
     "キラークラブを　20匹討伐する。": "Defeat 20 King Crabs."
+  },
+  "634": {
+    "ドラゴスライムを　20匹討伐する。": "Defeat 20 Drake Slimes."
   }
 }
