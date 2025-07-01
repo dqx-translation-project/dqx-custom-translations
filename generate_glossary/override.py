@@ -3762,5 +3762,6 @@ OVERRIDE = {
     "かまいたち": "Cyclown",
     "メルドの祝星": "Meldo Messiah",
     "時の民": "Timeling",
-    "機巧術": "mechanomancy"
+    "機巧術": "mechanomancy",
+    "イヤリング": "earring"
 }
