@@ -188,5 +188,8 @@ IGNORE = {
     "酒場": "Tavern in weblate, don't want this capitalized",
     "玉座": "Throne in weblate, don't want this capitalized",
     "パン": "Bread in weblate, don't need this capitalized",
-    "モモ": "Peach in weblate, don't need this capitalized"
+    "モモ": "Peach in weblate, don't need this capitalized",
+    "現在": "Present (day) in weblate, don't capitalize",
+    "過去の": "Past in weblate, don't capitalize",
+    "過去": "Past in weblate, don't capitalize"
 }
