@@ -3763,5 +3763,6 @@ OVERRIDE = {
     "メルドの祝星": "Meldo Messiah",
     "時の民": "Timeling",
     "機巧術": "mechanomancy",
-    "イヤリング": "earring"
+    "イヤリング": "earring",
+    "プチセレブ": "notorious"
 }
