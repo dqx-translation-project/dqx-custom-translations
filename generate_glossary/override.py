@@ -3764,5 +3764,7 @@ OVERRIDE = {
     "時の民": "Timeling",
     "機巧術": "mechanomancy",
     "イヤリング": "earring",
-    "プチセレブ": "notorious"
+    "プチセレブ": "notorious",
+    "六種族の祭典": "Festival of the Six",
+    "キャンディ": "candy"
 }
