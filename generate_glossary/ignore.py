@@ -31,7 +31,6 @@ IGNORE = {
     "月": "'Mn.' in Weblate.",
     "扉": "'Door' in Weblate.",
     "筒": "'Tube' in Weblate.",
-    "迷惑料を払いやがれ！": "Quest phrase that appears in dialogue",
     "闘志": "Quest phrase that appears in dialogue",
     "真の敵は": "Quest phrase that appears in dialogue",
     "やさしさに包まれて": "Quest phrase that appears in dialogue",
