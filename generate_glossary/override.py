@@ -3766,5 +3766,6 @@ OVERRIDE = {
     "イヤリング": "earring",
     "プチセレブ": "notorious",
     "六種族の祭典": "Festival of the Six",
-    "キャンディ": "candy"
+    "キャンディ": "candy",
+    "ペアルック": "matching outfits"
 }
