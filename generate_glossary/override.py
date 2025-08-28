@@ -3734,6 +3734,7 @@ OVERRIDE = {
     "ほうげきスキル": "Ballistics skill",
     "てっぺきスキル": "Selflessness skill",
     "ドラゴンスキル": "Dragomancy skill",
+    "しんぴスキル": "Mysticism skill",
     "甘党": "Sweet Tooth",
     "辛党": "Nice Spice",
     "スッパ党": "Sour Power",
@@ -3767,5 +3768,6 @@ OVERRIDE = {
     "プチセレブ": "notorious",
     "六種族の祭典": "Festival of the Six",
     "キャンディ": "candy",
-    "ペアルック": "matching outfits"
+    "ペアルック": "matching outfits",
+    "精霊力": "spirit energy"
 }
