@@ -3769,5 +3769,6 @@ OVERRIDE = {
     "六種族の祭典": "Festival of the Six",
     "キャンディ": "candy",
     "ペアルック": "matching outfits",
-    "精霊力": "spirit energy"
+    "精霊力": "spirit energy",
+    "僧侶": "priest"
 }
