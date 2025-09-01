@@ -191,5 +191,10 @@ IGNORE = {
     "現在": "Present (day) in weblate, don't capitalize",
     "過去の": "Past in weblate, don't capitalize",
     "過去": "Past in weblate, don't capitalize",
-    "ルド": "Ludo, too short a word"
+    "ルド": "Ludo, too short a word",
+    "家の中": "Inside house, don't want this translated",
+    "城内": "Inside, don't want this capitalized",
+    "内部": "Inside, don't want this captitalized",
+    "井戸の底": "Inside Well, don't want this capitalized",
+    "遺跡内部": "Inside Ruins, don't want this capitalized"
 }
