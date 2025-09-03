@@ -3770,5 +3770,6 @@ OVERRIDE = {
     "キャンディ": "candy",
     "ペアルック": "matching outfits",
     "精霊力": "spirit energy",
-    "僧侶": "priest"
+    "僧侶": "priest",
+    "主神": "Almighty"
 }
