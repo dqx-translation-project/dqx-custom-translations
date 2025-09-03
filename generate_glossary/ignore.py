@@ -197,5 +197,9 @@ IGNORE = {
     "内部": "Inside, don't want this captitalized",
     "井戸の底": "Inside Well, don't want this capitalized",
     "遺跡内部": "Inside Ruins, don't want this capitalized",
-    "きっか": "Kikka in Weblate, part of other words"
+    "きっか": "Kikka in Weblate, part of other words",
+    "スラ": "SLI in Weblate, no",
+    "騎士": "KNT in Weblate, no",
+    "精霊": "SPR in Weblate, no",
+    "ス党": "SOU in Weblate, no"
 }
