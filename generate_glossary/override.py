@@ -3773,7 +3773,7 @@ OVERRIDE = {
     "僧侶": "priest",
     "主神": "Almighty",
     "ナザム村": "Wormwood Creek",
-    "ガナサダイ" "Godwyn",
+    "ガナサダイ": "Godwyn",
     "ゴレオン": "Goreham-Hogg",
     "ギュメイ": "Goresby-Purrvis",
     "ゲルニック": "Hootingham-Gore"
