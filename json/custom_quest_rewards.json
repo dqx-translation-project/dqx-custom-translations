@@ -1095,6 +1095,21 @@
     "隠者に転職可能になる": "Unlock Hermit Vocation"
   },
   "366": {
-    "スキルポイント（隠者）　２０Ｐ": "Skill Points (HRM) 20P"
+    "スキルポイント（隠者）　４０Ｐ": "Skill Points (HRM) 40P"
+  },
+  "367": {
+    "スキルポイント（隠者）　３０Ｐ": "Skill Points (HRM) 30P"
+  },
+  "368": {
+    "隠者のころもセット": "Hermit's Outfit"
+  },
+  "369": {
+    "隠者のゾーン技を覚える": "Learn Hermit Pep Power"
+  },
+  "370": {
+    "竜術士のゾーン技を覚える": "Learn Dragomancer Pep Power"
+  },
+  "371": {
+    "ガーディアンのゾーン技を覚える": "Learn Guardian Pep Power"
   }
 }
