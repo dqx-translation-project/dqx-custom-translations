@@ -3771,5 +3771,10 @@ OVERRIDE = {
     "ペアルック": "matching outfits",
     "精霊力": "spirit energy",
     "僧侶": "priest",
-    "主神": "Almighty"
+    "主神": "Almighty",
+    "ナザム村": "Wormwood Creek",
+    "ガナサダイ": "Godwyn",
+    "ゴレオン": "Goreham-Hogg",
+    "ギュメイ": "Goresby-Purrvis",
+    "ゲルニック": "Hootingham-Gore"
 }
