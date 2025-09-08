@@ -3776,7 +3776,7 @@ OVERRIDE = {
     "ガナサダイ": "Godwyn",
     "ゴレオン": "Goreham-Hogg",
     "ギュメイ": "Goresby-Purrvis",
-    "ゲルニック": "Hootingham-Gore"
+    "ゲルニック": "Hootingham-Gore",
     "光輝の回廊": "Corridor of Splendor",
     "勇気の回廊": "Corridor of Bravery",
     "神秘の回廊": "Corridor of Mystery",
