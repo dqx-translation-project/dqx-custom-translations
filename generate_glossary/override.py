@@ -3797,5 +3797,6 @@ OVERRIDE = {
     "武神の回廊": "Corridor of War",
     "法王の回廊": "Corridor of Law",
     "歌姫の回廊": "Corridor of Song",
-    "宿願の回廊": "Corridor of Desire"
+    "宿願の回廊": "Corridor of Desire",
+    "ドングリ": "acorn"
 }
