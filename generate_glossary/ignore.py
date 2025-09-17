@@ -201,5 +201,9 @@ IGNORE = {
     "スラ": "SLI in Weblate, no",
     "騎士": "KNT in Weblate, no",
     "精霊": "SPR in Weblate, no",
-    "ス党": "SOU in Weblate, no"
+    "ス党": "SOU in Weblate, no",
+    "あそぶ": "Lucky Dip skill, too normal of a word",
+    "料理屋": "Restaurant, don't want capitalized",
+    "さいほうギルド": "sewing guild, don't want capitalized",
+    "ジュレットの家": "Julet House, don't want capitalized"
 }
