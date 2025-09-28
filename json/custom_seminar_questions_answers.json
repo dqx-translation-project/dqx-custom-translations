@@ -3,13 +3,13 @@
     "自分の職業を　変えたい！\nそんな時に頼れるのは　ダーマ神殿から\n冒険者の酒場へ出張中の　○○だ！\nさて　○○に入る言葉は？": "I want to change vocations! To do that,\nyou can talk to X inside of any tavern!\nNow, who is X?"
   },
   "2": {
-    "教官": "Instructor"
+    "教官": "Tutor"
   },
   "3": {
     "神官": "Priest"
   },
   "4": {
-    "邪神": "Dark Deity"
+    "邪神": "Deity"
   },
   "5": {
     "職業のレベルが　アップするたびに\n必ず　もらえるようになるものは　どれ？": "Which of the following is always given\nto you when a vocation levels up?"
@@ -30,7 +30,7 @@
     "宿屋": "Inn"
   },
   "11": {
-    "旅人バザー": "Traveler's Bazaar"
+    "旅人バザー": "Bazaar"
   },
   "12": {
     "教会": "Church"
@@ -75,7 +75,7 @@
     "旅人バザーに　どうのつるぎ＋３が売っていた！\nこの　『＋３』が意味するものは\n次のうち　どれ？": "You found a Bronze Sword for sale in the\nTraveler's Bazaar with a +3! What does this\n+3 signify?"
   },
   "26": {
-    "お値段３割増し": "It's 30% more expensive."
+    "お値段３割増し": "It's 30% pricier."
   },
   "27": {
     "錬金効果が３個ついている": "It has 3 alchemy effects."
@@ -159,7 +159,7 @@
     "ほかの冒険者と　パーティを組んで\n楽しく過ごすことが　できた！\n相手の人と　また　一緒に遊ぶために\nお別れする前に　やっておくと　いいことは？": "I had a lot of fun partying with other\nadventurers! What is something I should do\nbefore saying goodbye?"
   },
   "54": {
-    "熱い視線を送る": "Gaze at them firmly."
+    "熱い視線を送る": "Gaze at them."
   },
   "55": {
     "フレンドにさそう": "Add them as a friend."
@@ -225,7 +225,7 @@
     "けんめいに祈る": "Pray vigorously."
   },
   "76": {
-    "命ごいをする": "Fight for your life."
+    "命ごいをする": "Beg for mercy."
   },
   "77": {
     "モンスターを押して　仲間から遠ざけることで\n仲間を　攻撃から守ることができるぞ！\nさて　この中で　モンスターを押すのが\n得意なのは　だれ？": "By pushing monsters away from party members,\nyou can protect them from attacks! Who would\nbe best at pushing?"
@@ -297,7 +297,7 @@
     "酒場": "Tavern"
   },
   "100": {
-    "勇気": "Courage"
+    "勇気": "Valor"
   },
   "101": {
     "青春": "Youth"
