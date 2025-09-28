@@ -3,13 +3,13 @@
     "自分の職業を　変えたい！\nそんな時に頼れるのは　ダーマ神殿から\n冒険者の酒場へ出張中の　○○だ！\nさて　○○に入る言葉は？": "I want to change vocations! To do that,\nyou can talk to X inside of any tavern!\nNow, who is X?"
   },
   "2": {
-    "教官": "Tutor"
+    "教官": "Instructor"
   },
   "3": {
     "神官": "Priest"
   },
   "4": {
-    "邪神": "Deity"
+    "邪神": "Dark Deity"
   },
   "5": {
     "職業のレベルが　アップするたびに\n必ず　もらえるようになるものは　どれ？": "Which of the following is always given\nto you when a vocation levels up?"
@@ -99,13 +99,13 @@
     "次のうち　職業スキルにある\nスキル効果の　習得によって\n起きないことは　どれ？": "Which of the following is not a possible\neffect when learning vocation skills?"
   },
   "34": {
-    "全職業で最大ＨＰが増える": "Natural HP"
+    "全職業で最大ＨＰが増える": "Natural Max HP"
   },
   "35": {
     "全職業でちからが増える": "Natural Strength"
   },
   "36": {
-    "全職業で最大ＭＰが増える": "Natural MP"
+    "全職業で最大ＭＰが増える": "Natural Max MP"
   },
   "37": {
     "紳士的たしなみが身に付く": "Gentlemanly Manners"
@@ -159,7 +159,7 @@
     "ほかの冒険者と　パーティを組んで\n楽しく過ごすことが　できた！\n相手の人と　また　一緒に遊ぶために\nお別れする前に　やっておくと　いいことは？": "I had a lot of fun partying with other\nadventurers! What is something I should do\nbefore saying goodbye?"
   },
   "54": {
-    "熱い視線を送る": "Gaze at them."
+    "熱い視線を送る": "Cast a passionate glance."
   },
   "55": {
     "フレンドにさそう": "Add them as a friend."
@@ -297,7 +297,7 @@
     "酒場": "Tavern"
   },
   "100": {
-    "勇気": "Valor"
+    "勇気": "Courage"
   },
   "101": {
     "青春": "Youth"
