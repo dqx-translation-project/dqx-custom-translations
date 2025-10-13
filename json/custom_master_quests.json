@@ -412,5 +412,71 @@
   },
   "138": {
     "僧侶をパーティに　ひとり入れること。": "Must have a Priest in the party."
+  },
+  "138": {
+    "魔法の迷宮で　悪霊の神々強を倒せ！": "Defeat the Apex Evil Trinity in the Magic Maze!"
+  },
+  "139": {
+    "魔法の迷宮で　悪霊の神々を倒せ！": "Defeat the Evil Trinity in the Magic Maze!"
+  },
+  "140": {
+    "バトルマスターをパーティに　ふたり入れること。": "Must have 2 Battlemasters in the party."
+  },
+  "141": {
+    "天地雷鳴士をパーティに　ふたり入れること。": "Must have 2 Druids in the party."
+  },
+  "142": {
+    "遊び人をパーティに　ふたり入れること。": "Must have 2 Gadabouts in the party."
+  },
+  "143": {
+    "レンジャーをパーティに　ふたり入れること。": "Must have 2 Rangers in the party."
+  },
+  "144": {
+    "ガーディアンをパーティに　ふたり入れること。": "Must have 2 Guardians in the party."
+  },
+  "145": {
+    "竜術士をパーティに　ふたり入れること。": "Must have 2 Dragomancers in the party."
+  },
+  "146": {
+    "隠者をパーティに　ふたり入れること。": "Must have 2 Hermits in the party."
+  },
+  "147": {
+    "海賊をパーティに　ふたり入れること。": "Must have 2 Pirates in the party."
+  },
+  "148": {
+    "デスマスターをパーティに　ふたり入れること。": "Must have 2 Death Masters in the party."
+  },
+  "149": {
+    "盗賊　４人のパーティで挑むこと。": "Party must consist of 4 Thieves."
+  },
+  "150": {
+    "デスマスター　４人のパーティで挑むこと。": "Party must consist of 4 Death Masters."
+  },
+  "151": {
+    "海賊　４人のパーティで挑むこと。": "Party must consist of 4 Pirates."
+  },
+  "152": {
+    "天地雷鳴士　４人のパーティで挑むこと。": "Party must consist of 4 Druids."
+  },
+  "153": {
+    "遊び人　４人のパーティで挑むこと。": "Party must consist of 4 Gadabouts."
+  },
+  "154": {
+    "竜術士　４人のパーティで挑むこと。": "Party must consist of 4 Dragomancers."
+  },
+  "155": {
+    "隠者　４人のパーティで挑むこと。": "Party must consist of 4 Hermits."
+  },
+  "156": {
+    "ガーディアン　４人のパーティで挑むこと。": "Party must consist of 4 Guardians."
+  },
+  "157": {
+    "スーパースター　４人のパーティで挑むこと。": "Party must consist of 4 Superstars."
+  },
+  "158": {
+    "まもの使い　４人のパーティで挑むこと。": "Party must consist of 4 Monster Masters."
+  },
+  "159": {
+    "どうぐ使い　４人のパーティで挑むこと。": "Party must consist of 4 Item Masters."
   }
 }
