@@ -57,10 +57,10 @@
     "魔界でスライム系のモンスターを　２０匹討伐する。": "Defeat 20 Slime monsters\nin the Demon World."
   },
   "20": {
-    "魔界でスライム系討伐！": "Slay some Slimes!"
+    "魔界でスライム系討伐！": "Squish some Slimes!"
   },
   "21": {
-    "万魔の塔の攻略！": "Conquer Banma Tower!"
+    "万魔の塔の攻略！": "Beat Banma Tower!"
   },
   "22": {
     "旧ネクロデア領にいるモンスターを　２０匹討伐する。": "Defeat 20 monsters in the Old\nNecrodea Area."
@@ -106,5 +106,44 @@
   },
   "36": {
     "ピラミッドのいずれかの霊廟を　１回クリアする。": "Clear any one Pyramid tomb."
+  },
+  "37": {
+    "強大な敵の打倒！": "Defeat a strong enemy!"
+  },
+  "38": {
+    "心層の迷宮の攻略！": "Explore the Heart Maze!"
+  },
+  "39": {
+    "釣りの求道者！": "Get Fishing!"
+  },
+  "40": {
+    "魔界で虫系討伐！": "Squash some Insects!"
+  },
+  "41": {
+    "魔界で悪魔系討伐！": "Defeat some Demons!"
+  },
+  "42": {
+    "魔界で鳥系討伐！": "Bust some Birds!"
+  },
+  "43": {
+    "魔界で水系討伐！": "Dunk some Aquatics!"
+  },
+  "44": {
+    "魔界でマシーン系討伐！": "Break some Machines!"
+  },
+  "45": {
+    "魔界で植物系討伐！": "Chop some Plants!"
+  },
+  "46": {
+    "魔界で獣物系討伐！": "Beat some Beasts!"
+  },
+  "47": {
+    "魔界でゾンビ物系討伐！": "Dead some Undead!"
+  },
+  "48": {
+    "魔界でエレメント物系討伐！": "Erase some Elementals!"
+  },
+  "49": {
+    "魔界で物質物系討伐！": "Mash some Materials!"
   }
 }
