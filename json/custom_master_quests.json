@@ -480,7 +480,7 @@
     "どうぐ使い　４人のパーティで挑むこと。": "Party must consist of 4 Item Masters."
   },
   "161": {
-    "万魔の塔の四の災壇で　１回クリアせよ！": "Clear Banma's 4th Platform!"
+    "万魔の塔の四の災壇をクリアせよ！": "Clear Banma's 4th Platform!"
   },
   "162": {
     "アストルティア防衛軍に参戦せよ！": "Enlist in Astoltia Defense Force!"
@@ -493,5 +493,17 @@
   },
   "165": {
     "海冥主メイヴ討伐！": "Defeat Meiv!"
+  },
+  "166": {
+    "バトルマスターコンビ\n　ＶＳベリアル！": "Double Battlemasters\n　vs. Belial!"
+  },
+  "167": {
+    "怒濤の踊り子軍団\n　ＶＳやるきのジャーミィ！": "Dancer Party\n　vs. Jacked Jammy!"
+  },
+  "168": {
+    "邪神の宮殿の一獄制覇！": "Conquer Sealed Sword I!"
+  },
+  "169": {
+    "キングヒドラ討伐！": "Defeat King Hydra!"
   }
 }
