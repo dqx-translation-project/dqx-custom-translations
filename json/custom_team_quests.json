@@ -1977,12 +1977,36 @@
     "鳥系討伐！": "Defeat Birds!"
   },
   "660": {
-    "マシーン系討伐！": "Defeat Machines!"
+    "マシン系討伐！": "Defeat Machines!"
   },
   "661": {
     "ゾンビ系討伐！": "Defeat Undead!"
   },
   "662": {
     "エレメント系討伐！": "Defeat Elementals!"
+  },
+  "663": {
+    "キュララナ海岸征伐！": "Kyurarana Coast Cleanup!"
+  },
+  "664": {
+    "オルフェア地方東征伐！": "Eastern Orphea Cleanup!"
+  },
+  "665": {
+    "謎の地下水路征伐！": "Waterway Cleanup!"
+  },
+  "666": {
+    "白霜の流氷野征伐！": "Frosty Floes Cleanup!"
+  },
+  "667": {
+    "とこしえの氷原征伐！": "Permafrost Plains Cleanup!"
+  },
+  "668": {
+    "王家の宝物庫強ボス討伐！": "Royal Treasury Strong Boss!"
+  },
+  "669": {
+    "魔獣の菜園強ボス討伐！": "Rabbits' Recluse Strong Boss!"
+  },
+  "670": {
+    "メッサーラ討伐！": "Defeat Samigina!"
   }
 }
