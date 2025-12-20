@@ -3801,5 +3801,6 @@ OVERRIDE = {
     "宿願の回廊": "Corridor of Desire",
     "ドングリ": "acorn",
     "ヴァルハラ": "Valhalla",
-    "勇者姫": "Hero Princess"
+    "勇者姫": "Hero Princess",
+    "セレシア": "Celestria"
 }

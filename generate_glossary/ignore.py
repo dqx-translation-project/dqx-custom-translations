@@ -204,5 +204,6 @@ IGNORE = {
     "あそぶ": "Lucky Dip skill, too normal of a word",
     "料理屋": "Restaurant, don't want capitalized",
     "さいほうギルド": "sewing guild, don't want capitalized",
-    "ジュレットの家": "Julet House, don't want capitalized"
+    "ジュレットの家": "Julet House, don't want capitalized",
+    "るる": "Lulu, too short of a word"
 }
