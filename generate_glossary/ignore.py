@@ -205,5 +205,8 @@ IGNORE = {
     "料理屋": "Restaurant, don't want capitalized",
     "さいほうギルド": "sewing guild, don't want capitalized",
     "ジュレットの家": "Julet House, don't want capitalized",
-    "るる": "Lulu, too short of a word"
+    "るる": "Lulu, too short of a word",
+    "開花": "BLM, abbreviated",
+    "種子": "SED, abbreviated",
+    "原初": "PMD, abbreviated"
 }
