@@ -1,0 +1,57 @@
+name: Sync merge.xlsx from Google Sheets
+
+on:
+  workflow_dispatch:
+
+jobs:
+  sync-merge-xlsx:
+    name: Download and sync merge.xlsx from Google Sheets
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          token: ${{ secrets.SVC_ACCT_PAT }}
+
+      - name: Download Google Sheets as xlsx
+        run: |
+          curl -L "https://docs.google.com/spreadsheets/d/1DgHlj9c53UB9cr29mjjBDbtus5T_3GW2Z09mvs3G_J4/export?format=xlsx" -o merge_new.xlsx
+
+      - name: Install Python and dependencies
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.14'
+
+      - name: Install openpyxl for xlsx comparison
+        run: pip install openpyxl
+
+      - name: Compare and check for differences
+        id: compare
+        run: python .github/workflows/merge_diff.py
+
+      - name: Show diff summary
+        if: steps.compare.outputs.has_diff == 'true'
+        run: |
+          echo "Differences detected between Google Sheets and repository version"
+          echo "The merge.xlsx file will be updated with the latest version from Google Sheets"
+
+      - name: Update merge.xlsx
+        if: steps.compare.outputs.has_diff == 'true'
+        run: |
+          mv merge_new.xlsx csv/merge.xlsx
+
+      - name: Commit changes
+        if: steps.compare.outputs.has_diff == 'true'
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          file_pattern: 'csv/merge.xlsx'
+          commit_message: 'Update merge.xlsx from Google Sheets'
+
+      - name: Clean up
+        if: always()
+        run: |
+          rm -f merge_new.xlsx
