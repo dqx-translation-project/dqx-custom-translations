@@ -705,7 +705,7 @@ OVERRIDE = {
     "ダーマの神": "Allmighty Alltrades",
     "守護の試練": "Trial of Protection",
     "家具屋ユク": "Furniture Shop Yuku",
-    "帝国技術庁": "Empire Tech Agency",
+    "帝国技術庁": "Imperial Endeavors",
     "一人前の証": "Mark of Maturity",
     "いやしそう": "Superior Medicine",
     "ダンダダ団": "Robbin' 'Ood Gang",
