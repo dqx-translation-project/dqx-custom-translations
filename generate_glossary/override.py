@@ -3803,5 +3803,7 @@ OVERRIDE = {
     "ヴァルハラ": "Valhalla",
     "勇者姫": "Hero Princess",
     "セレシア": "Celestria",
-    "シャンデリア": "chandelier"
+    "シャンデリア": "chandelier",
+    "アルバム": "album",
+    "プレイス": "place"
 }
