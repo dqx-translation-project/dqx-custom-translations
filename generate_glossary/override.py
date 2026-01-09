@@ -3805,5 +3805,9 @@ OVERRIDE = {
     "セレシア": "Celestria",
     "シャンデリア": "chandelier",
     "アルバム": "album",
-    "プレイス": "place"
+    "プレイス": "place",
+    "バルシラ": "Bamooz",
+    "バシルーラ屋": "Bazoom service",
+    "ルルルリーチ": "Rululich",
+    "闇芸人ルルルリーチ": "Rululich"
 }
