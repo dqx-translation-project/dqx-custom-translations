@@ -3809,5 +3809,6 @@ OVERRIDE = {
     "バルシラ": "Bamooz",
     "バシルーラ屋": "Bazoom service",
     "ルルルリーチ": "Rululich",
-    "闇芸人ルルルリーチ": "Rululich"
+    "闇芸人ルルルリーチ": "Rululich",
+    "ビギナー": "beginner"
 }
