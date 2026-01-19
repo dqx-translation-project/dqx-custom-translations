@@ -108,7 +108,7 @@
     "エメラルドーンを　20匹討伐する。": "Defeat 20 Emeraldons."
   },
   "37": {
-    "チーム全体で　職人作業中に大成功を　6回達成する。": "Get a Perfection 6 times while crafting as a team."
+    "チーム全体で　職人作業中に大成功を　6回達成する。": "Achieve a Perfection while crafting 6 times."
   },
   "38": {
     "けもの系のモンスターを　70匹討伐する。": "Defeat 70 Beast monsters."
@@ -237,7 +237,7 @@
     "ウェナ諸島の猫島にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters on Cat Island in the\nWena Islands."
   },
   "80": {
-    "チーム全体で　職人作業中に大成功を　4回達成する。": "Get a Perfection 4 times while crafting as a team."
+    "チーム全体で　職人作業中に大成功を　4回達成する。": "Achieve a Perfection while crafting 4 times."
   },
   "81": {
     "怪人系のモンスターを　60匹討伐する。": "Defeat 60 Humanoid monsters."
@@ -885,7 +885,7 @@
     "ウェナ諸島のレーナム緑野にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Lenam Fields in the\nWena Islands."
   },
   "296": {
-    "チーム全体で　職人作業中に大成功を　2回達成する。": "Get a Perfection 2 times while crafting as a team."
+    "チーム全体で　職人作業中に大成功を　2回達成する。": "Achieve a Perfection while crafting 2 times."
   },
   "297": {
     "デザートゴルバを　20匹討伐する。": "Defeat 20 Dirtbonnets."
@@ -1137,10 +1137,10 @@
     "落ちているアイテムを　40個拾う。": "Pick up 40 items off the ground."
   },
   "380": {
-    "チーム全体で　職人作業中に大成功を　8回達成する。": "Get a Perfection 8 times while crafting as a team."
+    "チーム全体で　職人作業中に大成功を　8回達成する。": "Achieve a Perfection while crafting 8 times."
   },
   "381": {
-    "チーム全体で　職人作業中に大成功を　10回達成する。": "Get a Perfection 10 times while crafting as a team."
+    "チーム全体で　職人作業中に大成功を　10回達成する。": "Achieve a Perfection while crafting 10 times."
   },
   "382": {
     "がいこつを　20匹討伐する。": "Defeat 20 Skeletons."
@@ -2014,5 +2014,11 @@
   },
   "672": {
     "うみぼうずを　20匹討伐する。": "Defeat 20 Shipwreckers."
+  },
+  "673": {
+    "ワニバーンを　20匹討伐する。": "Defeat 20 Heligators."
+  },
+  "674": {
+    "オーグリード大陸の海賊のアジト跡・地下にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Pirate's Hideout\nUnderground in Ogreed."
   }
 }
