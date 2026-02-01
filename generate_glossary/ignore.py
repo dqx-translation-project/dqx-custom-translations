@@ -209,5 +209,6 @@ IGNORE = {
     "開花": "BLM, abbreviated",
     "種子": "SED, abbreviated",
     "原初": "PMD, abbreviated",
-    "こまり": "Komari, too short and part of other words"
+    "こまり": "Komari, too short and part of other words",
+    "グリフ": "Glyph, messing with other names"
 }
