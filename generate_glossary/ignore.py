@@ -210,5 +210,8 @@ IGNORE = {
     "種子": "SED, abbreviated",
     "原初": "PMD, abbreviated",
     "こまり": "Komari, too short and part of other words",
-    "グリフ": "Glyph, messing with other names"
+    "グリフ": "Glyph, messing with other names",
+    "ホワ": "Howa, too short",
+    "テスト": "don't need this capitalized and ruining other words",
+    "よろしくお願いします": "This has too many meanings to have a single translation"
 }
