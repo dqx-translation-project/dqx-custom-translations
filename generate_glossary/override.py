@@ -3791,5 +3791,6 @@ OVERRIDE = {
     "バシルーラ屋": "Bazoom service",
     "ルルルリーチ": "Rululich",
     "闇芸人ルルルリーチ": "Rululich",
-    "ビギナー": "beginner"
+    "ビギナー": "beginner",
+    "ちからのたね": "Seed of Strength"
 }
