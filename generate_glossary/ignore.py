@@ -213,5 +213,8 @@ IGNORE = {
     "グリフ": "Glyph, messing with other names",
     "ホワ": "Howa, too short",
     "テスト": "don't need this capitalized and ruining other words",
-    "よろしくお願いします": "This has too many meanings to have a single translation"
+    "よろしくお願いします": "This has too many meanings to have a single translation",
+    "ツリ": "TRE in Weblate, too short",
+    "イレ": "Ire in Weblate, too short",
+    "ルル": "Lulu, too short"
 }
