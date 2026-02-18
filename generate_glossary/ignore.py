@@ -216,5 +216,6 @@ IGNORE = {
     "よろしくお願いします": "This has too many meanings to have a single translation",
     "ツリ": "TRE in Weblate, too short",
     "イレ": "Ire in Weblate, too short",
-    "ルル": "Lulu, too short"
+    "ルル": "Lulu, too short",
+    "スー": "Sue, too short"
 }
