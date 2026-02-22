@@ -3793,5 +3793,6 @@ OVERRIDE = {
     "闇芸人ルルルリーチ": "Rululich",
     "ビギナー": "beginner",
     "ちからのたね": "Seed of Strength",
-    "酒場": "tavern"
+    "酒場": "tavern",
+    "冒険マイスター": "Adventure Meister"
 }
