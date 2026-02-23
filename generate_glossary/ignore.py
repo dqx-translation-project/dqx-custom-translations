@@ -217,5 +217,6 @@ IGNORE = {
     "ツリ": "TRE in Weblate, too short",
     "イレ": "Ire in Weblate, too short",
     "ルル": "Lulu, too short",
-    "スー": "Sue, too short"
+    "スー": "Sue, too short",
+    "おまんじゅう": "Steamed Bread, don't want capitalized"
 }
