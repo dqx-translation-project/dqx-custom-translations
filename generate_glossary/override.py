@@ -3794,5 +3794,6 @@ OVERRIDE = {
     "ビギナー": "beginner",
     "ちからのたね": "Seed of Strength",
     "酒場": "tavern",
-    "冒険マイスター": "Adventure Meister"
+    "冒険マイスター": "Adventure Meister",
+    "アストルティア・ナイト": "Astoltia Knight"
 }
