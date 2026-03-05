@@ -219,5 +219,14 @@ IGNORE = {
     "ルル": "Lulu, too short",
     "スー": "Sue, too short",
     "おまんじゅう": "Steamed Bread, don't want capitalized",
-    "ライ": "Rai, too short"
+    "ライ": "Rai, too short",
+    "バト": "BTL, too short",
+    "雪": "SNW, don't want this condensed",
+    "爆弾": "Bomb, don't want capitalized",
+    "台所": "Kitchen, don't want capitalized",
+    "湖前": "Lake, don't want capitalized",
+    "アル": "Al, too short",
+    "カギ": "Key, don't want capitalized",
+    "気球": "Balloon, don't want capitalized",
+    "セン": "Sen, too short"
 }
