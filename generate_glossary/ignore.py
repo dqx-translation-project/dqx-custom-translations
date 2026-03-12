@@ -228,5 +228,6 @@ IGNORE = {
     "アル": "Al, too short",
     "カギ": "Key, don't want capitalized",
     "気球": "Balloon, don't want capitalized",
-    "セン": "Sen, too short"
+    "セン": "Sen, too short",
+    "サン": "SAN, too short/don't want capitalized"
 }
