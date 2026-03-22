@@ -63,9 +63,6 @@
     "えーっと　読めない……\n上から順に　３つかな！": "I can't read this...\nIn order, I guess!?"
   },
   "22": {
-    "みんなはボクが守ります\n陣の上に　立って！": "I'll protect you!\nStay within my circle!"
-  },
-  "22": {
     "奮い立て　英雄たちよ！\n勇気のバラッド！": "Stand tall, champions!\nBrave Ballad!"
   },
   "23": {
@@ -435,7 +432,7 @@
     "ここまでは想定通り！\nまだ疲れちゃいないだろ": "So far so good! Not\ntired yet, are ya?"
   },
   "145": {
-    "みんなさん　もう少しです\nがんばって！": "Just a little more!\nYou can do it!"
+    "みなさん　もう少しです\nがんばって！": "Just a little more!\nYou can do it!"
   },
   "146": {
     "う……ここ　空気が\n少し　気持ち悪いよ": "Ugh...the air here\nfeels strange..."
@@ -754,5 +751,8 @@
   },
   "251": {
     "感心してる場合じゃない\n野放しにはできんぞ": "This is no time to\nbe impressed!"
+  },
+  "252": {
+    "みんなはボクが守ります\n陣の上に　立って！": "I'll protect you!\nStay within my circle!"
   }
 }
