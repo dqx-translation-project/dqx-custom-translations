@@ -3797,5 +3797,6 @@ OVERRIDE = {
     "冒険マイスター": "Adventure Meister",
     "アストルティア・ナイト": "Astoltia Knight",
     "キラキラ": "sparkling",
-    "魔神族": "Maledict"
+    "魔神族": "Maledict",
+    "タイガーギース": "Tiger Gies"
 }
