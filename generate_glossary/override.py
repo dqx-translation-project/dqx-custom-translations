@@ -3796,5 +3796,6 @@ OVERRIDE = {
     "酒場": "tavern",
     "冒険マイスター": "Adventure Meister",
     "アストルティア・ナイト": "Astoltia Knight",
-    "キラキラ": "sparkling"
+    "キラキラ": "sparkling",
+    "魔神族": "Maledict"
 }
