@@ -3797,5 +3797,8 @@ OVERRIDE = {
     "アストルティア・ナイト": "Astoltia Knight",
     "キラキラ": "sparkling",
     "魔神族": "Maledict",
-    "タイガーギース": "Tiger Gies"
+    "タイガーギース": "Tiger Gies",
+    "レンダー☆５": "Lender Five",
+    "フォロボッソ": "Wrocks",
+    "魔空５兄弟": "Hackson Five"
 }
