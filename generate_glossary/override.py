@@ -3549,7 +3549,6 @@ OVERRIDE = {
     "校庭": "campus",
     "座礼": "sit and bow",
     "格闘": "bare hands",
-    "村人": "villager",
     "花園前": "flower garden",
     "花園": "flower garden",
     "官舎": "residence",
