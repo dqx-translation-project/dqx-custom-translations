@@ -3798,5 +3798,7 @@ OVERRIDE = {
     "タイガーギース": "Tiger Gies",
     "レンダー☆５": "Lender Five",
     "フォロボッソ": "Wrocks",
-    "魔空５兄弟": "Hackson Five"
+    "魔空５兄弟": "Hackson Five",
+    "ナブナブ大サーカス": "Grand Nabbem Circus",
+    "ナブナブサーカス": "Nabbem Circus"
 }
