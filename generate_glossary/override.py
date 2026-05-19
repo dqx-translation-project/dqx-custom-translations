@@ -3800,5 +3800,6 @@ OVERRIDE = {
     "フォロボッソ": "Wrocks",
     "魔空５兄弟": "Hackson Five",
     "ナブナブ大サーカス": "Grand Nabbem Circus",
-    "ナブナブサーカス": "Nabbem Circus"
+    "ナブナブサーカス": "Nabbem Circus",
+    "れんきんがま": "Alchemy Pot"
 }
