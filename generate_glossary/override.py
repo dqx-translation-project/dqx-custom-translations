@@ -3800,5 +3800,13 @@ OVERRIDE = {
     "フォロボッソ": "Wrocks",
     "魔空５兄弟": "Hackson Five",
     "ナブナブ大サーカス": "Grand Nabbem Circus",
-    "ナブナブサーカス": "Nabbem Circus"
+    "ナブナブサーカス": "Nabbem Circus",
+    "れんきんがま": "Alchemy Pot",
+    "未完のラゼアの風穴": "unfinished Lazea Windways",
+    "未完のモンセロ温泉峡": "unfinished Moncello Springs",
+    "未完のラゼアの風穴": "unfinished Lazea Windways",
+    "未完の風穴の研究室": "unfinished Windways Study",
+    "未完のご神体の間": "unfinished Hall of Worship",
+    "未完のドラクロン山地": "unfinished Draklon Mountains",
+    "未完の飛竜の峰": "unfinished Dragon Peaks"    
 }
