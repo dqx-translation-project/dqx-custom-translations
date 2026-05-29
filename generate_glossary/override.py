@@ -3808,5 +3808,6 @@ OVERRIDE = {
     "未完の風穴の研究室": "unfinished Windways Study",
     "未完のご神体の間": "unfinished Hall of Worship",
     "未完のドラクロン山地": "unfinished Draklon Mountains",
-    "未完の飛竜の峰": "unfinished Dragon Peaks"    
+    "未完の飛竜の峰": "unfinished Dragon Peaks",
+    "創世の樹": "Worldroot"
 }
