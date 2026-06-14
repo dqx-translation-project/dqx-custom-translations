@@ -1965,13 +1965,13 @@
     "虫系討伐！": "Defeat Insects!"
   },
   "656": {
-    "悪魔系討伐！": "Defeat Demons!"
+    "あくま魔系討伐！": "Defeat Demons!"
   },
   "657": {
     "植物系討伐！": "Defeat Plants!"
   },
   "658": {
-    "獣系討伐！": "Defeat Beasts!"
+    "けもの系討伐！": "Defeat Beasts!"
   },
   "659": {
     "鳥系討伐！": "Defeat Birds!"
@@ -2044,5 +2044,11 @@
   },
   "682": {
     "フロストギズモを　20匹討伐する。": "Defeat 20 Freezing Fogs."
+  },
+  "683": {
+    "さまようよろいを　20匹討伐する。": "Defeat 20 Restless Armours."
+  },
+  "684": {
+    "さまようよろい討伐！": "Hunt Restless Armours!"
   }
 }
