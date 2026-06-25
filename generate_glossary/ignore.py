@@ -231,5 +231,8 @@ IGNORE = {
     "セン": "Sen, too short",
     "サン": "SAN, too short/don't want capitalized",
     "ルーツ": "Roots, part of other words",
-    "偽りの": "F. (false), don't want abbreviated"
+    "偽りの": "F. (false), don't want abbreviated",
+    "スト": "STK, too short",
+    "勇士": "BRV, too short",
+    "大巨人": "GIA, too short"
 }
