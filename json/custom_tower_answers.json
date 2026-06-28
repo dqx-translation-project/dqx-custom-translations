@@ -45,13 +45,13 @@
     "リベホイミの効果中に\nベホイミスライムを倒した。": "While under the effect of Remidheal, defeat\na Medislime."
   },
   "16": {
-    "ポムポムボムに　ギガボンバーを使って\n勝利した。": "Use Giga Bomber on a Discombombulator, then\nwin the battle."
+    "ポムポムボムに　ギガボンバーを使って\n勝利した。": "Use The Big Bomb on a Discombombulator, then\nwin the battle."
   },
   "17": {
     "はじゃのつるぎを　どうぐから　使用して\n勝利した。": "Use a Cautery Sword as an item during battle,\nthen win the battle."
   },
   "18": {
-    "どく状態か　もうどく状態で\nもうどくブルースを使用して　勝利した。": "While poisoned or envenomated, use Poisonous\nBlues then win the battle."
+    "どく状態か　もうどく状態で\nもうどくブルースを使用して　勝利した。": "While poisoned or envenomated, use Venomous\nVoice then win the battle."
   },
   "19": {
     "素手で　敵を倒した。\n": "Defeat an enemy bare-handed."
@@ -102,7 +102,7 @@
     "シルバーマント　シルバーデビルを\nぎんのむねあてを装備して　倒した。": "While equipped with a Silver Cuirass,\ndefeat a Silvapithecus and a Silver Cape."
   },
   "35": {
-    "アイスボンバーを　アイスフォースの状態で\nギガボンバーを使って　勝利した。": "Apply yourself with Frost Fource\nand use Giga Bomber on a Frost Bomber,\nthen win the battle."
+    "アイスボンバーを　アイスフォースの状態で\nギガボンバーを使って　勝利した。": "Apply yourself with Frost Fource\nand use The Big Bomb on a Frost Bomber,\nthen win the battle."
   },
   "36": {
     "アームライオンに　おたけびを成功させて\nはげしいおたけびを受けて　勝利した。": "Successfully use War Cry on a Hellion,\nget hit by its War Cry, then win\nthe battle."
@@ -165,6 +165,6 @@
     "リホイミ系　呪文の効果中に\nいやしの雨の効果を　受けている\nキラーアーマーと　ベホマスライムを倒した。": "While under the effect of a Reheal-type spell,\ndefeat both a Lethal Armour and a Cureslime under\nthe effect of Right as Rain."
   },
   "56": {
-    "邪炎波で　インフェルノを２体　倒して\n勝利した。": "Defeat 2 Infernos using Evil Wave,\nthen win the battle."
+    "邪炎波で　インフェルノを２体　倒して\n勝利した。": "Defeat 2 Infernos using Wicked Flames,\nthen win the battle."
   }
 }
