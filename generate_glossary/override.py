@@ -3609,5 +3609,8 @@ OVERRIDE = {
     "未完の飛竜の峰": "unfinished Dragon Peaks",
     "創世の樹": "Worldroot",
     "ケーキ神": "Great Cake",
-    "チョコ神": "Grand Choco"
+    "チョコ神": "Grand Choco",
+    "魔大陸": "Darklands",
+    "カラマドの剣": "Sword of Calamad",
+    "渡りの鐘": "Passing Bell"
 }
