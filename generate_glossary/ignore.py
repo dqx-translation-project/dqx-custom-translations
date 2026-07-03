@@ -234,5 +234,6 @@ IGNORE = {
     "偽りの": "F. (false), don't want abbreviated",
     "スト": "STK, too short",
     "勇士": "BRV, too short",
-    "大巨人": "GIA, too short"
+    "大巨人": "GIA, too short",
+    "巨人": "GIA, too short"
 }

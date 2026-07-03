@@ -3277,7 +3277,6 @@ OVERRIDE = {
     "悪魔": "demon",
     "悪神": "fiend",
     "試練": "trial",
-    "アト": "marks",
     "守護": "protection",
     "丘陵": "hills",
     "つぼ": "vase",
@@ -3612,5 +3611,8 @@ OVERRIDE = {
     "チョコ神": "Grand Choco",
     "魔大陸": "Darklands",
     "カラマドの剣": "Sword of Calamad",
-    "渡りの鐘": "Passing Bell"
+    "渡りの鐘": "Passing Bell",
+    "アトマ石": "Atma Stone",
+    "アトマ粒子": "Atma Spheres",
+    "魔皇": "Archdespot"
 }
