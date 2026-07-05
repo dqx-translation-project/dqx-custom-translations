@@ -840,7 +840,7 @@
     "損傷レベル大　安全装置\n起動により　全壊は回避": "SEVERE DAMAGE. SAFETY\nMECHANISM ACTIVATED."
   },
   "281": {
-    "安全装置　損傷……以後\n起動しないため要注意": "CAUTION. SAFETY DEVICE\nNOW DAMAGED."
+    "安全装置　損傷……以後\n起動しないため　要注意": "CAUTION. SAFETY DEVICE\nNOW DAMAGED."
   },
   "282": {
     "戦況評価……優勢\n攻勢を維持せよ": "ADVANTAGE ASSESSED.\nCONTINUE THE ATTACK."
@@ -849,7 +849,7 @@
     "必殺兵装の制限を解除\n対象を排除せよ": "ULTIMATE WEAPON OPEN.\nELIMINATE TARGET."
   },
   "284": {
-    "う…なんて邪悪な波動\nこのままじゃ": "Ugh...what an\nevil aura..."
+    "う…なんて邪悪な波動\nこのままじゃ……": "Ugh...what an\nevil aura..."
   },
   "285": {
     "勇敢なる戦士に\n女神のご加護を！": "Goddess bless these\nbrave souls!"
@@ -859,5 +859,11 @@
   },
   "287": {
     "もう少し！　早く\nユキハさんのところへ！": "Just a little more!\nYukiha needs us!"
+  },
+  "288": {
+    "どうしても　私たちの/n邪魔をする気なのね……": "So you mean to\nimpede us, then?"
+  },
+  "289": {
+    "かの者の魂を\n呼び戻したまえ！": "Let their soul\nreturn to them!"
   }
 }
