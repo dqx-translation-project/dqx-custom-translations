@@ -3616,5 +3616,6 @@ OVERRIDE = {
     "アトマ粒子": "Atma Spheres",
     "魔皇": "Archdespot",
     "魔皇軍": "Dark Dominion",
-    "ソルベルム": "Solbern"
+    "ソルベルム": "Solbern",
+    "勇者の導き": "Hero's Herald"
 }
