@@ -3609,10 +3609,11 @@ OVERRIDE = {
     "創世の樹": "Worldroot",
     "ケーキ神": "Great Cake",
     "チョコ神": "Grand Choco",
-    "魔大陸": "Darklands",
+    "魔大陸": "Tenebrosia",
     "カラマドの剣": "Sword of Calamad",
     "渡りの鐘": "Passing Bell",
     "アトマ石": "Atma Stone",
     "アトマ粒子": "Atma Spheres",
-    "魔皇": "Archdespot"
+    "魔皇": "Archdespot",
+    "魔皇軍": "Dark Dominion"
 }

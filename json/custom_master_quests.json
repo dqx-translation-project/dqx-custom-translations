@@ -36,7 +36,7 @@
     "魔法の迷宮で　バズズ強を倒せ！": "Defeat Apex Pazuzu in the Magic Maze!"
   },
   "13": {
-    "万魔の塔の一の災壇で　１回クリアせよ！": "Clear Banma Tower's 1st Platform once!"
+    "万魔の塔の一の災壇で　１回クリアせよ！": "Clear Tower of Terror's 1st Platform!"
   },
   "14": {
     "迅速な守護者ラズバーン強討伐！": "Defeat Apex Guardian Razburn fast!"
@@ -66,7 +66,7 @@
     "ピラミッドの第九の霊廟を　クリアせよ！": "Clear the Pyramid's 9th Tomb!"
   },
   "23": {
-    "万魔の塔の二の災壇で　１回クリアせよ！": "Clear Banma Tower's 2nd Platform once!"
+    "万魔の塔の二の災壇で　１回クリアせよ！": "Clear Tower of Terror's 2nd Platform!"
   },
   "24": {
     "魔法の迷宮で　ベリアル強を倒せ！": "Defeat Apex Belial in the Magic Maze!"
@@ -108,7 +108,7 @@
     "魔法の迷宮で　ベリアルを倒せ！": "Defeat Belial in the Magic Maze!"
   },
   "37": {
-    "まもの使いをパーティに　ひとり入れること。": "Must have a Monster Master in the party."
+    "まもの使いをパーティに　ひとり入れること。": "Must have a Monster Wrangler in the party."
   },
   "38": {
     "強戦士の書で　やるきのジャーミィを倒せ！": "Defeat Jacked Jammy in Book of Bosses!"
@@ -138,7 +138,7 @@
     "７分を制限時間とする。": "Time limit of 7 minutes."
   },
   "47": {
-    "万魔の塔の四の災壇で　１回クリアせよ！": "Clear Banma Tower's 4th Platform once!"
+    "万魔の塔の四の災壇で　１回クリアせよ！": "Clear Tower of Terror's 4th Platform!"
   },
   "48": {
     "踊り子　４人のパーティで挑むこと。": "Party must consist of 4 Dancers."
@@ -159,7 +159,7 @@
     "パーティメンバー全員　どうぐの使用を禁ずる。": "No party members may use items."
   },
   "54": {
-    "万魔の塔の五の災壇で　１回クリアせよ！": "Clear Banma Tower's 5th Platform once!"
+    "万魔の塔の五の災壇で　１回クリアせよ！": "Clear Tower of Terror's 5th Platform!"
   },
   "55": {
     "魔法の迷宮で　暗黒の魔人を倒せ！": "Defeat Ruin in the Magic Maze!"
@@ -267,7 +267,7 @@
     "占い師をパーティに　ふたり入れること。": "Must have 2 Fortune Tellers in the party."
   },
   "90": {
-    "万魔の塔の三の災壇で　１回クリアせよ！": "Clear Banma Tower's 3rd Platform once!"
+    "万魔の塔の三の災壇で　１回クリアせよ！": "Clear Tower of Terror's 3rd Platform!"
   },
   "91": {
     "盗賊をパーティに　ふたり入れること。": "Must have 2 Thieves in the party."
@@ -324,7 +324,7 @@
     "どうぐ使いをパーティに　ふたり入れること。": "Must have 2 Item Masters in the party."
   },
   "109": {
-    "まもの使いをパーティに　ふたり入れること。": "Must have 2 Monster Masters in the party."
+    "まもの使いをパーティに　ふたり入れること。": "Must have 2 Monster Wranglers in the party."
   },
   "110": {
     "僧侶をパーティに　ふたり入れること。": "Must have 2 Priests in the party."
@@ -339,7 +339,7 @@
     "魔法の迷宮で　キラーマジンガを倒せ！": "Defeat Uberkilling Machine in the Magic Maze!"
   },
   "114": {
-    "バトルマスター　４人のパーティで挑むこと。": "Party must consist of 4 Battlemasters."
+    "バトルマスター　４人のパーティで挑むこと。": "Party must consist of 4 Gladiators."
   },
   "115": {
     "魔剣士　４人のパーティで挑むこと。": "Party must consist of 4 Demon Swordsmen."
@@ -354,7 +354,7 @@
     "魔法の迷宮で　幻界の四諸侯を倒せ！": "Defeat the Dread Fiends in the Magic Maze!"
   },
   "119": {
-    "バトルマスターをパーティに　ひとり入れること。": "Must have a Battlemaster in the party."
+    "バトルマスターをパーティに　ひとり入れること。": "Must have a Gladiator in the party."
   },
   "120": {
     "強戦士の書で　キャットリベリオ強を倒せ！": "Defeat Apex Purrgatroyd in Book of Bosses!"
@@ -420,7 +420,7 @@
     "魔法の迷宮で　悪霊の神々を倒せ！": "Defeat the Evil Trinity in the Magic Maze!"
   },
   "141": {
-    "バトルマスターをパーティに　ふたり入れること。": "Must have 2 Battlemasters in the party."
+    "バトルマスターをパーティに　ふたり入れること。": "Must have 2 Gladiators in the party."
   },
   "142": {
     "天地雷鳴士をパーティに　ふたり入れること。": "Must have 2 Druids in the party."
@@ -474,13 +474,13 @@
     "スーパースター　４人のパーティで挑むこと。": "Party must consist of 4 Superstars."
   },
   "159": {
-    "まもの使い　４人のパーティで挑むこと。": "Party must consist of 4 Monster Masters."
+    "まもの使い　４人のパーティで挑むこと。": "Party must consist of 4 Monster Wranglers."
   },
   "160": {
     "どうぐ使い　４人のパーティで挑むこと。": "Party must consist of 4 Item Masters."
   },
   "161": {
-    "万魔の塔の四の災壇をクリアせよ！": "Clear Banma's 4th Platform!"
+    "万魔の塔の四の災壇をクリアせよ！": "Clear Tower of Terror's 4th Platform!"
   },
   "162": {
     "アストルティア防衛軍に参戦せよ！": "Enlist in Astoltia Defense Force!"
@@ -495,7 +495,7 @@
     "海冥主メイヴ討伐！": "Defeat Meiv!"
   },
   "166": {
-    "バトルマスターコンビ\n　ＶＳベリアル！": "Double Battlemasters\n　vs. Belial!"
+    "バトルマスターコンビ\n　ＶＳベリアル！": "Double Gladiators\n　vs. Belial!"
   },
   "167": {
     "怒濤の踊り子軍団\n　ＶＳやるきのジャーミィ！": "Dancer Party\n　vs. Jacked Jammy!"
