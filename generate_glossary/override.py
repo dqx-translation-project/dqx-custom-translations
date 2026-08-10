@@ -520,7 +520,7 @@ OVERRIDE = {
     "丘の町地区": "Hill Town Area",
     "てつのこて": "Iron Gauntlets",
     "げんませき": "Ethereal Stone",
-    "まもの使い": "鉄鬼軍王",
+    "まもの使い": "monster wrangler",
     "流星の帝王": "Emperor Meteor",
     "手下の海賊": "Pirate Crewman",
     "闇の親衛隊": "Dark Bodyguard",
