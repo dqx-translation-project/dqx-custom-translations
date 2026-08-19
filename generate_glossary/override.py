@@ -3598,5 +3598,16 @@ OVERRIDE = {
     "魔皇軍": "Dark Dominion",
     "ソルベルム": "Solbern",
     "勇者の導き": "Hero's Herald",
-    "メネシス": "Nemethys"
+    "メネシス": "Nemethys",
+    "いっぱつのよろい": "One Shot Armor",
+    "いっぱつのぼうし": "One Shot Hat",
+    "いっぱつのてぶくろ": "One Shot Gloves",
+    "いっぱつのつるぎ": "One Shot Sword",
+    "いっぱつのくつ": "One Shot Shoes",
+    "すばやさのたね": "Seed of Agility",
+    "まもりのたね": "Seed of Resilience",
+    "きようさのたね": "Seed of Deftness",
+    "しんこうのたね": "Seed of Therapeusis",
+    "まりょくのたね": "Seed of Sorcery",
+    "おもさのたね": "Seed of Weight"
 }
