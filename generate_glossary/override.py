@@ -3609,5 +3609,10 @@ OVERRIDE = {
     "きようさのたね": "Seed of Deftness",
     "しんこうのたね": "Seed of Therapeusis",
     "まりょくのたね": "Seed of Sorcery",
-    "おもさのたね": "Seed of Weight"
+    "おもさのたね": "Seed of Weight",
+    "うろこのかぶと": "Scale Helm",
+    "せいどうのかぶと": "Bronze Helm",
+    "くさりのはちがね": "Chain Headgear",
+    "てつのはちがね": "Iron Headband",
+    "ぎんのはちがね": "Silver Headband" 
 }
