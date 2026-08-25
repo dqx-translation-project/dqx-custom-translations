@@ -3645,5 +3645,7 @@ OVERRIDE = {
     "うろこのこて": "Scale Gloves",
     "おうごんのかけら": "Gold Nuglet",
     "ようせいのひだね": "Lamplight",
-    "ばしょうせん": "Frond Fan"
+    "ばしょうせん": "Frond Fan",
+    "説明を聞く": "Explanation",
+    "セッカ": "Sekka"
 }
