@@ -486,13 +486,13 @@
     "アストルティア防衛軍に参戦せよ！": "Enlist in Astoltia Defense Force!"
   },
   "163": {
-    "アトラス討伐！": "Defeat Atlas!"
+    "アトラス討伐！": "Beat Atlas!"
   },
   "164": {
     "圧勝のヘルバトラー強討伐！": "Flawless Apex Barbatos!"
   },
   "165": {
-    "海冥主メイヴ討伐！": "Defeat Meiv!"
+    "海冥主メイヴ討伐！": "Beat Meiv!"
   },
   "166": {
     "バトルマスターコンビ\n　ＶＳベリアル！": "Double Gladiators\n　vs. Belial!"
@@ -504,13 +504,13 @@
     "邪神の宮殿の一獄制覇！": "Conquer Sealed Sword I!"
   },
   "169": {
-    "キングヒドラ討伐！": "Defeat King Hydra!"
+    "キングヒドラ討伐！": "Beat King Hydra!"
   },
   "170": {
-    "ダークキング討伐！": "Defeat Dark King Slime!"
+    "ダークキング討伐！": "Beat Dark King Slime!"
   },
   "171": {
-    "バラモス討伐！": "Defeat Baramos!"
+    "バラモス討伐！": "Beat Baramos!"
   },
   "172": {
     "邪神の宮殿の三獄制覇！": "Conquer Sealed Sword III!"
@@ -523,5 +523,23 @@
   },
   "175": {
     "魔剣士コンビ\n　ＶＳ暗黒の魔人！": "Double Demon Swordsmen\n　vs. Ruin!"
+  },
+  "176": {
+    "ピラミッドの第三の霊廟を　クリアせよ！": "Clear the Pyramid's 3rd Tomb!"
+  },
+  "177": {
+    "ピラミッドの第一の霊廟を　クリアせよ！": "Clear the Pyramid's 1st Tomb!"
+  },
+  "178": {
+    "迅速な第三の霊廟制覇！": "3rd Tomb: In 'n' Out!"
+  },
+  "179": {
+    "ドラゴンガイア強討伐！": "Beat Apex Gaia Dragon!"
+  },
+  "180": {
+    "怒濤の占い師軍団\n　ＶＳやるきのジャーミィ！": "Fortune Teller Party\n　vs. Jacked Jammy!"
+  },
+  "181": {
+    "武闘家と行く！\n　バズズ強討伐！": "Use a Martial Artist!\nBeat Apex Pazuzu!"
   }
 }
