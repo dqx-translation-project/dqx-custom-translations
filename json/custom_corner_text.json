@@ -885,13 +885,13 @@
     "楽器とか　鳴らすのも\nウェルカムサマ～": "Play an instrument\nif ya got any!"
   },
   "296": {
-    "みんなで\nしぐさをすれば": "If everyone uses\nan nemote..."
+    "みんなで\nしぐさをすれば": "If everyone uses\nan emote..."
   },
   "297": {
     "テンションが\n上がっていくサマ～": "...my tension'll go\nway up, baby!"
   },
   "298": {
-    "熱い５分間　みんな\nよろしくサマ～！": "Y'all got 5 minutes to\ngo crazy, baby!"
+    "熱い５分間　みんな\nよろしくサマ～！": "Y'all got 5 minutes\nto go crazy, baby!"
   },
   "299": {
     "それじゃ　そろそろ\nユニゾンターイム！": "Alright! It's just\nabout time!"
@@ -922,5 +922,26 @@
   },
   "308": {
     "今回のお題は……\nリュートを奏でる！": "This time I want...\nPlay Lute!"
+  },
+  "309": {
+    "今回のお題は……\nふしぎなおどり！": "This time I want...\nWeird Dance!"
+  },
+  "310": {
+    "ユニゾン　スタート！\nヒアウィーゴー！！": "Unison start!\nHere we go!"
+  },
+  "311": {
+    "ユニゾン　タイム\nフィニーッシュ！": "That's all for\nunison time!"
+  },
+  "312": {
+    "テンション\n上がったきたサマ～！": "I'm all fired\nup, baby!"
+  },
+  "313": {
+    "今回のお題は……\nたいようのおどり！": "This time I want...\nSun Dance!"
+  },
+  "314": {
+    "天に仇なすものに\n裁きの剣を！": "Judgment to defilers\nof the heavens!"
+  },
+  "315": {
+    "<pc>！\nいっけえぇぇぇぇ！！": "<pc>!\nDo it now!!!"
   }
 }
