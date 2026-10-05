@@ -747,7 +747,7 @@
     "こんな時では　あるが\nいい思い出ができたぞ": "Despite everything,\nit's been fun."
   },
   "250": {
-    "創生巨神より でけぇ…\nすげえ隠し玉じゃねえか": "It's even bigger than\nthe Colossus? Amazing!"
+    "創生巨神より　でけぇ…\nすげえ隠し玉じゃねえか": "It's even bigger than\nthe Colossus? Amazing!"
   },
   "251": {
     "感心してる場合じゃない\n野放しにはできんぞ": "This is no time to\nbe impressed!"
@@ -768,7 +768,7 @@
     "残すはあの部屋だ\n行くぞ！": "That's the last room.\nLet's go!"
   },
   "257": {
-    "ソルベルム王国は\nここから　北東のほうね": "Solbelm is located\nnortheast from here."
+    "ソルベルム王国は\nここから　北東のほうね": "Solbern is located\nnortheast from here."
   },
   "258": {
     "兄さんのことが心配なの\n急ぎましょう！": "I'm worried for my\nbrother. Let's hurry!"
@@ -1210,5 +1210,17 @@
   },
   "404": {
     "今回のお題は……\nエンジョイダンス！": "This time I want...\nEnjoy Dance!"
+  },
+  "405": {
+    "兄者のぶんまで\nポコポコにしてやる！": "For my brother! I'm\ngonna crush you!"
+  },
+  "406": {
+    "兄ちゃん……\nチカラを貸して！": "Lend us your power,\nbrother...!"
+  },
+  "407": {
+    "お前なんかにボクらの\n心は　砕けない！": "You won't break\nour spirit!"
+  },
+  "408": {
+    "コケにしてくれた礼\nたっぷり返してやるよ": "You'll pay for\nmocking me!"
   }
 }
