@@ -90,31 +90,31 @@
     "しぐさ「ドワーフのあいさつ」": "Emote \"Dwarf Greeting\""
   },
   "31": {
-    "ご当地便せんが購入可能になる": "Can Buy This Place's Paper"
+    "ご当地便せんが購入可能になる": "Unlocks Regional Stationery"
   },
   "32": {
-    "風の町アズランのご当地便せん": "Wind Town Azlan's Paper"
+    "風の町アズランのご当地便せん": "Azlan Stationery"
   },
   "33": {
-    "グレン城のご当地便せん": "Glen Castle's Paper"
+    "グレン城のご当地便せん": "Glen Stationery"
   },
   "34": {
-    "ジュレットの町のご当地便せん": "Julet Town's Paper"
+    "ジュレットの町のご当地便せん": "Julet Stationery"
   },
   "35": {
-    "岳都ガタラのご当地便せん": "Gatara Capital's Paper"
+    "岳都ガタラのご当地便せん": "Gatara Stationery"
   },
   "36": {
-    "オルフェアの町のご当地便せん": "Town of Orphea's Paper"
+    "オルフェアの町のご当地便せん": "Orphea Stationery"
   },
   "37": {
-    "港町レンドアのご当地便せん": "Port Town Lendor's Paper"
+    "港町レンドアのご当地便せん": "Lendor Stationery"
   },
   "38": {
-    "メギストリスの都のご当地便せん": "City of Megistris' Paper"
+    "メギストリスの都のご当地便せん": "Megistris Stationery"
   },
   "39": {
-    "娯楽島ラッカランのご当地便せん": "Luckland Island's Paper"
+    "娯楽島ラッカランのご当地便せん": "Luckland Stationery"
   },
   "40": {
     "桜花の便せんが購入可能になる": "Can Buy Sakura Paper"
@@ -186,10 +186,10 @@
     "しぐさ「エルフのあいさつ」": "Emote \"Elf Greeting\""
   },
   "63": {
-    "王都カミハルムイのご当地便せん": "Royal City Kamiharmui's Paper"
+    "王都カミハルムイのご当地便せん": "Kamiharmui Stationery"
   },
   "64": {
-    "ドルワーム王国のご当地便せん": "Dolworm Kingdom's Paper"
+    "ドルワーム王国のご当地便せん": "Dolworm Stationery"
   },
   "65": {
     "レベルの上限が６５になる": "Maximum Level Becomes 65"
@@ -336,25 +336,25 @@
     "しぐさ「ウェディのあいさつ」": "Emote \"Weddie Greeting\""
   },
   "113": {
-    "ガートラント城のご当地便せん": "Gartlant Castle's Paper"
+    "ガートラント城のご当地便せん": "Gartlant Stationery"
   },
   "114": {
-    "ヴェリナード城のご当地便せん": "Verinard Castle's Paper"
+    "ヴェリナード城のご当地便せん": "Verinard Stationery"
   },
   "115": {
-    "ナルビアの町のご当地便せん": "Nalbia Town's Paper"
+    "ナルビアの町のご当地便せん": "Nalbia Stationery"
   },
   "116": {
-    "メルサンディ村のご当地便せん": "Melsandy Village's paper"
+    "メルサンディ村のご当地便せん": "Melsandy Stationery"
   },
   "117": {
-    "セレドの町のご当地便せん　": "Town of Celed's Paper"
+    "セレドの町のご当地便せん　": "Celed Stationery"
   },
   "118": {
-    "アラハギーロ王国のご当地便せん": "Kingdom of Arahagiro's paper"
+    "アラハギーロ王国のご当地便せん": "Al-Ahagiro Stationery"
   },
   "119": {
-    "グランゼドーラ城のご当地便せん": "Gran Zedora Castle's paper"
+    "グランゼドーラ城のご当地便せん": "Gran Zedora Stationery"
   },
   "120": {
     "スキルポイント（戦士）　２０Ｐ": "Skill Points (WAR) 20P"
@@ -1132,5 +1132,101 @@
   },
   "378": {
     "ぽんぽこの装束セット": "Tanuki Outfit"
+  },
+  "379": {
+    "聖都エジャルナのご当地便せん": "Ejarna Stationery"
+  },
+  "380": {
+    "古グランゼドーラのご当地便せん": "Old Gran Zedora Stationery"
+  },
+  "381": {
+    "王都キィンベルのご当地便せん": "Kimbel Stationery"
+  },
+  "382": {
+    "オルセコ闘技城のご当地便せん": "Orseco Stationery"
+  },
+  "383": {
+    "ウルベア地下帝国のご当地便せん": "Urbea Empire Stationery"
+  },
+  "384": {
+    "アルウェ―ンの町のご当地便せん": "Alweyn Stationery"
+  },
+  "385": {
+    "エテーネの村のご当地便せん": "Ethene Village Stationery"
+  },
+  "386": {
+    "現・王都キィンベルのご当地便せん": "Present Kimbel Stationery"
+  },
+  "387": {
+    "ファラザードのご当地便せん": "Farazard Stationery"
+  },
+  "388": {
+    "真・魔幻宮殿のご当地便せん": "Palace of Illusion Stationery"
+  },
+  "389": {
+    "ゼクレス魔導国のご当地便せん": "Zechres Stationery"
+  },
+  "390": {
+    "バルディスタのご当地便せん": "Valdista Stationery"
+  },
+  "391": {
+    "大魔王城のご当地便せん": "Demon Lord's Castle Stationery"
+  },
+  "392": {
+    "フォーリオンのご当地便せん": "Fourion Stationery"
+  },
+  "393": {
+    "はじまりの地のご当地便せん": "LoB Stationery"
+  },
+  "394": {
+    "マキュリ集落のご当地便せん": "Makyuri Stationery"
+  },
+  "395": {
+    "しぐさ「成功」": "Emote \"Success\""
+  },
+  "396": {
+    "しぐさ「職人道具をかかげる」": "Emote \"Raise Tool\""
+  },
+  "397": {
+    "立ちかた「マスター級職人」": "Pose \"Master Crafter\""
+  },
+  "398": {
+    "しぐさ「がっくり」": "Emote \"Dejected\""
+  },
+  "399": {
+    "王者の盾が 装備可能に": "Can Wear Sovereign's Shield"
+  },
+  "400": {
+    "王者のかぶとが 装備可能に": "Can Wear Sovereign's Helmet"
+  },
+  "401": {
+    "王者のこてが 装備可能に": "Can Wear Sovereign's Gauntlets"
+  },
+  "402": {
+    "王者のマントが 装備可能に": "Can Wear Sovereign's Cloak"
+  },
+  "403": {
+    "王者の脚甲が 装備可能に": "Can Wear Sovereign's Greaves"
+  },
+  "404": {
+    "マイユＴシャツ　マイユのうちわ": "Maille T-shirt, Maille Fan"
+  },
+  "405": {
+    "　ライトスティック　　　　各": "Light Stick"
+  },
+  "406": {
+    "村人が増える": "Gain a Villager"
+  },
+  "407": {
+    "新たな調査クエストを": "New Investigation Quest"
+  },
+  "408": {
+    "筆頭研究員の服が購入可能になる": "Can Buy Top Researcher's Suit"
+  },
+  "409": {
+    "ハツラツ豆を錬金釜で錬成可能に": "Can Alchemize Pep Beans"
+  },
+  "410": {
+    "バシルーラ屋を使えるようになる": "Unlock Bazoom Service"
   }
 }
