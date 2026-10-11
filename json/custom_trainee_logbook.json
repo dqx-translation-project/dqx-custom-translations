@@ -129,7 +129,7 @@
     "天星郷で虫系討伐！": "Squish some Slimes!"
   },
   "44": {
-    "天星郷で悪魔系討伐！": "Defeat some Demons!"
+    "天星郷であくま系討伐！": "Defeat some Demons!"
   },
   "45": {
     "天星郷で鳥系討伐！": "Bust some Birds!"
@@ -154,5 +154,11 @@
   },
   "52": {
     "天星郷で物質物系討伐！": "Mash some Materials!"
-  } 
+  },
+  "53": {
+    "滅亡の砂漠征伐！": "Desert of Doom Cleanup!"
+  },
+  "54": {
+    "試みの荒野征伐！": "Wilderness of Trials Cleanup!"
+  }
 }

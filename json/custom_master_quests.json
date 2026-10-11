@@ -1,6 +1,6 @@
 {
   "1": {
-    "強戦士の書で　守護者ラズバーン強を倒せ！": "Defeat Apex Guardian Razburn in Book of Bosses!"
+    "強戦士の書で　守護者ラズバーン強を倒せ！": "Defeat Apex Razerburn in Book of Bosses!"
   },
   "2": {
     "魔法使いをパーティに　ふたり入れること。": "Must have 2 Mages in the party."
@@ -39,7 +39,7 @@
     "万魔の塔の一の災壇で　１回クリアせよ！": "Clear Tower of Terror's 1st Platform!"
   },
   "14": {
-    "迅速な守護者ラズバーン強討伐！": "Defeat Apex Guardian Razburn fast!"
+    "迅速な守護者ラズバーン強討伐！": "Quick Apex Razerburn!"
   },
   "15": {
     "２分を制限時間とする。": "Time limit of 2 minutes."
@@ -99,7 +99,7 @@
     "魔法の迷宮で　グラコスを倒せ！": "Defeat Gracos in the Magic Maze!"
   },
   "34": {
-    "迅速な第六の霊廟制覇！": "Clear the 6th Tomb fast!"
+    "迅速な第六の霊廟制覇！": "6th Tomb: In 'n' Out!"
   },
   "35": {
     "５分２０秒を制限時間とする。": "Time limit of 5 minutes and 20 seconds."
@@ -553,5 +553,8 @@
   },
   "185": {
     "常闇の竜レグナード討伐！": "Beat Regnad!"
+  },
+  "186": {
+    "迅速なヘルバトラー強討伐！": "Quick Apex Barbatos!"
   }
 }
