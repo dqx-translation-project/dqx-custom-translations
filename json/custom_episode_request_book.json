@@ -120,7 +120,7 @@
     "魔界で虫系討伐！": "Squash some Insects!"
   },
   "41": {
-    "魔界で悪魔系討伐！": "Defeat some Demons!"
+    "魔界であくま系討伐！": "Defeat some Demons!"
   },
   "42": {
     "魔界で鳥系討伐！": "Bust some Birds!"
@@ -145,5 +145,17 @@
   },
   "49": {
     "魔界で物質物系討伐！": "Mash some Materials!"
+  },
+  "50": {
+    "ゲルヘナ幻野征伐！": "Gerhena Field Cleanup!"
+  },
+  "51": {
+    "ピラミッドの探索！": "Pyramid Investigation!"
+  },
+  "52": {
+    "デスディオ暗黒荒原征伐！": "Deathdio Darklands Cleanup!"
+  },
+  "53": {
+    "卓上遊戲振興活動！": "Tabletop Tussle!"
   }
 }
