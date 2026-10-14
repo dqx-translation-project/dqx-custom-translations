@@ -1281,13 +1281,13 @@
     "立ち込める瘴気が 体力をうばっていく……！": "The lingering miasma drains your vitality!"
   },
   "427": {
-    "地図に 謎の部屋の印が あらわれた！": "A Mystery Room appears on the map!"
+    "地図に 謎の部屋の印が あらわれた！": "A mystery room appears on the map!"
   },
   "428": {
     "地図に ふしぎな水鏡の印が あらわれた！": "A Reflective Mirror appears on the map!"
   },
   "429": {
-    "地図に 戦いを示す印が あらわれた！": "An Enemy Room appears on the map!"
+    "地図に 戦いを示す印が あらわれた！": "A room of enemies appears on the map!"
   },
   "430": {
     "モンスターが ゲノミーに 変化した！": "The monsters inside transform into Crankiids!"
@@ -1318,5 +1318,8 @@
   },
   "439": {
     "青白い炎のチカラにより このフロアでは\n『足』の防具のみが 冥海の光玉に封印されている！": "By the blue flame's power, this floor will\ncontain only Feet armor!"
+  },
+  "440": {
+    "地図に 強敵の印が あらわれた！": "A powerful enemy appears on the map!"
   }
 }
