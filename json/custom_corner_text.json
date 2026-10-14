@@ -1255,5 +1255,47 @@
   },
   "419": {
     "はあっ！　真空烈斬！": "Take this!\nVehement Vortex!"
+  },
+  "420": {
+    "地図に 海神のうろこの印が あらわれた！": "A Blue Scale appears on the map!"
+  },
+  "421": {
+    "地図に 紅海神のうろこの印が あらわれた！": "A Red Scale appears on the map!"
+  },
+  "422": {
+    "地図に 宝箱の印が あらわれた！": "A treasure chest appears on the map!"
+  },
+  "423": {
+    "あたりから 瘴気が立ち込めてきた……！": "Miasma fills the area!"
+  },
+  "424": {
+    "地図に ふしぎな三面鏡の印が あらわれた！": "A Mysterious Mirror appears on the map!"
+  },
+  "425": {
+    "地図に くだりの扉の印が あらわれた！": "The Floor Exit appears on the map!"
+  },
+  "425": {
+    "地図に ふしぎな燭台の印が あらわれた！": "A　Mysterious Candlestick appears on the map!"
+  },
+  "426": {
+    "立ち込める瘴気が 体力をうばっていく……！": "The lingering miasma drains your vitality!"
+  },
+  "427": {
+    "地図に 謎の部屋の印が あらわれた！": "A Mystery Room appears on the map!"
+  },
+  "428": {
+    "地図に ふしぎな水鏡の印が あらわれた！": "A Reflective Mirror appears on the map!"
+  },
+  "429": {
+    "地図に 戦いを示す印が あらわれた！": "An Enemy Room appears on the map!"
+  },
+  "430": {
+    "モンスターが ゲノミーに 変化した！": "The monsters inside transform into Crankiids!"
+  },
+  "431": {
+    "あたりから 瘴気が消えた！": "The miasma dissipates!"
+  },
+  "432": {
+    "解放の扉が あらわれた！": "The Door of Return appears!"
   }
 }
