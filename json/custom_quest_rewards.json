@@ -69,7 +69,7 @@
     "スーパースターに転職可能になる": "Unlock Superstar Vocation"
   },
   "24": {
-    "バトルマスターに転職可能になる": "Unlock Battlemaster Vocation"
+    "バトルマスターに転職可能になる": "Unlock Gladiator Vocation"
   },
   "25": {
     "まもの使いに転職可能になる": "Unlock Monster Master Vocation"
@@ -438,16 +438,16 @@
     "スパスタの必殺技を覚える": "Learn Superstar's Special"
   },
   "147": {
-    "バトマスグローブ　グリーブ　他": "Battlemaster Gloves, Greaves"
+    "バトマスグローブ　グリーブ　他": "Gladiator Gloves, Greaves"
   },
   "148": {
-    "スキルポイント（バト）　２０Ｐ": "Skill Points (BTL) 20P"
+    "スキルポイント（バト）　２０Ｐ": "Skill Points (GLA) 20P"
   },
   "149": {
-    "バトマスアーマー上下": "Battlemaster Chest, Leggings"
+    "バトマスアーマー上下": "Gladiator Chest, Leggings"
   },
   "150": {
-    "バトマスの必殺技を覚える": "Learn Battlemaster's Special"
+    "バトマスの必殺技を覚える": "Learn Gladiator's Special"
   },
   "151": {
     "スキルポイント（賢者）　２０Ｐ": "Skill Points (SGE) 20P"
@@ -1122,13 +1122,13 @@
     "いざないの間が使えるようになる": "Unlock Hall of Invitation"
   },
   "375": {
-    "ストームカイザーのゾーン技を覚える": "Learn Storm Kaiser Pep Power"
+    "ストームカイザーのゾーン技": "Learn Storm Kaiser Pep Power"
   },
   "376": {
-    "スキルポイント（ストームカイザー）　４０Ｐ": "Skill Points (STK) 40P"
+    "スキルポイント（スト）　４０Ｐ": "Skill Points (STK) 40P"
   },
   "377": {
-    "スキルポイント（ストームカイザー）　３０Ｐ": "Skill Points (STK) 30P"
+    "スキルポイント（スト）　３０Ｐ": "Skill Points (STK) 30P"
   },
   "378": {
     "ぽんぽこの装束セット": "Tanuki Outfit"
@@ -1228,5 +1228,20 @@
   },
   "410": {
     "バシルーラ屋を使えるようになる": "Unlock Bazoom Service"
+  },
+  "411": {
+    "レベルの上限が１４３になる": "Maximum Level Becomes 143"
+  },
+  "412": {
+    "　１１０種類入れられるように　他": "  110 Unique Items, etc."
+  },
+  "413": {
+    "ストームカイザーに": "Storm Kaiser"
+  },
+  "414": {
+    "　転職可能にな": "  Vocation Unlocks"
+  },
+  "415": {
+    "嵐帝の羽衣セット": "Kaiser Robe Set"
   }
 }
