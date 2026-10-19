@@ -3480,40 +3480,40 @@
     "セレド強ボス討伐！": "Celed Strong Boss!"
   },
   "1161": {
-    "グレンの強ボス討伐！": "Glen Strong Boss!"
+    "グレン強ボス討伐！": "Glen Strong Boss!"
   },
   "1162": {
-    "ヴェリナードの強ボス討伐！": "Verinard Strong Boss!"
+    "ヴェリナード強ボス討伐！": "Verinard Strong Boss!"
   },
   "1163": {
-    "ガートラントの強ボス討伐！": "Gartlant Strong Boss!"
+    "ガートラント強ボス討伐！": "Gartlant Strong Boss!"
   },
   "1164": {
     "アラハギーロ強ボス討伐！": "Al-Ahagiro Strong Boss!"
   },
   "1165": {
-    "カミハルムイの強ボス討伐！": "Kamiharmui Strong Boss!"
+    "カミハルムイ強ボス討伐！": "Kamiharmui Strong Boss!"
   },
   "1166": {
-    "メギストリスの強ボス討伐！": "Megistris Strong Boss!"
+    "メギストリス強ボス討伐！": "Megistris Strong Boss!"
   },
   "1167": {
-    "ドルワームの強ボス討伐！": "Dolworm Strong Boss!"
+    "ドルワーム強ボス討伐！": "Dolworm Strong Boss!"
   },
   "1168": {
-    "アズランの強ボス討伐！": "Azlan Strong Boss!"
+    "アズラン強ボス討伐！": "Azlan Strong Boss!"
   },
   "1169": {
     "夜宴館強ボス討伐！": "Banquet Hall Strong Boss!"
   },
   "1170": {
-    "オルフェアの強ボス討伐！": "Orphea Strong Boss!"
+    "オルフェア強ボス討伐！": "Orphea Strong Boss!"
   },
   "1171": {
-    "ジュレットの強ボス討伐！": "Julet Strong Boss!"
+    "ジュレット強ボス討伐！": "Julet Strong Boss!"
   },
   "1172": {
-    "ガタラの強ボス討伐！": "Gatara Strong Boss!"
+    "ガタラ強ボス討伐！": "Gatara Strong Boss!"
   },
    "1173": {
     "大成功挑戦！": "Perfection Challenge!"
@@ -3535,5 +3535,14 @@
   },
   "1179": {
     "エンタシスマン討伐！": "Hunt Prancing Pillars!"
+  },
+  "1180": {
+    "メタルブラザーズ討伐！": "Hunt Metal Medleys!"
+  },
+  "1181": {
+    "フォレストドラゴ討伐！": "Hunt Lumbering Lizards!"
+  },
+  "1182": {
+    "フォレストドラゴを　20匹討伐する。": "Defeat 20 Lumbering Lizards."
   }
 }
