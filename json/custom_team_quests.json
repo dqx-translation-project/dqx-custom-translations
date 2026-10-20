@@ -90,7 +90,7 @@
     "タップペンギーを　20匹討伐する。": "Defeat 20 Pogoin' Penguins."
   },
   "31": {
-    "レンダーシア大陸の　メルサンディ穀倉帯にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Melsandy Granary Belt in\nLendersia."
+    "レンダーシア大陸の　メルサンディ穀倉帯にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Melsandy Millfields in\nLendersia."
   },
   "32": {
     "落ちているアイテムを　20個拾う。": "Pick up 20 items off the ground."
@@ -444,7 +444,7 @@
     "エルトナ大陸のモリナラ地下洞にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Molinara Underground in\nEltona."
   },
   "149": {
-    "レンダーシア大陸の　リャナ荒涼地帯にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Lyana Desolate Area in\nLendersia."
+    "レンダーシア大陸の　リャナ荒涼地帯にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Lyana Desolate in\nLendersia."
   },
   "150": {
     "ピラミッドの　第一霊廟で　1回　勝利する。": "Clear the Pyramid's 1st Tomb once."
@@ -498,7 +498,7 @@
     "じごくのよろいを　20匹討伐する。": "Defeat 20 Infernal Armours."
   },
   "167": {
-    "レンダーシア大陸の　レビュール街道北にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Reviewle Highway North in\nLendersia."
+    "レンダーシア大陸の　レビュール街道北にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Revule Highway North in\nLendersia."
   },
   "168": {
     "植物系のモンスターを　60匹討伐する。": "Defeat 60 Plant monsters."
@@ -570,10 +570,10 @@
     "ウェナ諸島のヴェリナード領北にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Verinard North in the\nWena Islands."
   },
   "191": {
-    "レンダーシア大陸の　ラゼアの風穴にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Lazea Wind Cave in\nLendersia."
+    "レンダーシア大陸の　ラゼアの風穴にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Lazea Windways in\nLendersia."
   },
   "192": {
-    "水の領界の　オーフィーヌの海にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Orfine Sea in the\nWater Realm."
+    "水の領界の　オーフィーヌの海にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Orfine Seabed in the\nWater Realm."
   },
   "193": {
     "バアラックを　20匹討伐する。": "Defeat 20 Pickeerers."
@@ -591,7 +591,7 @@
     "ベロベロを　20匹討伐する。": "Defeat 20 Frolickers."
   },
   "198": {
-    "嵐の領界の　ムストの町にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in the Town of Must in the\nStorm Realm."
+    "嵐の領界の　ムストの町にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Morst in the\nStorm Realm."
   },
   "199": {
     "霊廟内での　バトルに　1回　勝利する。": "Win 1 battle inside a Pyramid's Tomb."
@@ -1158,7 +1158,7 @@
     "キラーファングを　20匹討伐する。": "Defeat 20 Killer Fangs."
   },
   "387": {
-    "レンダーシア大陸の　レビュール街道南にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Reviewle Highway South in\nLendersia."
+    "レンダーシア大陸の　レビュール街道南にいる\nモンスターを　40匹討伐する。": "Defeat 40 monsters in Revule Highway South in\nLendersia."
   },
   "388": {
     "強モードボス　守護者強を　1回討伐する。": "Defeat Apex Razerburn."
@@ -3033,7 +3033,7 @@
     "オーフィーヌ海底征伐！": "Orfine Seabed Cleanup!"
   },
   "1012": {
-    "メルサンディ穀倉帯征伐！": "Melsandy Granary Belt Cleanup!"
+    "メルサンディ穀倉帯征伐！": "Melsandy Millfields Cleanup!"
   },
   "1013": {
     "ねじれたる異形の大地征伐！": "Twisted Terrane Cleanup!"
@@ -3090,7 +3090,7 @@
     "モリナラ地下洞征伐！": "Molinara Underground Cleanup!"
   },
   "1031": {
-    "リャナ荒涼地帯征伐！": "Lyana Desolate Area Cleanup!"
+    "リャナ荒涼地帯征伐！": "Lyana Desolate Cleanup!"
   },
   "1032": {
     "ジュレー島上層征伐！": "Upper Jule Island Cleanup!"
@@ -3102,7 +3102,7 @@
     "カミハルムイ領南征伐！": "Kamiharmui South Cleanup!"
   },
   "1035": {
-    "レビュール街道北征伐！": "Reviewle Highway North Cleanup!"
+    "レビュール街道北征伐！": "Revule Highway North Cleanup!"
   },
   "1036": {
     "ザマ峠征伐！": "Zama Pass Cleanup!"
@@ -3123,16 +3123,16 @@
     "ヴェリナード領北征伐！": "Verinard North Cleanup!"
   },
   "1042": {
-    "ラゼアの風穴征伐！": "Lazea Wind Cave Cleanup!"
+    "ラゼアの風穴征伐！": "Lazea Windways Cleanup!"
   },
   "1043": {
-    "オーフィーヌの海征伐！": "Orfine Sea Cleanup!"
+    "オーフィーヌの海征伐！": "Orfine Seabed Cleanup!"
   },
   "1044": {
     "イナミノ街道征伐！": "Inamino Highway Cleanup!"
   },
   "1045": {
-    "ムストの町征伐！": "Town of Must Cleanup!"
+    "ムストの町征伐！": "Morst Cleanup!"
   },
   "1046": {
     "ワルド水源征伐！": "Wald Headwaters Cleanup!"
@@ -3321,7 +3321,7 @@
     "ゼドラ洞征伐！": "Zedra Cave Cleanup!"
   },
   "1108": {
-    "レビュール街道南征伐！": "Reviewle Highway South Cleanup!"
+    "レビュール街道南征伐！": "Revule Highway South Cleanup!"
   },
   "1109": {
     "ランドン山脈山頂付近征伐！": "Landon Mountains Summit Cleanup!"
