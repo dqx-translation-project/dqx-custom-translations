@@ -1965,7 +1965,7 @@
     "虫系討伐！": "Defeat Insects!"
   },
   "656": {
-    "あくま魔系討伐！": "Defeat Demons!"
+    "あくま系討伐！": "Defeat Demons!"
   },
   "657": {
     "植物系討伐！": "Defeat Plants!"
@@ -3544,5 +3544,32 @@
   },
   "1182": {
     "フォレストドラゴを　20匹討伐する。": "Defeat 20 Lumbering Lizards."
+  },
+  "1183": {
+    "第八霊廟制覇！": "8th Tomb Plunder!"
+  },
+  "1184": {
+    "第一霊廟制覇！": "1st Tomb Plunder!"
+  },
+  "1185": {
+    "第二霊廟制覇！": "2nd Tomb Plunder!"
+  },
+  "1186": {
+    "第三霊廟制覇！": "3rd Tomb Plunder!"
+  },
+  "1187": {
+    "第四霊廟制覇！": "4th Tomb Plunder!"
+  },
+  "1188": {
+    "第五霊廟制覇！": "5th Tomb Plunder!"
+  },
+  "1189": {
+    "第六霊廟制覇！": "6th Tomb Plunder!"
+  },
+  "1190": {
+    "第七霊廟制覇！": "7th Tomb Plunder!"
+  },
+  "1191": {
+    "第九霊廟制覇！": "9th Tomb Plunder!"
   }
 }
