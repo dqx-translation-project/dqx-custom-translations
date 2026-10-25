@@ -1929,19 +1929,19 @@
     "ドルイドを　20匹討伐する。": "Defeat 20 Lump Wizards."
   },
   "644": {
-    "釣りチャレンジ！": "Catch fish!"
+    "釣りチャレンジ！": "Catch Fish!"
   },
   "645": {
     "魔法の迷宮制覇！": "Explore the Magic Maze!"
   },
   "646": {
-    "キラ拾い探索！": "Collect shiny spots!"
+    "キラ拾い探索！": "Collect Sparkly Spots!"
   },
   "647": {
     "リュウイーソーを　20匹討伐する。": "Defeat 20 Li'l Whizzers."
   },
   "648": {
-    "職人作業挑戦！": "Craft items!"
+    "職人作業挑戦！": "Craft Items!"
   },
   "649": {
     "怪人系討伐！": "Defeat Humanoids!"
@@ -3571,5 +3571,11 @@
   },
   "1191": {
     "第九霊廟制覇！": "9th Tomb Plunder!"
+  },
+  "1192": {
+    "わかめ王子討伐！": "Hunt King Kelps!"
+  },
+  "1193": {
+    "わかめ王子を　20匹討伐する。": "Defeat 20 King Kelps."
   }
 }
