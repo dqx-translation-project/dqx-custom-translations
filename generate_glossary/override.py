@@ -3647,5 +3647,6 @@ OVERRIDE = {
     "ようせいのひだね": "Lamplight",
     "ばしょうせん": "Frond Fan",
     "説明を聞く": "Explanation",
-    "セッカ": "Sekka"
+    "セッカ": "Sekka",
+    "ウミネコ": "The Sea's Gull"
 }
