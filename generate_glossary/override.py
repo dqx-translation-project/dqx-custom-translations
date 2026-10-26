@@ -3244,7 +3244,7 @@ OVERRIDE = {
     "バカン": "Bakan",
     "親密度": "bond",
     "勇士": "brave warrior",
-    "魔瘴": "demon miasma",
+    "魔瘴": "miasma",
     "天声": "divine voice",
     "無声": "silent voice",
     "虫系": "Insect",
@@ -3648,5 +3648,6 @@ OVERRIDE = {
     "ばしょうせん": "Frond Fan",
     "説明を聞く": "Explanation",
     "セッカ": "Sekka",
-    "ウミネコ": "The Sea's Gull"
+    "ウミネコ": "The Sea's Gull",
+    "海風衆": "The Sea's Breeze"
 }
