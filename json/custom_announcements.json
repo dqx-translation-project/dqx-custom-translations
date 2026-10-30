@@ -1,0 +1,26 @@
+{  
+  "1": {
+    "メギストリスの都　おしゃれストリート付近に来ている": "At Fashion Street in Megistris,"
+  },
+  "2": {
+    "DQXショップ店員「<jpnpcname>」が": "the DQX Shop clerk <engnpcname> will"
+  },
+  "3": {
+    "<month>月<day>日(<dow>)<hour>:<minute>に帰ります": "leave on <month>/<day> at <hour>:<minute> JST."
+  },
+  "4": {
+    "ショップポイントを受け取っていない方は　お早めに！": "Hurry and claim your Shop Points!"
+  },
+  "5": {
+    "<hour1>:<minute1>より<hour2>:<minute2>頃までメンテナンスをおこないます": "Maintenance will be held from <hour1>:<minute1> to <hour2>:<minute2> JST."
+  },
+  "6": {
+    "この時間はドラゴンクエストX　オンラインの世界を": "During this time, Dragon Quest X"
+  },
+  "7": {
+    "冒険できません": "will be unavailable."
+  },
+  "8": {
+    "開始までに冒険を中断してゲームを終了してください": "Please stop adventuring before it begins."
+  }
+}
