@@ -935,7 +935,7 @@ OVERRIDE = {
     "道具使い": "Item Master",
     "だいだい": "sour orange",
     "うぐいす": "green-brown",
-    "バシっ娘": "Bazoom Girl",
+    "バシっ娘": "Bazoom Gal",
     "ホハフホ": "Hohahuho",
     "ヘヘヒヒ": "Hehehihi",
     "ハフフハ": "Hahuhuha",
