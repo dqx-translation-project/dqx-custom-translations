@@ -239,5 +239,6 @@ IGNORE = {
     "トナ": "RND, too short",
     "妖獣": "BST, too short",
     "ヤリ": "Spears, don't want capitalized",
-    "駅": "Train Station, don't want capitalized"
+    "駅": "Train Station, don't want capitalized",
+    "家族のもとへ": "Go to Your Family, phrase used normally"
 }
