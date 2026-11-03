@@ -3649,5 +3649,6 @@ OVERRIDE = {
     "説明を聞く": "Explanation",
     "セッカ": "Sekka",
     "ウミネコ": "The Sea's Gull",
-    "海風衆": "The Sea's Breeze"
+    "海風衆": "The Sea's Breeze",
+    "導きのつばさ": "Whisking Wing" 
 }
