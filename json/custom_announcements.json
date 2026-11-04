@@ -22,5 +22,17 @@
   },
   "8": {
     "開始までに冒険を中断してゲームを終了してください": "Please stop adventuring before it begins."
+  },
+  "9": {
+    "あと5分でメンテナンスを開始します": "Maintenance will begin in 5 minutes."
+  },
+  "10": {
+    "開始するとドラゴンクエストX　オンラインの世界を": "When it begins, Dragon Quest X"
+  },
+  "11": {
+    "メンテナンスを開始します": "Maintenance will now start."
+  },
+  "12": {
+    "すぐに冒険を中断してゲームを終了してください": "Please suspend your adventure now."
   }
 }
