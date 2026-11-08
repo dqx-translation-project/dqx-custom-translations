@@ -3650,5 +3650,8 @@ OVERRIDE = {
     "セッカ": "Sekka",
     "ウミネコ": "The Sea's Gull",
     "海風衆": "The Sea's Breeze",
-    "導きのつばさ": "Whisking Wing" 
+    "導きのつばさ": "Whisking Wing",
+    "マガツカゼ": "Winds of Malice",
+    "アモレド": "Amored",
+    "ジーク": "Sieg"
 }
