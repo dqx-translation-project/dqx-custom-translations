@@ -3653,5 +3653,6 @@ OVERRIDE = {
     "導きのつばさ": "Whisking Wing",
     "マガツカゼ": "Winds of Malice",
     "アモレド": "Amored",
-    "ジーク": "Sieg"
+    "ジーク": "Sieg",
+    "リュウちゃん": "Drifty"
 }
