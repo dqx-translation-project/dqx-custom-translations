@@ -126,7 +126,7 @@
     "天星郷で虫系討伐！": "Squash some Insects!"
   },
   "43": {
-    "天星郷で虫系討伐！": "Squish some Slimes!"
+    "天星郷でスライム系討伐！": "Squish some Slimes!"
   },
   "44": {
     "天星郷であくま系討伐！": "Defeat some Demons!"
@@ -144,21 +144,27 @@
     "天星郷で植物系討伐！": "Chop some Plants!"
   },
   "49": {
-    "天星郷で獣物系討伐！": "Beat some Beasts!"
+    "天星郷で獣系討伐！": "Beat some Beasts!"
   },
   "50": {
-    "天星郷でゾンビ物系討伐！": "Dead some Undead!"
+    "天星郷でゾンビ系討伐！": "Dead some Undead!"
   },
   "51": {
-    "天星郷でエレメント物系討伐！": "Erase some Elementals!"
+    "天星郷でエレメント系討伐！": "Erase some Elementals!"
   },
   "52": {
-    "天星郷で物質物系討伐！": "Mash some Materials!"
+    "天星郷で物質系討伐！": "Mash some Materials!"
   },
   "53": {
     "滅亡の砂漠征伐！": "Desert of Doom Cleanup!"
   },
   "54": {
     "試みの荒野征伐！": "Wilderness of Trials Cleanup!"
+  },
+  "55": {
+    "天星郷で怪人系討伐！": "Humble some Humanoids!"
+  },
+  "56": {
+    "フォーリオン造成地征伐！": "Fourion Worksite Cleanup!"
   }
 }
