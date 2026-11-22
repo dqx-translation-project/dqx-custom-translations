@@ -480,7 +480,7 @@
     "どうぐ使い　４人のパーティで挑むこと。": "Party must consist of 4 Item Masters."
   },
   "161": {
-    "万魔の塔の四の災壇をクリアせよ！": "Clear Tower of Terror's 4th Platform!"
+    "万魔の塔の四の災壇をクリアせよ！": "Tower of Terror's 4th Platform!"
   },
   "162": {
     "アストルティア防衛軍に参戦せよ！": "Enlist in Astoltia Defense Force!"
@@ -567,16 +567,16 @@
     "ダークドレアム討伐！": "Beat Nokturnus!"
   },
   "190": {
-    "万魔の塔の三の災壇をクリアせよ！": "Clear Tower of Terror's 3rd Platform!"
+    "万魔の塔の三の災壇をクリアせよ！": "Tower of Terror's 3rd Platform!"
   },
   "191": {
-    "万魔の塔の二の災壇をクリアせよ！": "Clear Tower of Terror's 2nd Platform!"
+    "万魔の塔の二の災壇をクリアせよ！": "Tower of Terror's 2nd Platform!"
   },
   "192": {
-    "万魔の塔の一の災壇をクリアせよ！": "Clear Tower of Terror's 1st Platform!"
+    "万魔の塔の一の災壇をクリアせよ！": "Tower of Terror's 1st Platform!"
   },
   "193": {
-    "万魔の塔の五の災壇をクリアせよ！": "Clear Tower of Terror's 5th Platform!"
+    "万魔の塔の五の災壇をクリアせよ！": "Tower of Terror's 5th Platform!"
   },
   "194": {
     "アトラス強討伐！": "Beat Apex Atlas!"
@@ -586,5 +586,11 @@
   },
   "196": {
     "真・災厄の王討伐！": "Stop the True Calamity!"
+  },
+  "197": {
+    "パラディンと行く！\n　迅速な魔人エンラージャ強討伐！": "Use a Paladin!\nQuick Apex Enraja!"
+  },
+  "198": {
+    "圧勝の第四の霊廟制覇！": "Flawless 4th Tomb!"
   }
 }
